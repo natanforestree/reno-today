@@ -14,7 +14,7 @@ URL = ("https://app.ticketmaster.com/discovery/v2/events.json?apikey={key}"
        "&latlong=39.5296,-119.8138&radius=60&unit=miles&locale=*"
        "&startDateTime={start}&endDateTime={end}&size=200&page={page}&sort=date,asc")
 MAX_PAGES = 5            # the API refuses size * page beyond 1,000
-JUNK = re.compile(r"\b(parking|season tickets?|season passes?|hotel packages?|gift cards?|vip packages?|upgrades?|suite rentals?)\b", re.I)
+JUNK = re.compile(r"\b(parking|season tickets?|season pass(?:es)?|hotel packages?|gift cards?|vip packages?|upgrades?|suite rentals?)\b", re.I)
 SKIP_STATUS = {"cancelled", "canceled", "postponed"}
 FAMILY = {"family", "children's theatre"}
 
