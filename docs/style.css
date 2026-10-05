@@ -1,0 +1,103 @@
+/* Reno Today: cozy pixel style. Reno at dusk: sage, sunset orange, Sierra blue and
+   the Arch's neon on a warm dark background. art/lib.lua uses the same colours. */
+:root {
+  --bg: #1d1720; --panel: #2a2130; --panel-2: #33283a; --line: #4a3a4f; --shadow: #0f0b12;
+  --ink: #f6ecd9; --muted: #bba99b; --sage: #93b58c; --sunset: #ff9d57;
+  --sierra: #8db4ef; --neon: #ff3b55; --pink: #ff6fb5; --gold: #ffd36b;
+  --pixel: 'Pixelify Sans', ui-sans-serif, system-ui, sans-serif;
+  --body: 'VT323', ui-monospace, monospace;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 22px/1.25 var(--body); }
+a { color: var(--sierra); }
+a:focus-visible, button:focus-visible, summary:focus-visible { outline: 3px solid var(--gold); outline-offset: 2px; }
+[hidden] { display: none !important; }
+
+/* Header: the Arch against banded dusk */
+.sky {
+  padding: 18px 16px 14px; text-align: center; border-bottom: 4px solid var(--shadow);
+  background: linear-gradient(#21183a 0 22%, #352049 22% 42%, #5a2a55 42% 60%,
+                              #8c3b58 60% 74%, #c95a4e 74% 86%, #f0974f 86% 100%);
+}
+.arch {
+  width: min(100%, 352px); aspect-ratio: 176 / 96; margin: 0 auto;
+  background: url(art/arch.png) 0 0 / 800% 100% no-repeat;
+  image-rendering: pixelated;
+  animation: chase 960ms steps(8) infinite;
+}
+/* 8 frames: background-position 0% … 114.2857% (8/7) lands on frames 0–7 */
+@keyframes chase { to { background-position: 114.2857% 0; } }
+@media (min-width: 720px) { .arch { width: 528px; } }
+@media (prefers-reduced-motion: reduce) { .arch { animation: none; } .now { animation: none; } }
+h1 { font: 600 34px/1 var(--pixel); margin: 10px 0 2px; letter-spacing: 1px; text-shadow: 3px 3px 0 var(--shadow); }
+.tagline { margin: 0; color: #ffe3c4; }
+
+main { max-width: 760px; margin: 0 auto; padding: 0 16px 24px; }
+.notice p { background: #4a2330; border: 2px solid var(--neon); padding: 8px 10px; margin: 12px 0 0; }
+
+/* Day switcher and filter chips */
+.days { display: flex; gap: 6px; overflow-x: auto; padding: 14px 2px 10px; scrollbar-width: none; }
+.days::-webkit-scrollbar { display: none; }
+.days button, .chip {
+  font: 400 18px/1 var(--pixel); color: var(--ink); background: var(--panel); border: 2px solid var(--line);
+  border-radius: 0; padding: 8px 10px; white-space: nowrap; cursor: pointer; box-shadow: 2px 2px 0 var(--shadow);
+}
+.days button[aria-pressed="true"] { background: var(--sunset); color: var(--bg); border-color: #ffd2a8; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; margin: 12px 0; }
+.chip[aria-pressed="true"] { background: var(--sage); color: #14201a; border-color: #cfe5c9; }
+
+/* Weather strip */
+.weather {
+  display: flex; flex-wrap: wrap; gap: 2px 12px; align-items: baseline; background: var(--panel);
+  border: 2px solid var(--line); padding: 10px 12px; box-shadow: 3px 3px 0 var(--shadow);
+}
+.wx-emoji { font-size: 26px; }
+.wx-temp { font: 600 22px var(--pixel); }
+.wx-nice { color: var(--sage); }
+
+/* Sections and cards */
+.block { margin: 18px 0; }
+h2 { font: 600 22px/1.2 var(--pixel); margin: 0 0 8px; color: var(--gold); }
+.part { font: 400 16px var(--pixel); color: var(--muted); margin: 14px 0 6px; text-transform: uppercase; letter-spacing: 1px; }
+.card {
+  display: grid; grid-template-columns: 78px minmax(0, 1fr); gap: 10px; margin: 0 0 8px; padding: 10px;
+  background: var(--panel); border: 2px solid var(--line); box-shadow: 3px 3px 0 var(--shadow);
+}
+.card.is-little { border-color: var(--sage); }
+.card.is-now { border-color: var(--pink); }
+.when { font: 600 17px/1.2 var(--pixel); color: var(--sunset); overflow-wrap: anywhere; }
+.now { display: block; margin-top: 4px; color: var(--pink); font-size: 14px; animation: blink 1.2s steps(1) infinite; }
+@keyframes blink { 50% { opacity: 0.35; } }
+.what h3 { font: 400 25px/1.05 var(--body); margin: 0; overflow-wrap: anywhere; }
+.where, .note { margin: 2px 0 0; color: var(--muted); overflow-wrap: anywhere; }
+.badges { margin: 6px 0 0; display: flex; flex-wrap: wrap; gap: 4px; }
+.b {
+  font: 400 13px/1 var(--pixel); padding: 4px 6px; background: var(--panel-2);
+  border: 1px solid var(--line); color: var(--ink); text-decoration: none;
+}
+.b-free { background: #2f4a33; border-color: var(--sage); }
+.b-adult { background: #4a2330; border-color: var(--neon); }
+.b-lr { background: #4a2240; border-color: var(--pink); color: #ffd6ea; }
+.links { margin: 6px 0 0; font-size: 20px; }
+.empty, .muted { color: var(--muted); }
+.small { font-size: 18px; }
+
+/* Collapsible sections */
+details > summary { cursor: pointer; list-style: none; }
+details > summary::-webkit-details-marker { display: none; }
+details > summary h2 { display: inline; }
+details > summary h2::before { content: '▸ '; }
+details[open] > summary h2::before { content: '▾ '; }
+details[open] > summary { margin-bottom: 8px; }
+
+.guide-card {
+  display: block; background: var(--panel); border: 2px solid var(--pink); padding: 12px;
+  text-decoration: none; color: var(--ink); box-shadow: 3px 3px 0 var(--shadow);
+}
+.guide-title { display: block; font: 600 20px/1.2 var(--pixel); margin-bottom: 4px; }
+
+footer { max-width: 760px; margin: 0 auto; padding: 8px 16px 32px; border-top: 2px dashed var(--line); color: var(--muted); }
+footer p { margin: 6px 0; }
+.warn { color: #ffd2a8; }

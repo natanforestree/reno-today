@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Reno Today</title>
+<meta name="description" content="Everything happening in Reno today, with things you can bring a toddler to first.">
+<meta name="theme-color" content="#1d1720">
+<link rel="icon" href="art/favicon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400;600&family=VT323&display=swap">
+<link rel="stylesheet" href="style.css">
+<script type="module" src="app.js"></script>
+</head>
+<body>
+<header class="sky">
+  <div class="arch" role="img" aria-label="The Reno Arch: The Biggest Little City in the World"></div>
+  <h1>Reno Today</h1>
+  <p class="tagline" id="tagline">What's on in the Biggest Little City</p>
+</header>
+<main>
+  <div id="notice" class="notice" aria-live="polite"></div>
+  <nav class="days" id="days" aria-label="Pick a day"></nav>
+  <section class="weather" id="weather" aria-label="Weather"></section>
+  <div class="chips" id="chips" role="group" aria-label="Filters"></div>
+  <section id="little" class="block"></section>
+  <section id="rest" class="block"></section>
+  <details id="ongoing" class="block" hidden></details>
+  <section id="drive" class="block" hidden></section>
+  <details id="always" class="block" hidden></details>
+  <section id="guide" class="block" hidden></section>
+</main>
+<footer id="footer"></footer>
+</body>
+</html>

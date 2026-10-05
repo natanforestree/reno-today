@@ -33,3 +33,12 @@ Design: `docs/superpowers/specs/2026-10-05-reno-today-design.md`.
 - `overrides.json` corrects events by id (`"id:tm:…"`) or title regex:
   `{"match": "trivia night", "addHint": "21+"}`, `{"match": "…", "tier": "little"}`,
   `{"match": "…", "hide": true}`.
+
+## Previewing the page
+
+    python3 dev/make_fixture.py --today 2026-10-10
+    python3 -m http.server 8000
+    open "http://localhost:8000/docs/?data=../dev/fixture/full/&now=2026-10-10T10:45:00-07:00"
+
+Variants: `full`, `empty`, `partial`, `failing`. Without `?data=` the page reads
+`docs/data/` (the live data once the collector has run).
