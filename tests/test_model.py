@@ -40,6 +40,40 @@ class AreaTest(unittest.TestCase):
         self.assertIsNone(model.city_from_address("Idlewild Park"))
         self.assertEqual(model.city_from_address("Idlewild Park", "Reno"), "Reno")
 
+    def test_city_from_real_address_shapes(self):
+        # City of Reno (Revize): no comma before the town, state spelled out.
+        for address in ["40 E. 4th St. Reno, Nevada 89501",
+                        "Yori Park 2800 Yori Wy. Reno, Nevada 89502",
+                        "Teglia's Paradise Park, 2745 Elementary Dr. Reno, Nevada 89512",
+                        "Reno City Hall 1 E. First Street Reno, Nevada 89501",
+                        "Metro Gallery, Reno City Hall, 1 East 1st St. Reno, NV 89501",
+                        "250 Evans Ave. Reno NV 89501",
+                        "250 Evans Ave., Reno, Nev.",
+                        "1 Main St Reno Nevada"]:
+            with self.subTest(address=address):
+                self.assertEqual(model.city_from_address(address, "Sparks"), "Reno")
+        self.assertEqual(model.city_from_address("Tahoe Blue event Center 75 Hwy 50,&nbsp; Stateline, NV", "Reno"),
+                         "Stateline")
+        self.assertEqual(model.city_from_address("1540 South Main St, Gold Hill, NV, 89440"), "Gold Hill")
+        self.assertEqual(model.city_from_address("4005 Bowers Mansion Rd, New Washoe City, NV 89704, USA"),
+                         "New Washoe City")
+        self.assertEqual(model.city_from_address("Victorian Square, Sparks", "Reno"), "Sparks")
+
+    def test_unknown_town_or_bare_street_before_the_state(self):
+        self.assertEqual(model.city_from_address("1 Main St, Sacramento, CA 95814", "Reno"), "Sacramento")
+        self.assertEqual(model.city_from_address("1900 Idlewild Dr, NV 89509", "Reno"), "Reno")
+        self.assertEqual(model.city_from_address("Reno Aces Ballpark", "Reno"), "Reno")
+        self.assertEqual(model.city_from_address("Sparks Marina Park", "Reno"), "Reno")
+
+    def test_area_for_tolerates_state_and_zip(self):
+        self.assertEqual(model.area_for("Reno, NV"), "reno")
+        self.assertEqual(model.area_for("Sparks Nevada 89431"), "sparks")
+        self.assertEqual(model.drive_for("Carson City, NV", "carson"), "~35 min")
+
+    def test_gold_hill_is_virginia_city(self):
+        self.assertEqual(model.area_for("Gold Hill"), "virginia-city")
+        self.assertEqual(model.drive_for("Gold Hill", "virginia-city"), "~40 min")
+
     def test_unknown_city_is_other(self):
         self.assertEqual(model.area_for("Sacramento"), "other")
         self.assertEqual(model.area_for(None), "other")

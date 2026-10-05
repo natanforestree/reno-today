@@ -20,7 +20,7 @@ CITY_AREAS = {
     "stateline": "tahoe", "south lake tahoe": "tahoe", "incline village": "tahoe",
     "crystal bay": "tahoe", "kings beach": "tahoe", "tahoe vista": "tahoe",
     "tahoe city": "tahoe", "olympic valley": "tahoe", "truckee": "tahoe",
-    "homewood": "tahoe", "zephyr cove": "tahoe",
+    "homewood": "tahoe", "zephyr cove": "tahoe", "gold hill": "virginia-city",
 }
 # Rough drive from downtown Reno.
 DRIVE = {
@@ -33,24 +33,56 @@ DRIVE = {
     "washoe valley": "~25 min", "new washoe city": "~25 min",
 }
 AREA_DRIVE = {"carson": "~35 min", "virginia-city": "~40 min", "tahoe": "~45–75 min"}
+KNOWN_TOWNS = set(CITY_AREAS) | set(DRIVE)
+
+_STATE = r"(?:NV|Nev|Nevada|CA|Calif|California)\.?(?:[\s,]+\d{5}(?:-\d{4})?)?"
+# "<town>, NV 89501, USA" at the end of an address; the commas, zip and country are optional.
+_STATE_AT_END = re.compile(rf"^(?P<before>.*?)[\s,]+{_STATE}(?:[\s,]+(?:USA|US|United States))?[\s,.]*$", re.I)
+_TRAILING_STATE = re.compile(rf"[\s,]+{_STATE}$", re.I)
+
+
+def _clean(text):
+    return " ".join(html.unescape(text or "").split())
+
+
+def _town_key(city):
+    """'Reno, NV 89501' -> 'reno'."""
+    return _TRAILING_STATE.sub("", _clean(city)).strip(" ,.").lower()
 
 
 def area_for(city):
-    return CITY_AREAS.get((city or "").strip().lower(), "other")
+    return CITY_AREAS.get(_town_key(city), "other")
 
 
 def drive_for(city, area):
     if area in LOCAL_AREAS:
         return None
-    return DRIVE.get((city or "").strip().lower()) or AREA_DRIVE.get(area)
+    return DRIVE.get(_town_key(city)) or AREA_DRIVE.get(area)
+
+
+def _known_town_at_end(text):
+    """'40 E. 4th St. Reno' -> 'Reno' (the longest known town the text ends with)."""
+    words = text.split()
+    for i in range(len(words)):
+        town = " ".join(words[i:]).strip(" ,.")
+        if town.lower() in KNOWN_TOWNS:
+            return town
+    return None
 
 
 def city_from_address(address, default=None):
-    """'561 Crystal Park Rd, Verdi, NV 89439' -> 'Verdi' (the part before the state)."""
-    parts = [p.strip() for p in (address or "").split(",") if p.strip()]
-    for i, part in enumerate(parts):
-        if i and re.fullmatch(r"(NV|Nev\.?|Nevada|CA|Calif\.?|California)( \d{5}(-\d{4})?)?", part, re.I):
-            return parts[i - 1]
+    """The town in an address: the words just before the state ('561 Crystal Park Rd,
+    Verdi, NV 89439' -> 'Verdi'; '40 E. 4th St. Reno, Nevada 89501' -> 'Reno'), or a
+    known town the address ends with ('Victorian Square, Sparks'). An unknown town is
+    kept (its area is "other"); a bare street or no town at all gives `default`."""
+    text = _clean(address)
+    m = _STATE_AT_END.match(text)
+    part = (m.group("before") if m else text).split(",")[-1].strip(" .")
+    town = _known_town_at_end(part)
+    if town:
+        return town
+    if m and part and not re.search(r"\d", part):
+        return part
     return default
 
 

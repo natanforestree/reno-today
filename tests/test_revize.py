@@ -59,6 +59,17 @@ class RevizeTest(unittest.TestCase):
             ("2026-11-01T14:30:00-08:00", "2026-11-01T16:00:00-08:00"),
             ("2026-11-08T14:30:00-08:00", "2026-11-08T16:00:00-08:00")])
 
+    def test_area_from_the_real_address_shapes(self):
+        def item(i, location):
+            return {"id": i, "title": "Rolling Recreation", "start": "2026-10-10T09:00:00", "end": "2026-10-10T11:00:00",
+                    "calendar_displays": ["8"], "location": location}
+        got = RENO.parse([item(1, "Yori Park 2800 Yori Wy. Reno, Nevada 89502"),
+                          item(2, "Reno Aces Baseball Stadium, 250 Evans Ave. Reno, Nevada 89501"),
+                          item(3, "Tahoe Blue event Center 75 Hwy 50,&nbsp; Stateline, NV")],
+                         date(2026, 10, 5), date(2026, 10, 12))
+        self.assertEqual([(e["area"], e["drive"]) for e in got],
+                         [("reno", None), ("reno", None), ("tahoe", "~70 min")])
+
     def test_fetch_checks_the_shape(self):
         ctx = Context(la(2026, 10, 5), la(2026, 10, 13))
         with mock.patch.object(net, "get_json", lambda url, **kw: fixture_json("revize.json")):
