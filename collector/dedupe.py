@@ -7,6 +7,15 @@ from datetime import datetime
 
 FILLER = {"the", "a", "an", "and", "of", "at", "in", "on", "vs", "v", "with",
           "presents", "presented", "by", "featuring", "feat", "ft", "live", "tour"}
+# Words many different venues share: kinds of place, towns and directions.
+GENERIC_VENUE = {
+    "library", "branch", "park", "parks", "center", "centre", "community", "recreation", "regional",
+    "hall", "theater", "theatre", "museum", "arena", "stadium", "field", "room", "auditorium",
+    "amphitheater", "amphitheatre", "plaza", "gallery", "club", "casino", "resort", "hotel",
+    "church", "school", "event", "events", "venue", "building", "trail", "trailhead",
+    "reno", "sparks", "carson", "city", "tahoe", "lake", "nevada", "nv", "downtown",
+    "north", "south", "east", "west", "northwest", "northeast", "southwest", "southeast", "valley", "valleys",
+}
 KIND_RANK = {"organiser": 0, "ticketing": 1}   # organiser's own feed wins time and place
 
 
@@ -39,9 +48,23 @@ def same_time(a, b):
 
 
 def same_venue(a, b):
-    va = tokens((a.get("venue") or {}).get("name"))
-    vb = tokens((b.get("venue") or {}).get("name"))
+    """Venue names share half their distinctive words ("Pioneer Center" and "Pioneer
+    Center for the Performing Arts"); "Library" or "Park" alone doesn't count."""
+    va = tokens((a.get("venue") or {}).get("name")) - GENERIC_VENUE
+    vb = tokens((b.get("venue") or {}).get("name")) - GENERIC_VENUE
     return bool(va and vb) and len(va & vb) / min(len(va), len(vb)) >= 0.5
+
+
+def same_place(a, b):
+    """The very same venue: equal names, or equal addresses when a name is missing.
+    One source lists one program at several branches ("Baby Story Time" at Sparks
+    and at Downtown Reno), so its own listings need this, not same_venue."""
+    va, vb = a.get("venue") or {}, b.get("venue") or {}
+    for field in ("name", "address"):
+        ka, kb = tokens(va.get(field)), tokens(vb.get(field))
+        if ka and kb:
+            return ka == kb
+    return False
 
 
 def is_duplicate(a, b):
@@ -50,7 +73,7 @@ def is_duplicate(a, b):
     ta, tb = tokens(a["title"]), tokens(b["title"])
     if _source(a) == _source(b):
         no_venues = not a.get("venue") and not b.get("venue")
-        return ta == tb and a["start"] == b["start"] and (no_venues or same_venue(a, b))
+        return ta == tb and a["start"] == b["start"] and (no_venues or same_place(a, b))
     o = overlap(ta, tb)
     return o >= 0.8 or (o >= 0.6 and same_venue(a, b))
 

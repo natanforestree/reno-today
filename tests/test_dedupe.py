@@ -55,6 +55,35 @@ class DuplicateTest(unittest.TestCase):
         b = ev("tm", "2", "Comedy Night", la(2026, 10, 10, 20), "Silver Legacy", kind="ticketing")
         self.assertTrue(dedupe.is_duplicate(a, b))
 
+    def test_one_source_at_different_branches_stays_apart(self):
+        # Live 2026-10-06: Sparks's "Book a Librarian" was swallowed by Incline Village's.
+        sparks = ev("library", "1", "Book a Librarian", la(2026, 10, 6, 10), "Sparks Library")
+        incline = ev("library", "2", "Book a Librarian", la(2026, 10, 6, 10), "Incline Village Library")
+        self.assertFalse(dedupe.is_duplicate(sparks, incline))
+        north = ev("library", "3", "Book a Librarian", la(2026, 10, 7, 10), "North Valleys Library")
+        south = ev("library", "4", "Book a Librarian", la(2026, 10, 7, 10), "South Valleys Library")
+        self.assertFalse(dedupe.is_duplicate(north, south))
+
+    def test_same_storytime_at_three_branches_is_three_events(self):
+        branches = ["Sparks Library", "Downtown Reno Library", "Northwest Reno Library"]
+        events = [ev("library", str(i), "Baby Story Time", la(2026, 10, 7, 10, 30), b) for i, b in enumerate(branches)]
+        self.assertEqual(sorted(e["venue"]["name"] for e in dedupe.dedupe(events)), sorted(branches))
+
+    def test_one_source_listing_with_and_without_a_venue_stays_apart(self):
+        a = ev("library", "1", "Book Sale", la(2026, 10, 7, 10), "Sparks Library")
+        b = ev("library", "2", "Book Sale", la(2026, 10, 7, 10))
+        self.assertFalse(dedupe.is_duplicate(a, b))
+
+    def test_generic_venue_words_do_not_make_the_same_venue(self):
+        a = ev("unr", "1", "Brahms Requiem Choir Orchestra", la(2026, 10, 10, 19), "Pioneer Center")
+        b = ev("tm", "2", "Brahms Requiem Choir Reno Phil", la(2026, 10, 10, 19), "Reno Events Center")
+        self.assertFalse(dedupe.is_duplicate(a, b))  # only "center" in common
+        c = ev("reno", "3", "Fall Family Fun Day", la(2026, 10, 10, 10), "Wingfield Park")
+        d = ev("wcparks", "4", "Fall Family Picnic Day", la(2026, 10, 10, 10), "Idlewild Park")
+        self.assertFalse(dedupe.is_duplicate(c, d))  # only "park" in common
+        e = ev("wcparks", "5", "Fall Family Picnic Day", la(2026, 10, 10, 10), "Wingfield Park Amphitheater")
+        self.assertTrue(dedupe.is_duplicate(c, e))   # overlap 3/4 at the same park
+
     def test_all_day_listing_matches_a_timed_one_on_the_same_day(self):
         wp = ev("wolfpack", "1", "Nevada Men's Basketball vs Idaho", date(2026, 11, 18), all_day=True)
         tm = ev("tm", "2", "Nevada Wolf Pack Men's Basketball vs. Idaho Vandals", la(2026, 11, 18, 19),
