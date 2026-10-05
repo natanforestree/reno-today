@@ -1,0 +1,739 @@
+{
+ "total_results": 11,
+ "perpage": 100,
+ "status": 1,
+ "results": [
+  {
+   "id": 17341578,
+   "title": "The Archivist's Warning: Digital Escape Room Experience",
+   "description": "",
+   "fromTime": "Monday, October 5, 2026",
+   "toTime": "Monday, October 5, 2026",
+   "shortdesc": "",
+   "shortdesc_was_truncated": true,
+   "registration_cost": "",
+   "start": "All Day Event",
+   "end": "",
+   "all_day": true,
+   "startdt": "2026-10-05 00:00:00",
+   "enddt": "2026-10-05 23:59:59",
+   "date": "Monday, October 5, 2026",
+   "ymd": "20261005",
+   "year": "2026",
+   "monthnum": 10,
+   "day": "5",
+   "daypostfix": "th",
+   "dayfull": "Monday",
+   "dayshort": "Mon",
+   "monthfull": "October",
+   "monthshort": "Oct",
+   "url": "https://events.washoecountylibrary.us/event/17341578",
+   "color": "#B2E6F0",
+   "locationCount": 0,
+   "location": "",
+   "locations": [],
+   "campus": "Downtown Reno Library",
+   "audiences": [
+    {
+     "id": 1782,
+     "name": "Kids",
+     "color": "#3AD1B3"
+    },
+    {
+     "id": 1783,
+     "name": "Teens",
+     "color": "#6B39D1"
+    }
+   ],
+   "categories": "Community, Escape Room, Fun & Games",
+   "categories_arr": [
+    {
+     "cat_id": 49195,
+     "name": "Community",
+     "color": "#DDF257"
+    },
+    {
+     "cat_id": 57057,
+     "name": "Escape Room",
+     "color": "#B2E6F0"
+    },
+    {
+     "cat_id": 25788,
+     "name": "Fun & Games",
+     "color": "#F0A6A6"
+    }
+   ],
+   "calendar": "Calendar of Events",
+   "calendar_url": "https://events.washoecountylibrary.us/calendar/virtual?",
+   "calendar_id": 12809,
+   "online_event": false,
+   "online_registration": false,
+   "in_person_registration": false,
+   "recurring_event": true,
+   "registration_enabled": false,
+   "more_info": ""
+  },
+  {
+   "id": 17743710,
+   "title": "Up for Interpretation, Teen Art Challenge",
+   "description": "",
+   "fromTime": "Monday, October 5, 2026",
+   "toTime": "Monday, October 5, 2026",
+   "shortdesc": "",
+   "shortdesc_was_truncated": true,
+   "registration_cost": "",
+   "start": "All Day Event",
+   "end": "",
+   "all_day": true,
+   "startdt": "2026-10-05 00:00:00",
+   "enddt": "2026-10-05 23:59:59",
+   "date": "Monday, October 5, 2026",
+   "ymd": "20261005",
+   "year": "2026",
+   "monthnum": 10,
+   "day": "5",
+   "daypostfix": "th",
+   "dayfull": "Monday",
+   "dayshort": "Mon",
+   "monthfull": "October",
+   "monthshort": "Oct",
+   "url": "https://events.washoecountylibrary.us/event/17743710",
+   "color": "#BBA7C2",
+   "locationCount": 1,
+   "location": "Teen Zone",
+   "locations": [
+    {
+     "id": 5548,
+     "name": "Teen Zone",
+     "map": "",
+     "mapId": 0,
+     "last": true
+    }
+   ],
+   "campus": "South Valleys Library",
+   "audiences": [
+    {
+     "id": 1783,
+     "name": "Teens",
+     "color": "#6B39D1"
+    }
+   ],
+   "categories": "Art, Arts & Crafts",
+   "categories_arr": [
+    {
+     "cat_id": 25780,
+     "name": "Art",
+     "color": "#BBA7C2"
+    },
+    {
+     "cat_id": 25786,
+     "name": "Arts & Crafts",
+     "color": "#F0A6A6"
+    }
+   ],
+   "calendar": "Calendar of Events",
+   "calendar_url": "https://events.washoecountylibrary.us/calendar/virtual?",
+   "calendar_id": 12809,
+   "online_event": false,
+   "online_registration": false,
+   "in_person_registration": false,
+   "recurring_event": true,
+   "registration_enabled": false,
+   "more_info": ""
+  },
+  {
+   "id": 17308730,
+   "title": "Book a Librarian",
+   "description": "",
+   "fromTime": "10:00am Monday, October 5, 2026",
+   "toTime": "11:00am Monday, October 5, 2026",
+   "shortdesc": "",
+   "shortdesc_was_truncated": true,
+   "registration_cost": "",
+   "start": "10:00am",
+   "end": "11:00am",
+   "all_day": false,
+   "startdt": "2026-10-05 10:00:00",
+   "enddt": "2026-10-05 11:00:00",
+   "date": "Monday, October 5, 2026",
+   "ymd": "20261005",
+   "year": "2026",
+   "monthnum": 10,
+   "day": "5",
+   "daypostfix": "th",
+   "dayfull": "Monday",
+   "dayshort": "Mon",
+   "monthfull": "October",
+   "monthshort": "Oct",
+   "url": "https://events.washoecountylibrary.us/event/17308730",
+   "color": "#A2C7A2",
+   "locationCount": 0,
+   "location": "",
+   "locations": [],
+   "campus": "Senior Center Library",
+   "audiences": [
+    {
+     "id": 1780,
+     "name": "Adults",
+     "color": "#C4D139"
+    },
+    {
+     "id": 1781,
+     "name": "Seniors",
+     "color": "#C4D139"
+    }
+   ],
+   "categories": "Computers & Technology",
+   "categories_arr": [
+    {
+     "cat_id": 25785,
+     "name": "Computers & Technology",
+     "color": "#A2C7A2"
+    }
+   ],
+   "calendar": "Calendar of Events",
+   "calendar_url": "https://events.washoecountylibrary.us/calendar/virtual?",
+   "calendar_id": 12809,
+   "online_event": false,
+   "online_registration": false,
+   "in_person_registration": false,
+   "recurring_event": true,
+   "registration_enabled": false,
+   "more_info": ""
+  },
+  {
+   "id": 14984811,
+   "title": "American Mahjong",
+   "description": "",
+   "fromTime": "10:00am Monday, October 5, 2026",
+   "toTime": "12:00pm Monday, October 5, 2026",
+   "shortdesc": "",
+   "shortdesc_was_truncated": true,
+   "registration_cost": "",
+   "start": "10:00am",
+   "end": "12:00pm",
+   "all_day": false,
+   "startdt": "2026-10-05 10:00:00",
+   "enddt": "2026-10-05 12:00:00",
+   "date": "Monday, October 5, 2026",
+   "ymd": "20261005",
+   "year": "2026",
+   "monthnum": 10,
+   "day": "5",
+   "daypostfix": "th",
+   "dayfull": "Monday",
+   "dayshort": "Mon",
+   "monthfull": "October",
+   "monthshort": "Oct",
+   "url": "https://events.washoecountylibrary.us/event/14984811",
+   "color": "#F0A6A6",
+   "locationCount": 0,
+   "location": "",
+   "locations": [],
+   "campus": "South Valleys Library",
+   "audiences": [
+    {
+     "id": 1780,
+     "name": "Adults",
+     "color": "#C4D139"
+    },
+    {
+     "id": 1781,
+     "name": "Seniors",
+     "color": "#C4D139"
+    }
+   ],
+   "categories": "Fun & Games",
+   "categories_arr": [
+    {
+     "cat_id": 25788,
+     "name": "Fun & Games",
+     "color": "#F0A6A6"
+    }
+   ],
+   "calendar": "Calendar of Events",
+   "calendar_url": "https://events.washoecountylibrary.us/calendar/virtual?",
+   "calendar_id": 12809,
+   "online_event": false,
+   "online_registration": false,
+   "in_person_registration": true,
+   "recurring_event": true,
+   "registration_enabled": false,
+   "registration_msg": {
+    "msg": "Registration has closed.",
+    "class": "btn-info",
+    "status": 1
+   },
+   "more_info": ""
+  },
+  {
+   "id": 14579393,
+   "title": "Family Story Time",
+   "description": "",
+   "fromTime": "10:30am Monday, October 5, 2026",
+   "toTime": "11:00am Monday, October 5, 2026",
+   "shortdesc": "children family",
+   "shortdesc_was_truncated": true,
+   "registration_cost": "",
+   "start": "10:30am",
+   "end": "11:00am",
+   "all_day": false,
+   "startdt": "2026-10-05 10:30:00",
+   "enddt": "2026-10-05 11:00:00",
+   "date": "Monday, October 5, 2026",
+   "ymd": "20261005",
+   "year": "2026",
+   "monthnum": 10,
+   "day": "5",
+   "daypostfix": "th",
+   "dayfull": "Monday",
+   "dayshort": "Mon",
+   "monthfull": "October",
+   "monthshort": "Oct",
+   "url": "https://events.washoecountylibrary.us/event/14579393",
+   "color": "#F2C499",
+   "locationCount": 0,
+   "location": "",
+   "locations": [],
+   "campus": "Spanish Springs Library",
+   "audiences": [
+    {
+     "id": 1782,
+     "name": "Kids",
+     "color": "#3AD1B3"
+    },
+    {
+     "id": 1784,
+     "name": "Preschool",
+     "color": "#39ABD1"
+    },
+    {
+     "id": 1785,
+     "name": "Babies & Toddlers",
+     "color": "#39ABD1"
+    }
+   ],
+   "categories": "Story Time",
+   "categories_arr": [
+    {
+     "cat_id": 49158,
+     "name": "Story Time",
+     "color": "#F2C499"
+    }
+   ],
+   "calendar": "Calendar of Events",
+   "calendar_url": "https://events.washoecountylibrary.us/calendar/virtual?",
+   "calendar_id": 12809,
+   "online_event": false,
+   "online_registration": false,
+   "in_person_registration": true,
+   "recurring_event": true,
+   "registration_enabled": false,
+   "registration_msg": {
+    "msg": "Registration has closed.",
+    "class": "btn-info",
+    "status": 1
+   },
+   "more_info": ""
+  },
+  {
+   "id": 17038696,
+   "title": "Baby Social",
+   "description": "",
+   "fromTime": "10:30am Monday, October 5, 2026",
+   "toTime": "10:50pm Monday, October 5, 2026",
+   "shortdesc": "baby Toddler",
+   "shortdesc_was_truncated": true,
+   "registration_cost": "",
+   "start": "10:30am",
+   "end": "10:50pm",
+   "all_day": false,
+   "startdt": "2026-10-05 10:30:00",
+   "enddt": "2026-10-05 22:50:00",
+   "date": "Monday, October 5, 2026",
+   "ymd": "20261005",
+   "year": "2026",
+   "monthnum": 10,
+   "day": "5",
+   "daypostfix": "th",
+   "dayfull": "Monday",
+   "dayshort": "Mon",
+   "monthfull": "October",
+   "monthshort": "Oct",
+   "url": "https://events.washoecountylibrary.us/event/17038696",
+   "color": "#F2C499",
+   "locationCount": 0,
+   "location": "",
+   "locations": [],
+   "campus": "Incline Village Library",
+   "audiences": [
+    {
+     "id": 1785,
+     "name": "Babies & Toddlers",
+     "color": "#39ABD1"
+    }
+   ],
+   "categories": "Books & Reading, Community, Story Time",
+   "categories_arr": [
+    {
+     "cat_id": 25782,
+     "name": "Books & Reading",
+     "color": "#DEE89D"
+    },
+    {
+     "cat_id": 49195,
+     "name": "Community",
+     "color": "#DDF257"
+    },
+    {
+     "cat_id": 49158,
+     "name": "Story Time",
+     "color": "#F2C499"
+    }
+   ],
+   "calendar": "Calendar of Events",
+   "calendar_url": "https://events.washoecountylibrary.us/calendar/virtual?",
+   "calendar_id": 12809,
+   "online_event": false,
+   "online_registration": false,
+   "in_person_registration": false,
+   "recurring_event": true,
+   "registration_enabled": false,
+   "more_info": ""
+  },
+  {
+   "id": 16862507,
+   "title": "Baby Story Time",
+   "description": "",
+   "fromTime": "10:45am Monday, October 5, 2026",
+   "toTime": "11:15am Monday, October 5, 2026",
+   "shortdesc": "children",
+   "shortdesc_was_truncated": true,
+   "registration_cost": "",
+   "start": "10:45am",
+   "end": "11:15am",
+   "all_day": false,
+   "startdt": "2026-10-05 10:45:00",
+   "enddt": "2026-10-05 11:15:00",
+   "date": "Monday, October 5, 2026",
+   "ymd": "20261005",
+   "year": "2026",
+   "monthnum": 10,
+   "day": "5",
+   "daypostfix": "th",
+   "dayfull": "Monday",
+   "dayshort": "Mon",
+   "monthfull": "October",
+   "monthshort": "Oct",
+   "url": "https://events.washoecountylibrary.us/event/16862507",
+   "color": "#F2C499",
+   "locationCount": 1,
+   "location": "Young People's Library",
+   "locations": [
+    {
+     "id": 5547,
+     "name": "Young People's Library",
+     "map": "",
+     "mapId": 0,
+     "last": true
+    }
+   ],
+   "campus": "Sparks Library",
+   "audiences": [
+    {
+     "id": 1785,
+     "name": "Babies & Toddlers",
+     "color": "#39ABD1"
+    }
+   ],
+   "categories": "Story Time",
+   "categories_arr": [
+    {
+     "cat_id": 49158,
+     "name": "Story Time",
+     "color": "#F2C499"
+    }
+   ],
+   "calendar": "Calendar of Events",
+   "calendar_url": "https://events.washoecountylibrary.us/calendar/virtual?",
+   "calendar_id": 12809,
+   "online_event": false,
+   "online_registration": false,
+   "in_person_registration": true,
+   "recurring_event": true,
+   "registration_enabled": false,
+   "registration_msg": {
+    "msg": "Registration has closed.",
+    "class": "btn-info",
+    "status": 1
+   },
+   "more_info": ""
+  },
+  {
+   "id": 15991828,
+   "title": "Book A librarian",
+   "description": "",
+   "fromTime": "11:00am Monday, October 5, 2026",
+   "toTime": "4:00pm Monday, October 5, 2026",
+   "shortdesc": "",
+   "shortdesc_was_truncated": true,
+   "registration_cost": "",
+   "start": "11:00am",
+   "end": "4:00pm",
+   "all_day": false,
+   "startdt": "2026-10-05 11:00:00",
+   "enddt": "2026-10-05 16:00:00",
+   "date": "Monday, October 5, 2026",
+   "ymd": "20261005",
+   "year": "2026",
+   "monthnum": 10,
+   "day": "5",
+   "daypostfix": "th",
+   "dayfull": "Monday",
+   "dayshort": "Mon",
+   "monthfull": "October",
+   "monthshort": "Oct",
+   "url": "https://events.washoecountylibrary.us/event/15991828",
+   "color": "#CF6E9E",
+   "locationCount": 0,
+   "location": "",
+   "locations": [],
+   "campus": "Downtown Reno Library",
+   "audiences": [
+    {
+     "id": 1780,
+     "name": "Adults",
+     "color": "#C4D139"
+    }
+   ],
+   "categories": "Community",
+   "categories_arr": [
+    {
+     "cat_id": 49195,
+     "name": "Community",
+     "color": "#DDF257"
+    }
+   ],
+   "calendar": "Calendar of Events",
+   "calendar_url": "https://events.washoecountylibrary.us/calendar/virtual?",
+   "calendar_id": 12809,
+   "online_event": true,
+   "online_registration": false,
+   "in_person_registration": false,
+   "recurring_event": true,
+   "registration_enabled": false,
+   "more_info": ""
+  },
+  {
+   "id": 17308793,
+   "title": "Book a Librarian",
+   "description": "",
+   "fromTime": "11:30am Monday, October 5, 2026",
+   "toTime": "12:30pm Monday, October 5, 2026",
+   "shortdesc": "",
+   "shortdesc_was_truncated": true,
+   "registration_cost": "",
+   "start": "11:30am",
+   "end": "12:30pm",
+   "all_day": false,
+   "startdt": "2026-10-05 11:30:00",
+   "enddt": "2026-10-05 12:30:00",
+   "date": "Monday, October 5, 2026",
+   "ymd": "20261005",
+   "year": "2026",
+   "monthnum": 10,
+   "day": "5",
+   "daypostfix": "th",
+   "dayfull": "Monday",
+   "dayshort": "Mon",
+   "monthfull": "October",
+   "monthshort": "Oct",
+   "url": "https://events.washoecountylibrary.us/event/17308793",
+   "color": "#A2C7A2",
+   "locationCount": 0,
+   "location": "",
+   "locations": [],
+   "campus": "Senior Center Library",
+   "audiences": [
+    {
+     "id": 1780,
+     "name": "Adults",
+     "color": "#C4D139"
+    },
+    {
+     "id": 1781,
+     "name": "Seniors",
+     "color": "#C4D139"
+    }
+   ],
+   "categories": "Computers & Technology",
+   "categories_arr": [
+    {
+     "cat_id": 25785,
+     "name": "Computers & Technology",
+     "color": "#A2C7A2"
+    }
+   ],
+   "calendar": "Calendar of Events",
+   "calendar_url": "https://events.washoecountylibrary.us/calendar/virtual?",
+   "calendar_id": 12809,
+   "online_event": false,
+   "online_registration": false,
+   "in_person_registration": false,
+   "recurring_event": true,
+   "registration_enabled": false,
+   "more_info": ""
+  },
+  {
+   "id": 17085722,
+   "title": "Kids Cafe Art a la Carte  Activities",
+   "description": "",
+   "fromTime": "11:30am Monday, October 5, 2026",
+   "toTime": "12:30pm Monday, October 5, 2026",
+   "shortdesc": "Children",
+   "shortdesc_was_truncated": true,
+   "registration_cost": "",
+   "start": "11:30am",
+   "end": "12:30pm",
+   "all_day": false,
+   "startdt": "2026-10-05 11:30:00",
+   "enddt": "2026-10-05 12:30:00",
+   "date": "Monday, October 5, 2026",
+   "ymd": "20261005",
+   "year": "2026",
+   "monthnum": 10,
+   "day": "5",
+   "daypostfix": "th",
+   "dayfull": "Monday",
+   "dayshort": "Mon",
+   "monthfull": "October",
+   "monthshort": "Oct",
+   "url": "https://events.washoecountylibrary.us/event/17085722",
+   "color": "#BBA7C2",
+   "locationCount": 1,
+   "location": "Young People's Library",
+   "locations": [
+    {
+     "id": 5547,
+     "name": "Young People's Library",
+     "map": "",
+     "mapId": 0,
+     "last": true
+    }
+   ],
+   "campus": "Downtown Reno Library",
+   "audiences": [
+    {
+     "id": 1782,
+     "name": "Kids",
+     "color": "#3AD1B3"
+    },
+    {
+     "id": 1783,
+     "name": "Teens",
+     "color": "#6B39D1"
+    }
+   ],
+   "categories": "Art, Arts & Crafts",
+   "categories_arr": [
+    {
+     "cat_id": 25780,
+     "name": "Art",
+     "color": "#BBA7C2"
+    },
+    {
+     "cat_id": 25786,
+     "name": "Arts & Crafts",
+     "color": "#F0A6A6"
+    }
+   ],
+   "calendar": "Calendar of Events",
+   "calendar_url": "https://events.washoecountylibrary.us/calendar/virtual?",
+   "calendar_id": 12809,
+   "online_event": false,
+   "online_registration": false,
+   "in_person_registration": false,
+   "recurring_event": false,
+   "registration_enabled": false,
+   "more_info": ""
+  },
+  {
+   "id": 16948855,
+   "title": "Sewing Camp for Kids",
+   "description": "",
+   "fromTime": "2:00pm Monday, October 5, 2026",
+   "toTime": "4:00pm Monday, October 5, 2026",
+   "shortdesc": "Kids",
+   "shortdesc_was_truncated": true,
+   "registration_cost": "",
+   "start": "2:00pm",
+   "end": "4:00pm",
+   "all_day": false,
+   "startdt": "2026-10-05 14:00:00",
+   "enddt": "2026-10-05 16:00:00",
+   "date": "Monday, October 5, 2026",
+   "ymd": "20261005",
+   "year": "2026",
+   "monthnum": 10,
+   "day": "5",
+   "daypostfix": "th",
+   "dayfull": "Monday",
+   "dayshort": "Mon",
+   "monthfull": "October",
+   "monthshort": "Oct",
+   "url": "https://events.washoecountylibrary.us/event/16948855",
+   "color": "#F0A6A6",
+   "locationCount": 1,
+   "location": "Meeting Room",
+   "locations": [
+    {
+     "id": 12552,
+     "name": "Meeting Room",
+     "map": "",
+     "mapId": 0,
+     "last": true
+    }
+   ],
+   "campus": "Incline Village Library",
+   "audiences": [
+    {
+     "id": 1782,
+     "name": "Kids",
+     "color": "#3AD1B3"
+    }
+   ],
+   "categories": "Arts & Crafts, Community, How-To",
+   "categories_arr": [
+    {
+     "cat_id": 25786,
+     "name": "Arts & Crafts",
+     "color": "#F0A6A6"
+    },
+    {
+     "cat_id": 49195,
+     "name": "Community",
+     "color": "#DDF257"
+    },
+    {
+     "cat_id": 25791,
+     "name": "How-To",
+     "color": "#F0A6A6"
+    }
+   ],
+   "calendar": "Calendar of Events",
+   "calendar_url": "https://events.washoecountylibrary.us/calendar/virtual?",
+   "calendar_id": 12809,
+   "online_event": false,
+   "online_registration": false,
+   "in_person_registration": true,
+   "recurring_event": true,
+   "registration_enabled": false,
+   "registration_msg": {
+    "msg": "Registration has closed.",
+    "class": "btn-info",
+    "status": 1
+   },
+   "more_info": ""
+  }
+ ]
+}

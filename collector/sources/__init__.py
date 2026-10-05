@@ -3,6 +3,6 @@ fetch(ctx) -> list of model.make_event dicts, raising net.FetchError or
 sources.base.SourceError when it can't be read. Optional EVERY (timedelta):
 collect.py reuses the last good result while it's younger than that."""
 
-from sources import aces, ticketmaster, unr, wolfpack
+from sources import aces, library, ticketmaster, unr, wolfpack
 
-ALL = [ticketmaster, unr, wolfpack, aces]
+ALL = [ticketmaster, unr, wolfpack, aces, library]
