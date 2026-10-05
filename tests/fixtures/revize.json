@@ -1,0 +1,23 @@
+[
+  {"id": 160, "title": "Ranger Walks", "start": "2026-10-10T14:00:00", "end": "2026-10-10T15:00:00", "duration": "01:00",
+   "calendar_displays": ["5", "4", "9", "8"], "location": "Fisherman's Park", "desc": "%3Cp%3EGuided%20walk%20for%20families%3C%2Fp%3E", "url": ""},
+  {"id": 128, "title": "Ward 6 Neighborhood Advisory Board Meeting", "start": "2026-10-05T17:30:00", "end": "2026-10-05T20:00:00",
+   "duration": "02:30", "calendar_displays": ["3"], "location": "Reno City Hall 1 E. First Street", "desc": "", "url": ""},
+  {"id": 173, "title": "CANCELED Planning Commission Meeting", "start": "2026-10-08T18:00:00", "end": "2026-10-08T23:00:00",
+   "duration": "05:00", "calendar_displays": ["3", "4"], "location": "Reno City Hall", "desc": "", "url": ""},
+  {"id": 285, "title": "44th Annual Great Italian Festival", "start": "2026-10-10T10:00:00", "end": "2026-10-10T20:00:00",
+   "duration": "10:00", "calendar_displays": ["9"], "location": "Virginia St, between 2nd and 6th Downtown Reno",
+   "rrule": "DTSTART:20261010T100000\nRDATE:20261010T100000\nRRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20261011T000000",
+   "desc": "", "url": "https://www.eldoradoreno.com/italian-festival"},
+  {"id": 264, "title": "Food Truck Wednesdays", "start": "2026-07-27T16:00:40", "end": "2026-07-27T20:00:00", "duration": "04:00",
+   "calendar_displays": ["9"], "location": "Cyan Park",
+   "rrule": "DTSTART:20260727T160040\nRDATE:20260727T160040\nRRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE", "desc": "", "url": ""},
+  {"id": 439, "title": "Rec Swim Movie at the Pool", "start": "2026-10-03T13:00:00", "end": "2026-10-03T15:00:00", "duration": "02:00",
+   "calendar_displays": ["6", "5", "8"], "location": "Moana Comp Pool",
+   "rrule": "DTSTART:20261003T130000\nRDATE:20261003T130000\nRRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=SU,SA;UNTIL=20261102T000000\nEXDATE:20261010T130000",
+   "desc": "", "url": ""},
+  {"id": 390, "title": "Pool Closure - Northwest Pool", "start": "2026-10-06T00:00:00", "allDay": true,
+   "calendar_displays": ["6", "7", "5"], "location": "Northwest Pool", "desc": "", "url": ""},
+  {"id": 900, "title": "Biggest Little Ultra", "start": "2026-10-09T00:00:00", "end": "2026-10-12T00:00:00",
+   "calendar_displays": ["1"], "location": "Sparks Marina Parkhttps://www.biggestlittleultra.com/", "desc": "", "url": ""}
+]
