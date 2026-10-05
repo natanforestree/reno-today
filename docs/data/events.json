@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-05T23:40:19Z",
+ "generatedAt": "2026-10-05T23:45:19Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -1120,7 +1120,33 @@
     {
      "source": "library",
      "url": "https://events.washoecountylibrary.us/event/16237466"
-    },
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17308642",
+   "title": "Book a Librarian",
+   "start": "2026-10-06T11:00:00-07:00",
+   "end": "2026-10-06T12:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sparks Library",
+    "address": "1125 12th St, Sparks, NV 89431",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
     {
      "source": "library",
      "url": "https://events.washoecountylibrary.us/event/17308642"
@@ -2562,7 +2588,33 @@
     {
      "source": "library",
      "url": "https://events.washoecountylibrary.us/event/15350248"
-    },
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17308643",
+   "title": "Book a Librarian",
+   "start": "2026-10-07T11:00:00-07:00",
+   "end": "2026-10-07T12:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sparks Library",
+    "address": "1125 12th St, Sparks, NV 89431",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
     {
      "source": "library",
      "url": "https://events.washoecountylibrary.us/event/17308643"
@@ -5069,8 +5121,8 @@
     "lat": null,
     "lon": null
    },
-   "area": "other",
-   "drive": null,
+   "area": "virginia-city",
+   "drive": "~40 min",
    "price": null,
    "tier": "general",
    "hints": [],

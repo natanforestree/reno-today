@@ -1,5 +1,5 @@
 {
- "at": "2026-10-05T23:40:19Z",
+ "at": "2026-10-05T23:45:19Z",
  "events": [
   {
    "id": "vcity:10000611",
@@ -14,8 +14,8 @@
     "lat": null,
     "lon": null
    },
-   "area": "other",
-   "drive": null,
+   "area": "virginia-city",
+   "drive": "~40 min",
    "price": null,
    "tier": "general",
    "hints": [],
