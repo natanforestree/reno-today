@@ -5665,7 +5665,8 @@ def strip(o):
     if isinstance(o, dict):
         return {k: strip(v) for k, v in o.items()
                 if k not in ("_links", "images", "seatmap", "products", "sales", "promoter", "promoters",
-                             "outlets", "accessibility", "ticketLimit", "ada", "boxOfficeInfo", "generalInfo")}
+                             "outlets", "accessibility", "ticketLimit", "ada", "boxOfficeInfo", "generalInfo",
+                             "info", "pleaseNote", "description", "additionalInfo")}   # no write-ups in the repo
     if isinstance(o, list):
         return [strip(v) for v in o]
     return o
@@ -6391,10 +6392,13 @@ curl -sS -A "reno-today/1.0 (+https://github.com/natanforestree/reno-today)" \
   "https://nvdm.org/wp-json/tribe/events/v1/events?start_date=$(date +%F)&per_page=50" \
   | python3 -c "
 import json, sys
-d = json.load(sys.stdin)
-for e in d['events']:
-    e['description'] = ''
-    e['excerpt'] = ''
+def scrub(o):   # blank write-ups at any depth (events, venues, organizers)
+    if isinstance(o, dict):
+        return {k: ('' if k in ('description', 'excerpt') else scrub(v)) for k, v in o.items()}
+    if isinstance(o, list):
+        return [scrub(v) for v in o]
+    return o
+d = scrub(json.load(sys.stdin))
 json.dump(d, open('tests/fixtures/real/nvdm.json', 'w'), indent=1)"
 for s in discovery carson southtahoe vcity; do python3 dev/try_source.py $s; done
 ```
