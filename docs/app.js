@@ -139,7 +139,7 @@ function renderLists() {
 
   const ongoing = $('ongoing');
   ongoing.hidden = !v.ongoing.length;
-  ongoing.innerHTML = `<summary><h2>Ongoing · ${v.ongoing.length}</h2></summary>${list(v.ongoing)}`;
+  ongoing.innerHTML = `<summary><h2>Ongoing · <span class="n">${v.ongoing.length}</span></h2></summary>${list(v.ongoing)}`;
 
   const drive = $('drive');
   drive.hidden = !v.drive.length;
@@ -152,7 +152,7 @@ function renderLists() {
     always.open = v.littleCount < 3;
     always.dataset.day = state.day;
   }
-  always.innerHTML = `<summary><h2>🏠 Always an option · ${open.length}</h2></summary>`
+  always.innerHTML = `<summary><h2>🏠 Always an option · <span class="n">${open.length}</span></h2></summary>`
     + open.map(([p, h]) => placeCard(p, h)).join('')
     + '<p class="muted small">Hours change with the seasons; check before you go.</p>';
 }

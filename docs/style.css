@@ -41,8 +41,8 @@ main { max-width: 760px; margin: 0 auto; padding: 0 16px 24px; }
 .days { display: flex; gap: 6px; overflow-x: auto; padding: 14px 2px 10px; scrollbar-width: none; }
 .days::-webkit-scrollbar { display: none; }
 .days button, .chip {
-  font: 400 18px/1 var(--pixel); color: var(--ink); background: var(--panel); border: 2px solid var(--line);
-  border-radius: 0; padding: 8px 10px; white-space: nowrap; cursor: pointer; box-shadow: 2px 2px 0 var(--shadow);
+  font: 400 23px/1 var(--body); color: var(--ink); background: var(--panel); border: 2px solid var(--line);
+  border-radius: 0; padding: 7px 10px; white-space: nowrap; cursor: pointer; box-shadow: 2px 2px 0 var(--shadow);
 }
 .days button[aria-pressed="true"] { background: var(--sunset); color: var(--bg); border-color: #ffd2a8; }
 .chips { display: flex; flex-wrap: wrap; gap: 6px; margin: 12px 0; }
@@ -54,7 +54,7 @@ main { max-width: 760px; margin: 0 auto; padding: 0 16px 24px; }
   border: 2px solid var(--line); padding: 10px 12px; box-shadow: 3px 3px 0 var(--shadow);
 }
 .wx-emoji { font-size: 26px; }
-.wx-temp { font: 600 22px var(--pixel); }
+.wx-temp { font: 400 29px/1 var(--body); }
 .wx-nice { color: var(--sage); }
 
 /* Sections and cards */
@@ -67,14 +67,14 @@ h2 { font: 600 22px/1.2 var(--pixel); margin: 0 0 8px; color: var(--gold); }
 }
 .card.is-little { border-color: var(--sage); }
 .card.is-now { border-color: var(--pink); }
-.when { font: 600 17px/1.2 var(--pixel); color: var(--sunset); overflow-wrap: anywhere; }
-.now { display: block; margin-top: 4px; color: var(--pink); font-size: 14px; animation: blink 1.2s steps(1) infinite; }
+.when { font: 400 23px/1.1 var(--body); color: var(--sunset); overflow-wrap: anywhere; }
+.now { display: block; margin-top: 4px; color: var(--pink); font-size: 19px; animation: blink 1.2s steps(1) infinite; }
 @keyframes blink { 50% { opacity: 0.35; } }
 .what h3 { font: 400 25px/1.05 var(--body); margin: 0; overflow-wrap: anywhere; }
 .where, .note { margin: 2px 0 0; color: var(--muted); overflow-wrap: anywhere; }
 .badges { margin: 6px 0 0; display: flex; flex-wrap: wrap; gap: 4px; }
 .b {
-  font: 400 13px/1 var(--pixel); padding: 4px 6px; background: var(--panel-2);
+  font: 400 18px/1 var(--body); padding: 3px 6px; background: var(--panel-2);
   border: 1px solid var(--line); color: var(--ink); text-decoration: none;
 }
 .b-free { background: #2f4a33; border-color: var(--sage); }
@@ -96,8 +96,11 @@ details[open] > summary { margin-bottom: 8px; }
   display: block; background: var(--panel); border: 2px solid var(--pink); padding: 12px;
   text-decoration: none; color: var(--ink); box-shadow: 3px 3px 0 var(--shadow);
 }
-.guide-title { display: block; font: 600 20px/1.2 var(--pixel); margin-bottom: 4px; }
+.guide-title { display: block; font: 400 27px/1.1 var(--body); margin-bottom: 4px; }
 
 footer { max-width: 760px; margin: 0 auto; padding: 8px 16px 32px; border-top: 2px dashed var(--line); color: var(--muted); }
 footer p { margin: 6px 0; }
 .warn { color: #ffd2a8; }
+
+/* Digits in Pixelify Sans read poorly (2 looks like 8, 5 like S): counts in headings use VT323 */
+h2 .n { font: 400 27px/1 var(--body); }
