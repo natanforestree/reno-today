@@ -1,0 +1,8 @@
+[
+  {"id": "riverside-farmers-market", "title": "Riverside Farmers Market", "weekday": "sun", "start": "09:00", "end": "13:00",
+   "months": null, "venue": "Idlewild Park", "address": "2055 Idlewild Dr, Reno, NV 89509", "city": "Reno",
+   "url": "https://www.renofarmersmarket.com/", "free": true, "allAges": true, "outdoor": true},
+  {"id": "nma-hands-on", "title": "Hands ON! Second Saturday (free museum day)", "weekday": "sat", "nth": 2, "allDay": true,
+   "months": null, "venue": "Nevada Museum of Art", "address": "160 W Liberty St, Reno, NV 89501", "city": "Reno",
+   "url": "https://www.nevadaart.org/", "free": true, "family": true}
+]
