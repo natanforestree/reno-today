@@ -10,7 +10,7 @@ FEED = (
     "BEGIN:VEVENT\r\nUID:a1\r\nDTSTART:20261010T013000Z\r\nDTEND:20261010T033000Z\r\n"
     "LOCATION:Reno\\, Nev.\\, Mackay Stadium\r\n"
     "SUMMARY:A very long title that is folded\r\n  across two lines\r\n"
-    "DESCRIPTION:Line one\\nLine two\; with semicolon\\\\done\r\nEND:VEVENT\r\n"
+    "DESCRIPTION:Line one\\nLine two\\; with semicolon\\\\done\r\nEND:VEVENT\r\n"
     "BEGIN:VEVENT\r\nUID:a2\r\nDTSTART;VALUE=DATE:20261102\r\nSUMMARY:All day\r\nEND:VEVENT\r\n"
     "BEGIN:VEVENT\r\nUID:a3\r\nDTSTART;TZID=America/New_York:20261010T100000\r\nSUMMARY:East\r\nEND:VEVENT\r\n"
     "BEGIN:VEVENT\r\nUID:a4\r\nDTSTART:20261010T100000\r\nSUMMARY:Floating\r\nEND:VEVENT\r\n"
