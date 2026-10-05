@@ -1,0 +1,47 @@
+{
+ "generatedAt": "2026-10-05T22:34:24Z",
+ "sources": {
+  "ticketmaster": {
+   "label": "Ticketmaster",
+   "ok": false,
+   "count": 0,
+   "lastSuccess": null,
+   "error": "not set up yet (TICKETMASTER_KEY missing)"
+  },
+  "unr": {
+   "label": "UNR events",
+   "ok": true,
+   "count": 57,
+   "lastSuccess": "2026-10-05T22:34:24Z",
+   "error": null
+  },
+  "wolfpack": {
+   "label": "Nevada Wolf Pack",
+   "ok": true,
+   "count": 92,
+   "lastSuccess": "2026-10-05T22:34:24Z",
+   "error": null
+  },
+  "aces": {
+   "label": "Reno Aces",
+   "ok": true,
+   "count": 0,
+   "lastSuccess": "2026-10-05T22:34:24Z",
+   "error": null
+  },
+  "weather": {
+   "label": "Weather (Open-Meteo)",
+   "ok": true,
+   "count": 1,
+   "lastSuccess": "2026-10-05T22:34:24Z",
+   "error": null
+  },
+  "lovingreno": {
+   "label": "Loving Reno",
+   "ok": true,
+   "count": 1,
+   "lastSuccess": "2026-10-05T22:34:24Z",
+   "error": null
+  }
+ }
+}

@@ -1,0 +1,1667 @@
+{
+ "generatedAt": "2026-10-05T22:34:24Z",
+ "timezone": "America/Los_Angeles",
+ "events": [
+  {
+   "id": "unr:53543176629951",
+   "title": "A Few of Our Favorite Things: 65 Years of Special Collections and University Archives",
+   "start": "2026-10-05T08:00:00-07:00",
+   "end": "2026-10-05T17:00:00-07:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "Mathewson-IGT Knowledge Center (MIKC)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/a-few-of-our-favorite-things-65-years-of-special-collections-and-university-archives"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:54116793904763",
+   "title": "On Location: Photographs from Robert Nuñez and Alejandra Rubio",
+   "start": "2026-10-05T08:00:00-07:00",
+   "end": "2026-10-05T20:00:00-07:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "McNamara Hallway Gallery",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/on-location-photographs-from-robert-nunez-and-alejandra-rubio"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:54118397015460",
+   "title": "UNLV Exchange Show: Death to Decorum",
+   "start": "2026-10-05T12:00:00-07:00",
+   "end": "2026-10-05T16:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Student Galleries South",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/unlv-exchange-show-death-to-decorum-8299"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:53799519170128",
+   "title": "Without Mountains and Rivers Without End: Speculative Geographics on an Interior Northwest",
+   "start": "2026-10-05T12:00:00-07:00",
+   "end": "2026-10-05T16:00:00-07:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "Sheppard Contemporary Gallery",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/without-mountains-and-rivers-without-end-speculative-geographics-on-an-interior-northwest"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:54108945177205",
+   "title": "Voice Area Recital - Graduate Students and Seniors",
+   "start": "2026-10-05T13:00:00-07:00",
+   "end": "2026-10-05T14:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "University Foundation Arts (UFA)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/voice-area-recital-graduate-students-and-seniors"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:53543176630976",
+   "title": "A Few of Our Favorite Things: 65 Years of Special Collections and University Archives",
+   "start": "2026-10-06T08:00:00-07:00",
+   "end": "2026-10-06T17:00:00-07:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "Mathewson-IGT Knowledge Center (MIKC)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/a-few-of-our-favorite-things-65-years-of-special-collections-and-university-archives"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:54116793905788",
+   "title": "On Location: Photographs from Robert Nuñez and Alejandra Rubio",
+   "start": "2026-10-06T08:00:00-07:00",
+   "end": "2026-10-06T20:00:00-07:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "McNamara Hallway Gallery",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/on-location-photographs-from-robert-nunez-and-alejandra-rubio"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:53743917460532",
+   "title": "92 Events: A Fluxus Show",
+   "start": "2026-10-06T12:00:00-07:00",
+   "end": "2026-10-06T16:00:00-07:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "Front Door Gallery",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/92-events-a-fluxus-show"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:53862387957601",
+   "title": "Black Joy & Connection",
+   "start": "2026-10-06T12:00:00-07:00",
+   "end": "2026-10-06T14:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Multicultural Center",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/black-joy-connection"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:53743835874092",
+   "title": "Earth's Winding Sheet",
+   "start": "2026-10-06T12:00:00-07:00",
+   "end": "2026-10-06T16:00:00-07:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "John & Geraldine Lilley Museum of Art",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/earths-winding-sheet"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:53743884147975",
+   "title": "Gather-Carry-Keep: Basketry from the Great Basin",
+   "start": "2026-10-06T12:00:00-07:00",
+   "end": "2026-10-06T16:00:00-07:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "Front Door Gallery",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/gather-carry-keep-basketry-from-the-great-basin"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:53799519170129",
+   "title": "Without Mountains and Rivers Without End: Speculative Geographics on an Interior Northwest",
+   "start": "2026-10-06T12:00:00-07:00",
+   "end": "2026-10-06T16:00:00-07:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "Sheppard Contemporary Gallery",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/without-mountains-and-rivers-without-end-speculative-geographics-on-an-interior-northwest"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:53943012405351",
+   "title": "General and Pediatric Clinic",
+   "start": "2026-10-06T18:00:00-07:00",
+   "end": "2026-10-06T22:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "University Health Building",
+    "address": "745 West Moana Lane",
+    "lat": 39.49155,
+    "lon": -119.80455
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/general_and_pediatric_clinc"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:54072472674943",
+   "title": "Guest Artist: Dr. Bonson Lee",
+   "start": "2026-10-06T19:30:00-07:00",
+   "end": "2026-10-06T20:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Harlan O. & Barbara R. Hall Recital Hall",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/guest-artist-dr-bonson-lee"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:53543176632001",
+   "title": "A Few of Our Favorite Things: 65 Years of Special Collections and University Archives",
+   "start": "2026-10-07T08:00:00-07:00",
+   "end": "2026-10-07T17:00:00-07:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "Mathewson-IGT Knowledge Center (MIKC)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/a-few-of-our-favorite-things-65-years-of-special-collections-and-university-archives"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:54116793907837",
+   "title": "On Location: Photographs from Robert Nuñez and Alejandra Rubio",
+   "start": "2026-10-07T08:00:00-07:00",
+   "end": "2026-10-07T20:00:00-07:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "McNamara Hallway Gallery",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/on-location-photographs-from-robert-nunez-and-alejandra-rubio"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:54118578161385",
+   "title": "Nevada Radon Education Program Tabling at Reno-Sparks Tribal Health Center Community Health Fair",
+   "start": "2026-10-07T10:00:00-07:00",
+   "end": "2026-10-07T18:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Reno-Sparks Tribal Health Center",
+    "address": "1715 Kuenzli Street",
+    "lat": 39.53003,
+    "lon": -119.79148
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/nevada-radon-education-program-tabling-at-reno-sparks-tribal-health-center-community-health-fair"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:53743917460533",
+   "title": "92 Events: A Fluxus Show",
+   "start": "2026-10-07T12:00:00-07:00",
+   "end": "2026-10-07T16:00:00-07:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "Front Door Gallery",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/92-events-a-fluxus-show"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:52366152766393",
+   "title": "Dance With Me",
+   "start": "2026-10-07T12:00:00-07:00",
+   "end": "2026-10-08T01:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Ballroom of Reno",
+    "address": "2540 Sutro Street",
+    "lat": 39.55266,
+    "lon": -119.79787
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/dance-with-me"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:54109330810283",
+   "title": "Dr. Madeline Harts Masterclass",
+   "start": "2026-10-07T12:00:00-07:00",
+   "end": "2026-10-07T13:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "University Foundation Arts (UFA)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/dr-madeline-harts-masterclass"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:53743835875117",
+   "title": "Earth's Winding Sheet",
+   "start": "2026-10-07T12:00:00-07:00",
+   "end": "2026-10-07T16:00:00-07:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "John & Geraldine Lilley Museum of Art",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/earths-winding-sheet"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:53743884149000",
+   "title": "Gather-Carry-Keep: Basketry from the Great Basin",
+   "start": "2026-10-07T12:00:00-07:00",
+   "end": "2026-10-07T16:00:00-07:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "Front Door Gallery",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/gather-carry-keep-basketry-from-the-great-basin"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:54118397016485",
+   "title": "UNLV Exchange Show: Death to Decorum",
+   "start": "2026-10-07T12:00:00-07:00",
+   "end": "2026-10-07T16:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Student Galleries South",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/unlv-exchange-show-death-to-decorum-8299"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:53799519171154",
+   "title": "Without Mountains and Rivers Without End: Speculative Geographics on an Interior Northwest",
+   "start": "2026-10-07T12:00:00-07:00",
+   "end": "2026-10-07T16:00:00-07:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "Sheppard Contemporary Gallery",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/without-mountains-and-rivers-without-end-speculative-geographics-on-an-interior-northwest"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:53515015478096",
+   "title": "Energy Solutions Forum Presents: Sabbie Miller",
+   "start": "2026-10-07T16:00:00-07:00",
+   "end": "2026-10-07T18:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Joe Crowley Student Union (JCSU)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/energy-solutions-forum-presents-sabbie-miller"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:53994880723186",
+   "title": "Educational seminar series: Research at Whittell Forest & Wildlife Area",
+   "start": "2026-10-07T18:00:00-07:00",
+   "end": "2026-10-07T19:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Little Valley Research Station",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/educational-seminar-series-research-at-whittell-forest-wildlife-area"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:53931621616433",
+   "title": "Election WolfPack Community Howl Discussion",
+   "start": "2026-10-07T18:00:00-07:00",
+   "end": "2026-10-07T19:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Joe Crowley Student Union (JCSU)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/election-wolfpack-community-howl-discussion"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:54135300645022",
+   "title": "Leviticus",
+   "start": "2026-10-07T19:00:00-07:00",
+   "end": "2026-10-07T21:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Joe Crowley Student Union Theatre",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/leviticus"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:54108965536243",
+   "title": "Voice Area Grade Level Recital: A Celebration of Composers of Color",
+   "start": "2026-10-07T19:30:00-07:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "University Foundation Arts (UFA)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/voice-area-grade-level-recital-a-celebration-of-composers-of-color"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:53543176633026",
+   "title": "A Few of Our Favorite Things: 65 Years of Special Collections and University Archives",
+   "start": "2026-10-08T08:00:00-07:00",
+   "end": "2026-10-08T17:00:00-07:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "Mathewson-IGT Knowledge Center (MIKC)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/a-few-of-our-favorite-things-65-years-of-special-collections-and-university-archives"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:54116793908862",
+   "title": "On Location: Photographs from Robert Nuñez and Alejandra Rubio",
+   "start": "2026-10-08T08:00:00-07:00",
+   "end": "2026-10-08T20:00:00-07:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "McNamara Hallway Gallery",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/on-location-photographs-from-robert-nunez-and-alejandra-rubio"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:53743917461558",
+   "title": "92 Events: A Fluxus Show",
+   "start": "2026-10-08T12:00:00-07:00",
+   "end": "2026-10-08T16:00:00-07:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "Front Door Gallery",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/92-events-a-fluxus-show"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:53517862171251",
+   "title": "Case Discussion",
+   "start": "2026-10-08T12:00:00-07:00",
+   "end": "2026-10-08T13:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "RRMC Sierra 101",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/case-discussion-2459"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:53743835875118",
+   "title": "Earth's Winding Sheet",
+   "start": "2026-10-08T12:00:00-07:00",
+   "end": "2026-10-08T16:00:00-07:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "John & Geraldine Lilley Museum of Art",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/earths-winding-sheet"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:53743884150025",
+   "title": "Gather-Carry-Keep: Basketry from the Great Basin",
+   "start": "2026-10-08T12:00:00-07:00",
+   "end": "2026-10-08T16:00:00-07:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "Front Door Gallery",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/gather-carry-keep-basketry-from-the-great-basin"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:54118397017510",
+   "title": "UNLV Exchange Show: Death to Decorum",
+   "start": "2026-10-08T12:00:00-07:00",
+   "end": "2026-10-08T16:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Student Galleries South",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/unlv-exchange-show-death-to-decorum-8299"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:53799519171155",
+   "title": "Without Mountains and Rivers Without End: Speculative Geographics on an Interior Northwest",
+   "start": "2026-10-08T12:00:00-07:00",
+   "end": "2026-10-08T16:00:00-07:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "Sheppard Contemporary Gallery",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/without-mountains-and-rivers-without-end-speculative-geographics-on-an-interior-northwest"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:53517870065568",
+   "title": "Pediatric head injuries and management",
+   "start": "2026-10-08T14:00:00-07:00",
+   "end": "2026-10-08T16:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "RRMC Sierra 101",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/pediatric-head-injuries-and-management"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:54118399925857",
+   "title": "Keeping heritage languages alive: Benefits and strategies",
+   "start": "2026-10-08T16:00:00-07:00",
+   "end": "2026-10-08T17:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Jon Bilbao Basque Library",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/keeping-heritage-languages-alive-benefits-and-strategies"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:54039889589134",
+   "title": "LAUNCHNEVADA | Networking + Fireside chat w/ Danny Nikolai",
+   "start": "2026-10-08T16:00:00-07:00",
+   "end": "2026-10-08T19:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Joe Crowley Student Union (JCSU)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/launchnevada-networking-fireside-chat-w-danny-nikolai"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:53994887378755",
+   "title": "Faculty Colloquia Series - Carlos Mariscal Ph.D Presents \"Game Theory as a Guide to Universal Biology\"",
+   "start": "2026-10-08T16:30:00-07:00",
+   "end": "2026-10-08T19:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Nazir Ansari Building (AB)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/faculty-colloquia-series-carlos-mariscal-phd-presents-game-theory-as-a-guide-to-universal-biology"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:54039602943859",
+   "title": "Visiting Artist Lecture: \"Wait, is Reno part of the Pacific Northwest?”: UNR Art + Geography Panel Discussion",
+   "start": "2026-10-08T17:30:00-07:00",
+   "end": "2026-10-08T19:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "William J. Raggio Building (WRB)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/visiting-artist-lecturewait-is-reno-part-of-the-pacific-northwest-unr-art-geography-panel-discussion"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:53800072427797",
+   "title": "Nevada Women's Volleyball vs. UTEP",
+   "start": "2026-10-08T18:00:00-07:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Virginia Street Gym (VSG)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 10.0,
+    "max": 10.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/nevada-womens-volleyball-vs-utep"
+    },
+    {
+     "source": "wolfpack",
+     "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14130&sport_id=17"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:53613477211211",
+   "title": "Symphony Orchestra",
+   "start": "2026-10-08T19:30:00-07:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Nightingale Concert Hall",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 12.0,
+    "max": 12.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/symphony-orchestra"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:53543176633027",
+   "title": "A Few of Our Favorite Things: 65 Years of Special Collections and University Archives",
+   "start": "2026-10-09T08:00:00-07:00",
+   "end": "2026-10-09T17:00:00-07:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "Mathewson-IGT Knowledge Center (MIKC)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/a-few-of-our-favorite-things-65-years-of-special-collections-and-university-archives"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:54116793909887",
+   "title": "On Location: Photographs from Robert Nuñez and Alejandra Rubio",
+   "start": "2026-10-09T08:00:00-07:00",
+   "end": "2026-10-09T20:00:00-07:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "McNamara Hallway Gallery",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/on-location-photographs-from-robert-nunez-and-alejandra-rubio"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:53743917461559",
+   "title": "92 Events: A Fluxus Show",
+   "start": "2026-10-09T12:00:00-07:00",
+   "end": "2026-10-09T16:00:00-07:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "Front Door Gallery",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/92-events-a-fluxus-show"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:53743835876143",
+   "title": "Earth's Winding Sheet",
+   "start": "2026-10-09T12:00:00-07:00",
+   "end": "2026-10-09T16:00:00-07:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "John & Geraldine Lilley Museum of Art",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/earths-winding-sheet"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:54117303990956",
+   "title": "Emerging Techniques in 3D Modeling and Additive Manufacturing for Conformal RF Packaging and Metasurface Antennas",
+   "start": "2026-10-09T12:00:00-07:00",
+   "end": "2026-10-09T13:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "William N. Pennington Engineering Building (WPEB)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/emerging-techniques-in-3d-modeling-and-additive-manufacturing-for-conformal-rf-packaging-and-metasurface-antennas"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:53743884150026",
+   "title": "Gather-Carry-Keep: Basketry from the Great Basin",
+   "start": "2026-10-09T12:00:00-07:00",
+   "end": "2026-10-09T16:00:00-07:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "Front Door Gallery",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/gather-carry-keep-basketry-from-the-great-basin"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "wolfpack:vcal_14520-nevadawolfpack.com",
+   "title": "Nevada Softball vs Sacramento State",
+   "start": "2026-10-09T18:00:00-07:00",
+   "end": "2026-10-09T20:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Christina M. Hixson Softball Park",
+    "address": "Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "outdoors"
+   ],
+   "links": [
+    {
+     "source": "wolfpack",
+     "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14520&sport_id=8"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:53754068507949",
+   "title": "Apex: American Soundscapes",
+   "start": "2026-10-09T19:00:00-07:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Nightingale Concert Hall",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 40.0,
+    "max": 40.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/apex-american-soundscapes"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:48862404367538",
+   "title": "Pack Tracks Travel: Romance of the Douro River",
+   "start": "2026-10-10T00:00:00-07:00",
+   "end": null,
+   "allDay": true,
+   "ongoing": false,
+   "venue": {
+    "name": "Portugal",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/pack-tracks-travel-romance-of-the-douro-river"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:53543176634052",
+   "title": "A Few of Our Favorite Things: 65 Years of Special Collections and University Archives",
+   "start": "2026-10-10T08:00:00-07:00",
+   "end": "2026-10-10T17:00:00-07:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "Mathewson-IGT Knowledge Center (MIKC)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/a-few-of-our-favorite-things-65-years-of-special-collections-and-university-archives"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:53943012409448",
+   "title": "General and Pediatric Clinic",
+   "start": "2026-10-10T08:00:00-07:00",
+   "end": "2026-10-10T12:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "University Health Building",
+    "address": "745 West Moana Lane",
+    "lat": 39.49155,
+    "lon": -119.80455
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/general_and_pediatric_clinc"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:53800076387715",
+   "title": "Nevada Women's Volleyball vs. UTEP",
+   "start": "2026-10-10T12:00:00-07:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Virginia Street Gym (VSG)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 10.0,
+    "max": 10.0
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/nevada-womens-volleyball-vs-utep-2236"
+    },
+    {
+     "source": "wolfpack",
+     "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14131&sport_id=17"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "wolfpack:vcal_14521-nevadawolfpack.com",
+   "title": "Nevada Softball vs Sacramento City College",
+   "start": "2026-10-10T13:00:00-07:00",
+   "end": "2026-10-10T15:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Christina M. Hixson Softball Park",
+    "address": "Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "outdoors",
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "wolfpack",
+     "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14521&sport_id=8"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:53543176635077",
+   "title": "A Few of Our Favorite Things: 65 Years of Special Collections and University Archives",
+   "start": "2026-10-11T08:00:00-07:00",
+   "end": "2026-10-11T17:00:00-07:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "Mathewson-IGT Knowledge Center (MIKC)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/a-few-of-our-favorite-things-65-years-of-special-collections-and-university-archives"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:52941095778185",
+   "title": "Spanish Springs Library Garden Talk Series",
+   "start": "2026-10-11T13:30:00-07:00",
+   "end": "2026-10-11T15:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Spanish Springs Library",
+    "address": "7100A Pyramid Way",
+    "lat": 39.62083,
+    "lon": -119.72462
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/spanish-springs-library-garden-talk-series-4917"
+    }
+   ],
+   "lovingReno": null
+  }
+ ]
+}
