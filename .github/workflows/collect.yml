@@ -1,0 +1,49 @@
+name: collect
+
+on:
+  schedule:
+    # The Cloudflare Worker in natanforestree/finals-radar (worker/) dispatches
+    # this hourly at :30. GitHub's own schedule is unreliable, so it's a backup.
+    - cron: "47 * * * *"
+  workflow_dispatch:
+    inputs:
+      force_digest:
+        description: "Send the Discord digest now (for testing)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main   # a run queued behind another starts from the latest state, so the digest can't go twice
+
+      - name: Collect
+        env:
+          TICKETMASTER_KEY: ${{ secrets.TICKETMASTER_KEY }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          FORCE_DIGEST: ${{ inputs.force_digest }}
+        run: python3 collector/collect.py
+
+      - name: Commit data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data state
+          if git diff --cached --quiet; then echo "nothing new"; exit 0; fi
+          git commit -q -m "data: $(date -u +%Y-%m-%dT%H:%MZ)"
+          for i in 1 2 3; do
+            git push && exit 0
+            git pull --rebase -q
+          done
+          exit 1

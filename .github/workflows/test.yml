@@ -1,0 +1,22 @@
+name: test
+
+on:
+  push:
+    paths: ["collector/**", "tests/**", "docs/*.js", "package.json", ".github/workflows/test.yml"]
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v7
+      - name: Collector tests
+        run: python3 -m unittest discover -s tests -v
+      - uses: actions/setup-node@v7
+        if: hashFiles('tests/page/*.test.js') != ''
+        with:
+          node-version: 22
+      - name: Page logic tests
+        if: hashFiles('tests/page/*.test.js') != ''
+        run: npm test
