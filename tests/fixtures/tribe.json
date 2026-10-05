@@ -1,0 +1,23 @@
+{"events": [
+  {"id": 11, "title": "Small Wonder Wednesday", "start_date": "2026-10-07 09:00:00", "end_date": "2026-10-07 10:00:00",
+   "all_day": false, "url": "https://nvdm.org/event/small-wonder-wednesday/2026-10-07/", "cost": "",
+   "categories": [{"name": "Special Hours"}], "tags": [],
+   "venue": {"venue": "The Discovery", "address": "490 S. Center Street", "city": "Reno", "stateprovince": "NV", "zip": "89501"}},
+  {"id": 12, "title": "Members&#8217; Night", "start_date": "2026-10-08 17:00:00", "end_date": "2026-10-08 19:00:00",
+   "all_day": false, "url": "https://nvdm.org/event/members-night/", "cost": "", "categories": [{"name": "Members-only"}],
+   "tags": [], "venue": {"venue": "The Discovery", "city": "Reno"}},
+  {"id": 13, "title": "Discovery After Dark", "start_date": "2026-10-09 18:00:00", "end_date": "2026-10-09 21:00:00",
+   "all_day": false, "url": "https://nvdm.org/event/after-dark/", "cost": "$25 &#8211; $35",
+   "categories": [{"name": "Adults-only"}], "tags": [], "venue": {"venue": "The Discovery", "city": "Reno"}},
+  {"id": 14, "title": "Live Music at Casey&#039;s", "start_date": "2026-10-05 21:00:00", "end_date": "2026-10-05 23:00:00",
+   "all_day": false, "url": "https://visitlaketahoe.com/event/live-music-caseys/", "cost": "Free",
+   "categories": [{"name": "Kids &amp; Families"}, {"name": "Music &amp; Dance"}], "tags": [],
+   "venue": {"venue": "Casey's", "city": "Zephyr Cove", "geo_lat": 39.0055, "geo_lng": -119.9486}},
+  {"id": 15, "title": "Meyers Mountain Fall Festival", "start_date": "2026-10-10 10:00:00", "end_date": "2026-10-10 16:00:00",
+   "all_day": false, "url": "https://visitlaketahoe.com/event/meyers-fall-festival/", "cost": "",
+   "categories": [{"name": "Kids &amp; Families"}], "tags": [{"name": "Festival"}],
+   "venue": {"venue": "Meyers Community Center", "city": "South Lake Tahoe", "stateprovince": "CA"}},
+  {"id": 16, "title": "Ghost Walk", "start_date": "2026-10-10 00:00:00", "end_date": "2026-10-11 23:59:59",
+   "all_day": true, "url": "https://visitvirginiacitynv.com/event/ghost-walk/", "cost": "", "categories": [], "tags": [],
+   "venue": []}
+], "total": 6, "total_pages": 1}

@@ -1,0 +1,914 @@
+{
+ "events": [
+  {
+   "id": 11689,
+   "url": "https://nvdm.org/event/fall-break-open-monday/",
+   "title": "Fall Break: Open Monday",
+   "all_day": false,
+   "start_date": "2026-10-05 10:00:00",
+   "end_date": "2026-10-05 17:00:00",
+   "timezone": "America/Los_Angeles",
+   "cost": "",
+   "description": "",
+   "excerpt": "",
+   "categories": [
+    {
+     "name": "Special Hours",
+     "slug": "special-hours"
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "venue": "The Discovery",
+    "address": "490 S. Center Street",
+    "city": "Reno",
+    "stateprovince": "NV",
+    "zip": "89501"
+   }
+  },
+  {
+   "id": 42305,
+   "url": "https://nvdm.org/event/world-space-week-rocket-revolution/",
+   "title": "World Space Week: Rocket Revolution",
+   "all_day": false,
+   "start_date": "2026-10-05 10:00:00",
+   "end_date": "2026-10-05 17:00:00",
+   "timezone": "UTC-8",
+   "cost": "",
+   "description": "",
+   "excerpt": "",
+   "categories": [
+    {
+     "name": "Hands-on Activity",
+     "slug": "hands-on-activity"
+    },
+    {
+     "name": "Special Event",
+     "slug": "special-event"
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "venue": "The Discovery",
+    "address": "490 S. Center Street",
+    "city": "Reno",
+    "stateprovince": "NV",
+    "zip": "89501"
+   }
+  },
+  {
+   "id": 42326,
+   "url": "https://nvdm.org/event/world-space-week-rocket-revolution-2026-10-06/",
+   "title": "World Space Week: Rocket Revolution",
+   "all_day": false,
+   "start_date": "2026-10-06 10:00:00",
+   "end_date": "2026-10-06 17:00:00",
+   "timezone": "UTC-8",
+   "cost": "",
+   "description": "",
+   "excerpt": "",
+   "categories": [
+    {
+     "name": "Hands-on Activity",
+     "slug": "hands-on-activity"
+    },
+    {
+     "name": "Special Event",
+     "slug": "special-event"
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "venue": "The Discovery",
+    "address": "490 S. Center Street",
+    "city": "Reno",
+    "stateprovince": "NV",
+    "zip": "89501"
+   }
+  },
+  {
+   "id": 42052,
+   "url": "https://nvdm.org/event/small-wonder-wednesday-2026-07-22/2026-10-07/",
+   "title": "Small Wonder Wednesday",
+   "all_day": false,
+   "start_date": "2026-10-07 09:00:00",
+   "end_date": "2026-10-07 10:00:00",
+   "timezone": "UTC-8",
+   "cost": "",
+   "description": "",
+   "excerpt": "",
+   "categories": [
+    {
+     "name": "Special Hours",
+     "slug": "special-hours"
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "venue": "The Discovery",
+    "address": "490 S. Center Street",
+    "city": "Reno",
+    "stateprovince": "NV",
+    "zip": "89501"
+   }
+  },
+  {
+   "id": 42327,
+   "url": "https://nvdm.org/event/world-space-week-rocket-revolution-2026-10-07/",
+   "title": "World Space Week: Rocket Revolution",
+   "all_day": false,
+   "start_date": "2026-10-07 10:00:00",
+   "end_date": "2026-10-07 19:30:00",
+   "timezone": "UTC-8",
+   "cost": "",
+   "description": "",
+   "excerpt": "",
+   "categories": [
+    {
+     "name": "Hands-on Activity",
+     "slug": "hands-on-activity"
+    },
+    {
+     "name": "Special Event",
+     "slug": "special-event"
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "venue": "The Discovery",
+    "address": "490 S. Center Street",
+    "city": "Reno",
+    "stateprovince": "NV",
+    "zip": "89501"
+   }
+  },
+  {
+   "id": 42328,
+   "url": "https://nvdm.org/event/world-space-week-rocket-revolution-2026-10-08/",
+   "title": "World Space Week: Rocket Revolution",
+   "all_day": false,
+   "start_date": "2026-10-08 10:00:00",
+   "end_date": "2026-10-08 17:00:00",
+   "timezone": "UTC-8",
+   "cost": "",
+   "description": "",
+   "excerpt": "",
+   "categories": [
+    {
+     "name": "Hands-on Activity",
+     "slug": "hands-on-activity"
+    },
+    {
+     "name": "Special Event",
+     "slug": "special-event"
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "venue": "The Discovery",
+    "address": "490 S. Center Street",
+    "city": "Reno",
+    "stateprovince": "NV",
+    "zip": "89501"
+   }
+  },
+  {
+   "id": 42329,
+   "url": "https://nvdm.org/event/world-space-week-rocket-revolution-2026-10-09/",
+   "title": "World Space Week: Rocket Revolution",
+   "all_day": false,
+   "start_date": "2026-10-09 10:00:00",
+   "end_date": "2026-10-09 17:00:00",
+   "timezone": "UTC-8",
+   "cost": "",
+   "description": "",
+   "excerpt": "",
+   "categories": [
+    {
+     "name": "Hands-on Activity",
+     "slug": "hands-on-activity"
+    },
+    {
+     "name": "Special Event",
+     "slug": "special-event"
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "venue": "The Discovery",
+    "address": "490 S. Center Street",
+    "city": "Reno",
+    "stateprovince": "NV",
+    "zip": "89501"
+   }
+  },
+  {
+   "id": 42330,
+   "url": "https://nvdm.org/event/world-space-week-rocket-revolution-2026-10-10/",
+   "title": "World Space Week: Rocket Revolution",
+   "all_day": false,
+   "start_date": "2026-10-10 10:00:00",
+   "end_date": "2026-10-10 17:00:00",
+   "timezone": "UTC-8",
+   "cost": "",
+   "description": "",
+   "excerpt": "",
+   "categories": [
+    {
+     "name": "Hands-on Activity",
+     "slug": "hands-on-activity"
+    },
+    {
+     "name": "Special Event",
+     "slug": "special-event"
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "venue": "The Discovery",
+    "address": "490 S. Center Street",
+    "city": "Reno",
+    "stateprovince": "NV",
+    "zip": "89501"
+   }
+  },
+  {
+   "id": 42841,
+   "url": "https://nvdm.org/event/make-a-lucha-libre-mask-2026-10-11/",
+   "title": "Make a Lucha Libre Mask",
+   "all_day": false,
+   "start_date": "2026-10-11 10:30:00",
+   "end_date": "2026-10-11 16:30:00",
+   "timezone": "UTC-8",
+   "cost": "",
+   "description": "",
+   "excerpt": "",
+   "categories": [
+    {
+     "name": "Hands-on Activity",
+     "slug": "hands-on-activity"
+    },
+    {
+     "name": "Maker Project",
+     "slug": "maker-project"
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "venue": "The Discovery",
+    "address": "490 S. Center Street",
+    "city": "Reno",
+    "stateprovince": "NV",
+    "zip": "89501"
+   }
+  },
+  {
+   "id": 42820,
+   "url": "https://nvdm.org/event/fall-break-open-monday/2026-10-12/",
+   "title": "Fall Break: Open Monday",
+   "all_day": false,
+   "start_date": "2026-10-12 10:00:00",
+   "end_date": "2026-10-12 17:00:00",
+   "timezone": "America/Los_Angeles",
+   "cost": "",
+   "description": "",
+   "excerpt": "",
+   "categories": [
+    {
+     "name": "Special Hours",
+     "slug": "special-hours"
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "venue": "The Discovery",
+    "address": "490 S. Center Street",
+    "city": "Reno",
+    "stateprovince": "NV",
+    "zip": "89501"
+   }
+  },
+  {
+   "id": 42053,
+   "url": "https://nvdm.org/event/small-wonder-wednesday-2026-07-22/2026-10-14/",
+   "title": "Small Wonder Wednesday",
+   "all_day": false,
+   "start_date": "2026-10-14 09:00:00",
+   "end_date": "2026-10-14 10:00:00",
+   "timezone": "UTC-8",
+   "cost": "",
+   "description": "",
+   "excerpt": "",
+   "categories": [
+    {
+     "name": "Special Hours",
+     "slug": "special-hours"
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "venue": "The Discovery",
+    "address": "490 S. Center Street",
+    "city": "Reno",
+    "stateprovince": "NV",
+    "zip": "89501"
+   }
+  },
+  {
+   "id": 42842,
+   "url": "https://nvdm.org/event/make-a-lucha-libre-mask__trashed/2026-10-14/",
+   "title": "Make a Lucha Libre Mask",
+   "all_day": false,
+   "start_date": "2026-10-14 16:30:00",
+   "end_date": "2026-10-14 19:30:00",
+   "timezone": "UTC-8",
+   "cost": "",
+   "description": "",
+   "excerpt": "",
+   "categories": [
+    {
+     "name": "Hands-on Activity",
+     "slug": "hands-on-activity"
+    },
+    {
+     "name": "Maker Project",
+     "slug": "maker-project"
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "venue": "The Discovery",
+    "address": "490 S. Center Street",
+    "city": "Reno",
+    "stateprovince": "NV",
+    "zip": "89501"
+   }
+  },
+  {
+   "id": 42756,
+   "url": "https://nvdm.org/event/stem-lab-girl-power/",
+   "title": "STEM Lab: Girl Power",
+   "all_day": false,
+   "start_date": "2026-10-17 10:30:00",
+   "end_date": "2026-10-17 15:00:00",
+   "timezone": "UTC-8",
+   "cost": "",
+   "description": "",
+   "excerpt": "",
+   "categories": [
+    {
+     "name": "EMPOW[HER]",
+     "slug": "empowher"
+    },
+    {
+     "name": "Hands-on Activity",
+     "slug": "hands-on-activity"
+    },
+    {
+     "name": "STEM Lab",
+     "slug": "stem-lab"
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "venue": "The Discovery",
+    "address": "490 S. Center Street",
+    "city": "Reno",
+    "stateprovince": "NV",
+    "zip": "89501"
+   }
+  },
+  {
+   "id": 42843,
+   "url": "https://nvdm.org/event/make-a-lucha-libre-mask-2026-10-17/",
+   "title": "Make a Lucha Libre Mask",
+   "all_day": false,
+   "start_date": "2026-10-17 10:30:00",
+   "end_date": "2026-10-17 16:30:00",
+   "timezone": "UTC-8",
+   "cost": "",
+   "description": "",
+   "excerpt": "",
+   "categories": [
+    {
+     "name": "Hands-on Activity",
+     "slug": "hands-on-activity"
+    },
+    {
+     "name": "Maker Project",
+     "slug": "maker-project"
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "venue": "The Discovery",
+    "address": "490 S. Center Street",
+    "city": "Reno",
+    "stateprovince": "NV",
+    "zip": "89501"
+   }
+  },
+  {
+   "id": 42844,
+   "url": "https://nvdm.org/event/make-a-lucha-libre-mask-2026-10-18/",
+   "title": "Make a Lucha Libre Mask",
+   "all_day": false,
+   "start_date": "2026-10-18 10:30:00",
+   "end_date": "2026-10-18 16:30:00",
+   "timezone": "UTC-8",
+   "cost": "",
+   "description": "",
+   "excerpt": "",
+   "categories": [
+    {
+     "name": "Hands-on Activity",
+     "slug": "hands-on-activity"
+    },
+    {
+     "name": "Maker Project",
+     "slug": "maker-project"
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "venue": "The Discovery",
+    "address": "490 S. Center Street",
+    "city": "Reno",
+    "stateprovince": "NV",
+    "zip": "89501"
+   }
+  },
+  {
+   "id": 42054,
+   "url": "https://nvdm.org/event/small-wonder-wednesday-2026-07-22/2026-10-21/",
+   "title": "Small Wonder Wednesday",
+   "all_day": false,
+   "start_date": "2026-10-21 09:00:00",
+   "end_date": "2026-10-21 10:00:00",
+   "timezone": "UTC-8",
+   "cost": "",
+   "description": "",
+   "excerpt": "",
+   "categories": [
+    {
+     "name": "Special Hours",
+     "slug": "special-hours"
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "venue": "The Discovery",
+    "address": "490 S. Center Street",
+    "city": "Reno",
+    "stateprovince": "NV",
+    "zip": "89501"
+   }
+  },
+  {
+   "id": 42267,
+   "url": "https://nvdm.org/event/15th-annual-halloween-trick-or-treat/",
+   "title": "15th Annual Halloween Trick or Treat",
+   "all_day": false,
+   "start_date": "2026-10-24 10:00:00",
+   "end_date": "2026-10-24 17:00:00",
+   "timezone": "UTC-8",
+   "cost": "",
+   "description": "",
+   "excerpt": "",
+   "categories": [
+    {
+     "name": "Hands-on Activity",
+     "slug": "hands-on-activity"
+    },
+    {
+     "name": "Special Event",
+     "slug": "special-event"
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "venue": "The Discovery",
+    "address": "490 S. Center Street",
+    "city": "Reno",
+    "stateprovince": "NV",
+    "zip": "89501"
+   }
+  },
+  {
+   "id": 42055,
+   "url": "https://nvdm.org/event/small-wonder-wednesday-2026-07-22/2026-10-28/",
+   "title": "Small Wonder Wednesday",
+   "all_day": false,
+   "start_date": "2026-10-28 09:00:00",
+   "end_date": "2026-10-28 10:00:00",
+   "timezone": "UTC-8",
+   "cost": "",
+   "description": "",
+   "excerpt": "",
+   "categories": [
+    {
+     "name": "Special Hours",
+     "slug": "special-hours"
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "venue": "The Discovery",
+    "address": "490 S. Center Street",
+    "city": "Reno",
+    "stateprovince": "NV",
+    "zip": "89501"
+   }
+  },
+  {
+   "id": 42056,
+   "url": "https://nvdm.org/event/small-wonder-wednesday-2026-07-22/2026-11-04/",
+   "title": "Small Wonder Wednesday",
+   "all_day": false,
+   "start_date": "2026-11-04 09:00:00",
+   "end_date": "2026-11-04 10:00:00",
+   "timezone": "UTC-8",
+   "cost": "",
+   "description": "",
+   "excerpt": "",
+   "categories": [
+    {
+     "name": "Special Hours",
+     "slug": "special-hours"
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "venue": "The Discovery",
+    "address": "490 S. Center Street",
+    "city": "Reno",
+    "stateprovince": "NV",
+    "zip": "89501"
+   }
+  },
+  {
+   "id": 42057,
+   "url": "https://nvdm.org/event/small-wonder-wednesday-2026-07-22/2026-11-11/",
+   "title": "Small Wonder Wednesday",
+   "all_day": false,
+   "start_date": "2026-11-11 09:00:00",
+   "end_date": "2026-11-11 10:00:00",
+   "timezone": "UTC-8",
+   "cost": "",
+   "description": "",
+   "excerpt": "",
+   "categories": [
+    {
+     "name": "Special Hours",
+     "slug": "special-hours"
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "venue": "The Discovery",
+    "address": "490 S. Center Street",
+    "city": "Reno",
+    "stateprovince": "NV",
+    "zip": "89501"
+   }
+  },
+  {
+   "id": 42787,
+   "url": "https://nvdm.org/event/the-discoverys-recycle-round-up/",
+   "title": "The Discovery\u2019s Recycle Round-up",
+   "all_day": false,
+   "start_date": "2026-11-14 10:00:00",
+   "end_date": "2026-11-14 17:00:00",
+   "timezone": "UTC-8",
+   "cost": "",
+   "description": "",
+   "excerpt": "",
+   "categories": [
+    {
+     "name": "Hands-on Activity",
+     "slug": "hands-on-activity"
+    },
+    {
+     "name": "Special Event",
+     "slug": "special-event"
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "venue": "The Discovery",
+    "address": "490 S. Center Street",
+    "city": "Reno",
+    "stateprovince": "NV",
+    "zip": "89501"
+   }
+  },
+  {
+   "id": 42058,
+   "url": "https://nvdm.org/event/small-wonder-wednesday-2026-07-22/2026-11-18/",
+   "title": "Small Wonder Wednesday",
+   "all_day": false,
+   "start_date": "2026-11-18 09:00:00",
+   "end_date": "2026-11-18 10:00:00",
+   "timezone": "UTC-8",
+   "cost": "",
+   "description": "",
+   "excerpt": "",
+   "categories": [
+    {
+     "name": "Special Hours",
+     "slug": "special-hours"
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "venue": "The Discovery",
+    "address": "490 S. Center Street",
+    "city": "Reno",
+    "stateprovince": "NV",
+    "zip": "89501"
+   }
+  },
+  {
+   "id": 42769,
+   "url": "https://nvdm.org/event/science-distilled-dark-skies-and-distant-galaxies/",
+   "title": "Science Distilled: Dark Skies &#038; Distant Galaxies",
+   "all_day": false,
+   "start_date": "2026-11-19 19:00:00",
+   "end_date": "2026-11-19 21:00:00",
+   "timezone": "UTC-8",
+   "cost": "",
+   "description": "",
+   "excerpt": "",
+   "categories": [
+    {
+     "name": "Adults-only",
+     "slug": "adults-only"
+    },
+    {
+     "name": "Lecture Series",
+     "slug": "lecture-series"
+    },
+    {
+     "name": "Science Distilled",
+     "slug": "science-distilled"
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "venue": "The Discovery",
+    "address": "490 S. Center Street",
+    "city": "Reno",
+    "stateprovince": "NV",
+    "zip": "89501"
+   }
+  },
+  {
+   "id": 42059,
+   "url": "https://nvdm.org/event/small-wonder-wednesday-2026-07-22/2026-11-25/",
+   "title": "Small Wonder Wednesday",
+   "all_day": false,
+   "start_date": "2026-11-25 09:00:00",
+   "end_date": "2026-11-25 10:00:00",
+   "timezone": "UTC-8",
+   "cost": "",
+   "description": "",
+   "excerpt": "",
+   "categories": [
+    {
+     "name": "Special Hours",
+     "slug": "special-hours"
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "venue": "The Discovery",
+    "address": "490 S. Center Street",
+    "city": "Reno",
+    "stateprovince": "NV",
+    "zip": "89501"
+   }
+  },
+  {
+   "id": 42060,
+   "url": "https://nvdm.org/event/small-wonder-wednesday-2026-07-22/2026-12-02/",
+   "title": "Small Wonder Wednesday",
+   "all_day": false,
+   "start_date": "2026-12-02 09:00:00",
+   "end_date": "2026-12-02 10:00:00",
+   "timezone": "UTC-8",
+   "cost": "",
+   "description": "",
+   "excerpt": "",
+   "categories": [
+    {
+     "name": "Special Hours",
+     "slug": "special-hours"
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "venue": "The Discovery",
+    "address": "490 S. Center Street",
+    "city": "Reno",
+    "stateprovince": "NV",
+    "zip": "89501"
+   }
+  },
+  {
+   "id": 42061,
+   "url": "https://nvdm.org/event/small-wonder-wednesday-2026-07-22/2026-12-09/",
+   "title": "Small Wonder Wednesday",
+   "all_day": false,
+   "start_date": "2026-12-09 09:00:00",
+   "end_date": "2026-12-09 10:00:00",
+   "timezone": "UTC-8",
+   "cost": "",
+   "description": "",
+   "excerpt": "",
+   "categories": [
+    {
+     "name": "Special Hours",
+     "slug": "special-hours"
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "venue": "The Discovery",
+    "address": "490 S. Center Street",
+    "city": "Reno",
+    "stateprovince": "NV",
+    "zip": "89501"
+   }
+  },
+  {
+   "id": 42062,
+   "url": "https://nvdm.org/event/small-wonder-wednesday-2026-07-22/2026-12-16/",
+   "title": "Small Wonder Wednesday",
+   "all_day": false,
+   "start_date": "2026-12-16 09:00:00",
+   "end_date": "2026-12-16 10:00:00",
+   "timezone": "UTC-8",
+   "cost": "",
+   "description": "",
+   "excerpt": "",
+   "categories": [
+    {
+     "name": "Special Hours",
+     "slug": "special-hours"
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "venue": "The Discovery",
+    "address": "490 S. Center Street",
+    "city": "Reno",
+    "stateprovince": "NV",
+    "zip": "89501"
+   }
+  },
+  {
+   "id": 42063,
+   "url": "https://nvdm.org/event/small-wonder-wednesday-2026-07-22/2026-12-23/",
+   "title": "Small Wonder Wednesday",
+   "all_day": false,
+   "start_date": "2026-12-23 09:00:00",
+   "end_date": "2026-12-23 10:00:00",
+   "timezone": "UTC-8",
+   "cost": "",
+   "description": "",
+   "excerpt": "",
+   "categories": [
+    {
+     "name": "Special Hours",
+     "slug": "special-hours"
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "venue": "The Discovery",
+    "address": "490 S. Center Street",
+    "city": "Reno",
+    "stateprovince": "NV",
+    "zip": "89501"
+   }
+  },
+  {
+   "id": 42064,
+   "url": "https://nvdm.org/event/small-wonder-wednesday-2026-07-22/2026-12-30/",
+   "title": "Small Wonder Wednesday",
+   "all_day": false,
+   "start_date": "2026-12-30 09:00:00",
+   "end_date": "2026-12-30 10:00:00",
+   "timezone": "UTC-8",
+   "cost": "",
+   "description": "",
+   "excerpt": "",
+   "categories": [
+    {
+     "name": "Special Hours",
+     "slug": "special-hours"
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "venue": "The Discovery",
+    "address": "490 S. Center Street",
+    "city": "Reno",
+    "stateprovince": "NV",
+    "zip": "89501"
+   }
+  },
+  {
+   "id": 38871,
+   "url": "https://nvdm.org/event/lego-robot-rumble-2027-01-30/2027-01-30/",
+   "title": "LEGO\u00ae Robot Rumble",
+   "all_day": false,
+   "start_date": "2027-01-30 10:00:00",
+   "end_date": "2027-01-30 16:00:00",
+   "timezone": "UTC-8",
+   "cost": "",
+   "description": "",
+   "excerpt": "",
+   "categories": [
+    {
+     "name": "Hands-on Activity",
+     "slug": "hands-on-activity"
+    },
+    {
+     "name": "Technology",
+     "slug": "technology"
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "venue": "The Discovery",
+    "address": "490 S. Center Street",
+    "city": "Reno",
+    "stateprovince": "NV",
+    "zip": "89501"
+   }
+  },
+  {
+   "id": 42815,
+   "url": "https://nvdm.org/event/lego-robot-rumble-2027-01-30/2027-02-13/",
+   "title": "LEGO\u00ae Robot Rumble",
+   "all_day": false,
+   "start_date": "2027-02-13 10:00:00",
+   "end_date": "2027-02-13 16:00:00",
+   "timezone": "UTC-8",
+   "cost": "",
+   "description": "",
+   "excerpt": "",
+   "categories": [
+    {
+     "name": "Hands-on Activity",
+     "slug": "hands-on-activity"
+    },
+    {
+     "name": "Technology",
+     "slug": "technology"
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "venue": "The Discovery",
+    "address": "490 S. Center Street",
+    "city": "Reno",
+    "stateprovince": "NV",
+    "zip": "89501"
+   }
+  },
+  {
+   "id": 42816,
+   "url": "https://nvdm.org/event/lego-robot-rumble-2027-01-30/2027-02-27/",
+   "title": "LEGO\u00ae Robot Rumble",
+   "all_day": false,
+   "start_date": "2027-02-27 10:00:00",
+   "end_date": "2027-02-27 16:00:00",
+   "timezone": "UTC-8",
+   "cost": "",
+   "description": "",
+   "excerpt": "",
+   "categories": [
+    {
+     "name": "Hands-on Activity",
+     "slug": "hands-on-activity"
+    },
+    {
+     "name": "Technology",
+     "slug": "technology"
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "venue": "The Discovery",
+    "address": "490 S. Center Street",
+    "city": "Reno",
+    "stateprovince": "NV",
+    "zip": "89501"
+   }
+  }
+ ],
+ "total": 32,
+ "total_pages": 1
+}
