@@ -2008,6 +2008,8 @@ d['events'] = d['events'][:60]
 for w in d['events']:
     w['event']['description'] = ''
     w['event']['description_text'] = classify.cues(w['event'].get('description_text'))
+    for k in ('stream_info', 'stream_embed_code', 'stream_url', 'directions'):
+        w['event'].pop(k, None)     # write-ups and virtual-meeting join links/passcodes
 json.dump(d, open('tests/fixtures/real/unr.json', 'w'), indent=1)"
 python3 -m unittest tests.test_unr -v 2>&1 | tail -3     # run from tests/ is not needed; discover also works
 python3 dev/try_source.py unr
