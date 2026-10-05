@@ -1,0 +1,6384 @@
+{
+ "events": [
+  {
+   "event": {
+    "id": 53622698648337,
+    "title": "2026 Nevada Radon Poster Contest",
+    "url": "https://unr.az1.qualtrics.com/jfe/form/SV_8GrPProufhrgx5s",
+    "updated_at": "2026-10-05T04:20:34-07:00",
+    "created_at": "2026-08-05T13:52:46-07:00",
+    "facebook_id": null,
+    "first_date": "2026-08-05",
+    "last_date": "2026-11-20",
+    "hashtag": null,
+    "urlname": "2026-nevada-radon-poster-contest",
+    "user_id": 53311970161229,
+    "allows_reviews": false,
+    "allows_attendance": false,
+    "location": "",
+    "room_number": null,
+    "location_name": "",
+    "status": "live",
+    "experience": "virtual",
+    "created_by": 53311970161229,
+    "updated_by": 682110,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": true,
+    "free": true,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": null,
+    "ticket_url": "",
+    "ticket_cost": "0.00",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "",
+    "photo_id": 53870075720277,
+    "speaker_ids": [],
+    "detail_views": 908,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": null,
+     "longitude": null,
+     "street": null,
+     "city": null,
+     "state": null,
+     "country": null,
+     "zip": null
+    },
+    "groups": [
+     {
+      "id": 50385850788595,
+      "name": "Extension"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free",
+       "id": 27771
+      }
+     ],
+     "event_special_topics": [
+      {
+       "name": "Extension: Radon",
+       "id": 50383330209418
+      },
+      {
+       "name": "Extension Office: Washoe",
+       "id": 50392489404380
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Community Outreach",
+       "id": 29873
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53622698677071,
+       "event_id": 53622698648337,
+       "start": "2026-10-05T00:00:00-07:00",
+       "end": null,
+       "ranking": 0.09,
+       "all_day": true,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/2026-nevada-radon-poster-contest",
+    "localist_ics_url": "https://events.unr.edu/event/2026-nevada-radon-poster-contest.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/53870075720277/huge/cd0987e4680affb60a6d9ea993191dea909fa535.jpg"
+   }
+  },
+  {
+   "event": {
+    "id": 53366683965776,
+    "title": "4-H Vegas Rangers Archery Club",
+    "url": "https://www.eventbrite.com/e/4-h-vegas-rangers-archery-club-tickets-1991497437445?aff=ebdsoporgprofile#location",
+    "updated_at": "2026-10-05T04:15:13-07:00",
+    "created_at": "2026-07-07T15:23:43-07:00",
+    "facebook_id": null,
+    "first_date": "2026-09-14",
+    "last_date": "2027-05-10",
+    "hashtag": null,
+    "urlname": "4-h-vegas-rangers-archery-club",
+    "user_id": 37581470655420,
+    "allows_reviews": true,
+    "allows_attendance": true,
+    "location": "Clark County Shooting Sports Complex",
+    "room_number": "Archery Range",
+    "location_name": "Clark County Shooting Sports Complex",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 37581470655420,
+    "updated_by": 40662545225802,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "11357 N Decatur Blvd, North Las Vegas, NV 89131",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": true,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": null,
+    "ticket_url": "https://www.eventbrite.com/e/4-h-vegas-rangers-archery-club-tickets-1991497437445?aff=ebdsoporgprofile#location",
+    "ticket_cost": "",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "",
+    "photo_id": 53366684009845,
+    "speaker_ids": [],
+    "detail_views": 636,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": "36.352282",
+     "longitude": "-115.21689",
+     "street": "11357 North Decatur Boulevard",
+     "city": "Las Vegas",
+     "state": "NV",
+     "country": "US",
+     "zip": "89131"
+    },
+    "groups": [
+     {
+      "id": 50385850788595,
+      "name": "Extension"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free",
+       "id": 27771
+      },
+      {
+       "name": "Free, must register in advance",
+       "id": 32573956777940
+      }
+     ],
+     "event_special_topics": [
+      {
+       "name": "Extension Office: Clark",
+       "id": 50392489408478
+      },
+      {
+       "name": "Extension: Children, youth and family",
+       "id": 50392511812466
+      },
+      {
+       "name": "Extension: 4-H Youth Development",
+       "id": 50394039433458
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Youth Camps & Programs",
+       "id": 50392809450833
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53366683967828,
+       "event_id": 53366683965776,
+       "start": "2026-10-05T04:30:00-07:00",
+       "end": "2026-10-05T07:30:00-07:00",
+       "ranking": 0.09,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/4-h-vegas-rangers-archery-club",
+    "localist_ics_url": "https://events.unr.edu/event/4-h-vegas-rangers-archery-club.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/53366684009845/huge/3c25fd5dc095e751771e4cd310de081461f7ff6e.jpg"
+   }
+  },
+  {
+   "event": {
+    "id": 53569451056370,
+    "title": "Chat with Extension Master Gardeners (Lincoln County)",
+    "url": "https://extension.unr.edu/master-gardeners/program.aspx?ID=376",
+    "updated_at": "2026-10-05T04:19:08-07:00",
+    "created_at": "2026-07-30T13:26:10-07:00",
+    "facebook_id": null,
+    "first_date": "2026-08-03",
+    "last_date": "2026-12-28",
+    "hashtag": null,
+    "urlname": "chat-with-extension-master-gardeners-lincoln-county",
+    "user_id": 53244423278724,
+    "allows_reviews": true,
+    "allows_attendance": true,
+    "location": "Extension, Lincoln County Office",
+    "room_number": "",
+    "location_name": "Extension, Lincoln County Office",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 40662545225802,
+    "updated_by": 40662545225802,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": " 360 Lincoln Street, Caliente, Nevada 89008",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": true,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": null,
+    "ticket_url": "",
+    "ticket_cost": "",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "",
+    "photo_id": 53569451107602,
+    "speaker_ids": [],
+    "detail_views": 583,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": "37.616798",
+     "longitude": "-114.514982",
+     "street": "360 Lincoln Street",
+     "city": "Caliente",
+     "state": "NV",
+     "country": "US",
+     "zip": "89008"
+    },
+    "groups": [
+     {
+      "id": 50385850788595,
+      "name": "Extension"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free",
+       "id": 27771
+      }
+     ],
+     "event_special_topics": [
+      {
+       "name": "Extension: Horticulture",
+       "id": 50383330188931
+      },
+      {
+       "name": "Extension Office: Lincoln",
+       "id": 50392489391062
+      },
+      {
+       "name": "Extension: Master Gardeners",
+       "id": 50392495439338
+      },
+      {
+       "name": "Extension: Garden, trees and landscape",
+       "id": 50392543096229
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Training & Workshops",
+       "id": 28250
+      },
+      {
+       "name": "Community Outreach",
+       "id": 29873
+      },
+      {
+       "name": "Social Events",
+       "id": 32574214906246
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53569451063548,
+       "event_id": 53569451056370,
+       "start": "2026-10-05T07:00:00-07:00",
+       "end": "2026-10-05T09:00:00-07:00",
+       "ranking": 0.09,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/chat-with-extension-master-gardeners-lincoln-county",
+    "localist_ics_url": "https://events.unr.edu/event/chat-with-extension-master-gardeners-lincoln-county.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/53569451107602/huge/cd287afc2a50ef5252c2cd3a9c6ea9cd5eb43f5e.jpg"
+   }
+  },
+  {
+   "event": {
+    "id": 53543176582781,
+    "title": "A Few of Our Favorite Things: 65 Years of Special Collections and University Archives",
+    "url": "https://library.unr.edu/places/special-collections",
+    "updated_at": "2026-10-05T04:18:30-07:00",
+    "created_at": "2026-07-27T14:09:43-07:00",
+    "facebook_id": null,
+    "first_date": "2026-08-01",
+    "last_date": "2026-11-01",
+    "hashtag": null,
+    "urlname": "a-few-of-our-favorite-things-65-years-of-special-collections-and-university-archives",
+    "user_id": 100768,
+    "allows_reviews": true,
+    "allows_attendance": true,
+    "location": "",
+    "room_number": "3rd floor Special Collections and University Archives",
+    "location_name": "Mathewson-IGT Knowledge Center (MIKC)",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 100768,
+    "updated_by": 100768,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": true,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": 50569025465373,
+    "ticket_url": null,
+    "ticket_cost": null,
+    "has_register": true,
+    "keywords": [
+     "exhibits",
+     "SCUA",
+     "Special Collections UNR"
+    ],
+    "tags": [
+     "archives",
+     "exhibits",
+     "SCUA",
+     "Historical Collections"
+    ],
+    "description": "",
+    "description_text": "",
+    "photo_id": 53543256981613,
+    "speaker_ids": [],
+    "detail_views": 890,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": null,
+     "longitude": null,
+     "street": null,
+     "city": null,
+     "state": null,
+     "country": null,
+     "zip": null
+    },
+    "groups": [
+     {
+      "id": 50385858596823,
+      "name": "University Libraries"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free",
+       "id": 27771
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Arts & Culture",
+       "id": 27454
+      },
+      {
+       "name": "Community Outreach",
+       "id": 29873
+      },
+      {
+       "name": "Social Events",
+       "id": 32574214906246
+      },
+      {
+       "name": "Staff Engagement",
+       "id": 50392877815999
+      },
+      {
+       "name": "Exhibitions (recurring)",
+       "id": 52675932084337
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53543176629951,
+       "event_id": 53543176582781,
+       "start": "2026-10-05T08:00:00-07:00",
+       "end": "2026-10-05T17:00:00-07:00",
+       "ranking": 0.09,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/a-few-of-our-favorite-things-65-years-of-special-collections-and-university-archives",
+    "localist_ics_url": "https://events.unr.edu/event/a-few-of-our-favorite-things-65-years-of-special-collections-and-university-archives.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/53543256981613/huge/885832004470cec3793a588dae8706b0a3e55bdc.jpg",
+    "venue_url": "https://events.unr.edu/mathewson-igt-knowledge-center"
+   }
+  },
+  {
+   "event": {
+    "id": 54116793899639,
+    "title": "On Location: Photographs from Robert Nu\u00f1ez and Alejandra Rubio",
+    "url": "",
+    "updated_at": "2026-10-05T04:45:01-07:00",
+    "created_at": "2026-09-30T10:11:55-07:00",
+    "facebook_id": null,
+    "first_date": "2026-09-30",
+    "last_date": "2026-11-20",
+    "hashtag": null,
+    "urlname": "on-location-photographs-from-robert-nunez-and-alejandra-rubio",
+    "user_id": 50597815957096,
+    "allows_reviews": false,
+    "allows_attendance": false,
+    "location": "",
+    "room_number": "",
+    "location_name": "McNamara Hallway Gallery",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 50597815957096,
+    "updated_by": 50597815957096,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": true,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": 50569368843445,
+    "ticket_url": "",
+    "ticket_cost": "",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "family",
+    "photo_id": 54116794006177,
+    "speaker_ids": [],
+    "detail_views": 89,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": null,
+     "longitude": null,
+     "street": null,
+     "city": null,
+     "state": null,
+     "country": null,
+     "zip": null
+    },
+    "groups": [
+     {
+      "id": 50385845038723,
+      "name": "College of Liberal Arts"
+     },
+     {
+      "id": 50385810486923,
+      "name": "Department of Art, Art History and Design"
+     },
+     {
+      "id": 50385856925603,
+      "name": "School of the Arts"
+     },
+     {
+      "id": 51207413319178,
+      "name": "University Galleries"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free",
+       "id": 27771
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Exhibitions (recurring)",
+       "id": 52675932084337
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 54116793904763,
+       "event_id": 54116793899639,
+       "start": "2026-10-05T08:00:00-07:00",
+       "end": "2026-10-05T20:00:00-07:00",
+       "ranking": 0.09,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/on-location-photographs-from-robert-nunez-and-alejandra-rubio",
+    "localist_ics_url": "https://events.unr.edu/event/on-location-photographs-from-robert-nunez-and-alejandra-rubio.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/54116794006177/huge/ccf7ee2a9dd04753e50646fff5e81a03338e48c5.jpg",
+    "venue_url": "https://events.unr.edu/mcnamara-hallway-gallery"
+   }
+  },
+  {
+   "event": {
+    "id": 53746510993775,
+    "title": "Let\u2019s Discover STEM",
+    "url": "",
+    "updated_at": "2026-10-04T04:51:12-07:00",
+    "created_at": "2026-08-19T13:44:31-07:00",
+    "facebook_id": null,
+    "first_date": "2026-10-05",
+    "last_date": "2026-11-16",
+    "hashtag": null,
+    "urlname": "lets-discover-stem-5459",
+    "user_id": 52384648322368,
+    "allows_reviews": false,
+    "allows_attendance": false,
+    "location": "Elaine Wynn Elementary School",
+    "room_number": "",
+    "location_name": "Elaine Wynn Elementary School",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 52384648322368,
+    "updated_by": 49304054725173,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "5655 Edna Avenue, Las Vegas NV 89146",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": true,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": null,
+    "ticket_url": "",
+    "ticket_cost": "",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "children\u2019s children children's families Family",
+    "photo_id": 53746831100806,
+    "speaker_ids": [],
+    "detail_views": 311,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": "36.13604",
+     "longitude": "-115.219572",
+     "street": "5655 Edna Avenue",
+     "city": "Las Vegas",
+     "state": "NV",
+     "country": "US",
+     "zip": "89146"
+    },
+    "groups": [
+     {
+      "id": 50385850788595,
+      "name": "Extension"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free, must register in advance",
+       "id": 32573956777940
+      }
+     ],
+     "event_special_topics": [
+      {
+       "name": "Extension Office: Clark",
+       "id": 50392489408478
+      },
+      {
+       "name": "Extension: Children, youth and family",
+       "id": 50392511812466
+      },
+      {
+       "name": "Extension: Partners in Parenting",
+       "id": 50394223414722
+      },
+      {
+       "name": "Extension Office: Clark - North Las Vegas",
+       "id": 50445901387837
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Family Engagement",
+       "id": 50392824318029
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53746510993776,
+       "event_id": 53746510993775,
+       "start": "2026-10-05T09:00:00-07:00",
+       "end": "2026-10-05T10:30:00-07:00",
+       "ranking": 0.09,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/lets-discover-stem-5459",
+    "localist_ics_url": "https://events.unr.edu/event/lets-discover-stem-5459.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/53746831100806/huge/a1d1a4dba07d7dd6e29bf6cb61244094952a709a.jpg"
+   }
+  },
+  {
+   "event": {
+    "id": 52366518760262,
+    "title": "Dementia Conversations",
+    "url": "https://DEERprogram.org/dementia-conversations",
+    "updated_at": "2026-10-05T04:01:07-07:00",
+    "created_at": "2026-03-16T14:16:24-07:00",
+    "facebook_id": null,
+    "first_date": "2026-03-23",
+    "last_date": "2028-12-25",
+    "hashtag": null,
+    "urlname": "dementia-conversations",
+    "user_id": 52366024243777,
+    "allows_reviews": true,
+    "allows_attendance": true,
+    "location": "",
+    "room_number": null,
+    "location_name": "",
+    "status": "live",
+    "experience": "virtual",
+    "created_by": 52366024243777,
+    "updated_by": 53547594386367,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": true,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": null,
+    "ticket_url": "https://deerprogram.org/dc-register/",
+    "ticket_cost": "",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "",
+    "photo_id": 52366519038940,
+    "speaker_ids": [],
+    "detail_views": 1609,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": null,
+     "longitude": null,
+     "street": null,
+     "city": null,
+     "state": null,
+     "country": null,
+     "zip": null
+    },
+    "groups": [
+     {
+      "id": 52196715649314,
+      "name": "Dementia Engagement, Education, and Research (DEER) Program"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free, must register in advance",
+       "id": 32573956777940
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Health, Safety & Wellness",
+       "id": 32573779171279
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 52366518781795,
+       "event_id": 52366518760262,
+       "start": "2026-10-05T10:00:00-07:00",
+       "end": "2026-10-05T11:30:00-07:00",
+       "ranking": 0.09,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/dementia-conversations",
+    "localist_ics_url": "https://events.unr.edu/event/dementia-conversations.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/52366519038940/huge/afc77fcd8130a28d628d9e9c4417270f0d5f95d4.jpg"
+   }
+  },
+  {
+   "event": {
+    "id": 53736359599894,
+    "title": "Let's Talk",
+    "url": "https://www.unr.edu/counseling/outreach/lets-talk",
+    "updated_at": "2026-10-05T04:24:52-07:00",
+    "created_at": "2026-08-18T10:12:16-07:00",
+    "facebook_id": null,
+    "first_date": "2026-08-18",
+    "last_date": "2026-12-18",
+    "hashtag": null,
+    "urlname": "lets-talk-counseling",
+    "user_id": 45623193042133,
+    "allows_reviews": false,
+    "allows_attendance": false,
+    "location": "",
+    "room_number": "The Annex",
+    "location_name": "Great Basin Hall (GBH)",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 45623193042133,
+    "updated_by": 45623193042133,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": true,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": 50569021467245,
+    "ticket_url": "",
+    "ticket_cost": "",
+    "has_register": false,
+    "keywords": [
+     "Mental Health"
+    ],
+    "tags": [
+     "Mental health",
+     "Counseling Services"
+    ],
+    "description": "",
+    "description_text": "",
+    "photo_id": 53736534608157,
+    "speaker_ids": [],
+    "detail_views": 623,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": null,
+     "longitude": null,
+     "street": null,
+     "city": null,
+     "state": null,
+     "country": null,
+     "zip": null
+    },
+    "groups": [
+     {
+      "id": 50385845982867,
+      "name": "Counseling Services"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free",
+       "id": 27771
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Health, Safety & Wellness",
+       "id": 32573779171279
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53736496401848,
+       "event_id": 53736359599894,
+       "start": "2026-10-05T10:00:00-07:00",
+       "end": "2026-10-05T12:00:00-07:00",
+       "ranking": 0.09,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/lets-talk-counseling",
+    "localist_ics_url": "https://events.unr.edu/event/lets-talk-counseling.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/53736534608157/huge/bca047921cdf3499c521afe3f94ca481b808cfdf.jpg",
+    "venue_url": "https://events.unr.edu/great-basin-hall"
+   }
+  },
+  {
+   "event": {
+    "id": 53931637489605,
+    "title": "Online Webinar: Smart Nutrient Management Using Alternative Water Sources",
+    "url": "",
+    "updated_at": "2026-10-04T05:05:02-07:00",
+    "created_at": "2026-09-09T11:55:47-07:00",
+    "facebook_id": null,
+    "first_date": "2026-10-05",
+    "last_date": "2026-10-05",
+    "hashtag": null,
+    "urlname": "online-webinar-smart-nutrient-management-using-alternative-water-sources",
+    "user_id": 52647816174240,
+    "allows_reviews": false,
+    "allows_attendance": false,
+    "location": "",
+    "room_number": null,
+    "location_name": "",
+    "status": "live",
+    "experience": "virtual",
+    "created_by": 52647816174240,
+    "updated_by": 52647816174240,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": false,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": null,
+    "ticket_url": "  https://luma.com/kbaz91u1",
+    "ticket_cost": "",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "",
+    "photo_id": null,
+    "speaker_ids": [],
+    "detail_views": 195,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": null,
+     "longitude": null,
+     "street": null,
+     "city": null,
+     "state": null,
+     "country": null,
+     "zip": null
+    },
+    "groups": [
+     {
+      "id": 50385850788595,
+      "name": "Extension"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free",
+       "id": 27771
+      }
+     ],
+     "event_special_topics": [
+      {
+       "name": "Extension Office: Clark",
+       "id": 50392489408478
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Training & Workshops",
+       "id": 28250
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53931637490630,
+       "event_id": 53931637489605,
+       "start": "2026-10-05T11:00:00-07:00",
+       "end": "2026-10-05T12:00:00-07:00",
+       "ranking": 0.28,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/online-webinar-smart-nutrient-management-using-alternative-water-sources",
+    "localist_ics_url": "https://events.unr.edu/event/online-webinar-smart-nutrient-management-using-alternative-water-sources.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/50464774288721/huge/dd387cbe626d1c88b667dedcdf968e95faea9203.jpg"
+   }
+  },
+  {
+   "event": {
+    "id": 53930953578937,
+    "title": "Smart Nutrient Management Using Alternative Water Sources (Online) ",
+    "url": null,
+    "updated_at": "2026-10-04T05:04:54-07:00",
+    "created_at": "2026-09-09T10:04:28-07:00",
+    "facebook_id": null,
+    "first_date": "2026-10-05",
+    "last_date": "2026-10-05",
+    "hashtag": "gardening, water, savingwater, nutrients, sustainable, mastergardeners",
+    "urlname": "smart-nutrient-management-us-alternative-water-sources-online",
+    "user_id": 42042673341333,
+    "allows_reviews": false,
+    "allows_attendance": true,
+    "location": "",
+    "room_number": null,
+    "location_name": "",
+    "status": "live",
+    "experience": "virtual",
+    "created_by": 42042673341333,
+    "updated_by": 682110,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": false,
+    "free": true,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": null,
+    "ticket_url": "https://luma.com/kbaz91u1",
+    "ticket_cost": "Free, must register in advanced",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "",
+    "photo_id": 53933321299710,
+    "speaker_ids": [],
+    "detail_views": 375,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": null,
+     "longitude": null,
+     "street": null,
+     "city": null,
+     "state": null,
+     "country": null,
+     "zip": null
+    },
+    "groups": [
+     {
+      "id": 50385850788595,
+      "name": "Extension"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free, must register in advance",
+       "id": 32573956777940
+      }
+     ],
+     "event_special_topics": [
+      {
+       "name": "Extension: Horticulture",
+       "id": 50383330188931
+      },
+      {
+       "name": "Extension Office: Carson/Storey",
+       "id": 50392457919641
+      },
+      {
+       "name": "Extension Office: Douglas",
+       "id": 50392462261579
+      },
+      {
+       "name": "Extension Office: Churchill",
+       "id": 50392464776523
+      },
+      {
+       "name": "Extension Office: Clark - Lifelong Learning Center",
+       "id": 50392468095905
+      },
+      {
+       "name": "Extension Office: Clark - Laughlin",
+       "id": 50392471080417
+      },
+      {
+       "name": "Extension Office: Clark - Logandale",
+       "id": 50392473439588
+      },
+      {
+       "name": "Extension Office: Elko",
+       "id": 50392475266742
+      },
+      {
+       "name": "Extension Office: Eureka",
+       "id": 50392477271893
+      },
+      {
+       "name": "Extension Office: Humboldt",
+       "id": 50392489385940
+      },
+      {
+       "name": "Extension Office: Lander",
+       "id": 50392489387989
+      },
+      {
+       "name": "Extension Office: Lincoln",
+       "id": 50392489391062
+      },
+      {
+       "name": "Extension Office: Lyon",
+       "id": 50392489393111
+      },
+      {
+       "name": "Extension Office: Mineral",
+       "id": 50392489395160
+      },
+      {
+       "name": "Extension Office: Nye - Pahrump",
+       "id": 50392489397209
+      },
+      {
+       "name": "Extension Office: Nye - Tonopah",
+       "id": 50392489399258
+      },
+      {
+       "name": "Extension Office: Pershing",
+       "id": 50392489402331
+      },
+      {
+       "name": "Extension Office: Washoe",
+       "id": 50392489404380
+      },
+      {
+       "name": "Extension Office: White Pine",
+       "id": 50392489406429
+      },
+      {
+       "name": "Extension Office: Clark",
+       "id": 50392489408478
+      },
+      {
+       "name": "Extension: Master Gardeners",
+       "id": 50392495439338
+      },
+      {
+       "name": "Extension: Water conservation and quality",
+       "id": 50392543109546
+      },
+      {
+       "name": "Extension Office: Clark - North Las Vegas",
+       "id": 50445901387837
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Community Outreach",
+       "id": 29873
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53930953578938,
+       "event_id": 53930953578937,
+       "start": "2026-10-05T11:00:00-07:00",
+       "end": "2026-10-05T12:00:00-07:00",
+       "ranking": 0.28,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/smart-nutrient-management-us-alternative-water-sources-online",
+    "localist_ics_url": "https://events.unr.edu/event/smart-nutrient-management-us-alternative-water-sources-online.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/53933321299710/huge/3374489c6483630436473144136c35b2308887a6.jpg"
+   }
+  },
+  {
+   "event": {
+    "id": 53879582169759,
+    "title": "4-H Healthy Me",
+    "url": "tinyurl.com/HealthyMeWL",
+    "updated_at": "2026-10-05T04:34:08-07:00",
+    "created_at": "2026-09-03T14:43:14-07:00",
+    "facebook_id": null,
+    "first_date": "2026-09-14",
+    "last_date": "2026-10-19",
+    "hashtag": null,
+    "urlname": "4-h-healthy-me-1623",
+    "user_id": 37581470655420,
+    "allows_reviews": false,
+    "allows_attendance": false,
+    "location": "Windmill Library",
+    "room_number": "",
+    "location_name": "Windmill Library",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 37581470655420,
+    "updated_by": 40662545225802,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "7060 W Windmill Ln, Las Vegas, NV 89113",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": true,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": null,
+    "ticket_url": "tinyurl.com/HealthyMeWL",
+    "ticket_cost": "",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "children children's",
+    "photo_id": 53888336057176,
+    "speaker_ids": [],
+    "detail_views": 316,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": "36.042002",
+     "longitude": "-115.246344",
+     "street": "7060 West Windmill Lane",
+     "city": "Las Vegas",
+     "state": "NV",
+     "country": "US",
+     "zip": "89113"
+    },
+    "groups": [
+     {
+      "id": 50385850788595,
+      "name": "Extension"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free",
+       "id": 27771
+      },
+      {
+       "name": "Free, must register in advance",
+       "id": 32573956777940
+      }
+     ],
+     "event_special_topics": [
+      {
+       "name": "Extension Office: Clark",
+       "id": 50392489408478
+      },
+      {
+       "name": "Extension: Children, youth and family",
+       "id": 50392511812466
+      },
+      {
+       "name": "Extension: 4-H Youth Development",
+       "id": 50394039433458
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53879582174883,
+       "event_id": 53879582169759,
+       "start": "2026-10-05T12:00:00-07:00",
+       "end": "2026-10-05T13:00:00-07:00",
+       "ranking": 0.09,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/4-h-healthy-me-1623",
+    "localist_ics_url": "https://events.unr.edu/event/4-h-healthy-me-1623.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/53888336057176/huge/e06cd691827f1f1d1a92eff0b9cea5bd7a473f26.jpg"
+   }
+  },
+  {
+   "event": {
+    "id": 54118397009314,
+    "title": "UNLV Exchange Show: Death to Decorum",
+    "url": "",
+    "updated_at": "2026-10-05T04:45:13-07:00",
+    "created_at": "2026-09-30T14:32:50-07:00",
+    "facebook_id": null,
+    "first_date": "2026-10-01",
+    "last_date": "2026-10-21",
+    "hashtag": null,
+    "urlname": "unlv-exchange-show-death-to-decorum-8299",
+    "user_id": 54039016789541,
+    "allows_reviews": false,
+    "allows_attendance": false,
+    "location": "",
+    "room_number": "",
+    "location_name": "Student Galleries South",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 54039016789541,
+    "updated_by": 682110,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": true,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": 50569370176817,
+    "ticket_url": "",
+    "ticket_cost": "",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "",
+    "photo_id": 54118397179311,
+    "speaker_ids": [],
+    "detail_views": 166,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": null,
+     "longitude": null,
+     "street": null,
+     "city": null,
+     "state": null,
+     "country": null,
+     "zip": null
+    },
+    "groups": [
+     {
+      "id": 50385845038723,
+      "name": "College of Liberal Arts"
+     },
+     {
+      "id": 50385810486923,
+      "name": "Department of Art, Art History and Design"
+     },
+     {
+      "id": 50385852267290,
+      "name": "Interdisciplinary Arts"
+     },
+     {
+      "id": 50385856925603,
+      "name": "School of the Arts"
+     },
+     {
+      "id": 51207413319178,
+      "name": "University Galleries"
+     },
+     {
+      "id": 50385858816987,
+      "name": "University Museum District"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free",
+       "id": 27771
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Arts & Culture",
+       "id": 27454
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 54118397015460,
+       "event_id": 54118397009314,
+       "start": "2026-10-05T12:00:00-07:00",
+       "end": "2026-10-05T16:00:00-07:00",
+       "ranking": 0.09,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/unlv-exchange-show-death-to-decorum-8299",
+    "localist_ics_url": "https://events.unr.edu/event/unlv-exchange-show-death-to-decorum-8299.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/54118397179311/huge/3d8aaa971a681d7a23bdf1611df64d245cbe7b0a.jpg",
+    "venue_url": "https://events.unr.edu/student-galleries-south"
+   }
+  },
+  {
+   "event": {
+    "id": 53799519155770,
+    "title": "Without Mountains and Rivers Without End: Speculative Geographics on an Interior Northwest",
+    "url": "",
+    "updated_at": "2026-10-05T04:29:35-07:00",
+    "created_at": "2026-08-25T13:32:09-07:00",
+    "facebook_id": null,
+    "first_date": "2026-08-27",
+    "last_date": "2026-12-03",
+    "hashtag": null,
+    "urlname": "without-mountains-and-rivers-without-end-speculative-geographics-on-an-interior-northwest",
+    "user_id": 50597815957096,
+    "allows_reviews": false,
+    "allows_attendance": false,
+    "location": "",
+    "room_number": "",
+    "location_name": "Sheppard Contemporary Gallery",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 50597815957096,
+    "updated_by": 50597815957096,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": true,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": 50569369986336,
+    "ticket_url": "",
+    "ticket_cost": "",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "",
+    "photo_id": 53799767153478,
+    "speaker_ids": [],
+    "detail_views": 618,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": null,
+     "longitude": null,
+     "street": null,
+     "city": null,
+     "state": null,
+     "country": null,
+     "zip": null
+    },
+    "groups": [
+     {
+      "id": 50385845038723,
+      "name": "College of Liberal Arts"
+     },
+     {
+      "id": 50385810486923,
+      "name": "Department of Art, Art History and Design"
+     },
+     {
+      "id": 50385856925603,
+      "name": "School of the Arts"
+     },
+     {
+      "id": 51207413319178,
+      "name": "University Galleries"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free",
+       "id": 27771
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Exhibitions (recurring)",
+       "id": 52675932084337
+      },
+      {
+       "name": "Arts & Culture",
+       "id": 27454
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53799519170128,
+       "event_id": 53799519155770,
+       "start": "2026-10-05T12:00:00-07:00",
+       "end": "2026-10-05T16:00:00-07:00",
+       "ranking": 0.09,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/without-mountains-and-rivers-without-end-speculative-geographics-on-an-interior-northwest",
+    "localist_ics_url": "https://events.unr.edu/event/without-mountains-and-rivers-without-end-speculative-geographics-on-an-interior-northwest.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/53799767153478/huge/8b53e015754eea3d72c45dd9f534a740660ffc2b.jpg",
+    "venue_url": "https://events.unr.edu/sheppard-contemporary-gallery"
+   }
+  },
+  {
+   "event": {
+    "id": 54056376939822,
+    "title": "Irrigation 101 (4 Online Sessions)",
+    "url": "https://www.eventbrite.com/e/irrigation-101-4-online-sessions-tickets-2001898865396?aff=oddtdtcreator ",
+    "updated_at": "2026-10-05T04:41:56-07:00",
+    "created_at": "2026-09-23T14:18:26-07:00",
+    "facebook_id": null,
+    "first_date": "2026-10-05",
+    "last_date": "2026-10-14",
+    "hashtag": null,
+    "urlname": "irrigation-101-4-online-sessions",
+    "user_id": 52506114461338,
+    "allows_reviews": false,
+    "allows_attendance": false,
+    "location": "",
+    "room_number": null,
+    "location_name": "",
+    "status": "live",
+    "experience": "virtual",
+    "created_by": 52506114461338,
+    "updated_by": 682110,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": false,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": null,
+    "ticket_url": "https://www.eventbrite.com/e/irrigation-101-4-online-sessions-tickets-2001898865396?aff=oddtdtcreator ",
+    "ticket_cost": "40",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "",
+    "photo_id": 50464774288721,
+    "speaker_ids": [],
+    "detail_views": 99,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": null,
+     "longitude": null,
+     "street": null,
+     "city": null,
+     "state": null,
+     "country": null,
+     "zip": null
+    },
+    "groups": [
+     {
+      "id": 50385850788595,
+      "name": "Extension"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Paid",
+       "id": 28150
+      }
+     ],
+     "event_special_topics": [
+      {
+       "name": "Extension: Community and economic development",
+       "id": 50383330141812
+      },
+      {
+       "name": "Extension: Horticulture",
+       "id": 50383330188931
+      },
+      {
+       "name": "Extension Office: Clark - Lifelong Learning Center",
+       "id": 50392468095905
+      },
+      {
+       "name": "Extension Office: Washoe",
+       "id": 50392489404380
+      },
+      {
+       "name": "Extension Office: Clark",
+       "id": 50392489408478
+      },
+      {
+       "name": "Extension: Master Gardeners",
+       "id": 50392495439338
+      },
+      {
+       "name": "Extension: Self improvement",
+       "id": 50392543107497
+      },
+      {
+       "name": "Extension: Water conservation and quality",
+       "id": 50392543109546
+      },
+      {
+       "name": "Extension Office: Clark - North Las Vegas",
+       "id": 50445901387837
+      },
+      {
+       "name": "Extension: Soils",
+       "id": 50446085921251
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Training & Workshops",
+       "id": 28250
+      },
+      {
+       "name": "Community Outreach",
+       "id": 29873
+      },
+      {
+       "name": "Professional Development",
+       "id": 32574384099202
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 54056376940847,
+       "event_id": 54056376939822,
+       "start": "2026-10-05T13:00:00-07:00",
+       "end": "2026-10-05T15:00:00-07:00",
+       "ranking": 0.28,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/irrigation-101-4-online-sessions",
+    "localist_ics_url": "https://events.unr.edu/event/irrigation-101-4-online-sessions.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/50464774288721/huge/dd387cbe626d1c88b667dedcdf968e95faea9203.jpg"
+   }
+  },
+  {
+   "event": {
+    "id": 53736359599894,
+    "title": "Let's Talk",
+    "url": "https://www.unr.edu/counseling/outreach/lets-talk",
+    "updated_at": "2026-10-05T04:24:52-07:00",
+    "created_at": "2026-08-18T10:12:16-07:00",
+    "facebook_id": null,
+    "first_date": "2026-08-18",
+    "last_date": "2026-12-18",
+    "hashtag": null,
+    "urlname": "lets-talk-counseling",
+    "user_id": 45623193042133,
+    "allows_reviews": false,
+    "allows_attendance": false,
+    "location": "",
+    "room_number": "The Annex",
+    "location_name": "Great Basin Hall (GBH)",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 45623193042133,
+    "updated_by": 45623193042133,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": true,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": 50569021467245,
+    "ticket_url": "",
+    "ticket_cost": "",
+    "has_register": false,
+    "keywords": [
+     "Mental Health"
+    ],
+    "tags": [
+     "Mental health",
+     "Counseling Services"
+    ],
+    "description": "",
+    "description_text": "",
+    "photo_id": 53736534608157,
+    "speaker_ids": [],
+    "detail_views": 623,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": null,
+     "longitude": null,
+     "street": null,
+     "city": null,
+     "state": null,
+     "country": null,
+     "zip": null
+    },
+    "groups": [
+     {
+      "id": 50385845982867,
+      "name": "Counseling Services"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free",
+       "id": 27771
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Health, Safety & Wellness",
+       "id": 32573779171279
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53736496402873,
+       "event_id": 53736359599894,
+       "start": "2026-10-05T13:00:00-07:00",
+       "end": "2026-10-05T15:00:00-07:00",
+       "ranking": 0.09,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/lets-talk-counseling",
+    "localist_ics_url": "https://events.unr.edu/event/lets-talk-counseling.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/53736534608157/huge/bca047921cdf3499c521afe3f94ca481b808cfdf.jpg",
+    "venue_url": "https://events.unr.edu/great-basin-hall"
+   }
+  },
+  {
+   "event": {
+    "id": 54108945177204,
+    "title": "Voice Area Recital - Graduate Students and Seniors",
+    "url": "",
+    "updated_at": "2026-10-04T05:16:21-07:00",
+    "created_at": "2026-09-29T12:54:27-07:00",
+    "facebook_id": null,
+    "first_date": "2026-10-05",
+    "last_date": "2026-10-05",
+    "hashtag": null,
+    "urlname": "voice-area-recital-graduate-students-and-seniors",
+    "user_id": 54108918398427,
+    "allows_reviews": false,
+    "allows_attendance": false,
+    "location": "",
+    "room_number": "143",
+    "location_name": "University Foundation Arts (UFA)",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 54108918398427,
+    "updated_by": 49773598518278,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": false,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": 50569031461549,
+    "ticket_url": "",
+    "ticket_cost": "",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "",
+    "photo_id": 50544751435015,
+    "speaker_ids": [],
+    "detail_views": 75,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": null,
+     "longitude": null,
+     "street": null,
+     "city": null,
+     "state": null,
+     "country": null,
+     "zip": null
+    },
+    "groups": [
+     {
+      "id": 50385856808861,
+      "name": "School of Music"
+     }
+    ],
+    "filters": {
+     "event_types": [
+      {
+       "name": "Arts & Culture",
+       "id": 27454
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 54108945177205,
+       "event_id": 54108945177204,
+       "start": "2026-10-05T13:00:00-07:00",
+       "end": "2026-10-05T14:30:00-07:00",
+       "ranking": 0.28,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/voice-area-recital-graduate-students-and-seniors",
+    "localist_ics_url": "https://events.unr.edu/event/voice-area-recital-graduate-students-and-seniors.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/50544751435015/huge/1cdc32abbd10130b910df1c5fad4788eb116d012.jpg",
+    "venue_url": "https://events.unr.edu/university-foundation-arts"
+   }
+  },
+  {
+   "event": {
+    "id": 53367037239656,
+    "title": "4-H Afterschool at J. Harold Brinley Middle School",
+    "url": "https://extension.unr.edu/4h/clark-vegas.aspx",
+    "updated_at": "2026-10-05T04:15:14-07:00",
+    "created_at": "2026-07-07T16:21:13-07:00",
+    "facebook_id": null,
+    "first_date": "2026-08-24",
+    "last_date": "2027-04-29",
+    "hashtag": null,
+    "urlname": "4-h-afterschool-at-j-harold-brinley-middle-school",
+    "user_id": 37581470655420,
+    "allows_reviews": true,
+    "allows_attendance": true,
+    "location": "J. Harold Brinley Middle School",
+    "room_number": "",
+    "location_name": "J. Harold Brinley Middle School",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 37581470655420,
+    "updated_by": 40662545225802,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "2480 Maverick St, Las Vegas, NV 89108 ",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": true,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": null,
+    "ticket_url": "",
+    "ticket_cost": "",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "",
+    "photo_id": 53367037348331,
+    "speaker_ids": [],
+    "detail_views": 768,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": "36.204878",
+     "longitude": "-115.227564",
+     "street": "2480 Maverick Street",
+     "city": "Las Vegas",
+     "state": "NV",
+     "country": "US",
+     "zip": "89108"
+    },
+    "groups": [
+     {
+      "id": 50385850788595,
+      "name": "Extension"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free",
+       "id": 27771
+      },
+      {
+       "name": "Free, must register in advance",
+       "id": 32573956777940
+      }
+     ],
+     "event_special_topics": [
+      {
+       "name": "Extension Office: Clark",
+       "id": 50392489408478
+      },
+      {
+       "name": "Extension: Children, youth and family",
+       "id": 50392511812466
+      },
+      {
+       "name": "Extension: 4-H Youth Development",
+       "id": 50394039433458
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Youth Camps & Programs",
+       "id": 50392809450833
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53367037254015,
+       "event_id": 53367037239656,
+       "start": "2026-10-05T13:41:00-07:00",
+       "end": "2026-10-05T15:00:00-07:00",
+       "ranking": 0.09,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/4-h-afterschool-at-j-harold-brinley-middle-school",
+    "localist_ics_url": "https://events.unr.edu/event/4-h-afterschool-at-j-harold-brinley-middle-school.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/53367037348331/huge/1e73b7ae4c1982ce20d8fd9c207d937d834e2db4.jpg"
+   }
+  },
+  {
+   "event": {
+    "id": 53367130848126,
+    "title": "4-H Afterschool at Ralph Cadwallader Middle School",
+    "url": "https://extension.unr.edu/4h/clark-vegas.aspx",
+    "updated_at": "2026-10-05T04:15:16-07:00",
+    "created_at": "2026-07-07T16:36:27-07:00",
+    "facebook_id": null,
+    "first_date": "2026-08-31",
+    "last_date": "2027-05-04",
+    "hashtag": null,
+    "urlname": "4-h-afterschool-at-ralph-cadwallader-middle-school",
+    "user_id": 37581470655420,
+    "allows_reviews": true,
+    "allows_attendance": true,
+    "location": "Ralph Cadwallader Middle School",
+    "room_number": "",
+    "location_name": "Ralph Cadwallader Middle School",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 37581470655420,
+    "updated_by": 40662545225802,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "7775 Elkhorn Rd, Las Vegas, NV 89131",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": true,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": null,
+    "ticket_url": "",
+    "ticket_cost": "",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "",
+    "photo_id": 53367131010077,
+    "speaker_ids": [],
+    "detail_views": 758,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": "36.288908",
+     "longitude": "-115.263755",
+     "street": "7775 West Elkhorn Road",
+     "city": "Las Vegas",
+     "state": "NV",
+     "country": "US",
+     "zip": "89131"
+    },
+    "groups": [
+     {
+      "id": 50385850788595,
+      "name": "Extension"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free",
+       "id": 27771
+      },
+      {
+       "name": "Free, must register in advance",
+       "id": 32573956777940
+      }
+     ],
+     "event_special_topics": [
+      {
+       "name": "Extension Office: Clark",
+       "id": 50392489408478
+      },
+      {
+       "name": "Extension: Children, youth and family",
+       "id": 50392511812466
+      },
+      {
+       "name": "Extension: 4-H Youth Development",
+       "id": 50394039433458
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Youth Camps & Programs",
+       "id": 50392809450833
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53367130863510,
+       "event_id": 53367130848126,
+       "start": "2026-10-05T13:41:00-07:00",
+       "end": "2026-10-05T15:00:00-07:00",
+       "ranking": 0.09,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/4-h-afterschool-at-ralph-cadwallader-middle-school",
+    "localist_ics_url": "https://events.unr.edu/event/4-h-afterschool-at-ralph-cadwallader-middle-school.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/53367131010077/huge/70ad8856cb530078cd2e58262de6cc48fd41489c.jpg"
+   }
+  },
+  {
+   "event": {
+    "id": 53374420760704,
+    "title": "Get Career Fair Ready",
+    "url": "https://unr.joinhandshake.com/events/1966213/share_preview",
+    "updated_at": "2026-10-04T04:37:13-07:00",
+    "created_at": "2026-07-08T12:22:57-07:00",
+    "facebook_id": null,
+    "first_date": "2026-10-05",
+    "last_date": "2026-10-05",
+    "hashtag": null,
+    "urlname": "get-career-fair-ready-2226",
+    "user_id": 48791950439822,
+    "allows_reviews": true,
+    "allows_attendance": true,
+    "location": "Nevada Career Studio",
+    "room_number": "PSAC 208",
+    "location_name": "Nevada Career Studio",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 48791950439822,
+    "updated_by": 49773598518278,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "Pennington Student Achievement Center 1664 N Virginia St, Reno, NV 89557",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": false,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": null,
+    "ticket_url": "",
+    "ticket_cost": "",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "",
+    "photo_id": 53374420821125,
+    "speaker_ids": [],
+    "detail_views": 741,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": "39.548972",
+     "longitude": "-119.814026",
+     "street": "1664 North Virginia Street",
+     "city": "Reno",
+     "state": "NV",
+     "country": "US",
+     "zip": "89557"
+    },
+    "groups": [
+     {
+      "id": 50385854011207,
+      "name": "Nevada Career Studio"
+     }
+    ],
+    "filters": {
+     "event_types": [
+      {
+       "name": "Professional Development",
+       "id": 32574384099202
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53374420760705,
+       "event_id": 53374420760704,
+       "start": "2026-10-05T15:00:00-07:00",
+       "end": "2026-10-05T16:00:00-07:00",
+       "ranking": 0.28,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/get-career-fair-ready-2226",
+    "localist_ics_url": "https://events.unr.edu/event/get-career-fair-ready-2226.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/53374420821125/huge/a2de757bbd0be811f08ebbb6b1c442caad8494a0.jpg"
+   }
+  },
+  {
+   "event": {
+    "id": 53797894934442,
+    "title": "Puget Sound Naval Shipyard Information Session",
+    "url": "https://unr.joinhandshake.com/events/1997704/share_preview",
+    "updated_at": "2026-10-04T04:55:06-07:00",
+    "created_at": "2026-08-25T09:07:47-07:00",
+    "facebook_id": null,
+    "first_date": "2026-10-05",
+    "last_date": "2026-10-05",
+    "hashtag": null,
+    "urlname": "puget-sound-naval-shipyard-information-session",
+    "user_id": 30971534723930,
+    "allows_reviews": false,
+    "allows_attendance": false,
+    "location": "Nevada Career Studio",
+    "room_number": "PSAC Room 208",
+    "location_name": "Nevada Career Studio",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 30971534723930,
+    "updated_by": 30971534723930,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": false,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": null,
+    "ticket_url": "",
+    "ticket_cost": "",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "",
+    "photo_id": 50385564563484,
+    "speaker_ids": [],
+    "detail_views": 371,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": null,
+     "longitude": null,
+     "street": null,
+     "city": null,
+     "state": null,
+     "country": null,
+     "zip": null
+    },
+    "groups": [
+     {
+      "id": 50385854011207,
+      "name": "Nevada Career Studio"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free",
+       "id": 27771
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Professional Development",
+       "id": 32574384099202
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53797894934443,
+       "event_id": 53797894934442,
+       "start": "2026-10-05T17:00:00-07:00",
+       "end": "2026-10-05T18:00:00-07:00",
+       "ranking": 0.28,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/puget-sound-naval-shipyard-information-session",
+    "localist_ics_url": "https://events.unr.edu/event/puget-sound-naval-shipyard-information-session.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/50385564563484/huge/380bc71e09daa1b27b59890105097abc20dd4c03.jpg"
+   }
+  },
+  {
+   "event": {
+    "id": 53622698648337,
+    "title": "2026 Nevada Radon Poster Contest",
+    "url": "https://unr.az1.qualtrics.com/jfe/form/SV_8GrPProufhrgx5s",
+    "updated_at": "2026-10-05T04:20:34-07:00",
+    "created_at": "2026-08-05T13:52:46-07:00",
+    "facebook_id": null,
+    "first_date": "2026-08-05",
+    "last_date": "2026-11-20",
+    "hashtag": null,
+    "urlname": "2026-nevada-radon-poster-contest",
+    "user_id": 53311970161229,
+    "allows_reviews": false,
+    "allows_attendance": false,
+    "location": "",
+    "room_number": null,
+    "location_name": "",
+    "status": "live",
+    "experience": "virtual",
+    "created_by": 53311970161229,
+    "updated_by": 682110,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": true,
+    "free": true,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": null,
+    "ticket_url": "",
+    "ticket_cost": "0.00",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "",
+    "photo_id": 53870075720277,
+    "speaker_ids": [],
+    "detail_views": 908,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": null,
+     "longitude": null,
+     "street": null,
+     "city": null,
+     "state": null,
+     "country": null,
+     "zip": null
+    },
+    "groups": [
+     {
+      "id": 50385850788595,
+      "name": "Extension"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free",
+       "id": 27771
+      }
+     ],
+     "event_special_topics": [
+      {
+       "name": "Extension: Radon",
+       "id": 50383330209418
+      },
+      {
+       "name": "Extension Office: Washoe",
+       "id": 50392489404380
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Community Outreach",
+       "id": 29873
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53622698677072,
+       "event_id": 53622698648337,
+       "start": "2026-10-06T00:00:00-07:00",
+       "end": null,
+       "ranking": 0.08,
+       "all_day": true,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/2026-nevada-radon-poster-contest",
+    "localist_ics_url": "https://events.unr.edu/event/2026-nevada-radon-poster-contest.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/53870075720277/huge/cd0987e4680affb60a6d9ea993191dea909fa535.jpg"
+   }
+  },
+  {
+   "event": {
+    "id": 53543176582781,
+    "title": "A Few of Our Favorite Things: 65 Years of Special Collections and University Archives",
+    "url": "https://library.unr.edu/places/special-collections",
+    "updated_at": "2026-10-05T04:18:30-07:00",
+    "created_at": "2026-07-27T14:09:43-07:00",
+    "facebook_id": null,
+    "first_date": "2026-08-01",
+    "last_date": "2026-11-01",
+    "hashtag": null,
+    "urlname": "a-few-of-our-favorite-things-65-years-of-special-collections-and-university-archives",
+    "user_id": 100768,
+    "allows_reviews": true,
+    "allows_attendance": true,
+    "location": "",
+    "room_number": "3rd floor Special Collections and University Archives",
+    "location_name": "Mathewson-IGT Knowledge Center (MIKC)",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 100768,
+    "updated_by": 100768,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": true,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": 50569025465373,
+    "ticket_url": null,
+    "ticket_cost": null,
+    "has_register": true,
+    "keywords": [
+     "exhibits",
+     "SCUA",
+     "Special Collections UNR"
+    ],
+    "tags": [
+     "archives",
+     "exhibits",
+     "SCUA",
+     "Historical Collections"
+    ],
+    "description": "",
+    "description_text": "",
+    "photo_id": 53543256981613,
+    "speaker_ids": [],
+    "detail_views": 890,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": null,
+     "longitude": null,
+     "street": null,
+     "city": null,
+     "state": null,
+     "country": null,
+     "zip": null
+    },
+    "groups": [
+     {
+      "id": 50385858596823,
+      "name": "University Libraries"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free",
+       "id": 27771
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Arts & Culture",
+       "id": 27454
+      },
+      {
+       "name": "Community Outreach",
+       "id": 29873
+      },
+      {
+       "name": "Social Events",
+       "id": 32574214906246
+      },
+      {
+       "name": "Staff Engagement",
+       "id": 50392877815999
+      },
+      {
+       "name": "Exhibitions (recurring)",
+       "id": 52675932084337
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53543176630976,
+       "event_id": 53543176582781,
+       "start": "2026-10-06T08:00:00-07:00",
+       "end": "2026-10-06T17:00:00-07:00",
+       "ranking": 0.08,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/a-few-of-our-favorite-things-65-years-of-special-collections-and-university-archives",
+    "localist_ics_url": "https://events.unr.edu/event/a-few-of-our-favorite-things-65-years-of-special-collections-and-university-archives.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/53543256981613/huge/885832004470cec3793a588dae8706b0a3e55bdc.jpg",
+    "venue_url": "https://events.unr.edu/mathewson-igt-knowledge-center"
+   }
+  },
+  {
+   "event": {
+    "id": 54116793899639,
+    "title": "On Location: Photographs from Robert Nu\u00f1ez and Alejandra Rubio",
+    "url": "",
+    "updated_at": "2026-10-05T04:45:01-07:00",
+    "created_at": "2026-09-30T10:11:55-07:00",
+    "facebook_id": null,
+    "first_date": "2026-09-30",
+    "last_date": "2026-11-20",
+    "hashtag": null,
+    "urlname": "on-location-photographs-from-robert-nunez-and-alejandra-rubio",
+    "user_id": 50597815957096,
+    "allows_reviews": false,
+    "allows_attendance": false,
+    "location": "",
+    "room_number": "",
+    "location_name": "McNamara Hallway Gallery",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 50597815957096,
+    "updated_by": 50597815957096,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": true,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": 50569368843445,
+    "ticket_url": "",
+    "ticket_cost": "",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "family",
+    "photo_id": 54116794006177,
+    "speaker_ids": [],
+    "detail_views": 89,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": null,
+     "longitude": null,
+     "street": null,
+     "city": null,
+     "state": null,
+     "country": null,
+     "zip": null
+    },
+    "groups": [
+     {
+      "id": 50385845038723,
+      "name": "College of Liberal Arts"
+     },
+     {
+      "id": 50385810486923,
+      "name": "Department of Art, Art History and Design"
+     },
+     {
+      "id": 50385856925603,
+      "name": "School of the Arts"
+     },
+     {
+      "id": 51207413319178,
+      "name": "University Galleries"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free",
+       "id": 27771
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Exhibitions (recurring)",
+       "id": 52675932084337
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 54116793905788,
+       "event_id": 54116793899639,
+       "start": "2026-10-06T08:00:00-07:00",
+       "end": "2026-10-06T20:00:00-07:00",
+       "ranking": 0.08,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/on-location-photographs-from-robert-nunez-and-alejandra-rubio",
+    "localist_ics_url": "https://events.unr.edu/event/on-location-photographs-from-robert-nunez-and-alejandra-rubio.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/54116794006177/huge/ccf7ee2a9dd04753e50646fff5e81a03338e48c5.jpg",
+    "venue_url": "https://events.unr.edu/mcnamara-hallway-gallery"
+   }
+  },
+  {
+   "event": {
+    "id": 52995308374190,
+    "title": "Basic Web Accessibility Training- Virtual via Zoom",
+    "url": "",
+    "updated_at": "2026-10-05T04:19:42-07:00",
+    "created_at": "2026-05-26T15:58:28-07:00",
+    "facebook_id": null,
+    "first_date": "2026-08-11",
+    "last_date": "2027-01-12",
+    "hashtag": null,
+    "urlname": "basic-web-accessibility-training-virtual-via-zoom-4645",
+    "user_id": 31033628160262,
+    "allows_reviews": true,
+    "allows_attendance": true,
+    "location": "",
+    "room_number": null,
+    "location_name": "",
+    "status": "live",
+    "experience": "virtual",
+    "created_by": 31033628160262,
+    "updated_by": 31033628160262,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": true,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": null,
+    "ticket_url": "https://unr.zoom.us/meeting/register/9pfqwHDiS1uP2GD_Ipz5pg",
+    "ticket_cost": "",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "",
+    "photo_id": 53799862166968,
+    "speaker_ids": [],
+    "detail_views": 706,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": null,
+     "longitude": null,
+     "street": null,
+     "city": null,
+     "state": null,
+     "country": null,
+     "zip": null
+    },
+    "groups": [
+     {
+      "id": 50385855175527,
+      "name": "Teaching & Learning Technologies"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free",
+       "id": 27771
+      }
+     ],
+     "event_special_topics": [
+      {
+       "name": "TLT: Accessibility",
+       "id": 50383330377410
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53579111789341,
+       "event_id": 52995308374190,
+       "start": "2026-10-06T10:00:00-07:00",
+       "end": "2026-10-06T11:00:00-07:00",
+       "ranking": 0.08,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/basic-web-accessibility-training-virtual-via-zoom-4645",
+    "localist_ics_url": "https://events.unr.edu/event/basic-web-accessibility-training-virtual-via-zoom-4645.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/53799862166968/huge/55c71278870c7ae45ef1cd871e80294bc7e806e9.jpg"
+   }
+  },
+  {
+   "event": {
+    "id": 53931906251117,
+    "title": "Harvest to Health. A six-week gardening and food systems workshop.  (Las Vegas) ",
+    "url": "",
+    "updated_at": "2026-10-05T04:36:04-07:00",
+    "created_at": "2026-09-09T12:39:31-07:00",
+    "facebook_id": null,
+    "first_date": "2026-09-29",
+    "last_date": "2026-11-03",
+    "hashtag": "garden, gardening, healthyfood, foodjourney, mastergardeners",
+    "urlname": "Fall-harvest-to-health-a-six-week-gardening-and-food-systems-workshop-las-vegas",
+    "user_id": 42042673341333,
+    "allows_reviews": false,
+    "allows_attendance": true,
+    "location": "",
+    "room_number": "Classrooms - enter through Suite 100 lobby",
+    "location_name": "Clark County Extension Main Office",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 42042673341333,
+    "updated_by": 254526,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "8050 Paradise Road, Las Vegas, Nevada 89123",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": true,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": 50569187816584,
+    "ticket_url": "https://www.eventbrite.com/e/harvest-to-health-a-six-week-gardening-and-food-systems-workshop-1500-registration-1998995243585?aff=oddtdtcreator",
+    "ticket_cost": "15.00",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "",
+    "photo_id": 53931906193771,
+    "speaker_ids": [],
+    "detail_views": 768,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": "36.044203",
+     "longitude": "-115.135699",
+     "street": "8050 Paradise Road",
+     "city": "Las Vegas",
+     "state": "NV",
+     "country": "US",
+     "zip": "89123"
+    },
+    "groups": [
+     {
+      "id": 50385850788595,
+      "name": "Extension"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Paid",
+       "id": 28150
+      }
+     ],
+     "event_special_topics": [
+      {
+       "name": "Extension: Master Gardeners",
+       "id": 50392495439338
+      },
+      {
+       "name": "Extension Office: Clark - Lifelong Learning Center",
+       "id": 50392468095905
+      },
+      {
+       "name": "Extension Office: Clark",
+       "id": 50392489408478
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Community Outreach",
+       "id": 29873
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53931996936270,
+       "event_id": 53931906251117,
+       "start": "2026-10-06T10:00:00-07:00",
+       "end": "2026-10-06T12:30:00-07:00",
+       "ranking": 0.08,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/Fall-harvest-to-health-a-six-week-gardening-and-food-systems-workshop-las-vegas",
+    "localist_ics_url": "https://events.unr.edu/event/Fall-harvest-to-health-a-six-week-gardening-and-food-systems-workshop-las-vegas.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/53931906193771/huge/a346a04998a9277588077c866b72868f2312fca3.jpg",
+    "venue_url": "https://events.unr.edu/clark-county-extension-main-office"
+   }
+  },
+  {
+   "event": {
+    "id": 53736359599894,
+    "title": "Let's Talk",
+    "url": "https://www.unr.edu/counseling/outreach/lets-talk",
+    "updated_at": "2026-10-05T04:24:52-07:00",
+    "created_at": "2026-08-18T10:12:16-07:00",
+    "facebook_id": null,
+    "first_date": "2026-08-18",
+    "last_date": "2026-12-18",
+    "hashtag": null,
+    "urlname": "lets-talk-counseling",
+    "user_id": 45623193042133,
+    "allows_reviews": false,
+    "allows_attendance": false,
+    "location": "",
+    "room_number": "The Annex",
+    "location_name": "Great Basin Hall (GBH)",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 45623193042133,
+    "updated_by": 45623193042133,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": true,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": 50569021467245,
+    "ticket_url": "",
+    "ticket_cost": "",
+    "has_register": false,
+    "keywords": [
+     "Mental Health"
+    ],
+    "tags": [
+     "Mental health",
+     "Counseling Services"
+    ],
+    "description": "",
+    "description_text": "",
+    "photo_id": 53736534608157,
+    "speaker_ids": [],
+    "detail_views": 623,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": null,
+     "longitude": null,
+     "street": null,
+     "city": null,
+     "state": null,
+     "country": null,
+     "zip": null
+    },
+    "groups": [
+     {
+      "id": 50385845982867,
+      "name": "Counseling Services"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free",
+       "id": 27771
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Health, Safety & Wellness",
+       "id": 32573779171279
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53736496402874,
+       "event_id": 53736359599894,
+       "start": "2026-10-06T10:00:00-07:00",
+       "end": "2026-10-06T12:00:00-07:00",
+       "ranking": 0.08,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/lets-talk-counseling",
+    "localist_ics_url": "https://events.unr.edu/event/lets-talk-counseling.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/53736534608157/huge/bca047921cdf3499c521afe3f94ca481b808cfdf.jpg",
+    "venue_url": "https://events.unr.edu/great-basin-hall"
+   }
+  },
+  {
+   "event": {
+    "id": 53931369238441,
+    "title": "Let\u2019s Discover STEM",
+    "url": "",
+    "updated_at": "2026-10-05T04:35:56-07:00",
+    "created_at": "2026-09-09T11:12:07-07:00",
+    "facebook_id": null,
+    "first_date": "2026-10-06",
+    "last_date": "2026-11-24",
+    "hashtag": null,
+    "urlname": "lets-discover-stem-4072",
+    "user_id": 52384648322368,
+    "allows_reviews": false,
+    "allows_attendance": false,
+    "location": "Green Valley Library",
+    "room_number": "",
+    "location_name": "Green Valley Library",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 52384648322368,
+    "updated_by": 49304054725173,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "2797 N. Green Valley Parkway, Henderson NV 89014",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": true,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": null,
+    "ticket_url": "",
+    "ticket_cost": "",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "children\u2019s children children's families",
+    "photo_id": 54003373075613,
+    "speaker_ids": [],
+    "detail_views": 187,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": "36.070614",
+     "longitude": "-115.08337",
+     "street": "2797 North Green Valley Parkway",
+     "city": "Henderson",
+     "state": "NV",
+     "country": "US",
+     "zip": "89014"
+    },
+    "groups": [
+     {
+      "id": 50385850788595,
+      "name": "Extension"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free, must register in advance",
+       "id": 32573956777940
+      }
+     ],
+     "event_special_topics": [
+      {
+       "name": "Extension Office: Clark",
+       "id": 50392489408478
+      },
+      {
+       "name": "Extension: Children, youth and family",
+       "id": 50392511812466
+      },
+      {
+       "name": "Extension: Partners in Parenting",
+       "id": 50394223414722
+      },
+      {
+       "name": "Extension Office: Clark - North Las Vegas",
+       "id": 50445901387837
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Family Engagement",
+       "id": 50392824318029
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53931369243562,
+       "event_id": 53931369238441,
+       "start": "2026-10-06T10:30:00-07:00",
+       "end": "2026-10-06T12:00:00-07:00",
+       "ranking": 0.08,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/lets-discover-stem-4072",
+    "localist_ics_url": "https://events.unr.edu/event/lets-discover-stem-4072.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/54003373075613/huge/7866889677477539cf6a84d49a6f5885d8ea3c32.jpg"
+   }
+  },
+  {
+   "event": {
+    "id": 53171340314264,
+    "title": "STEM Career and Internship Fair",
+    "url": "https://app.joinhandshake.com/career_fairs/a67ed058-2635-42e9-b05d-2f104e556c95/student_preview",
+    "updated_at": "2026-10-05T11:31:58-07:00",
+    "created_at": "2026-06-15T13:29:30-07:00",
+    "facebook_id": null,
+    "first_date": "2026-10-06",
+    "last_date": "2026-10-06",
+    "hashtag": null,
+    "urlname": "stem-career-and-internship-fair-4107",
+    "user_id": 48791950439822,
+    "allows_reviews": true,
+    "allows_attendance": true,
+    "location": "",
+    "room_number": "4th floor Ballrooms",
+    "location_name": "Joe Crowley Student Union (JCSU)",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 48791950439822,
+    "updated_by": 54161519437251,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": false,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": 50569022519031,
+    "ticket_url": "",
+    "ticket_cost": "",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "",
+    "photo_id": 53171340376734,
+    "speaker_ids": [],
+    "detail_views": 1067,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": null,
+     "longitude": null,
+     "street": null,
+     "city": null,
+     "state": null,
+     "country": null,
+     "zip": null
+    },
+    "groups": [
+     {
+      "id": 50385854011207,
+      "name": "Nevada Career Studio"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free",
+       "id": 27771
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Professional Development",
+       "id": 32574384099202
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53171340314265,
+       "event_id": 53171340314264,
+       "start": "2026-10-06T11:00:00-07:00",
+       "end": "2026-10-06T14:00:00-07:00",
+       "ranking": 0.67,
+       "all_day": false,
+       "num_attending": 2
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/stem-career-and-internship-fair-4107",
+    "localist_ics_url": "https://events.unr.edu/event/stem-career-and-internship-fair-4107.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/53171340376734/huge/bafc19fe6f5f2352cfa2ad4ed854935dad470f25.jpg",
+    "venue_url": "https://events.unr.edu/joe-crowley-student-union"
+   }
+  },
+  {
+   "event": {
+    "id": 53743917450269,
+    "title": "92 Events: A Fluxus Show",
+    "url": "",
+    "updated_at": "2026-10-05T04:25:37-07:00",
+    "created_at": "2026-08-19T06:42:23-07:00",
+    "facebook_id": null,
+    "first_date": "2026-08-27",
+    "last_date": "2026-11-20",
+    "hashtag": null,
+    "urlname": "92-events-a-fluxus-show",
+    "user_id": 51029798528243,
+    "allows_reviews": false,
+    "allows_attendance": false,
+    "location": "Front Door Gallery",
+    "room_number": "",
+    "location_name": "Front Door Gallery",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 51029798528243,
+    "updated_by": 50597815957096,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": true,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": null,
+    "ticket_url": "",
+    "ticket_cost": "",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "",
+    "photo_id": 53743917499476,
+    "speaker_ids": [],
+    "detail_views": 622,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": null,
+     "longitude": null,
+     "street": null,
+     "city": null,
+     "state": null,
+     "country": null,
+     "zip": null
+    },
+    "groups": [
+     {
+      "id": 50385857892293,
+      "name": "The Lilley Museum"
+     },
+     {
+      "id": 50385845038723,
+      "name": "College of Liberal Arts"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free",
+       "id": 27771
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Arts & Culture",
+       "id": 27454
+      },
+      {
+       "name": "Exhibitions (recurring)",
+       "id": 52675932084337
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53743917460532,
+       "event_id": 53743917450269,
+       "start": "2026-10-06T12:00:00-07:00",
+       "end": "2026-10-06T16:00:00-07:00",
+       "ranking": 0.08,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/92-events-a-fluxus-show",
+    "localist_ics_url": "https://events.unr.edu/event/92-events-a-fluxus-show.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/53743917499476/huge/8dd1f8e79cafcffab328871db2f2578571976f53.jpg"
+   }
+  },
+  {
+   "event": {
+    "id": 53862387956576,
+    "title": "Black Joy & Connection",
+    "url": "",
+    "updated_at": "2026-10-05T04:32:49-07:00",
+    "created_at": "2026-09-01T16:04:42-07:00",
+    "facebook_id": null,
+    "first_date": "2026-10-06",
+    "last_date": "2026-10-06",
+    "hashtag": null,
+    "urlname": "black-joy-connection",
+    "user_id": 47905493966246,
+    "allows_reviews": false,
+    "allows_attendance": false,
+    "location": "",
+    "room_number": "",
+    "location_name": "Multicultural Center",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 47905493966246,
+    "updated_by": 682110,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": false,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": 50728021682148,
+    "ticket_url": "",
+    "ticket_cost": "",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "",
+    "photo_id": 53862388030312,
+    "speaker_ids": [],
+    "detail_views": 307,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": null,
+     "longitude": null,
+     "street": null,
+     "city": null,
+     "state": null,
+     "country": null,
+     "zip": null
+    },
+    "groups": [
+     {
+      "id": 50385857931207,
+      "name": "The Multicultural Center"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free",
+       "id": 27771
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Social Events",
+       "id": 32574214906246
+      },
+      {
+       "name": "Staff Engagement",
+       "id": 50392877815999
+      },
+      {
+       "name": "Prospective & New Students",
+       "id": 50401309463255
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53862387957601,
+       "event_id": 53862387956576,
+       "start": "2026-10-06T12:00:00-07:00",
+       "end": "2026-10-06T14:00:00-07:00",
+       "ranking": 0.27,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/black-joy-connection",
+    "localist_ics_url": "https://events.unr.edu/event/black-joy-connection.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/53862388030312/huge/158ce420fe521d06437791e751873400227f46d5.jpg",
+    "venue_url": "https://events.unr.edu/multicultural-center-847"
+   }
+  },
+  {
+   "event": {
+    "id": 53743835856661,
+    "title": "Earth's Winding Sheet",
+    "url": "",
+    "updated_at": "2026-10-05T04:25:35-07:00",
+    "created_at": "2026-08-19T06:29:07-07:00",
+    "facebook_id": null,
+    "first_date": "2026-08-27",
+    "last_date": "2026-11-20",
+    "hashtag": null,
+    "urlname": "earths-winding-sheet",
+    "user_id": 51029798528243,
+    "allows_reviews": false,
+    "allows_attendance": false,
+    "location": "",
+    "room_number": "",
+    "location_name": "John & Geraldine Lilley Museum of Art",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 51029798528243,
+    "updated_by": 50597815957096,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": true,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": 50569368742056,
+    "ticket_url": "",
+    "ticket_cost": "",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "",
+    "photo_id": 53743835981644,
+    "speaker_ids": [],
+    "detail_views": 626,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": null,
+     "longitude": null,
+     "street": null,
+     "city": null,
+     "state": null,
+     "country": null,
+     "zip": null
+    },
+    "groups": [
+     {
+      "id": 50385857892293,
+      "name": "The Lilley Museum"
+     },
+     {
+      "id": 50385845038723,
+      "name": "College of Liberal Arts"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free",
+       "id": 27771
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Arts & Culture",
+       "id": 27454
+      },
+      {
+       "name": "Exhibitions (recurring)",
+       "id": 52675932084337
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53743835874092,
+       "event_id": 53743835856661,
+       "start": "2026-10-06T12:00:00-07:00",
+       "end": "2026-10-06T16:00:00-07:00",
+       "ranking": 0.08,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/earths-winding-sheet",
+    "localist_ics_url": "https://events.unr.edu/event/earths-winding-sheet.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/53743835981644/huge/15b6a147321f65ef441d95ad00b23e1bb887a49d.jpg",
+    "venue_url": "https://events.unr.edu/john-and-geraldine-lilley-museum-of-art"
+   }
+  },
+  {
+   "event": {
+    "id": 53743884132592,
+    "title": "Gather-Carry-Keep: Basketry from the Great Basin",
+    "url": "",
+    "updated_at": "2026-10-05T04:25:36-07:00",
+    "created_at": "2026-08-19T06:36:58-07:00",
+    "facebook_id": null,
+    "first_date": "2026-08-27",
+    "last_date": "2026-11-20",
+    "hashtag": null,
+    "urlname": "gather-carry-keep-basketry-from-the-great-basin",
+    "user_id": 51029798528243,
+    "allows_reviews": false,
+    "allows_attendance": false,
+    "location": "Front Door Gallery",
+    "room_number": "Church Fine Arts",
+    "location_name": "Front Door Gallery",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 51029798528243,
+    "updated_by": 50597815957096,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": true,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": null,
+    "ticket_url": "",
+    "ticket_cost": "",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "",
+    "photo_id": 53743884193063,
+    "speaker_ids": [],
+    "detail_views": 541,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": null,
+     "longitude": null,
+     "street": null,
+     "city": null,
+     "state": null,
+     "country": null,
+     "zip": null
+    },
+    "groups": [
+     {
+      "id": 50385857892293,
+      "name": "The Lilley Museum"
+     },
+     {
+      "id": 50385845038723,
+      "name": "College of Liberal Arts"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free",
+       "id": 27771
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Arts & Culture",
+       "id": 27454
+      },
+      {
+       "name": "Exhibitions (recurring)",
+       "id": 52675932084337
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53743884147975,
+       "event_id": 53743884132592,
+       "start": "2026-10-06T12:00:00-07:00",
+       "end": "2026-10-06T16:00:00-07:00",
+       "ranking": 0.08,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/gather-carry-keep-basketry-from-the-great-basin",
+    "localist_ics_url": "https://events.unr.edu/event/gather-carry-keep-basketry-from-the-great-basin.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/53743884193063/huge/a8234d6efe4141dbb4ce0f8d3374fa9b18681e11.jpg"
+   }
+  },
+  {
+   "event": {
+    "id": 53755252530357,
+    "title": "How to Find Scholarships Workshop",
+    "url": "https://www.unr.edu/grad",
+    "updated_at": "2026-10-05T04:26:48-07:00",
+    "created_at": "2026-08-20T13:27:17-07:00",
+    "facebook_id": null,
+    "first_date": "2026-10-06",
+    "last_date": "2026-10-06",
+    "hashtag": null,
+    "urlname": "how-to-find-scholarships-workshop",
+    "user_id": 32143878926368,
+    "allows_reviews": true,
+    "allows_attendance": true,
+    "location": "",
+    "room_number": null,
+    "location_name": "",
+    "status": "live",
+    "experience": "virtual",
+    "created_by": 49304054725173,
+    "updated_by": 356092,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": false,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": null,
+    "ticket_url": "https://lounge.live/events/6w7qah1y",
+    "ticket_cost": null,
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "",
+    "photo_id": null,
+    "speaker_ids": [],
+    "detail_views": 392,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": null,
+     "longitude": null,
+     "street": null,
+     "city": null,
+     "state": null,
+     "country": null,
+     "zip": null
+    },
+    "groups": [
+     {
+      "id": 50385857823683,
+      "name": "The Graduate School"
+     }
+    ],
+    "filters": {
+     "event_types": [
+      {
+       "name": "Training & Workshops",
+       "id": 28250
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53755252531383,
+       "event_id": 53755252530357,
+       "start": "2026-10-06T12:00:00-07:00",
+       "end": "2026-10-06T13:00:00-07:00",
+       "ranking": 0.27,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/how-to-find-scholarships-workshop",
+    "localist_ics_url": "https://events.unr.edu/event/how-to-find-scholarships-workshop.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/48429011561324/huge/8d631779928a79a78e4c9ab88c3b3832ad991d7e.jpg"
+   }
+  },
+  {
+   "event": {
+    "id": 53799519155770,
+    "title": "Without Mountains and Rivers Without End: Speculative Geographics on an Interior Northwest",
+    "url": "",
+    "updated_at": "2026-10-05T04:29:35-07:00",
+    "created_at": "2026-08-25T13:32:09-07:00",
+    "facebook_id": null,
+    "first_date": "2026-08-27",
+    "last_date": "2026-12-03",
+    "hashtag": null,
+    "urlname": "without-mountains-and-rivers-without-end-speculative-geographics-on-an-interior-northwest",
+    "user_id": 50597815957096,
+    "allows_reviews": false,
+    "allows_attendance": false,
+    "location": "",
+    "room_number": "",
+    "location_name": "Sheppard Contemporary Gallery",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 50597815957096,
+    "updated_by": 50597815957096,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": true,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": 50569369986336,
+    "ticket_url": "",
+    "ticket_cost": "",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "",
+    "photo_id": 53799767153478,
+    "speaker_ids": [],
+    "detail_views": 618,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": null,
+     "longitude": null,
+     "street": null,
+     "city": null,
+     "state": null,
+     "country": null,
+     "zip": null
+    },
+    "groups": [
+     {
+      "id": 50385845038723,
+      "name": "College of Liberal Arts"
+     },
+     {
+      "id": 50385810486923,
+      "name": "Department of Art, Art History and Design"
+     },
+     {
+      "id": 50385856925603,
+      "name": "School of the Arts"
+     },
+     {
+      "id": 51207413319178,
+      "name": "University Galleries"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free",
+       "id": 27771
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Exhibitions (recurring)",
+       "id": 52675932084337
+      },
+      {
+       "name": "Arts & Culture",
+       "id": 27454
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53799519170129,
+       "event_id": 53799519155770,
+       "start": "2026-10-06T12:00:00-07:00",
+       "end": "2026-10-06T16:00:00-07:00",
+       "ranking": 0.08,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/without-mountains-and-rivers-without-end-speculative-geographics-on-an-interior-northwest",
+    "localist_ics_url": "https://events.unr.edu/event/without-mountains-and-rivers-without-end-speculative-geographics-on-an-interior-northwest.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/53799767153478/huge/8b53e015754eea3d72c45dd9f534a740660ffc2b.jpg",
+    "venue_url": "https://events.unr.edu/sheppard-contemporary-gallery"
+   }
+  },
+  {
+   "event": {
+    "id": 53118309276236,
+    "title": "Fun to Play for Preschoolers Silver Springs Recreation Center",
+    "url": "",
+    "updated_at": "2026-10-05T04:11:33-07:00",
+    "created_at": "2026-06-09T13:38:09-07:00",
+    "facebook_id": null,
+    "first_date": "2026-09-08",
+    "last_date": "2026-10-13",
+    "hashtag": null,
+    "urlname": "fun-to-play-for-preschoolers-silver-springs-recreation-center",
+    "user_id": 47313746937696,
+    "allows_reviews": true,
+    "allows_attendance": true,
+    "location": "Silver Springs Recreation Center",
+    "room_number": "",
+    "location_name": "Silver Springs Recreation Center",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 47313746937696,
+    "updated_by": 47313746937696,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "1951 Silver Springs Pkwy, Henderson, NV 89074",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": true,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": null,
+    "ticket_url": "",
+    "ticket_cost": "",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "Preschoolers families preschoolers children",
+    "photo_id": 52753501378339,
+    "speaker_ids": [],
+    "detail_views": 769,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": "36.045423",
+     "longitude": "-115.074956",
+     "street": "1951 Silver Springs Parkway",
+     "city": "Henderson",
+     "state": "NV",
+     "country": "US",
+     "zip": "89074"
+    },
+    "groups": [
+     {
+      "id": 50385850788595,
+      "name": "Extension"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free, must register in advance",
+       "id": 32573956777940
+      }
+     ],
+     "event_special_topics": [
+      {
+       "name": "Extension Office: Clark",
+       "id": 50392489408478
+      },
+      {
+       "name": "Extension: Children, youth and family",
+       "id": 50392511812466
+      },
+      {
+       "name": "Extension: Partners in Parenting",
+       "id": 50394223414722
+      },
+      {
+       "name": "Extension Office: Clark - North Las Vegas",
+       "id": 50445901387837
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Family Engagement",
+       "id": 50392824318029
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53118309284433,
+       "event_id": 53118309276236,
+       "start": "2026-10-06T12:40:00-07:00",
+       "end": "2026-10-06T13:40:00-07:00",
+       "ranking": 0.08,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/fun-to-play-for-preschoolers-silver-springs-recreation-center",
+    "localist_ics_url": "https://events.unr.edu/event/fun-to-play-for-preschoolers-silver-springs-recreation-center.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/52753501378339/huge/8af2c050dc080cebb864fad810647e2879ed10be.jpg"
+   }
+  },
+  {
+   "event": {
+    "id": 53736359599894,
+    "title": "Let's Talk",
+    "url": "https://www.unr.edu/counseling/outreach/lets-talk",
+    "updated_at": "2026-10-05T04:24:52-07:00",
+    "created_at": "2026-08-18T10:12:16-07:00",
+    "facebook_id": null,
+    "first_date": "2026-08-18",
+    "last_date": "2026-12-18",
+    "hashtag": null,
+    "urlname": "lets-talk-counseling",
+    "user_id": 45623193042133,
+    "allows_reviews": false,
+    "allows_attendance": false,
+    "location": "",
+    "room_number": "The Annex",
+    "location_name": "Great Basin Hall (GBH)",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 45623193042133,
+    "updated_by": 45623193042133,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": true,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": 50569021467245,
+    "ticket_url": "",
+    "ticket_cost": "",
+    "has_register": false,
+    "keywords": [
+     "Mental Health"
+    ],
+    "tags": [
+     "Mental health",
+     "Counseling Services"
+    ],
+    "description": "",
+    "description_text": "",
+    "photo_id": 53736534608157,
+    "speaker_ids": [],
+    "detail_views": 623,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": null,
+     "longitude": null,
+     "street": null,
+     "city": null,
+     "state": null,
+     "country": null,
+     "zip": null
+    },
+    "groups": [
+     {
+      "id": 50385845982867,
+      "name": "Counseling Services"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free",
+       "id": 27771
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Health, Safety & Wellness",
+       "id": 32573779171279
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53736496403899,
+       "event_id": 53736359599894,
+       "start": "2026-10-06T13:00:00-07:00",
+       "end": "2026-10-06T15:00:00-07:00",
+       "ranking": 0.08,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/lets-talk-counseling",
+    "localist_ics_url": "https://events.unr.edu/event/lets-talk-counseling.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/53736534608157/huge/bca047921cdf3499c521afe3f94ca481b808cfdf.jpg",
+    "venue_url": "https://events.unr.edu/great-basin-hall"
+   }
+  },
+  {
+   "event": {
+    "id": 53367037239656,
+    "title": "4-H Afterschool at J. Harold Brinley Middle School",
+    "url": "https://extension.unr.edu/4h/clark-vegas.aspx",
+    "updated_at": "2026-10-05T04:15:14-07:00",
+    "created_at": "2026-07-07T16:21:13-07:00",
+    "facebook_id": null,
+    "first_date": "2026-08-24",
+    "last_date": "2027-04-29",
+    "hashtag": null,
+    "urlname": "4-h-afterschool-at-j-harold-brinley-middle-school",
+    "user_id": 37581470655420,
+    "allows_reviews": true,
+    "allows_attendance": true,
+    "location": "J. Harold Brinley Middle School",
+    "room_number": "",
+    "location_name": "J. Harold Brinley Middle School",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 37581470655420,
+    "updated_by": 40662545225802,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "2480 Maverick St, Las Vegas, NV 89108 ",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": true,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": null,
+    "ticket_url": "",
+    "ticket_cost": "",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "",
+    "photo_id": 53367037348331,
+    "speaker_ids": [],
+    "detail_views": 768,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": "36.204878",
+     "longitude": "-115.227564",
+     "street": "2480 Maverick Street",
+     "city": "Las Vegas",
+     "state": "NV",
+     "country": "US",
+     "zip": "89108"
+    },
+    "groups": [
+     {
+      "id": 50385850788595,
+      "name": "Extension"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free",
+       "id": 27771
+      },
+      {
+       "name": "Free, must register in advance",
+       "id": 32573956777940
+      }
+     ],
+     "event_special_topics": [
+      {
+       "name": "Extension Office: Clark",
+       "id": 50392489408478
+      },
+      {
+       "name": "Extension: Children, youth and family",
+       "id": 50392511812466
+      },
+      {
+       "name": "Extension: 4-H Youth Development",
+       "id": 50394039433458
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Youth Camps & Programs",
+       "id": 50392809450833
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53367037255040,
+       "event_id": 53367037239656,
+       "start": "2026-10-06T13:41:00-07:00",
+       "end": "2026-10-06T15:00:00-07:00",
+       "ranking": 0.08,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/4-h-afterschool-at-j-harold-brinley-middle-school",
+    "localist_ics_url": "https://events.unr.edu/event/4-h-afterschool-at-j-harold-brinley-middle-school.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/53367037348331/huge/1e73b7ae4c1982ce20d8fd9c207d937d834e2db4.jpg"
+   }
+  },
+  {
+   "event": {
+    "id": 53367130848126,
+    "title": "4-H Afterschool at Ralph Cadwallader Middle School",
+    "url": "https://extension.unr.edu/4h/clark-vegas.aspx",
+    "updated_at": "2026-10-05T04:15:16-07:00",
+    "created_at": "2026-07-07T16:36:27-07:00",
+    "facebook_id": null,
+    "first_date": "2026-08-31",
+    "last_date": "2027-05-04",
+    "hashtag": null,
+    "urlname": "4-h-afterschool-at-ralph-cadwallader-middle-school",
+    "user_id": 37581470655420,
+    "allows_reviews": true,
+    "allows_attendance": true,
+    "location": "Ralph Cadwallader Middle School",
+    "room_number": "",
+    "location_name": "Ralph Cadwallader Middle School",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 37581470655420,
+    "updated_by": 40662545225802,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "7775 Elkhorn Rd, Las Vegas, NV 89131",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": true,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": null,
+    "ticket_url": "",
+    "ticket_cost": "",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "",
+    "photo_id": 53367131010077,
+    "speaker_ids": [],
+    "detail_views": 758,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": "36.288908",
+     "longitude": "-115.263755",
+     "street": "7775 West Elkhorn Road",
+     "city": "Las Vegas",
+     "state": "NV",
+     "country": "US",
+     "zip": "89131"
+    },
+    "groups": [
+     {
+      "id": 50385850788595,
+      "name": "Extension"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free",
+       "id": 27771
+      },
+      {
+       "name": "Free, must register in advance",
+       "id": 32573956777940
+      }
+     ],
+     "event_special_topics": [
+      {
+       "name": "Extension Office: Clark",
+       "id": 50392489408478
+      },
+      {
+       "name": "Extension: Children, youth and family",
+       "id": 50392511812466
+      },
+      {
+       "name": "Extension: 4-H Youth Development",
+       "id": 50394039433458
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Youth Camps & Programs",
+       "id": 50392809450833
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53367130864535,
+       "event_id": 53367130848126,
+       "start": "2026-10-06T13:41:00-07:00",
+       "end": "2026-10-06T15:00:00-07:00",
+       "ranking": 0.08,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/4-h-afterschool-at-ralph-cadwallader-middle-school",
+    "localist_ics_url": "https://events.unr.edu/event/4-h-afterschool-at-ralph-cadwallader-middle-school.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/53367131010077/huge/70ad8856cb530078cd2e58262de6cc48fd41489c.jpg"
+   }
+  },
+  {
+   "event": {
+    "id": 53986257632820,
+    "title": "WebCampus Accessibility- Hands on with UDOIT | Virtual via Zoom",
+    "url": "",
+    "updated_at": "2026-10-05T04:38:37-07:00",
+    "created_at": "2026-09-15T16:05:47-07:00",
+    "facebook_id": null,
+    "first_date": "2026-09-22",
+    "last_date": "2026-12-29",
+    "hashtag": null,
+    "urlname": "copy-of-webcampus-accessibility-hands-on-with-udoit-virtual-via-zoom-1436",
+    "user_id": 31033628160262,
+    "allows_reviews": true,
+    "allows_attendance": true,
+    "location": "",
+    "room_number": null,
+    "location_name": "",
+    "status": "live",
+    "experience": "virtual",
+    "created_by": 31033628160262,
+    "updated_by": 31033628160262,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": true,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": null,
+    "ticket_url": "https://unr.zoom.us/meeting/register/gXMn6fj3R5y0GPoeCbkivA",
+    "ticket_cost": "",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "",
+    "photo_id": 53986257579571,
+    "speaker_ids": [],
+    "detail_views": 385,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": null,
+     "longitude": null,
+     "street": null,
+     "city": null,
+     "state": null,
+     "country": null,
+     "zip": null
+    },
+    "groups": [
+     {
+      "id": 50385855175527,
+      "name": "Teaching & Learning Technologies"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free, must register in advance",
+       "id": 32573956777940
+      }
+     ],
+     "event_special_topics": [
+      {
+       "name": "TLT: Accessibility",
+       "id": 50383330377410
+      },
+      {
+       "name": "TLT: WebCampus",
+       "id": 50383330383556
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53986268208184,
+       "event_id": 53986257632820,
+       "start": "2026-10-06T14:00:00-07:00",
+       "end": "2026-10-06T15:00:00-07:00",
+       "ranking": 0.08,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/copy-of-webcampus-accessibility-hands-on-with-udoit-virtual-via-zoom-1436",
+    "localist_ics_url": "https://events.unr.edu/event/copy-of-webcampus-accessibility-hands-on-with-udoit-virtual-via-zoom-1436.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/53986257579571/huge/f2ee6429e0c1a6bad811c8a10ea03554a3963e8d.jpg"
+   }
+  },
+  {
+   "event": {
+    "id": 53366607056045,
+    "title": "4-H Bow Slayers Archery Club",
+    "url": "https://www.eventbrite.com/e/4-h-bow-slayers-archery-club-tickets-1991795016512?aff=ebdsoporgprofile",
+    "updated_at": "2026-10-05T04:15:12-07:00",
+    "created_at": "2026-07-07T15:11:12-07:00",
+    "facebook_id": null,
+    "first_date": "2026-09-08",
+    "last_date": "2027-05-11",
+    "hashtag": null,
+    "urlname": "4-h-bow-slayers-archery-club-2753",
+    "user_id": 37581470655420,
+    "allows_reviews": true,
+    "allows_attendance": true,
+    "location": "Whitney Mesa Archery Range",
+    "room_number": "",
+    "location_name": "Whitney Mesa Archery Range",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 37581470655420,
+    "updated_by": 40662545225802,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": " 1550 W Galleria Dr, Henderson, NV  89014",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": true,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": null,
+    "ticket_url": "https://www.eventbrite.com/e/4-h-bow-slayers-archery-club-tickets-1991795016512?aff=ebdsoporgprofile",
+    "ticket_cost": "",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "",
+    "photo_id": 53366607102165,
+    "speaker_ids": [],
+    "detail_views": 697,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": "36.07049",
+     "longitude": "-115.055799",
+     "street": "1550 West Galleria Drive",
+     "city": "Henderson",
+     "state": "NV",
+     "country": "US",
+     "zip": "89014"
+    },
+    "groups": [
+     {
+      "id": 50385850788595,
+      "name": "Extension"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free",
+       "id": 27771
+      },
+      {
+       "name": "Free, must register in advance",
+       "id": 32573956777940
+      }
+     ],
+     "event_special_topics": [
+      {
+       "name": "Extension Office: Clark",
+       "id": 50392489408478
+      },
+      {
+       "name": "Extension: Children, youth and family",
+       "id": 50392511812466
+      },
+      {
+       "name": "Extension: 4-H Youth Development",
+       "id": 50394039433458
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Youth Camps & Programs",
+       "id": 50392809450833
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53366607059122,
+       "event_id": 53366607056045,
+       "start": "2026-10-06T15:00:00-07:00",
+       "end": "2026-10-06T16:30:00-07:00",
+       "ranking": 0.08,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/4-h-bow-slayers-archery-club-2753",
+    "localist_ics_url": "https://events.unr.edu/event/4-h-bow-slayers-archery-club-2753.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/53366607102165/huge/4eada9ff8d3781de21b4691fe8421688b6f480e6.jpg"
+   }
+  },
+  {
+   "event": {
+    "id": 53171474916503,
+    "title": "STEM Networking Mixer",
+    "url": "https://unr.joinhandshake.com/events/1960473/share_preview",
+    "updated_at": "2026-10-05T11:22:04-07:00",
+    "created_at": "2026-06-15T13:51:24-07:00",
+    "facebook_id": null,
+    "first_date": "2026-10-06",
+    "last_date": "2026-10-06",
+    "hashtag": null,
+    "urlname": "stem-networking-mixer-8999",
+    "user_id": 48791950439822,
+    "allows_reviews": true,
+    "allows_attendance": true,
+    "location": "",
+    "room_number": "4th Floor Pre-Function Area - Joe Crowley Student Union",
+    "location_name": "Joe Crowley Student Union (JCSU)",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 48791950439822,
+    "updated_by": 30971534723930,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": false,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": 50569022519031,
+    "ticket_url": "",
+    "ticket_cost": "",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "",
+    "photo_id": 53171475012765,
+    "speaker_ids": [],
+    "detail_views": 930,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": null,
+     "longitude": null,
+     "street": null,
+     "city": null,
+     "state": null,
+     "country": null,
+     "zip": null
+    },
+    "groups": [
+     {
+      "id": 50385854011207,
+      "name": "Nevada Career Studio"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free",
+       "id": 27771
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Professional Development",
+       "id": 32574384099202
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53171474917528,
+       "event_id": 53171474916503,
+       "start": "2026-10-06T15:00:00-07:00",
+       "end": "2026-10-06T16:30:00-07:00",
+       "ranking": 0.47,
+       "all_day": false,
+       "num_attending": 1
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/stem-networking-mixer-8999",
+    "localist_ics_url": "https://events.unr.edu/event/stem-networking-mixer-8999.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/53171475012765/huge/8a536d4377da201ba522bb895ed8d10210e2abe2.jpg",
+    "venue_url": "https://events.unr.edu/joe-crowley-student-union"
+   }
+  },
+  {
+   "event": {
+    "id": 53879700212663,
+    "title": "4-H Cool Coyotes Club",
+    "url": "https://www.eventbrite.com/e/4-h-cool-coyotes-club-tickets-1994826449610?aff=ebdsoporgprofile",
+    "updated_at": "2026-10-05T04:34:08-07:00",
+    "created_at": "2026-09-03T15:02:27-07:00",
+    "facebook_id": null,
+    "first_date": "2026-09-29",
+    "last_date": "2027-04-27",
+    "hashtag": null,
+    "urlname": "4-h-cool-coyotes-club",
+    "user_id": 37581470655420,
+    "allows_reviews": false,
+    "allows_attendance": false,
+    "location": "Lifelong Learning Center",
+    "room_number": "",
+    "location_name": "Lifelong Learning Center",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 37581470655420,
+    "updated_by": 40662545225802,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "8050 Paradise Rd Las Vegas, NV",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": true,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": null,
+    "ticket_url": "https://www.eventbrite.com/e/4-h-cool-coyotes-club-tickets-1994826449610?aff=ebdsoporgprofile",
+    "ticket_cost": "",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "",
+    "photo_id": 53888348516164,
+    "speaker_ids": [],
+    "detail_views": 261,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": "36.044203",
+     "longitude": "-115.135699",
+     "street": "8050 Paradise Road",
+     "city": "Las Vegas",
+     "state": "NV",
+     "country": "US",
+     "zip": "89123"
+    },
+    "groups": [
+     {
+      "id": 50385850788595,
+      "name": "Extension"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free",
+       "id": 27771
+      },
+      {
+       "name": "Free, must register in advance",
+       "id": 32573956777940
+      }
+     ],
+     "event_special_topics": [
+      {
+       "name": "Extension Office: Clark - Lifelong Learning Center",
+       "id": 50392468095905
+      },
+      {
+       "name": "Extension Office: Clark",
+       "id": 50392489408478
+      },
+      {
+       "name": "Extension: Children, youth and family",
+       "id": 50392511812466
+      },
+      {
+       "name": "Extension: 4-H Youth Development",
+       "id": 50394039433458
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53879700214713,
+       "event_id": 53879700212663,
+       "start": "2026-10-06T17:30:00-07:00",
+       "end": "2026-10-06T18:30:00-07:00",
+       "ranking": 0.08,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/4-h-cool-coyotes-club",
+    "localist_ics_url": "https://events.unr.edu/event/4-h-cool-coyotes-club.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/53888348516164/huge/e4e3393c7bcffeda9377a25d7e5a5a0a9385581d.jpg"
+   }
+  },
+  {
+   "event": {
+    "id": 45659669542904,
+    "title": "General and Pediatric Clinic",
+    "url": "https://med.unr.edu/student-outreach-clinic ",
+    "updated_at": "2026-10-05T04:36:46-07:00",
+    "created_at": "2024-02-17T11:46:50-08:00",
+    "facebook_id": null,
+    "first_date": "2024-03-09",
+    "last_date": "2026-10-10",
+    "hashtag": null,
+    "urlname": "general_and_pediatric_clinc",
+    "user_id": 45446569619379,
+    "allows_reviews": true,
+    "allows_attendance": true,
+    "location": "University Health Building",
+    "room_number": "",
+    "location_name": "University Health Building",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 45446569619379,
+    "updated_by": 52068194480662,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "745 W. Moana Ln., Reno, NV 89509",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": true,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": null,
+    "ticket_url": null,
+    "ticket_cost": null,
+    "has_register": true,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "",
+    "photo_id": 45659672583707,
+    "speaker_ids": [],
+    "detail_views": 3546,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": "39.491553",
+     "longitude": "-119.804547",
+     "street": "745 West Moana Lane",
+     "city": "Reno",
+     "state": "NV",
+     "country": "US",
+     "zip": "89509"
+    },
+    "groups": [
+     {
+      "id": 50385857492923,
+      "name": "Student Outreach Clinic"
+     }
+    ],
+    "filters": {
+     "departments": [
+      {
+       "name": "School of Medicine",
+       "id": 134424
+      },
+      {
+       "name": "Student Outreach Clinic",
+       "id": 34440395587051
+      },
+      {
+       "name": "General and Pediatric Clinic",
+       "id": 34919182883953
+      }
+     ],
+     "event_pricing": [
+      {
+       "name": "Free",
+       "id": 27771
+      }
+     ],
+     "event_special_topics": [
+      {
+       "name": "SOM Student Outreach Clinic: General and Pediatric Clinic",
+       "id": 50383330344630
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53943012405351,
+       "event_id": 45659669542904,
+       "start": "2026-10-06T18:00:00-07:00",
+       "end": "2026-10-06T22:00:00-07:00",
+       "ranking": 0.08,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/general_and_pediatric_clinc",
+    "localist_ics_url": "https://events.unr.edu/event/general_and_pediatric_clinc.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/45659672583707/huge/933d959e52b9b8a44b4ef75ef16b98154dae3bc7.jpg"
+   }
+  },
+  {
+   "event": {
+    "id": 54072472673918,
+    "title": "Guest Artist: Dr. Bonson Lee",
+    "url": "",
+    "updated_at": "2026-10-05T04:42:47-07:00",
+    "created_at": "2026-09-25T09:58:10-07:00",
+    "facebook_id": null,
+    "first_date": "2026-10-06",
+    "last_date": "2026-10-06",
+    "hashtag": null,
+    "urlname": "guest-artist-dr-bonson-lee",
+    "user_id": 52091877814782,
+    "allows_reviews": false,
+    "allows_attendance": false,
+    "location": "",
+    "room_number": "",
+    "location_name": "Harlan O. & Barbara R. Hall Recital Hall",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 52091877814782,
+    "updated_by": 49304054725173,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": false,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": 50569368501394,
+    "ticket_url": "",
+    "ticket_cost": "",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "",
+    "photo_id": 54072492392013,
+    "speaker_ids": [],
+    "detail_views": 121,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": null,
+     "longitude": null,
+     "street": null,
+     "city": null,
+     "state": null,
+     "country": null,
+     "zip": null
+    },
+    "groups": [
+     {
+      "id": 50385856808861,
+      "name": "School of Music"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free",
+       "id": 27771
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Arts & Culture",
+       "id": 27454
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 54072472674943,
+       "event_id": 54072472673918,
+       "start": "2026-10-06T19:30:00-07:00",
+       "end": "2026-10-06T20:30:00-07:00",
+       "ranking": 0.27,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/guest-artist-dr-bonson-lee",
+    "localist_ics_url": "https://events.unr.edu/event/guest-artist-dr-bonson-lee.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/54072492392013/huge/b6de1f13fc3ea2c0e4e3a8505c7c314a8c50717e.jpg",
+    "venue_url": "https://events.unr.edu/harlan-barbara-hall-recital-hall"
+   }
+  },
+  {
+   "event": {
+    "id": 53622698648337,
+    "title": "2026 Nevada Radon Poster Contest",
+    "url": "https://unr.az1.qualtrics.com/jfe/form/SV_8GrPProufhrgx5s",
+    "updated_at": "2026-10-05T04:20:34-07:00",
+    "created_at": "2026-08-05T13:52:46-07:00",
+    "facebook_id": null,
+    "first_date": "2026-08-05",
+    "last_date": "2026-11-20",
+    "hashtag": null,
+    "urlname": "2026-nevada-radon-poster-contest",
+    "user_id": 53311970161229,
+    "allows_reviews": false,
+    "allows_attendance": false,
+    "location": "",
+    "room_number": null,
+    "location_name": "",
+    "status": "live",
+    "experience": "virtual",
+    "created_by": 53311970161229,
+    "updated_by": 682110,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": true,
+    "free": true,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": null,
+    "ticket_url": "",
+    "ticket_cost": "0.00",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "",
+    "photo_id": 53870075720277,
+    "speaker_ids": [],
+    "detail_views": 908,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": null,
+     "longitude": null,
+     "street": null,
+     "city": null,
+     "state": null,
+     "country": null,
+     "zip": null
+    },
+    "groups": [
+     {
+      "id": 50385850788595,
+      "name": "Extension"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free",
+       "id": 27771
+      }
+     ],
+     "event_special_topics": [
+      {
+       "name": "Extension: Radon",
+       "id": 50383330209418
+      },
+      {
+       "name": "Extension Office: Washoe",
+       "id": 50392489404380
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Community Outreach",
+       "id": 29873
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53622698677073,
+       "event_id": 53622698648337,
+       "start": "2026-10-07T00:00:00-07:00",
+       "end": null,
+       "ranking": 0.07,
+       "all_day": true,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/2026-nevada-radon-poster-contest",
+    "localist_ics_url": "https://events.unr.edu/event/2026-nevada-radon-poster-contest.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/53870075720277/huge/cd0987e4680affb60a6d9ea993191dea909fa535.jpg"
+   }
+  },
+  {
+   "event": {
+    "id": 53543176582781,
+    "title": "A Few of Our Favorite Things: 65 Years of Special Collections and University Archives",
+    "url": "https://library.unr.edu/places/special-collections",
+    "updated_at": "2026-10-05T04:18:30-07:00",
+    "created_at": "2026-07-27T14:09:43-07:00",
+    "facebook_id": null,
+    "first_date": "2026-08-01",
+    "last_date": "2026-11-01",
+    "hashtag": null,
+    "urlname": "a-few-of-our-favorite-things-65-years-of-special-collections-and-university-archives",
+    "user_id": 100768,
+    "allows_reviews": true,
+    "allows_attendance": true,
+    "location": "",
+    "room_number": "3rd floor Special Collections and University Archives",
+    "location_name": "Mathewson-IGT Knowledge Center (MIKC)",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 100768,
+    "updated_by": 100768,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": true,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": 50569025465373,
+    "ticket_url": null,
+    "ticket_cost": null,
+    "has_register": true,
+    "keywords": [
+     "exhibits",
+     "SCUA",
+     "Special Collections UNR"
+    ],
+    "tags": [
+     "archives",
+     "exhibits",
+     "SCUA",
+     "Historical Collections"
+    ],
+    "description": "",
+    "description_text": "",
+    "photo_id": 53543256981613,
+    "speaker_ids": [],
+    "detail_views": 890,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": null,
+     "longitude": null,
+     "street": null,
+     "city": null,
+     "state": null,
+     "country": null,
+     "zip": null
+    },
+    "groups": [
+     {
+      "id": 50385858596823,
+      "name": "University Libraries"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free",
+       "id": 27771
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Arts & Culture",
+       "id": 27454
+      },
+      {
+       "name": "Community Outreach",
+       "id": 29873
+      },
+      {
+       "name": "Social Events",
+       "id": 32574214906246
+      },
+      {
+       "name": "Staff Engagement",
+       "id": 50392877815999
+      },
+      {
+       "name": "Exhibitions (recurring)",
+       "id": 52675932084337
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53543176632001,
+       "event_id": 53543176582781,
+       "start": "2026-10-07T08:00:00-07:00",
+       "end": "2026-10-07T17:00:00-07:00",
+       "ranking": 0.07,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/a-few-of-our-favorite-things-65-years-of-special-collections-and-university-archives",
+    "localist_ics_url": "https://events.unr.edu/event/a-few-of-our-favorite-things-65-years-of-special-collections-and-university-archives.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/53543256981613/huge/885832004470cec3793a588dae8706b0a3e55bdc.jpg",
+    "venue_url": "https://events.unr.edu/mathewson-igt-knowledge-center"
+   }
+  },
+  {
+   "event": {
+    "id": 54116793899639,
+    "title": "On Location: Photographs from Robert Nu\u00f1ez and Alejandra Rubio",
+    "url": "",
+    "updated_at": "2026-10-05T04:45:01-07:00",
+    "created_at": "2026-09-30T10:11:55-07:00",
+    "facebook_id": null,
+    "first_date": "2026-09-30",
+    "last_date": "2026-11-20",
+    "hashtag": null,
+    "urlname": "on-location-photographs-from-robert-nunez-and-alejandra-rubio",
+    "user_id": 50597815957096,
+    "allows_reviews": false,
+    "allows_attendance": false,
+    "location": "",
+    "room_number": "",
+    "location_name": "McNamara Hallway Gallery",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 50597815957096,
+    "updated_by": 50597815957096,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": true,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": 50569368843445,
+    "ticket_url": "",
+    "ticket_cost": "",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "family",
+    "photo_id": 54116794006177,
+    "speaker_ids": [],
+    "detail_views": 89,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": null,
+     "longitude": null,
+     "street": null,
+     "city": null,
+     "state": null,
+     "country": null,
+     "zip": null
+    },
+    "groups": [
+     {
+      "id": 50385845038723,
+      "name": "College of Liberal Arts"
+     },
+     {
+      "id": 50385810486923,
+      "name": "Department of Art, Art History and Design"
+     },
+     {
+      "id": 50385856925603,
+      "name": "School of the Arts"
+     },
+     {
+      "id": 51207413319178,
+      "name": "University Galleries"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free",
+       "id": 27771
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Exhibitions (recurring)",
+       "id": 52675932084337
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 54116793907837,
+       "event_id": 54116793899639,
+       "start": "2026-10-07T08:00:00-07:00",
+       "end": "2026-10-07T20:00:00-07:00",
+       "ranking": 0.07,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/on-location-photographs-from-robert-nunez-and-alejandra-rubio",
+    "localist_ics_url": "https://events.unr.edu/event/on-location-photographs-from-robert-nunez-and-alejandra-rubio.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/54116794006177/huge/ccf7ee2a9dd04753e50646fff5e81a03338e48c5.jpg",
+    "venue_url": "https://events.unr.edu/mcnamara-hallway-gallery"
+   }
+  },
+  {
+   "event": {
+    "id": 53561360524602,
+    "title": "Water and Irrigation Management Workshop for Nevada Producers",
+    "url": "",
+    "updated_at": "2026-10-05T04:18:50-07:00",
+    "created_at": "2026-07-29T15:29:21-07:00",
+    "facebook_id": null,
+    "first_date": "2026-10-07",
+    "last_date": "2026-10-07",
+    "hashtag": null,
+    "urlname": "water-and-irrigation-management-workshop-for-nevada-producers",
+    "user_id": 49348573758280,
+    "allows_reviews": true,
+    "allows_attendance": true,
+    "location": "",
+    "room_number": "Room 104",
+    "location_name": "Knudtsen Resource Center (KRC)",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 49348573758280,
+    "updated_by": 41661772276190,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": false,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": 50569023577964,
+    "ticket_url": "https://www.eventbrite.com/e/water-and-irrigation-management-workshop-for-nevada-producers-tickets-1994898711748",
+    "ticket_cost": "",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "",
+    "photo_id": 53561360624969,
+    "speaker_ids": [],
+    "detail_views": 702,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": null,
+     "longitude": null,
+     "street": null,
+     "city": null,
+     "state": null,
+     "country": null,
+     "zip": null
+    },
+    "groups": [
+     {
+      "id": 50385850788595,
+      "name": "Extension"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free, must register in advance",
+       "id": 32573956777940
+      }
+     ],
+     "event_special_topics": [
+      {
+       "name": "Extension: Food and forage crops",
+       "id": 50383330167420
+      },
+      {
+       "name": "Extension: Food systems (production, process, distribution, access, consumption)",
+       "id": 50383330172542
+      },
+      {
+       "name": "Extension: Horticulture",
+       "id": 50383330188931
+      },
+      {
+       "name": "Extension: Garden, trees and landscape",
+       "id": 50392543096229
+      },
+      {
+       "name": "Extension: Farming and ranching",
+       "id": 50392543099302
+      },
+      {
+       "name": "Extension: Livestock and domestic animals",
+       "id": 50392543104424
+      },
+      {
+       "name": "Extension: Water conservation and quality",
+       "id": 50392543109546
+      },
+      {
+       "name": "Extension: Grow Your Own, Nevada!",
+       "id": 50394207083004
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Training & Workshops",
+       "id": 28250
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53561360525627,
+       "event_id": 53561360524602,
+       "start": "2026-10-07T08:30:00-07:00",
+       "end": "2026-10-07T16:30:00-07:00",
+       "ranking": 0.27,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/water-and-irrigation-management-workshop-for-nevada-producers",
+    "localist_ics_url": "https://events.unr.edu/event/water-and-irrigation-management-workshop-for-nevada-producers.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/53561360624969/huge/6d4ca3c77a6878eb927604d543f5c5d16f847442.jpg",
+    "venue_url": "https://events.unr.edu/knudtsen-resource-center"
+   }
+  },
+  {
+   "event": {
+    "id": 53567849403611,
+    "title": "Little Books & Little Cooks @ Ullom Elementary School",
+    "url": "",
+    "updated_at": "2026-10-05T04:18:59-07:00",
+    "created_at": "2026-07-30T09:05:29-07:00",
+    "facebook_id": null,
+    "first_date": "2026-09-09",
+    "last_date": "2026-10-14",
+    "hashtag": null,
+    "urlname": "little-books-little-cooks-ullom-elementary-school",
+    "user_id": 32627256372796,
+    "allows_reviews": true,
+    "allows_attendance": true,
+    "location": "James Madison Ullom Elementary School",
+    "room_number": "",
+    "location_name": "James Madison Ullom Elementary School",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 32627256372796,
+    "updated_by": 49773598518278,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "4869 E Sun Valley Dr, Las Vegas, NV 89121",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": true,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": null,
+    "ticket_url": "",
+    "ticket_cost": "",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "family story time preschoolers families children Family",
+    "photo_id": 53567849443562,
+    "speaker_ids": [],
+    "detail_views": 474,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": "36.103908",
+     "longitude": "-115.066246",
+     "street": "4869 East Sun Valley Drive",
+     "city": "Las Vegas",
+     "state": "NV",
+     "country": "US",
+     "zip": "89121"
+    },
+    "groups": [
+     {
+      "id": 50385850788595,
+      "name": "Extension"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free, must register in advance",
+       "id": 32573956777940
+      }
+     ],
+     "event_special_topics": [
+      {
+       "name": "Extension Office: Clark - Lifelong Learning Center",
+       "id": 50392468095905
+      },
+      {
+       "name": "Extension Office: Clark",
+       "id": 50392489408478
+      },
+      {
+       "name": "Extension: Children, youth and family",
+       "id": 50392511812466
+      },
+      {
+       "name": "Extension: Partners in Parenting",
+       "id": 50394223414722
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Family Engagement",
+       "id": 50392824318029
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53567849406688,
+       "event_id": 53567849403611,
+       "start": "2026-10-07T09:00:00-07:00",
+       "end": "2026-10-07T10:30:00-07:00",
+       "ranking": 0.07,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/little-books-little-cooks-ullom-elementary-school",
+    "localist_ics_url": "https://events.unr.edu/event/little-books-little-cooks-ullom-elementary-school.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/53567849443562/huge/533e5ffefa1574f410a227ee847cc517d58c34eb.jpg"
+   }
+  },
+  {
+   "event": {
+    "id": 54072581223439,
+    "title": "Note-Taking Strategies",
+    "url": "https://www.unr.edu/business/student-resources/advising",
+    "updated_at": "2026-10-05T04:42:49-07:00",
+    "created_at": "2026-09-25T10:15:51-07:00",
+    "facebook_id": null,
+    "first_date": "2026-10-07",
+    "last_date": "2026-10-07",
+    "hashtag": null,
+    "urlname": "note-taking-strategies",
+    "user_id": 54072495228813,
+    "allows_reviews": false,
+    "allows_attendance": false,
+    "location": "",
+    "room_number": "211",
+    "location_name": "John Tulloch Business Building (TULL)",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 54072495228813,
+    "updated_by": 49304054725173,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": false,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": 50569022749468,
+    "ticket_url": "",
+    "ticket_cost": "",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "",
+    "photo_id": 54072669182905,
+    "speaker_ids": [],
+    "detail_views": 120,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": null,
+     "longitude": null,
+     "street": null,
+     "city": null,
+     "state": null,
+     "country": null,
+     "zip": null
+    },
+    "groups": [
+     {
+      "id": 50385844588155,
+      "name": "College of Business"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free",
+       "id": 27771
+      }
+     ],
+     "event_special_topics": [
+      {
+       "name": "COB Advising",
+       "id": 53992402233903
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Training & Workshops",
+       "id": 28250
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 54072581224464,
+       "event_id": 54072581223439,
+       "start": "2026-10-07T09:00:00-07:00",
+       "end": "2026-10-07T10:00:00-07:00",
+       "ranking": 0.27,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/note-taking-strategies",
+    "localist_ics_url": "https://events.unr.edu/event/note-taking-strategies.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/54072669182905/huge/2d61d04558cadff0c627dbfbe7ba59d9743e2ec1.jpg",
+    "venue_url": "https://events.unr.edu/john-tulloch-business-building"
+   }
+  },
+  {
+   "event": {
+    "id": 53755254076601,
+    "title": "The Key Difference Between Academic and Nonacademic Hiring \u2014 and What It Means for Your Job Search",
+    "url": "https://www.unr.edu/grad",
+    "updated_at": "2026-10-05T04:26:48-07:00",
+    "created_at": "2026-08-20T13:27:33-07:00",
+    "facebook_id": null,
+    "first_date": "2026-10-07",
+    "last_date": "2026-10-07",
+    "hashtag": null,
+    "urlname": "the-key-difference-between-academic-and-nonacademic-hiring-and-what-it-means-for-your-job-search",
+    "user_id": 32143878926368,
+    "allows_reviews": true,
+    "allows_attendance": true,
+    "location": "",
+    "room_number": null,
+    "location_name": "",
+    "status": "live",
+    "experience": "virtual",
+    "created_by": 49304054725173,
+    "updated_by": 356092,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": false,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": null,
+    "ticket_url": "https://institutions.beyondprof.com/webinar-academic-nonacademic-hiring/",
+    "ticket_cost": null,
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "",
+    "photo_id": null,
+    "speaker_ids": [],
+    "detail_views": 387,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": null,
+     "longitude": null,
+     "street": null,
+     "city": null,
+     "state": null,
+     "country": null,
+     "zip": null
+    },
+    "groups": [
+     {
+      "id": 50385857823683,
+      "name": "The Graduate School"
+     }
+    ],
+    "filters": {
+     "event_types": [
+      {
+       "name": "Training & Workshops",
+       "id": 28250
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53755254078651,
+       "event_id": 53755254076601,
+       "start": "2026-10-07T09:00:00-07:00",
+       "end": "2026-10-07T09:45:00-07:00",
+       "ranking": 0.27,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/the-key-difference-between-academic-and-nonacademic-hiring-and-what-it-means-for-your-job-search",
+    "localist_ics_url": "https://events.unr.edu/event/the-key-difference-between-academic-and-nonacademic-hiring-and-what-it-means-for-your-job-search.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/48429011561324/huge/8d631779928a79a78e4c9ab88c3b3832ad991d7e.jpg"
+   }
+  },
+  {
+   "event": {
+    "id": 53736359599894,
+    "title": "Let's Talk",
+    "url": "https://www.unr.edu/counseling/outreach/lets-talk",
+    "updated_at": "2026-10-05T04:24:52-07:00",
+    "created_at": "2026-08-18T10:12:16-07:00",
+    "facebook_id": null,
+    "first_date": "2026-08-18",
+    "last_date": "2026-12-18",
+    "hashtag": null,
+    "urlname": "lets-talk-counseling",
+    "user_id": 45623193042133,
+    "allows_reviews": false,
+    "allows_attendance": false,
+    "location": "",
+    "room_number": "The Annex",
+    "location_name": "Great Basin Hall (GBH)",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 45623193042133,
+    "updated_by": 45623193042133,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": true,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": 50569021467245,
+    "ticket_url": "",
+    "ticket_cost": "",
+    "has_register": false,
+    "keywords": [
+     "Mental Health"
+    ],
+    "tags": [
+     "Mental health",
+     "Counseling Services"
+    ],
+    "description": "",
+    "description_text": "",
+    "photo_id": 53736534608157,
+    "speaker_ids": [],
+    "detail_views": 623,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": null,
+     "longitude": null,
+     "street": null,
+     "city": null,
+     "state": null,
+     "country": null,
+     "zip": null
+    },
+    "groups": [
+     {
+      "id": 50385845982867,
+      "name": "Counseling Services"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free",
+       "id": 27771
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Health, Safety & Wellness",
+       "id": 32573779171279
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53736496403900,
+       "event_id": 53736359599894,
+       "start": "2026-10-07T10:00:00-07:00",
+       "end": "2026-10-07T12:00:00-07:00",
+       "ranking": 0.07,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/lets-talk-counseling",
+    "localist_ics_url": "https://events.unr.edu/event/lets-talk-counseling.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/53736534608157/huge/bca047921cdf3499c521afe3f94ca481b808cfdf.jpg",
+    "venue_url": "https://events.unr.edu/great-basin-hall"
+   }
+  },
+  {
+   "event": {
+    "id": 54118578160360,
+    "title": "Nevada Radon Education Program Tabling at Reno-Sparks Tribal Health Center Community Health Fair",
+    "url": "",
+    "updated_at": "2026-10-05T04:45:13-07:00",
+    "created_at": "2026-09-30T15:02:19-07:00",
+    "facebook_id": null,
+    "first_date": "2026-10-07",
+    "last_date": "2026-10-07",
+    "hashtag": null,
+    "urlname": "nevada-radon-education-program-tabling-at-reno-sparks-tribal-health-center-community-health-fair",
+    "user_id": 53311970161229,
+    "allows_reviews": false,
+    "allows_attendance": false,
+    "location": "Reno-Sparks Tribal Health Center",
+    "room_number": "",
+    "location_name": "Reno-Sparks Tribal Health Center",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 53311970161229,
+    "updated_by": 682110,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "1715 Kuenzli St. Reno NV, 89502",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": false,
+    "free": true,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": null,
+    "ticket_url": "",
+    "ticket_cost": "0.00",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "",
+    "photo_id": 53870058406177,
+    "speaker_ids": [],
+    "detail_views": 64,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": "39.530027",
+     "longitude": "-119.791479",
+     "street": "1715 Kuenzli Street",
+     "city": "Reno",
+     "state": "NV",
+     "country": "US",
+     "zip": "89502"
+    },
+    "groups": [
+     {
+      "id": 50385850788595,
+      "name": "Extension"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free",
+       "id": 27771
+      }
+     ],
+     "event_special_topics": [
+      {
+       "name": "Extension: Radon",
+       "id": 50383330209418
+      },
+      {
+       "name": "Extension Office: Washoe",
+       "id": 50392489404380
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Community Outreach",
+       "id": 29873
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 54118578161385,
+       "event_id": 54118578160360,
+       "start": "2026-10-07T10:00:00-07:00",
+       "end": "2026-10-07T18:00:00-07:00",
+       "ranking": 0.27,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/nevada-radon-education-program-tabling-at-reno-sparks-tribal-health-center-community-health-fair",
+    "localist_ics_url": "https://events.unr.edu/event/nevada-radon-education-program-tabling-at-reno-sparks-tribal-health-center-community-health-fair.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/53870058406177/huge/1aa9b8c7a7f22e9419328a10d4c482ddf65303e1.jpg"
+   }
+  },
+  {
+   "event": {
+    "id": 53755255651517,
+    "title": "AI Skills Employers are Looking For in Master's Students",
+    "url": "https://www.unr.edu/grad",
+    "updated_at": "2026-10-05T04:26:48-07:00",
+    "created_at": "2026-08-20T13:27:48-07:00",
+    "facebook_id": null,
+    "first_date": "2026-10-07",
+    "last_date": "2026-10-07",
+    "hashtag": null,
+    "urlname": "ai-skills-employers-are-looking-for-in-masters-students",
+    "user_id": 32143878926368,
+    "allows_reviews": true,
+    "allows_attendance": true,
+    "location": "",
+    "room_number": null,
+    "location_name": "",
+    "status": "live",
+    "experience": "virtual",
+    "created_by": 49304054725173,
+    "updated_by": 49304054725173,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": false,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": null,
+    "ticket_url": "https://institutions.beyondgradschool.com/webinar-ai-skills-employers/",
+    "ticket_cost": null,
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "",
+    "photo_id": null,
+    "speaker_ids": [],
+    "detail_views": 366,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": null,
+     "longitude": null,
+     "street": null,
+     "city": null,
+     "state": null,
+     "country": null,
+     "zip": null
+    },
+    "groups": [
+     {
+      "id": 50385857823683,
+      "name": "The Graduate School"
+     }
+    ],
+    "filters": {},
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53755255652543,
+       "event_id": 53755255651517,
+       "start": "2026-10-07T11:00:00-07:00",
+       "end": "2026-10-07T11:30:00-07:00",
+       "ranking": 0.27,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/ai-skills-employers-are-looking-for-in-masters-students",
+    "localist_ics_url": "https://events.unr.edu/event/ai-skills-employers-are-looking-for-in-masters-students.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/48429011561324/huge/8d631779928a79a78e4c9ab88c3b3832ad991d7e.jpg"
+   }
+  },
+  {
+   "event": {
+    "id": 53743917450269,
+    "title": "92 Events: A Fluxus Show",
+    "url": "",
+    "updated_at": "2026-10-05T04:25:37-07:00",
+    "created_at": "2026-08-19T06:42:23-07:00",
+    "facebook_id": null,
+    "first_date": "2026-08-27",
+    "last_date": "2026-11-20",
+    "hashtag": null,
+    "urlname": "92-events-a-fluxus-show",
+    "user_id": 51029798528243,
+    "allows_reviews": false,
+    "allows_attendance": false,
+    "location": "Front Door Gallery",
+    "room_number": "",
+    "location_name": "Front Door Gallery",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 51029798528243,
+    "updated_by": 50597815957096,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": true,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": null,
+    "ticket_url": "",
+    "ticket_cost": "",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "",
+    "photo_id": 53743917499476,
+    "speaker_ids": [],
+    "detail_views": 622,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": null,
+     "longitude": null,
+     "street": null,
+     "city": null,
+     "state": null,
+     "country": null,
+     "zip": null
+    },
+    "groups": [
+     {
+      "id": 50385857892293,
+      "name": "The Lilley Museum"
+     },
+     {
+      "id": 50385845038723,
+      "name": "College of Liberal Arts"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free",
+       "id": 27771
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Arts & Culture",
+       "id": 27454
+      },
+      {
+       "name": "Exhibitions (recurring)",
+       "id": 52675932084337
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53743917460533,
+       "event_id": 53743917450269,
+       "start": "2026-10-07T12:00:00-07:00",
+       "end": "2026-10-07T16:00:00-07:00",
+       "ranking": 0.07,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/92-events-a-fluxus-show",
+    "localist_ics_url": "https://events.unr.edu/event/92-events-a-fluxus-show.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/53743917499476/huge/8dd1f8e79cafcffab328871db2f2578571976f53.jpg"
+   }
+  },
+  {
+   "event": {
+    "id": 52366152742811,
+    "title": "Dance With Me",
+    "url": "",
+    "updated_at": "2026-10-05T04:01:01-07:00",
+    "created_at": "2026-03-16T13:16:50-07:00",
+    "facebook_id": null,
+    "first_date": "2026-03-18",
+    "last_date": "2028-12-27",
+    "hashtag": null,
+    "urlname": "dance-with-me",
+    "user_id": 52366024243777,
+    "allows_reviews": true,
+    "allows_attendance": true,
+    "location": "Ballroom of Reno",
+    "room_number": "",
+    "location_name": "Ballroom of Reno",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 52366024243777,
+    "updated_by": 356092,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "2540 Sutro St #4, Reno, NV 89512",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": true,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": null,
+    "ticket_url": "Call The Ballroom of Reno at (775) 624-3551 or email info@theballroomofreno.org",
+    "ticket_cost": "",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "",
+    "photo_id": 52366152948786,
+    "speaker_ids": [],
+    "detail_views": 1670,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": "39.552659",
+     "longitude": "-119.797867",
+     "street": "2540 Sutro Street",
+     "city": "Reno",
+     "state": "NV",
+     "country": "US",
+     "zip": "89512"
+    },
+    "groups": [
+     {
+      "id": 52196715649314,
+      "name": "Dementia Engagement, Education, and Research (DEER) Program"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free, must register in advance",
+       "id": 32573956777940
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Arts & Culture",
+       "id": 27454
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 52366152766393,
+       "event_id": 52366152742811,
+       "start": "2026-10-07T12:00:00-07:00",
+       "end": "2026-10-08T01:00:00-07:00",
+       "ranking": 0.07,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/dance-with-me",
+    "localist_ics_url": "https://events.unr.edu/event/dance-with-me.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/52366152948786/huge/e80adbcdfd3eaafe52893c1baae492ab51d61aee.jpg"
+   }
+  },
+  {
+   "event": {
+    "id": 54109330810282,
+    "title": "Dr. Madeline Harts Masterclass",
+    "url": "",
+    "updated_at": "2026-10-05T04:44:29-07:00",
+    "created_at": "2026-09-29T13:57:13-07:00",
+    "facebook_id": null,
+    "first_date": "2026-10-07",
+    "last_date": "2026-10-07",
+    "hashtag": null,
+    "urlname": "dr-madeline-harts-masterclass",
+    "user_id": 50959798825445,
+    "allows_reviews": false,
+    "allows_attendance": false,
+    "location": "",
+    "room_number": "Hall Recital Hall",
+    "location_name": "University Foundation Arts (UFA)",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 50959798825445,
+    "updated_by": 50959798825445,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": false,
+    "free": true,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": 50569031461549,
+    "ticket_url": "",
+    "ticket_cost": "0",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "",
+    "photo_id": 50817005692005,
+    "speaker_ids": [],
+    "detail_views": 79,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": null,
+     "longitude": null,
+     "street": null,
+     "city": null,
+     "state": null,
+     "country": null,
+     "zip": null
+    },
+    "groups": [
+     {
+      "id": 50385856808861,
+      "name": "School of Music"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free",
+       "id": 27771
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Arts & Culture",
+       "id": 27454
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 54109330810283,
+       "event_id": 54109330810282,
+       "start": "2026-10-07T12:00:00-07:00",
+       "end": "2026-10-07T13:30:00-07:00",
+       "ranking": 0.27,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/dr-madeline-harts-masterclass",
+    "localist_ics_url": "https://events.unr.edu/event/dr-madeline-harts-masterclass.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/50817005692005/huge/f4ef77eca73784f4f9e221d709eb94dc1d959c33.jpg",
+    "venue_url": "https://events.unr.edu/university-foundation-arts"
+   }
+  },
+  {
+   "event": {
+    "id": 53743835856661,
+    "title": "Earth's Winding Sheet",
+    "url": "",
+    "updated_at": "2026-10-05T04:25:35-07:00",
+    "created_at": "2026-08-19T06:29:07-07:00",
+    "facebook_id": null,
+    "first_date": "2026-08-27",
+    "last_date": "2026-11-20",
+    "hashtag": null,
+    "urlname": "earths-winding-sheet",
+    "user_id": 51029798528243,
+    "allows_reviews": false,
+    "allows_attendance": false,
+    "location": "",
+    "room_number": "",
+    "location_name": "John & Geraldine Lilley Museum of Art",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 51029798528243,
+    "updated_by": 50597815957096,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": true,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": 50569368742056,
+    "ticket_url": "",
+    "ticket_cost": "",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "",
+    "photo_id": 53743835981644,
+    "speaker_ids": [],
+    "detail_views": 626,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": null,
+     "longitude": null,
+     "street": null,
+     "city": null,
+     "state": null,
+     "country": null,
+     "zip": null
+    },
+    "groups": [
+     {
+      "id": 50385857892293,
+      "name": "The Lilley Museum"
+     },
+     {
+      "id": 50385845038723,
+      "name": "College of Liberal Arts"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free",
+       "id": 27771
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Arts & Culture",
+       "id": 27454
+      },
+      {
+       "name": "Exhibitions (recurring)",
+       "id": 52675932084337
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53743835875117,
+       "event_id": 53743835856661,
+       "start": "2026-10-07T12:00:00-07:00",
+       "end": "2026-10-07T16:00:00-07:00",
+       "ranking": 0.07,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/earths-winding-sheet",
+    "localist_ics_url": "https://events.unr.edu/event/earths-winding-sheet.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/53743835981644/huge/15b6a147321f65ef441d95ad00b23e1bb887a49d.jpg",
+    "venue_url": "https://events.unr.edu/john-and-geraldine-lilley-museum-of-art"
+   }
+  },
+  {
+   "event": {
+    "id": 53743884132592,
+    "title": "Gather-Carry-Keep: Basketry from the Great Basin",
+    "url": "",
+    "updated_at": "2026-10-05T04:25:36-07:00",
+    "created_at": "2026-08-19T06:36:58-07:00",
+    "facebook_id": null,
+    "first_date": "2026-08-27",
+    "last_date": "2026-11-20",
+    "hashtag": null,
+    "urlname": "gather-carry-keep-basketry-from-the-great-basin",
+    "user_id": 51029798528243,
+    "allows_reviews": false,
+    "allows_attendance": false,
+    "location": "Front Door Gallery",
+    "room_number": "Church Fine Arts",
+    "location_name": "Front Door Gallery",
+    "status": "live",
+    "experience": "inperson",
+    "created_by": 51029798528243,
+    "updated_by": 50597815957096,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": true,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": null,
+    "ticket_url": "",
+    "ticket_cost": "",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "",
+    "photo_id": 53743884193063,
+    "speaker_ids": [],
+    "detail_views": 541,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": null,
+     "longitude": null,
+     "street": null,
+     "city": null,
+     "state": null,
+     "country": null,
+     "zip": null
+    },
+    "groups": [
+     {
+      "id": 50385857892293,
+      "name": "The Lilley Museum"
+     },
+     {
+      "id": 50385845038723,
+      "name": "College of Liberal Arts"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free",
+       "id": 27771
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Arts & Culture",
+       "id": 27454
+      },
+      {
+       "name": "Exhibitions (recurring)",
+       "id": 52675932084337
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53743884149000,
+       "event_id": 53743884132592,
+       "start": "2026-10-07T12:00:00-07:00",
+       "end": "2026-10-07T16:00:00-07:00",
+       "ranking": 0.07,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/gather-carry-keep-basketry-from-the-great-basin",
+    "localist_ics_url": "https://events.unr.edu/event/gather-carry-keep-basketry-from-the-great-basin.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/53743884193063/huge/a8234d6efe4141dbb4ce0f8d3374fa9b18681e11.jpg"
+   }
+  },
+  {
+   "event": {
+    "id": 53187925233709,
+    "title": "Pediatric Grand Rounds",
+    "url": "",
+    "updated_at": "2026-10-05T04:12:27-07:00",
+    "created_at": "2026-06-17T10:28:52-07:00",
+    "facebook_id": null,
+    "first_date": "2026-10-07",
+    "last_date": "2026-10-07",
+    "hashtag": null,
+    "urlname": "pediatric-grand-rounds-5084",
+    "user_id": 53171881855635,
+    "allows_reviews": true,
+    "allows_attendance": true,
+    "location": "",
+    "room_number": null,
+    "location_name": "",
+    "status": "live",
+    "experience": "virtual",
+    "created_by": 53171881855635,
+    "updated_by": 53171881855635,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "",
+    "school_id": 78,
+    "campus_id": null,
+    "recurring": false,
+    "free": true,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": null,
+    "ticket_url": "",
+    "ticket_cost": "0",
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "",
+    "description_text": "Children",
+    "photo_id": 52887878956749,
+    "speaker_ids": [],
+    "detail_views": 606,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": null,
+     "longitude": null,
+     "street": null,
+     "city": null,
+     "state": null,
+     "country": null,
+     "zip": null
+    },
+    "groups": [
+     {
+      "id": 52887879056079,
+      "name": "Pediatrics"
+     }
+    ],
+    "filters": {
+     "event_pricing": [
+      {
+       "name": "Free",
+       "id": 27771
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Lectures & Seminars",
+       "id": 27455
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53187925234734,
+       "event_id": 53187925233709,
+       "start": "2026-10-07T12:00:00-07:00",
+       "end": "2026-10-07T13:00:00-07:00",
+       "ranking": 0.27,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.unr.edu/event/pediatric-grand-rounds-5084",
+    "localist_ics_url": "https://events.unr.edu/event/pediatric-grand-rounds-5084.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/52887878956749/huge/ab3e90bf0d6eead895515151a4d4af013a90f782.jpg"
+   }
+  }
+ ],
+ "page": {
+  "current": 1,
+  "size": 100,
+  "total": 2,
+  "total_items": 154,
+  "next_page": 2,
+  "previous_page": null
+ },
+ "date": {
+  "first": "2026-10-05",
+  "last": "2026-10-13"
+ }
+}
