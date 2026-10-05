@@ -51,7 +51,8 @@ class CollectTest(unittest.TestCase):
         self.root = self.tmp.name
         self.sent = []
         self.patches = [mock.patch.object(weather, "fetch", lambda now: WX),
-                        mock.patch.object(guide, "fetch", lambda: GUIDE)]
+                        mock.patch.object(guide, "fetch", lambda: GUIDE),
+                        mock.patch.object(net, "get_text", lambda url, **kw: "")]
         for p in self.patches:
             p.start()
         with open(os.path.join(self.root, "places.json"), "w") as f:
@@ -182,6 +183,25 @@ class CollectTest(unittest.TestCase):
         d = collect.run(self.root, afternoon, env, srcs=[fake_source("lib", [storytime()])], post=self.post_ok)
         self.assertTrue(d.digest)
         self.assertEqual(len(self.sent), 1)
+
+    def test_loving_reno_badges_are_applied_before_writing(self):
+        page = "<p>Join the Baby Storytime at Sparks Library every week.</p>"
+        with mock.patch.object(net, "get_text", lambda url, **kw: page):
+            collect.run(self.root, NOW, {}, srcs=[fake_source("lib", [storytime()])])
+        [e] = self.read("docs/data/events.json")["events"]
+        self.assertEqual(e["lovingReno"], {"title": "Fall Guide", "url": "https://www.lovingreno.com/g.html"})
+
+    def test_guide_page_failure_does_not_stop_the_run(self):
+        with mock.patch.object(net, "get_text", mock.Mock(side_effect=net.FetchError("x", "HTTP 500", 500))):
+            collect.run(self.root, NOW, {}, srcs=[fake_source("lib", [storytime()])])
+        self.assertIsNone(self.read("docs/data/events.json")["events"][0]["lovingReno"])
+
+    def test_loving_reno_alone_does_not_count_as_a_working_source(self):
+        collect.run(self.root, NOW, {}, srcs=[fake_source("lib", [storytime()])])
+        before = self.read("docs/data/events.json")
+        with mock.patch.object(net, "get_text", lambda url, **kw: ""):
+            collect.run(self.root, NOW + timedelta(days=2), {}, srcs=[fake_source("lib", error=SourceError("down"))])
+        self.assertEqual(self.read("docs/data/events.json"), before)
 
 
 if __name__ == "__main__":

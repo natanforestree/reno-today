@@ -96,8 +96,22 @@ def run(root, now, env, srcs=None, post=None):
     ctx = Context(start=start, end=end, env=env)
     previous = (store.read("docs/data/status.json") or {}).get("sources") or {}
     raw, status = collect_sources(sources.ALL if srcs is None else srcs, ctx, store, now, previous)
+    any_source_ok = any(s["ok"] for s in status.values())     # event sources only, before the extras
     events = build_events(raw, ctx, classify.load_overrides(store.path("overrides.json")))
-    if events or any(s["ok"] for s in status.values()):
+
+    card = _optional("lovingreno", "Loving Reno", guide.fetch, status, previous, now)
+    if card is not None:
+        store.write("docs/data/guide.json", card)
+    else:
+        card = store.read("docs/data/guide.json")
+    if card and events:
+        try:
+            picks = guide.badges(events, card, guide.page_text(net.get_text(card["url"])))
+            print(f"lovingreno: {picks} events are in the current guide")
+        except net.FetchError as err:
+            print(f"lovingreno: badges skipped ({err})")
+
+    if events or any_source_ok:
         store.write("docs/data/events.json",
                     {"generatedAt": model.utc(now), "timezone": "America/Los_Angeles", "events": events})
     else:
@@ -109,11 +123,6 @@ def run(root, now, env, srcs=None, post=None):
         store.write("docs/data/weather.json", wx)
     else:
         wx = store.read("docs/data/weather.json")
-    card = _optional("lovingreno", "Loving Reno", guide.fetch, status, previous, now)
-    if card is not None:
-        store.write("docs/data/guide.json", card)
-    else:
-        card = store.read("docs/data/guide.json")
     places = store.read("places.json", [])
     store.write("docs/data/places.json", places)
     store.write("docs/data/status.json", {"generatedAt": model.utc(now), "sources": status})

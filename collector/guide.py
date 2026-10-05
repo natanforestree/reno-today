@@ -1,9 +1,12 @@
 """Loving Reno (lovingreno.com): their current seasonal guide, linked and never
 copied. We keep only its title, URL and date."""
 
+import html
+import re
 import xml.etree.ElementTree as ET
 
 import net
+from dedupe import tokens
 
 FEED = "https://www.lovingreno.com/feeds/posts/summary?max-results=10"
 ATOM = "{http://www.w3.org/2005/Atom}"
@@ -33,3 +36,37 @@ def parse(xml_text):
 
 def fetch():
     return parse(net.get_text(FEED))
+
+
+DROP = re.compile(r"\b((19|20)\d\d|\d+(st|nd|rd|th)|annual|the)\b")
+NEAR = 300   # characters either side of a two-word title where the venue must appear
+
+
+def norm(text):
+    """Lower-case words only, padded with spaces: ' great italian festival '."""
+    text = html.unescape(re.sub(r"<[^>]+>", " ", text or "")).lower().replace("'", "").replace("\u2019", "")
+    return " " + " ".join(re.sub(r"[^a-z0-9]+", " ", DROP.sub(" ", text)).split()) + " "
+
+
+def page_text(page_html):
+    return norm(re.sub(r"(?is)<(script|style)\b[^>]*>.*?</\1>", " ", page_html or ""))
+
+
+def badges(events, card, text):
+    """Mark events the guide mentions. Distinctive titles only: 3+ significant words
+    found as a phrase, or 2 words with the venue's name close by."""
+    mark = {"title": card.get("shortTitle") or card["title"], "url": card["url"]}
+    marked = 0
+    for e in events:
+        phrase = norm(e["title"]).strip()
+        words = tokens(e["title"])
+        if len(words) < 2 or not phrase:
+            continue
+        at = text.find(f" {phrase} ")
+        if at < 0:
+            continue
+        place = norm((e.get("venue") or {}).get("name")).strip()
+        if len(words) >= 3 or (place and f" {place} " in text[max(0, at - NEAR):at + len(phrase) + NEAR]):
+            e["lovingReno"] = dict(mark)
+            marked += 1
+    return marked
