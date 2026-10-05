@@ -1,0 +1,9 @@
+{
+  "name": "reno-today",
+  "private": true,
+  "type": "module",
+  "description": "Reno Today page logic tests (no dependencies)",
+  "scripts": {
+    "test": "node --test \"tests/page/*.test.js\""
+  }
+}
