@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SIDEARM Sports//NONSGML SIDEARM//EN
+BEGIN:VEVENT
+UID:vcal_14076-nevadawolfpack.com
+DTSTART:20261024T210000Z
+DTEND:20261025T000000Z
+LOCATION:Reno\, Nev.\, Mackay Stadium
+SUMMARY:University of Nevada Football vs San José State - Presented by: 
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14076&amp;sport_id=2
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14074-nevadawolfpack.com
+DTSTART:20261010T230000Z
+LOCATION:El Paso\, Texas
+SUMMARY:University of Nevada Football at UTEP
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14074&amp;sport_id=2
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14224-nevadawolfpack.com
+DTSTART;VALUE=DATE:20261118
+LOCATION:Reno\, Nev.\, Lawlor Events Center
+SUMMARY:University of Nevada Men's Basketball vs Idaho
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14224&amp;sport_id=5
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14215-nevadawolfpack.com
+DTSTART:20261108T213000Z
+LOCATION:Stateline\, Nev.\, Tahoe Blue Event Center
+SUMMARY:University of Nevada Men's Basketball vs Saint Mary's
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14215&amp;sport_id=5
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14250-nevadawolfpack.com
+DTSTART:20261108T020000Z
+LOCATION:Reno\, Nev. \, Lawlor Events Center
+SUMMARY:[W] University of Nevada Women's Basketball vs Sacramento State
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14250&amp;sport_id=6
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14290-nevadawolfpack.com
+DTSTART;VALUE=DATE:20261030
+LOCATION:Reno\, Nev.
+SUMMARY:University of Nevada Women's Cross Country vs Credit Union One Mountain West Championships
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14290&amp;sport_id=8
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14187-nevadawolfpack.com
+DTSTART;VALUE=DATE:20261111
+LOCATION:
+SUMMARY:University of Nevada Women's Soccer vs TBA
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,2849 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SIDEARM Sports//NONSGML SIDEARM//EN
+X-WR-CALNAME:University of Nevada Athletics
+X-PUBLISHED-TTL:PT120M
+BEGIN:VEVENT
+UID:vcal_14196-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20260905T180000Z
+DTEND:20260905T200000Z
+LOCATION:Sacramento\, Calif.
+SUMMARY:[L] University of Nevada Women's Volleyball vs Texas Tech
+DESCRIPTION:[L] University of Nevada Women's Volleyball vs Texas Tech\nL 2-
+ 3\nTV: ESPN+\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14196&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13943-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20260906T023000Z
+DTEND:20260906T053000Z
+LOCATION:Reno\, Nev., Mackay Stadium
+SUMMARY:[W] University of Nevada Football vs Western Kentucky - Presented by: 
+DESCRIPTION:[W] University of Nevada Football vs Western Kentucky - Present
+ ed by: \nW 49-14\nTV: CBS Sports Network\nRadio: 105.7 KOZZ / The Varsity 
+ Network\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=13943&amp;sport_id=2
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14211-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20260906T190000Z
+DTEND:20260906T210000Z
+LOCATION:San Francisco\, Calif.
+SUMMARY:[L] University of Nevada Women's Soccer at University of San Francisco
+DESCRIPTION:[L] University of Nevada Women's Soccer at University of San Fr
+ ancisco\nL 0-1\nTV: ESPN+\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14211&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14213-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20260911T000000Z
+DTEND:20260911T020000Z
+LOCATION:Conway\, Ark.
+SUMMARY:[L] University of Nevada Women's Soccer at Central Arkansas University
+DESCRIPTION:[L] University of Nevada Women's Soccer at Central Arkansas Uni
+ versity\nL 0-1\nTV: ESPN+\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14213&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14197-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20260911T010000Z
+DTEND:20260911T030000Z
+LOCATION:Reno\, Nev. , Virginia Street Gym
+SUMMARY:[L] University of Nevada Women's Volleyball vs Weber State 
+DESCRIPTION:[L] University of Nevada Women's Volleyball vs Weber State \nL 
+ 0-3\nTV: MW+\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14197&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14198-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20260912T010000Z
+DTEND:20260912T030000Z
+LOCATION:Reno\, Nev., Virginia Street Gym
+SUMMARY:University of Nevada Women's Volleyball vs Weber State vs Kansas State
+DESCRIPTION:University of Nevada Women's Volleyball vs Weber State vs Kansa
+ s State\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14198&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14369-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+LOCATION:Berkeley\, Calif.
+SUMMARY:University of Nevada Men's Tennis vs Battle of the Bay
+DESCRIPTION:University of Nevada Men's Tennis vs Battle of the Bay\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14369&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13944-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20260913T023000Z
+DTEND:20260913T053000Z
+LOCATION:Reno\, Nev., Mackay Stadium
+SUMMARY:[L] University of Nevada Football vs Montana State - Presented by: 
+DESCRIPTION:[L] University of Nevada Football vs Montana State - Presented 
+ by: \nL 7-20\nTV: The CW\nRadio: 105.7 KOZZ / The Varsity Network\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=13944&amp;sport_id=2
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14214-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20260913T170000Z
+DTEND:20260913T190000Z
+LOCATION:Pine Bluff\, Ark.
+SUMMARY:[W] University of Nevada Women's Soccer at University of Arkansas - Pine Bluff
+DESCRIPTION:[W] University of Nevada Women's Soccer at University of Arkans
+ as - Pine Bluff\nW 11-1\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14214&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14199-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20260913T200000Z
+DTEND:20260913T220000Z
+LOCATION:Reno\, Nev. , Virginia Street Gym
+SUMMARY:[L] University of Nevada Women's Volleyball vs Kansas State 
+DESCRIPTION:[L] University of Nevada Women's Volleyball vs Kansas State \nL
+  1-3\nTV: MW+\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14199&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14345-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+LOCATION:Albuquerque\, N.M.
+SUMMARY:[N] University of Nevada Women's Golf vs Branch Law Firm / McGuire Invitational
+DESCRIPTION:[N] University of Nevada Women's Golf vs Branch Law Firm / McGu
+ ire Invitational\n 8th, 597 (+21)\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14345&amp;sport_id=11
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14346-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+LOCATION:Albuquerque\, N.M.
+SUMMARY:[N] University of Nevada Women's Golf vs Branch Law Firm / McGuire Invitational
+DESCRIPTION:[N] University of Nevada Women's Golf vs Branch Law Firm / McGu
+ ire Invitational\n 9th, 895 (+31)\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14346&amp;sport_id=11
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14212-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20260918T010000Z
+DTEND:20260918T030000Z
+LOCATION:Reno\, Nev., Mackay Stadium
+SUMMARY:[L] University of Nevada Women's Soccer vs Long Beach State 
+DESCRIPTION:[L] University of Nevada Women's Soccer vs Long Beach State \nL
+  0-3\nTV: MW+\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14212&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14200-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20260918T010000Z
+DTEND:20260918T030000Z
+LOCATION:Cheney\, Wash.
+SUMMARY:[W] University of Nevada Women's Volleyball at Eastern Washington 
+DESCRIPTION:[W] University of Nevada Women's Volleyball at Eastern Washingt
+ on \nW 3-1\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14200&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14282-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+LOCATION:Concord\, Calif. 
+SUMMARY:[N] University of Nevada Men's Cross Country  Saint Mary's College Invite
+DESCRIPTION:[N] University of Nevada Men's Cross Country  Saint Mary's Coll
+ ege Invite\n 5th (109)\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14282&amp;sport_id=1026
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14287-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+LOCATION:Concord\, Calif. 
+SUMMARY:[N] University of Nevada Women's Cross Country vs Saint Mary's College Invite
+DESCRIPTION:[N] University of Nevada Women's Cross Country vs Saint Mary's 
+ College Invite\n 8th (224)\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14287&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14201-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20260918T220000Z
+DTEND:20260919T000000Z
+LOCATION:Cheney\, Wash.
+SUMMARY:[L] University of Nevada Women's Volleyball vs Portland
+DESCRIPTION:[L] University of Nevada Women's Volleyball vs Portland\nL 2-3\
+ n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14201&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14202-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20260919T180000Z
+DTEND:20260919T200000Z
+LOCATION:Cheney\, Wash.
+SUMMARY:[W] University of Nevada Women's Volleyball vs Bakersfield
+DESCRIPTION:[W] University of Nevada Women's Volleyball vs Bakersfield\nW 3
+ -2\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14202&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13946-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20260919T230000Z
+DTEND:20260920T020000Z
+LOCATION:Murfreesboro\, Tenn.
+SUMMARY:[L] University of Nevada Football at Middle Tennessee
+DESCRIPTION:[L] University of Nevada Football at Middle Tennessee\nL 20-27\
+ nTV: ESPN+\nRadio: 105.7 KOZZ / The Varsity Network\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=13946&amp;sport_id=2
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14347-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+LOCATION:Fort Collins\, Colo. 
+SUMMARY:[N] University of Nevada Women's Golf vs Connell Resources Ram Classic
+DESCRIPTION:[N] University of Nevada Women's Golf vs Connell Resources Ram 
+ Classic\n 11th, 589 (+13)\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14347&amp;sport_id=11
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14348-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+LOCATION:Fort Collins\, Colo. 
+SUMMARY:[N] University of Nevada Women's Golf vs Connell Resources Ram Classic
+DESCRIPTION:[N] University of Nevada Women's Golf vs Connell Resources Ram 
+ Classic\n 9th, 884 (+20)\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14348&amp;sport_id=11
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14564-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+LOCATION:San Diego\, Calif.
+SUMMARY:[N] University of Nevada Women's Tennis vs USTA
+DESCRIPTION:[N] University of Nevada Women's Tennis vs USTA\n\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14564&amp;sport_id=15
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14126-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20260925T010000Z
+DTEND:20260925T030000Z
+LOCATION:Reno\, Nev., Virginia Street Gym
+SUMMARY:[W] University of Nevada Women's Volleyball vs Grand Canyon  - Presented by: 
+DESCRIPTION:[W] University of Nevada Women's Volleyball vs Grand Canyon  - 
+ Presented by: \nW 3-2\nTV: MW+\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14126&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14177-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20260925T010000Z
+DTEND:20260925T030000Z
+LOCATION:Reno\, Nev., Mackay Stadium
+SUMMARY:[L] University of Nevada Women's Soccer vs Wyoming
+DESCRIPTION:[L] University of Nevada Women's Soccer vs Wyoming\nL 0-2\nTV: 
+ MW+\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14177&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14370-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260927
+LOCATION:Davis\, Calif.
+SUMMARY:[N] University of Nevada Men's Tennis vs UC Davis
+DESCRIPTION:[N] University of Nevada Men's Tennis vs UC Davis\n\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14370&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14568-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+LOCATION:San Diego\, Calif.
+SUMMARY:University of Nevada Women's Tennis vs USTA
+DESCRIPTION:University of Nevada Women's Tennis vs USTA\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14568&amp;sport_id=15
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14318-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20260925T213000Z
+DTEND:20260926T003000Z
+LOCATION:Reno\, Nev., Lombardi Pool
+SUMMARY:University of Nevada Women's Swimming & Diving vs Silver vs Blue Meet
+DESCRIPTION:University of Nevada Women's Swimming & Diving vs Silver vs Blu
+ e Meet\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14318&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14127-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20260926T010000Z
+DTEND:20260926T030000Z
+LOCATION:Reno\, Nev., Virginia Street Gym
+SUMMARY:[L] University of Nevada Women's Volleyball vs Grand Canyon 
+DESCRIPTION:[L] University of Nevada Women's Volleyball vs Grand Canyon \nL
+  2-3\nTV: MW+\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14127&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14569-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+LOCATION:San Diego\, Calif.
+SUMMARY:University of Nevada Women's Tennis vs USTA
+DESCRIPTION:University of Nevada Women's Tennis vs USTA\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14569&amp;sport_id=15
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14319-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20260926T160000Z
+DTEND:20260926T190000Z
+LOCATION:Reno\, Nev., Lombardi Pool
+SUMMARY:University of Nevada Women's Swimming & Diving vs Alumni Meet
+DESCRIPTION:University of Nevada Women's Swimming & Diving vs Alumni Meet\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14319&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14073-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20260927T023000Z
+DTEND:20260927T053000Z
+LOCATION:Reno\, Nev., Mackay Stadium
+SUMMARY:[L] University of Nevada Football vs Air Force - Presented by: 
+DESCRIPTION:[L] University of Nevada Football vs Air Force - Presented by: 
+ \nL 33-36 2OT\nTV: FS1/FOX One\nRadio: 105.7 KOZZ / The Varsity Network\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14073&amp;sport_id=2
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14570-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+LOCATION:San Diego\, Calif.
+SUMMARY:University of Nevada Women's Tennis vs USTA
+DESCRIPTION:University of Nevada Women's Tennis vs USTA\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14570&amp;sport_id=15
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14178-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20260927T190000Z
+DTEND:20260927T210000Z
+LOCATION:Albuquerque\, New Mex.
+SUMMARY:[L] University of Nevada Women's Soccer at New Mexico
+DESCRIPTION:[L] University of Nevada Women's Soccer at New Mexico\nL 2-5\nT
+ V: MW+\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14178&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14375-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+LOCATION:Boulder\, Colo. 
+SUMMARY:[N] University of Nevada Men's Golf vs Mark Simpson Colorado Invitational
+DESCRIPTION:[N] University of Nevada Men's Golf vs Mark Simpson Colorado In
+ vitational\n 8th, 557 (3)\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14375&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14376-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+LOCATION:Boulder\, Colo. 
+SUMMARY:[N] University of Nevada Men's Golf vs Mark Simpson Colorado Invitational
+DESCRIPTION:[N] University of Nevada Men's Golf vs Mark Simpson Colorado In
+ vitational\n 8th, 850 (+10)\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14376&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14128-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261003T010000Z
+DTEND:20261003T030000Z
+LOCATION:Albuquerque\, N.M.
+SUMMARY:[L] University of Nevada Women's Volleyball at New Mexico
+DESCRIPTION:[L] University of Nevada Women's Volleyball at New Mexico\nL 0-
+ 3\nTV: MW+\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14128&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14288-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+LOCATION:Salem\, Ore. 
+SUMMARY:[N] University of Nevada Women's Cross Country vs Charles Bowles Invite
+DESCRIPTION:[N] University of Nevada Women's Cross Country vs Charles Bowle
+ s Invite\n 5th, (60pts)\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14288&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14283-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+LOCATION:Salem\, Ore. 
+SUMMARY:[N] University of Nevada Men's Cross Country  Charles Bowles Invite
+DESCRIPTION:[N] University of Nevada Men's Cross Country  Charles Bowles In
+ vite\n 2nd (60pts)\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14283&amp;sport_id=1026
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14517-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261003T200000Z
+DTEND:20261003T220000Z
+LOCATION:Reno\, Nev., Christina M. Hixson Softball Park
+SUMMARY:University of Nevada Softball vs Feather River College
+DESCRIPTION:University of Nevada Softball vs Feather River College\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14517&amp;sport_id=8
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14179-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261003T210000Z
+DTEND:20261003T230000Z
+LOCATION:Reno\, Nev., Mackay Stadium
+SUMMARY:[T] University of Nevada Women's Soccer vs Colorado College - Presented by:
+DESCRIPTION:[T] University of Nevada Women's Soccer vs Colorado College - P
+ resented by:\nT 2-2\nTV: MW+\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14179&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14519-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261004T170000Z
+DTEND:20261004T190000Z
+LOCATION:Reno\, Nev., Christina M. Hixson Softball Park
+SUMMARY:University of Nevada Softball vs Lassen College
+DESCRIPTION:University of Nevada Softball vs Lassen College\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14519&amp;sport_id=8
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14129-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261004T190000Z
+DTEND:20261004T210000Z
+LOCATION:Albuquerque\, N.M.
+SUMMARY:[L] University of Nevada Women's Volleyball at New Mexico
+DESCRIPTION:[L] University of Nevada Women's Volleyball at New Mexico\nL 1-
+ 3\nTV: MW+\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14129&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14518-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261004T193000Z
+DTEND:20261004T213000Z
+LOCATION:Reno\, Nev., Christina M. Hixson Softball Park
+SUMMARY:University of Nevada Softball vs Southern Oregon University
+DESCRIPTION:University of Nevada Softball vs Southern Oregon University\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14518&amp;sport_id=8
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14349-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+LOCATION:Lakewood\, Wash. 
+SUMMARY:University of Nevada Women's Golf vs Pat Lesser Harbottle Invitational
+DESCRIPTION:University of Nevada Women's Golf vs Pat Lesser Harbottle Invit
+ ational\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14349&amp;sport_id=11
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14350-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+LOCATION:Lakewood\, Wash. 
+SUMMARY:University of Nevada Women's Golf vs Pat Lesser Harbottle Invitational
+DESCRIPTION:University of Nevada Women's Golf vs Pat Lesser Harbottle Invit
+ ational\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14350&amp;sport_id=11
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14372-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261010
+LOCATION:Provo\, Utah
+SUMMARY:University of Nevada Men's Tennis vs ITA Mountain Regional
+DESCRIPTION:University of Nevada Men's Tennis vs ITA Mountain Regional\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14372&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14180-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261008T010000Z
+DTEND:20261008T030000Z
+LOCATION:Manoa\, Haw.
+SUMMARY:University of Nevada Women's Soccer at Hawaii
+DESCRIPTION:University of Nevada Women's Soccer at Hawaii\nTV: MW+\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14180&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14130-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261009T010000Z
+DTEND:20261009T030000Z
+LOCATION:Reno\, Nev., Virginia Street Gym
+SUMMARY:University of Nevada Women's Volleyball vs UTEP
+DESCRIPTION:University of Nevada Women's Volleyball vs UTEP\nTV: MW+\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14130&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14320-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261009T200000Z
+DTEND:20261009T230000Z
+LOCATION:Davis\, CA
+SUMMARY:University of Nevada Women's Swimming & Diving at UC Davis
+DESCRIPTION:University of Nevada Women's Swimming & Diving at UC Davis\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14320&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14520-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261010T010000Z
+DTEND:20261010T030000Z
+LOCATION:Reno\, Nev., Christina M. Hixson Softball Park
+SUMMARY:University of Nevada Softball vs Sacramento State
+DESCRIPTION:University of Nevada Softball vs Sacramento State\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14520&amp;sport_id=8
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14321-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261010T180000Z
+DTEND:20261010T210000Z
+LOCATION:San Jose\, CA
+SUMMARY:University of Nevada Women's Swimming & Diving at SJSU
+DESCRIPTION:University of Nevada Women's Swimming & Diving at SJSU\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14321&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14131-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261010T190000Z
+DTEND:20261010T210000Z
+LOCATION:Reno\, Nev., Virginia Street Gym
+SUMMARY:University of Nevada Women's Volleyball vs UTEP
+DESCRIPTION:University of Nevada Women's Volleyball vs UTEP\nTV: MW+\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14131&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14521-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261010T200000Z
+DTEND:20261010T220000Z
+LOCATION:Reno\, Nev., Christina M. Hixson Softball Park
+SUMMARY:University of Nevada Softball vs Sacramento City College
+DESCRIPTION:University of Nevada Softball vs Sacramento City College\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14521&amp;sport_id=8
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14074-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261010T230000Z
+DTEND:20261011T020000Z
+LOCATION:El Paso\, Texas
+SUMMARY:University of Nevada Football at UTEP
+DESCRIPTION:University of Nevada Football at UTEP\nTV: FS1/FOX One\nRadio: 
+ 105.7 KOZZ / The Varsity Network\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14074&amp;sport_id=2
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14377-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+LOCATION:Stockton\, Calif. 
+SUMMARY:University of Nevada Men's Golf vs Visit Stockton Pacific Invitational
+DESCRIPTION:University of Nevada Men's Golf vs Visit Stockton Pacific Invit
+ ational\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14377&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14378-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+LOCATION:Stockton\, Calif. 
+SUMMARY:University of Nevada Men's Golf vs Visit Stockton Pacific Invitational
+DESCRIPTION:University of Nevada Men's Golf vs Visit Stockton Pacific Invit
+ ational\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14378&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14565-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261017
+LOCATION:Provo\, Utah
+SUMMARY:University of Nevada Women's Tennis vs ITA Mountain Regionals
+DESCRIPTION:University of Nevada Women's Tennis vs ITA Mountain Regionals\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14565&amp;sport_id=15
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14379-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+LOCATION:Stockton\, Calif. 
+SUMMARY:University of Nevada Men's Golf vs Visit Stockton Pacific Invitational
+DESCRIPTION:University of Nevada Men's Golf vs Visit Stockton Pacific Invit
+ ational\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14379&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14132-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261016T010000Z
+DTEND:20261016T030000Z
+LOCATION:Las Vegas\, Nev.
+SUMMARY:University of Nevada Women's Volleyball at UNLV
+DESCRIPTION:University of Nevada Women's Volleyball at UNLV\nTV: MW+\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14132&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14181-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261016T020000Z
+DTEND:20261016T040000Z
+LOCATION:Phoenix\, Ariz.
+SUMMARY:University of Nevada Women's Soccer at GCU
+DESCRIPTION:University of Nevada Women's Soccer at GCU\nTV: MW+\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14181&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14284-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+LOCATION:Sunnyvale\, Calif. 
+SUMMARY:University of Nevada Men's Cross Country  Bronco Invite
+DESCRIPTION:University of Nevada Men's Cross Country  Bronco Invite\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14284&amp;sport_id=1026
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14289-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+LOCATION:Sunnyvale\, Calif. 
+SUMMARY:University of Nevada Women's Cross Country vs Bronco Invite
+DESCRIPTION:University of Nevada Women's Cross Country vs Bronco Invite\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14289&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14133-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261017T200000Z
+DTEND:20261017T220000Z
+LOCATION:Las Vegas\, Nev.
+SUMMARY:University of Nevada Women's Volleyball at UNLV
+DESCRIPTION:University of Nevada Women's Volleyball at UNLV\nTV: MW+\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14133&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14246-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261017T200000Z
+DTEND:20261017T220000Z
+LOCATION:Reno\, Nev., Lawlor Events Center
+SUMMARY:University of Nevada Men's Basketball vs Utah (Exhibition)
+DESCRIPTION:University of Nevada Men's Basketball vs Utah (Exhibition)\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14246&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14075-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261017T230000Z
+DTEND:20261018T020000Z
+LOCATION:Fargo\, N.D.
+SUMMARY:University of Nevada Football at NDSU
+DESCRIPTION:University of Nevada Football at NDSU\nTV: CBS Sports Network\n
+ Radio: 105.7 KOZZ / The Varsity Network\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14075&amp;sport_id=2
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14182-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261019T000000Z
+DTEND:20261019T020000Z
+LOCATION:Reno\, Nev., Mackay Stadium
+SUMMARY:University of Nevada Women's Soccer vs Air Force
+DESCRIPTION:University of Nevada Women's Soccer vs Air Force\nTV: MW+\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14182&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14351-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+LOCATION:Lihue\, Hawaii.
+SUMMARY:University of Nevada Women's Golf vs Rainbow Wahine Invitational
+DESCRIPTION:University of Nevada Women's Golf vs Rainbow Wahine Invitationa
+ l\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14351&amp;sport_id=11
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14380-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+LOCATION:Seaside\, Calif. 
+SUMMARY:University of Nevada Men's Golf vs Saint Mary's Invitational
+DESCRIPTION:University of Nevada Men's Golf vs Saint Mary's Invitational\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14380&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14381-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+LOCATION:Seaside\, Calif. 
+SUMMARY:University of Nevada Men's Golf vs Saint Mary's Invitational
+DESCRIPTION:University of Nevada Men's Golf vs Saint Mary's Invitational\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14381&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14566-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261025
+LOCATION:Las Vegas\, Nev.
+SUMMARY:University of Nevada Women's Tennis vs Mountain West Fall Tennis Qualifier
+DESCRIPTION:University of Nevada Women's Tennis vs Mountain West Fall Tenni
+ s Qualifier\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14566&amp;sport_id=15
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14352-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+LOCATION:Lihue\, Hawaii.
+SUMMARY:University of Nevada Women's Golf vs Rainbow Wahine Invitational
+DESCRIPTION:University of Nevada Women's Golf vs Rainbow Wahine Invitationa
+ l\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14352&amp;sport_id=11
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14368-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261025
+LOCATION:Las Vegas\, Nev.
+SUMMARY:University of Nevada Men's Tennis vs Mountain West Fall Qualifier
+DESCRIPTION:University of Nevada Men's Tennis vs Mountain West Fall Qualifi
+ er\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14368&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14353-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+LOCATION:Lihue\, Hawaii.
+SUMMARY:University of Nevada Women's Golf vs Rainbow Wahine Invitational
+DESCRIPTION:University of Nevada Women's Golf vs Rainbow Wahine Invitationa
+ l\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14353&amp;sport_id=11
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14382-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+LOCATION:Seaside\, Calif. 
+SUMMARY:University of Nevada Men's Golf vs Saint Mary's Invitational
+DESCRIPTION:University of Nevada Men's Golf vs Saint Mary's Invitational\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14382&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14134-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261023T010000Z
+DTEND:20261023T030000Z
+LOCATION:Reno\, Nev., Virginia Street Gym
+SUMMARY:University of Nevada Women's Volleyball vs UC Davis - Presented by: 
+DESCRIPTION:University of Nevada Women's Volleyball vs UC Davis - Presented
+  by: \nTV: MW+\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14134&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14522-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261024T000000Z
+DTEND:20261024T020000Z
+LOCATION:Reno\, Nev., Christina M. Hixson Softball Park
+SUMMARY:University of Nevada Softball vs Alumni Game
+DESCRIPTION:University of Nevada Softball vs Alumni Game\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14522&amp;sport_id=8
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14135-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261024T180000Z
+DTEND:20261024T200000Z
+LOCATION:Davis\, Calif.
+SUMMARY:University of Nevada Women's Volleyball at UC Davis
+DESCRIPTION:University of Nevada Women's Volleyball at UC Davis\nTV: MW+\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14135&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14076-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261024T210000Z
+DTEND:20261025T000000Z
+LOCATION:Reno\, Nev., Mackay Stadium
+SUMMARY:University of Nevada Football vs San José State - Presented by: 
+DESCRIPTION:University of Nevada Football vs San José State - Presented by
+ : \nTV: MW+\nRadio: 105.7 KOZZ / The Varsity Network\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14076&amp;sport_id=2
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14183-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261025T020000Z
+DTEND:20261025T040000Z
+LOCATION:Las Vegas\, Nev.
+SUMMARY:University of Nevada Women's Soccer at UNLV
+DESCRIPTION:University of Nevada Women's Soccer at UNLV\nTV: MW+\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14183&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14523-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+LOCATION:Rocklin\, CA
+SUMMARY:University of Nevada Softball at Sierra College
+DESCRIPTION:University of Nevada Softball at Sierra College\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14523&amp;sport_id=8
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14524-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+LOCATION:Rocklin\, Calif.
+SUMMARY:University of Nevada Softball vs Santa Clara University
+DESCRIPTION:University of Nevada Softball vs Santa Clara University\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14524&amp;sport_id=8
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14247-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261025T203000Z
+DTEND:20261025T223000Z
+LOCATION:Reno\, Nev., Lawlor Events Center
+SUMMARY:University of Nevada Men's Basketball vs Portland State (Exhibition)
+DESCRIPTION:University of Nevada Men's Basketball vs Portland State (Exhibi
+ tion)\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14247&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14184-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261029T010000Z
+DTEND:20261029T030000Z
+LOCATION:Reno\, Nev., Mackay Stadium
+SUMMARY:University of Nevada Women's Soccer vs UTEP
+DESCRIPTION:University of Nevada Women's Soccer vs UTEP\nTV: MW+\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14184&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14322-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261030T000000Z
+DTEND:20261030T030000Z
+LOCATION:Reno\, Nev., Lombardi Pool
+SUMMARY:University of Nevada Women's Swimming & Diving vs UNLV
+DESCRIPTION:University of Nevada Women's Swimming & Diving vs UNLV\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14322&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14136-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261030T010000Z
+DTEND:20261030T030000Z
+LOCATION:Reno\, Nev., Virginia Street Gym
+SUMMARY:University of Nevada Women's Volleyball vs Wyoming - Presented by: 
+DESCRIPTION:University of Nevada Women's Volleyball vs Wyoming - Presented 
+ by: \nTV: MW+\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14136&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14373-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261101
+LOCATION:Stockton\, Calif.
+SUMMARY:University of Nevada Men's Tennis vs Hidden Duals
+DESCRIPTION:University of Nevada Men's Tennis vs Hidden Duals\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14373&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14290-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+LOCATION:Reno\, Nev.
+SUMMARY:University of Nevada Women's Cross Country vs Credit Union One Mountain West Cross Country Championships
+DESCRIPTION:University of Nevada Women's Cross Country vs Credit Union One 
+ Mountain West Cross Country Championships\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14290&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14285-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+LOCATION:Reno\, Nev.
+SUMMARY:University of Nevada Men's Cross Country  Credit Union One Mountain West Cross Country Championships
+DESCRIPTION:University of Nevada Men's Cross Country  Credit Union One Moun
+ tain West Cross Country Championships\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14285&amp;sport_id=1026
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14525-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261031T000000Z
+DTEND:20261031T020000Z
+LOCATION:Reno\, Nev., Christina M. Hixson Softball Park
+SUMMARY:University of Nevada Softball vs Folsom Lake College
+DESCRIPTION:University of Nevada Softball vs Folsom Lake College\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14525&amp;sport_id=8
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13945-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+LOCATION:Los Angeles\, Calif.
+SUMMARY:University of Nevada Football at UCLA
+DESCRIPTION:University of Nevada Football at UCLA\nTV: TBA\nRadio: 105.7 KO
+ ZZ / The Varsity Network\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=13945&amp;sport_id=2
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14137-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261031T200000Z
+DTEND:20261031T220000Z
+LOCATION:Reno\, Nev., Virginia Street Gym
+SUMMARY:University of Nevada Women's Volleyball vs Wyoming
+DESCRIPTION:University of Nevada Women's Volleyball vs Wyoming\nTV: MW+\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14137&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14185-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261101T200000Z
+DTEND:20261101T220000Z
+LOCATION:San Jose\, Calif.
+SUMMARY:University of Nevada Women's Soccer at San José State 
+DESCRIPTION:University of Nevada Women's Soccer at San José State \nTV: MW
+ +\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14185&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14218-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+LOCATION:Reno\, Nev., Lawlor Events Center
+SUMMARY:University of Nevada Men's Basketball vs Robert Morris
+DESCRIPTION:University of Nevada Men's Basketball vs Robert Morris\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14218&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14248-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261103T020000Z
+DTEND:20261103T040000Z
+LOCATION:Los Angeles\, Calif.
+SUMMARY:University of Nevada Women's Basketball at LMU
+DESCRIPTION:University of Nevada Women's Basketball at LMU\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14248&amp;sport_id=9
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14374-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261108
+LOCATION:Tempe\, Ariz.
+SUMMARY:University of Nevada Men's Tennis vs ITA Sectionals
+DESCRIPTION:University of Nevada Men's Tennis vs ITA Sectionals\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14374&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14138-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261106T050000Z
+DTEND:20261106T070000Z
+LOCATION:Manoa\, Hawaii
+SUMMARY:University of Nevada Women's Volleyball at Hawaii
+DESCRIPTION:University of Nevada Women's Volleyball at Hawaii\nTV: MW+\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14138&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14077-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261107T020000Z
+DTEND:20261107T050000Z
+LOCATION:Reno\, Nev., Mackay Stadium
+SUMMARY:University of Nevada Football vs New Mexico - Presented by: 
+DESCRIPTION:University of Nevada Football vs New Mexico - Presented by: \nT
+ V: CBS Sports Network\nRadio: 105.7 KOZZ / The Varsity Network\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14077&amp;sport_id=2
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14567-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+LOCATION:Northridge\, Calif.
+SUMMARY:University of Nevada Women's Tennis vs Northridge Matador Invitational
+DESCRIPTION:University of Nevada Women's Tennis vs Northridge Matador Invit
+ ational\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14567&amp;sport_id=15
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14186-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261107T220000Z
+DTEND:20261108T000000Z
+LOCATION:Reno\, Nev., Mackay Stadium
+SUMMARY:University of Nevada Women's Soccer vs UC Davis - Senior Day
+DESCRIPTION:University of Nevada Women's Soccer vs UC Davis - Senior Day\nT
+ V: MW+\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14186&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14250-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261108T020000Z
+DTEND:20261108T040000Z
+LOCATION:Reno\, Nev. , Lawlor Events Center
+SUMMARY:University of Nevada Women's Basketball vs Sacramento State
+DESCRIPTION:University of Nevada Women's Basketball vs Sacramento State\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14250&amp;sport_id=9
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14139-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261108T050000Z
+DTEND:20261108T070000Z
+LOCATION:Manoa\, Hawaii
+SUMMARY:University of Nevada Women's Volleyball at Hawaii
+DESCRIPTION:University of Nevada Women's Volleyball at Hawaii\nTV: MW+\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14139&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14215-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261108T213000Z
+DTEND:20261108T233000Z
+LOCATION:Stateline\, Nev., Tahoe Blue Event Center
+SUMMARY:University of Nevada Men's Basketball vs Saint Mary's
+DESCRIPTION:University of Nevada Men's Basketball vs Saint Mary's\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14215&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14249-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261111T020000Z
+DTEND:20261111T040000Z
+LOCATION:Reno\, Nev., Lawlor Events Center
+SUMMARY:University of Nevada Women's Basketball vs Jessup 
+DESCRIPTION:University of Nevada Women's Basketball vs Jessup \n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14249&amp;sport_id=9
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14222-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+LOCATION:Santa Barbara\, Calif.
+SUMMARY:University of Nevada Men's Basketball at UCSB
+DESCRIPTION:University of Nevada Men's Basketball at UCSB\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14222&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14187-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261115
+LOCATION:
+SUMMARY:University of Nevada Women's Soccer vs TBA
+DESCRIPTION:University of Nevada Women's Soccer vs TBA\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14187&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14140-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261113T020000Z
+DTEND:20261113T040000Z
+LOCATION:Reno\, Nev., Virginia Street Gym
+SUMMARY:University of Nevada Women's Volleyball vs San Jose State 
+DESCRIPTION:University of Nevada Women's Volleyball vs San Jose State \nTV:
+  MW+\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14140&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14286-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+LOCATION:Albuquerque\, N.M.
+SUMMARY:University of Nevada Men's Cross Country  NCAA Regionals
+DESCRIPTION:University of Nevada Men's Cross Country  NCAA Regionals\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14286&amp;sport_id=1026
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14291-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+LOCATION:Albuquerque\, N.M.
+SUMMARY:University of Nevada Women's Cross Country vs NCAA Regionals
+DESCRIPTION:University of Nevada Women's Cross Country vs NCAA Regionals\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14291&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14223-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+LOCATION:Reno\, Nev., Lawlor Events Center
+SUMMARY:University of Nevada Men's Basketball vs Utah Valley
+DESCRIPTION:University of Nevada Men's Basketball vs Utah Valley\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14223&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14078-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261114T203000Z
+DTEND:20261114T233000Z
+LOCATION:DeKalb\, Ill.
+SUMMARY:University of Nevada Football at NIU
+DESCRIPTION:University of Nevada Football at NIU\nTV: MW+\nRadio: 105.7 KOZ
+ Z / The Varsity Network\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14078&amp;sport_id=2
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14251-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261114T210000Z
+DTEND:20261114T230000Z
+LOCATION:Orem\, UT
+SUMMARY:University of Nevada Women's Basketball at Utah Valley 
+DESCRIPTION:University of Nevada Women's Basketball at Utah Valley \n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14251&amp;sport_id=9
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14141-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261114T210000Z
+DTEND:20261114T230000Z
+LOCATION:Reno\, Nev., Virginia Street Gym
+SUMMARY:University of Nevada Women's Volleyball vs San Jose State  - Presented by: 
+DESCRIPTION:University of Nevada Women's Volleyball vs San Jose State  - Pr
+ esented by: \nTV: MW+\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14141&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14252-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261117T190000Z
+DTEND:20261117T210000Z
+LOCATION:Reno\, Nev. , Lawlor Events Center
+SUMMARY:University of Nevada Women's Basketball vs Pepperdine  - WHEN I GROW UP 
+DESCRIPTION:University of Nevada Women's Basketball vs Pepperdine  - WHEN I
+  GROW UP \n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14252&amp;sport_id=9
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14224-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+LOCATION:Reno\, Nev., Lawlor Events Center
+SUMMARY:University of Nevada Men's Basketball vs Idaho
+DESCRIPTION:University of Nevada Men's Basketball vs Idaho\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14224&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14142-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261119T010000Z
+DTEND:20261119T030000Z
+LOCATION:USAF Academy\, Colo.
+SUMMARY:University of Nevada Women's Volleyball at Air Force
+DESCRIPTION:University of Nevada Women's Volleyball at Air Force\nTV: MW+\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14142&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14323-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+LOCATION:Boise\, Idaho
+SUMMARY:University of Nevada Women's Swimming & Diving vs NW Collegiate Swimming Invite
+DESCRIPTION:University of Nevada Women's Swimming & Diving vs NW Collegiate
+  Swimming Invite\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14323&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14143-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261120T010000Z
+DTEND:20261120T030000Z
+LOCATION:USAF Academy\, Colo.
+SUMMARY:University of Nevada Women's Volleyball at Air Force
+DESCRIPTION:University of Nevada Women's Volleyball at Air Force\nTV: MW+\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14143&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14324-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+LOCATION:Boise\, Idaho
+SUMMARY:University of Nevada Women's Swimming & Diving vs NW Collegiate Swimming Invite
+DESCRIPTION:University of Nevada Women's Swimming & Diving vs NW Collegiate
+  Swimming Invite\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14324&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14326-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+LOCATION:Flagstaff\, AZ
+SUMMARY:University of Nevada Women's Swimming & Diving at Northern Arizona University
+DESCRIPTION:University of Nevada Women's Swimming & Diving at Northern Ariz
+ ona University\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14326&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14253-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261121T020000Z
+DTEND:20261121T040000Z
+LOCATION:Reno\, Nev. , Lawlor Events Center
+SUMMARY:University of Nevada Women's Basketball vs Idaho
+DESCRIPTION:University of Nevada Women's Basketball vs Idaho\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14253&amp;sport_id=9
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14327-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+LOCATION:Flagstaff\, AZ
+SUMMARY:University of Nevada Women's Swimming & Diving at Northern Arizona University
+DESCRIPTION:University of Nevada Women's Swimming & Diving at Northern Ariz
+ ona University\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14327&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14325-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+LOCATION:Boise\, Idaho
+SUMMARY:University of Nevada Women's Swimming & Diving vs NW Collegiate Swimming Invite
+DESCRIPTION:University of Nevada Women's Swimming & Diving vs NW Collegiate
+  Swimming Invite\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14325&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14079-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+LOCATION:Reno\, Nev., Mackay Stadium
+SUMMARY:University of Nevada Football vs Hawai'i - Presented by: 
+DESCRIPTION:University of Nevada Football vs Hawai'i - Presented by: \nTV: 
+ Fox Networks\nRadio: 105.7 KOZZ / The Varsity Network\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14079&amp;sport_id=2
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14587-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+LOCATION:Boise\, Idaho
+SUMMARY:University of Nevada Women's Swimming & Diving vs NW Collegiate Swimming Invite
+DESCRIPTION:University of Nevada Women's Swimming & Diving vs NW Collegiate
+  Swimming Invite\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14587&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14328-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+LOCATION:Flagstaff\, AZ
+SUMMARY:University of Nevada Women's Swimming & Diving at Northern Arizona University
+DESCRIPTION:University of Nevada Women's Swimming & Diving at Northern Ariz
+ ona University\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14328&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14225-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261123T213000Z
+DTEND:20261123T233000Z
+LOCATION:Palm Springs\, Calif., Acrisure Arena
+SUMMARY:University of Nevada Men's Basketball vs San Francisco
+DESCRIPTION:University of Nevada Men's Basketball vs San Francisco\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14225&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14226-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261125T000000Z
+DTEND:20261125T020000Z
+LOCATION:Palm Springs\, Calif., Acrisure Arena
+SUMMARY:University of Nevada Men's Basketball vs Santa Clara
+DESCRIPTION:University of Nevada Men's Basketball vs Santa Clara\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14226&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14280-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261127T233000Z
+DTEND:20261128T013000Z
+LOCATION:Reno\, Nev., Lawlor Events Center
+SUMMARY:University of Nevada Women's Basketball vs UC Davis vs Troy
+DESCRIPTION:University of Nevada Women's Basketball vs UC Davis vs Troy\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14280&amp;sport_id=9
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14254-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261128T020000Z
+DTEND:20261128T040000Z
+LOCATION:Reno\, Nev. , Lawlor Events Center
+SUMMARY:University of Nevada Women's Basketball vs New Mexico State 
+DESCRIPTION:University of Nevada Women's Basketball vs New Mexico State \n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14254&amp;sport_id=9
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14227-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+LOCATION:Reno\, Nev., Lawlor Events Center
+SUMMARY:University of Nevada Men's Basketball vs Cal Poly Humboldt
+DESCRIPTION:University of Nevada Men's Basketball vs Cal Poly Humboldt\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14227&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14080-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261129T020000Z
+DTEND:20261129T050000Z
+LOCATION:Las Vegas\, Nev.
+SUMMARY:University of Nevada Football at UNLV
+DESCRIPTION:University of Nevada Football at UNLV\nTV: CBS Sports Network\n
+ Radio: 105.7 KOZZ / The Varsity Network\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14080&amp;sport_id=2
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14281-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261129T183000Z
+DTEND:20261129T203000Z
+LOCATION:Reno\, Nev., Lawlor Events Center
+SUMMARY:University of Nevada Women's Basketball vs UC Davis vs New Mexico State
+DESCRIPTION:University of Nevada Women's Basketball vs UC Davis vs New Mexi
+ co State\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14281&amp;sport_id=9
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14256-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261129T210000Z
+DTEND:20261129T230000Z
+LOCATION:Reno\, Nev., Lawlor Events Center
+SUMMARY:University of Nevada Women's Basketball vs Troy
+DESCRIPTION:University of Nevada Women's Basketball vs Troy\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14256&amp;sport_id=9
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14255-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261202T020000Z
+DTEND:20261202T040000Z
+LOCATION:Reno\, Nev. , Lawlor Events Center
+SUMMARY:University of Nevada Women's Basketball vs Washington State 
+DESCRIPTION:University of Nevada Women's Basketball vs Washington State \n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14255&amp;sport_id=9
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14228-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+LOCATION:Reno\, Nev., Lawlor Events Center
+SUMMARY:University of Nevada Men's Basketball vs Pacific
+DESCRIPTION:University of Nevada Men's Basketball vs Pacific\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14228&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14219-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+LOCATION:Reno\, Nev.
+SUMMARY:University of Nevada Women's Track & Field vs Silver State Invitational & Combined Event
+DESCRIPTION:University of Nevada Women's Track & Field vs Silver State Invi
+ tational & Combined Event\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14219&amp;sport_id=16
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14220-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+LOCATION:Reno\, Nev.
+SUMMARY:University of Nevada Women's Track & Field vs Silver State Invitational & Combined Event
+DESCRIPTION:University of Nevada Women's Track & Field vs Silver State Invi
+ tational & Combined Event\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14220&amp;sport_id=16
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14221-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+LOCATION:Reno\, Nev.
+SUMMARY:University of Nevada Women's Track & Field vs Silver State Invitational & Combined Event
+DESCRIPTION:University of Nevada Women's Track & Field vs Silver State Invi
+ tational & Combined Event\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14221&amp;sport_id=16
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14257-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+LOCATION:San Marcos\, TX
+SUMMARY:University of Nevada Women's Basketball at Texas State 
+DESCRIPTION:University of Nevada Women's Basketball at Texas State \n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14257&amp;sport_id=9
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14229-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+LOCATION:Reno\, Nev., Lawlor Events Center
+SUMMARY:University of Nevada Men's Basketball vs LMU
+DESCRIPTION:University of Nevada Men's Basketball vs LMU\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14229&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14258-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261210T010000Z
+DTEND:20261210T030000Z
+LOCATION:Denver\, CO
+SUMMARY:University of Nevada Women's Basketball at Denver
+DESCRIPTION:University of Nevada Women's Basketball at Denver\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14258&amp;sport_id=9
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14230-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+LOCATION:Reno\, Nev., Lawlor Events Center
+SUMMARY:University of Nevada Men's Basketball vs Sam Houston
+DESCRIPTION:University of Nevada Men's Basketball vs Sam Houston\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14230&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14259-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261212T210000Z
+DTEND:20261212T230000Z
+LOCATION:Reno\, Nev. , Lawlor Events Center
+SUMMARY:University of Nevada Women's Basketball vs Saint Mary's
+DESCRIPTION:University of Nevada Women's Basketball vs Saint Mary's\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14259&amp;sport_id=9
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14329-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261217T220000Z
+DTEND:20261218T010000Z
+LOCATION:Albuquerque\, NM
+SUMMARY:University of Nevada Women's Swimming & Diving at New Mexico
+DESCRIPTION:University of Nevada Women's Swimming & Diving at New Mexico\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14329&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14260-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+LOCATION:Stockton\, CA
+SUMMARY:University of Nevada Women's Basketball at Pacific
+DESCRIPTION:University of Nevada Women's Basketball at Pacific\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14260&amp;sport_id=9
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14216-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261219T013000Z
+DTEND:20261219T033000Z
+LOCATION:Frisco\, Texas, Comerica Center
+SUMMARY:University of Nevada Men's Basketball vs Colorado State
+DESCRIPTION:University of Nevada Men's Basketball vs Colorado State\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14216&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14217-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261221T013000Z
+DTEND:20261221T033000Z
+LOCATION:Frisco\, Texas, Comerica Center
+SUMMARY:University of Nevada Men's Basketball vs Loyola Chicago
+DESCRIPTION:University of Nevada Men's Basketball vs Loyola Chicago\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14217&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14261-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20261222T220000Z
+DTEND:20261223T000000Z
+LOCATION:Reno\, Nev., Lawlor Events Center
+SUMMARY:University of Nevada Women's Basketball vs LMU
+DESCRIPTION:University of Nevada Women's Basketball vs LMU\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14261&amp;sport_id=9
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14231-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+LOCATION:Reno\, Nev., Lawlor Events Center
+SUMMARY:University of Nevada Men's Basketball vs South Dakota State
+DESCRIPTION:University of Nevada Men's Basketball vs South Dakota State\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14231&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14262-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+LOCATION:Laramie\, Wyo., Arena-Auditorium
+SUMMARY:University of Nevada Men's Basketball at Wyoming
+DESCRIPTION:University of Nevada Men's Basketball at Wyoming\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14262&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14263-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+LOCATION:Albuquerque\, N.M., The Pit
+SUMMARY:University of Nevada Men's Basketball at New Mexico
+DESCRIPTION:University of Nevada Men's Basketball at New Mexico\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14263&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14264-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+LOCATION:Reno\, Nev., Lawlor Events Center
+SUMMARY:University of Nevada Men's Basketball vs Hawai'i
+DESCRIPTION:University of Nevada Men's Basketball vs Hawai'i\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14264&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14330-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20270109T180000Z
+DTEND:20270109T210000Z
+LOCATION:San Diego\, CA
+SUMMARY:University of Nevada Women's Swimming & Diving at SDSU - Including Fresno State and UCSB
+DESCRIPTION:University of Nevada Women's Swimming & Diving at SDSU - Includ
+ ing Fresno State and UCSB\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14330&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14265-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+LOCATION:El Paso\, Texas, Don Haskins Center
+SUMMARY:University of Nevada Men's Basketball at UTEP
+DESCRIPTION:University of Nevada Men's Basketball at UTEP\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14265&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14232-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+LOCATION:Reno\, Nev.
+SUMMARY:University of Nevada Women's Track & Field vs Nevada Invitational
+DESCRIPTION:University of Nevada Women's Track & Field vs Nevada Invitation
+ al\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14232&amp;sport_id=16
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14233-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+LOCATION:Reno\, Nev.
+SUMMARY:University of Nevada Women's Track & Field vs Nevada Invitational
+DESCRIPTION:University of Nevada Women's Track & Field vs Nevada Invitation
+ al\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14233&amp;sport_id=16
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14266-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+LOCATION:Reno\, Nev., Lawlor Events Center
+SUMMARY:University of Nevada Men's Basketball vs Grand Canyon
+DESCRIPTION:University of Nevada Men's Basketball vs Grand Canyon\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14266&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14267-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+LOCATION:Reno\, Nev., Lawlor Events Center
+SUMMARY:University of Nevada Men's Basketball vs Air Force
+DESCRIPTION:University of Nevada Men's Basketball vs Air Force\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14267&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14234-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+LOCATION:Reno\, Nev.
+SUMMARY:University of Nevada Women's Track & Field vs Dr. Martin Luther King Jr. Invitational & Combined Event
+DESCRIPTION:University of Nevada Women's Track & Field vs Dr. Martin Luther
+  King Jr. Invitational & Combined Event\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14234&amp;sport_id=16
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14235-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+LOCATION:Reno\, Nev.
+SUMMARY:University of Nevada Women's Track & Field vs Dr. Martin Luther King Jr. Invitational & Combined Event
+DESCRIPTION:University of Nevada Women's Track & Field vs Dr. Martin Luther
+  King Jr. Invitational & Combined Event\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14235&amp;sport_id=16
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14236-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+LOCATION:Reno\, Nev.
+SUMMARY:University of Nevada Women's Track & Field vs Dr. Martin Luther King Jr. Invitational & Combined Event
+DESCRIPTION:University of Nevada Women's Track & Field vs Dr. Martin Luther
+  King Jr. Invitational & Combined Event\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14236&amp;sport_id=16
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14268-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+LOCATION:San Jose\, Calif., Provident Credit Union Event Center
+SUMMARY:University of Nevada Men's Basketball at San José State
+DESCRIPTION:University of Nevada Men's Basketball at San José State\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14268&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14269-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+LOCATION:Reno\, Nev., Lawlor Events Center
+SUMMARY:University of Nevada Men's Basketball vs UTEP
+DESCRIPTION:University of Nevada Men's Basketball vs UTEP\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14269&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14237-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+LOCATION:Reno\, Nev.
+SUMMARY:University of Nevada Women's Track & Field vs Wolf Pack Invitational
+DESCRIPTION:University of Nevada Women's Track & Field vs Wolf Pack Invitat
+ ional\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14237&amp;sport_id=16
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14331-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20270129T210000Z
+DTEND:20270130T000000Z
+LOCATION:Los Angeles\, CA
+SUMMARY:University of Nevada Women's Swimming & Diving at USC - Dual Meet including UCSD
+DESCRIPTION:University of Nevada Women's Swimming & Diving at USC - Dual Me
+ et including UCSD\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14331&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14270-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+LOCATION:Las Vegas\, Nev., Thomas & Mack Center
+SUMMARY:University of Nevada Men's Basketball at UNLV
+DESCRIPTION:University of Nevada Men's Basketball at UNLV\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14270&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14332-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART:20270130T190000Z
+DTEND:20270130T220000Z
+LOCATION:Reno\, Nev., Lombardi Pool
+SUMMARY:University of Nevada Women's Swimming & Diving vs Cal State East Bay - Senior Meet
+DESCRIPTION:University of Nevada Women's Swimming & Diving vs Cal State Eas
+ t Bay - Senior Meet\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14332&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14271-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+LOCATION:Davis\, Calif., University Credit Union Center
+SUMMARY:University of Nevada Men's Basketball at UC Davis
+DESCRIPTION:University of Nevada Men's Basketball at UC Davis\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14271&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14272-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+LOCATION:Reno\, Nev., Lawlor Events Center
+SUMMARY:University of Nevada Men's Basketball vs Wyoming
+DESCRIPTION:University of Nevada Men's Basketball vs Wyoming\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14272&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14355-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+LOCATION:Palm Springs\, Calif. 
+SUMMARY:University of Nevada Women's Golf vs Mountain Classic Match Play
+DESCRIPTION:University of Nevada Women's Golf vs Mountain Classic Match Pla
+ y\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14355&amp;sport_id=11
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14354-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+LOCATION:Palm Springs\, Calif. 
+SUMMARY:University of Nevada Women's Golf vs Mountain Classic Match Play
+DESCRIPTION:University of Nevada Women's Golf vs Mountain Classic Match Pla
+ y\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14354&amp;sport_id=11
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14356-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+LOCATION:Palm Springs\, Calif. 
+SUMMARY:University of Nevada Women's Golf vs Mountain Classic Match Play
+DESCRIPTION:University of Nevada Women's Golf vs Mountain Classic Match Pla
+ y\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14356&amp;sport_id=11
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14238-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+LOCATION:Reno\, Nev.
+SUMMARY:University of Nevada Women's Track & Field vs Battle Born Classic & Combined Event
+DESCRIPTION:University of Nevada Women's Track & Field vs Battle Born Class
+ ic & Combined Event\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14238&amp;sport_id=16
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14239-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+LOCATION:Reno\, Nev.
+SUMMARY:University of Nevada Women's Track & Field vs Battle Born Classic & Combined Event
+DESCRIPTION:University of Nevada Women's Track & Field vs Battle Born Class
+ ic & Combined Event\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14239&amp;sport_id=16
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14240-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+LOCATION:Reno\, Nev.
+SUMMARY:University of Nevada Women's Track & Field vs Battle Born Classic & Combined Event
+DESCRIPTION:University of Nevada Women's Track & Field vs Battle Born Class
+ ic & Combined Event\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14240&amp;sport_id=16
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14273-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+LOCATION:Phoenix\, Ariz., Global Credit Union Arena
+SUMMARY:University of Nevada Men's Basketball at Grand Canyon
+DESCRIPTION:University of Nevada Men's Basketball at Grand Canyon\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14273&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14383-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+LOCATION:La Quinta\, Calif. 
+SUMMARY:University of Nevada Men's Golf vs The Prestige
+DESCRIPTION:University of Nevada Men's Golf vs The Prestige\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14383&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14384-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+LOCATION:La Quinta\, Calif. 
+SUMMARY:University of Nevada Men's Golf vs The Prestige
+DESCRIPTION:University of Nevada Men's Golf vs The Prestige\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14384&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14333-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+LOCATION:Houston\, Texas
+SUMMARY:University of Nevada Women's Swimming & Diving vs Mountain West Conference
+DESCRIPTION:University of Nevada Women's Swimming & Diving vs Mountain West
+  Conference\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14333&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14274-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+LOCATION:Reno\, Nev., Lawlor Events Center
+SUMMARY:University of Nevada Men's Basketball vs UC Davis
+DESCRIPTION:University of Nevada Men's Basketball vs UC Davis\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14274&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14334-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+LOCATION:Houston\, Texas
+SUMMARY:University of Nevada Women's Swimming & Diving vs Mountain West Conference
+DESCRIPTION:University of Nevada Women's Swimming & Diving vs Mountain West
+  Conference\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14334&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14385-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+LOCATION:La Quinta\, Calif. 
+SUMMARY:University of Nevada Men's Golf vs The Prestige
+DESCRIPTION:University of Nevada Men's Golf vs The Prestige\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14385&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14335-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+LOCATION:Houston\, Texas
+SUMMARY:University of Nevada Women's Swimming & Diving vs Mountain West Conference
+DESCRIPTION:University of Nevada Women's Swimming & Diving vs Mountain West
+  Conference\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14335&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14336-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+LOCATION:Houston\, Texas
+SUMMARY:University of Nevada Women's Swimming & Diving vs Mountain West Conference
+DESCRIPTION:University of Nevada Women's Swimming & Diving vs Mountain West
+  Conference\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14336&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14337-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+LOCATION:Houston\, Texas
+SUMMARY:University of Nevada Women's Swimming & Diving vs Mountain West Conference
+DESCRIPTION:University of Nevada Women's Swimming & Diving vs Mountain West
+  Conference\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14337&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14275-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+LOCATION:Honolulu\, Hawaii, Bankoh Arena at Stan Sheriff Center
+SUMMARY:University of Nevada Men's Basketball at Hawai'i
+DESCRIPTION:University of Nevada Men's Basketball at Hawai'i\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14275&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14386-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+LOCATION:Palm Desert\, Calif. 
+SUMMARY:University of Nevada Men's Golf vs  University of Wyoming Desert Intercollegiate
+DESCRIPTION:University of Nevada Men's Golf vs  University of Wyoming Deser
+ t Intercollegiate\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14386&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14357-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+LOCATION:Sacramento\, Calif. 
+SUMMARY:University of Nevada Women's Golf vs Causeway Invitational
+DESCRIPTION:University of Nevada Women's Golf vs Causeway Invitational\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14357&amp;sport_id=11
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14358-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+LOCATION:Sacramento\, Calif. 
+SUMMARY:University of Nevada Women's Golf vs Causeway Invitational
+DESCRIPTION:University of Nevada Women's Golf vs Causeway Invitational\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14358&amp;sport_id=11
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14387-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+LOCATION:Palm Desert\, Calif. 
+SUMMARY:University of Nevada Men's Golf vs  University of Wyoming Desert Intercollegiate
+DESCRIPTION:University of Nevada Men's Golf vs  University of Wyoming Deser
+ t Intercollegiate\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14387&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14276-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+LOCATION:Reno\, Nev., Lawlor Events Center
+SUMMARY:University of Nevada Men's Basketball vs San José State
+DESCRIPTION:University of Nevada Men's Basketball vs San José State\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14276&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14388-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+LOCATION:Palm Desert\, Calif. 
+SUMMARY:University of Nevada Men's Golf vs  University of Wyoming Desert Intercollegiate
+DESCRIPTION:University of Nevada Men's Golf vs  University of Wyoming Deser
+ t Intercollegiate\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14388&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14241-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+LOCATION:Colorado Springs\, Colo. 
+SUMMARY:University of Nevada Women's Track & Field vs Mountain West Indoor Track and Field Championships
+DESCRIPTION:University of Nevada Women's Track & Field vs Mountain West Ind
+ oor Track and Field Championships\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14241&amp;sport_id=16
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14242-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+LOCATION:Colorado Springs\, Colo. 
+SUMMARY:University of Nevada Women's Track & Field vs Mountain West Indoor Track and Field Championships
+DESCRIPTION:University of Nevada Women's Track & Field vs Mountain West Ind
+ oor Track and Field Championships\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14242&amp;sport_id=16
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14243-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+LOCATION:Colorado Springs\, Colo. 
+SUMMARY:University of Nevada Women's Track & Field vs Mountain West Indoor Track and Field Championships
+DESCRIPTION:University of Nevada Women's Track & Field vs Mountain West Ind
+ oor Track and Field Championships\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14243&amp;sport_id=16
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14277-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+LOCATION:Reno\, Nev., Lawlor Events Center
+SUMMARY:University of Nevada Men's Basketball vs UNLV
+DESCRIPTION:University of Nevada Men's Basketball vs UNLV\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14277&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14389-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+LOCATION:Fresno\, Calif. 
+SUMMARY:University of Nevada Men's Golf vs The Watney
+DESCRIPTION:University of Nevada Men's Golf vs The Watney\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14389&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14359-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+LOCATION:Las Vegas\, Nev. 
+SUMMARY:University of Nevada Women's Golf vs Lady Luck Invitational
+DESCRIPTION:University of Nevada Women's Golf vs Lady Luck Invitational\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14359&amp;sport_id=11
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14360-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270303
+LOCATION:Las Vegas\, Nev. 
+SUMMARY:University of Nevada Women's Golf vs Lady Luck Invitational
+DESCRIPTION:University of Nevada Women's Golf vs Lady Luck Invitational\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14360&amp;sport_id=11
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14390-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270303
+LOCATION:Fresno\, Calif. 
+SUMMARY:University of Nevada Men's Golf vs The Watney
+DESCRIPTION:University of Nevada Men's Golf vs The Watney\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14390&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14278-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270303
+LOCATION:USAF Academy\, Colo., Clune Arena
+SUMMARY:University of Nevada Men's Basketball at Air Force
+DESCRIPTION:University of Nevada Men's Basketball at Air Force\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14278&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14279-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+LOCATION:Reno\, Nev., Lawlor Events Center
+SUMMARY:University of Nevada Men's Basketball vs New Mexico
+DESCRIPTION:University of Nevada Men's Basketball vs New Mexico\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14279&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14338-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+LOCATION:Flagstaff\, Ariz.
+SUMMARY:University of Nevada Women's Swimming & Diving vs Zone E Diving Championships
+DESCRIPTION:University of Nevada Women's Swimming & Diving vs Zone E Diving
+  Championships\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14338&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14339-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+LOCATION:Flagstaff\, Ariz.
+SUMMARY:University of Nevada Women's Swimming & Diving vs Zone E Diving Championships
+DESCRIPTION:University of Nevada Women's Swimming & Diving vs Zone E Diving
+  Championships\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14339&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14340-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270312
+LOCATION:Flagstaff\, Ariz.
+SUMMARY:University of Nevada Women's Swimming & Diving vs Zone E Diving Championships
+DESCRIPTION:University of Nevada Women's Swimming & Diving vs Zone E Diving
+  Championships\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14340&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14341-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+LOCATION:Austin\, Texas
+SUMMARY:University of Nevada Women's Swimming & Diving vs NCAA Championships
+DESCRIPTION:University of Nevada Women's Swimming & Diving vs NCAA Champion
+ ships\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14341&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14342-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+LOCATION:Austin\, Texas
+SUMMARY:University of Nevada Women's Swimming & Diving vs NCAA Championships
+DESCRIPTION:University of Nevada Women's Swimming & Diving vs NCAA Champion
+ ships\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14342&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14343-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+LOCATION:Austin\, Texas
+SUMMARY:University of Nevada Women's Swimming & Diving vs NCAA Championships
+DESCRIPTION:University of Nevada Women's Swimming & Diving vs NCAA Champion
+ ships\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14343&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14344-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+LOCATION:Austin\, Texas
+SUMMARY:University of Nevada Women's Swimming & Diving vs NCAA Championships
+DESCRIPTION:University of Nevada Women's Swimming & Diving vs NCAA Champion
+ ships\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14344&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14391-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+LOCATION:Napa\, Calif. 
+SUMMARY:University of Nevada Men's Golf vs  Pathway to Progression Collegiate Invitational
+DESCRIPTION:University of Nevada Men's Golf vs  Pathway to Progression Coll
+ egiate Invitational\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14391&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14361-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+LOCATION:Millbrae\, Calif. 
+SUMMARY:University of Nevada Women's Golf vs Silicon Valley Showcase
+DESCRIPTION:University of Nevada Women's Golf vs Silicon Valley Showcase\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14361&amp;sport_id=11
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14362-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
+LOCATION:Millbrae\, Calif. 
+SUMMARY:University of Nevada Women's Golf vs Silicon Valley Showcase
+DESCRIPTION:University of Nevada Women's Golf vs Silicon Valley Showcase\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14362&amp;sport_id=11
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14392-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
+LOCATION:Napa\, Calif. 
+SUMMARY:University of Nevada Men's Golf vs  Pathway to Progression Collegiate Invitational
+DESCRIPTION:University of Nevada Men's Golf vs  Pathway to Progression Coll
+ egiate Invitational\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14392&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14146-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+LOCATION:San Jose\, Calif.
+SUMMARY:University of Nevada Baseball at San José State
+DESCRIPTION:University of Nevada Baseball at San José State\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14146&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14154-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+LOCATION:San Jose\, Calif.
+SUMMARY:University of Nevada Baseball at San José State
+DESCRIPTION:University of Nevada Baseball at San José State\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14154&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14155-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+LOCATION:San Jose\, Calif.
+SUMMARY:University of Nevada Baseball at San José State
+DESCRIPTION:University of Nevada Baseball at San José State\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14155&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14147-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+LOCATION:Reno\, Nev., Don Weir Field at Peccole Park
+SUMMARY:University of Nevada Baseball vs UC Davis
+DESCRIPTION:University of Nevada Baseball vs UC Davis\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14147&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14156-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+LOCATION:Reno\, Nev., Don Weir Field at Peccole Park
+SUMMARY:University of Nevada Baseball vs UC Davis
+DESCRIPTION:University of Nevada Baseball vs UC Davis\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14156&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14157-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+LOCATION:Reno\, Nev., Don Weir Field at Peccole Park
+SUMMARY:University of Nevada Baseball vs UC Davis
+DESCRIPTION:University of Nevada Baseball vs UC Davis\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14157&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14363-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+LOCATION:Maricopa\, Ariz. 
+SUMMARY:University of Nevada Women's Golf vs Wyoming Cowgirl Classic
+DESCRIPTION:University of Nevada Women's Golf vs Wyoming Cowgirl Classic\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14363&amp;sport_id=11
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14364-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+LOCATION:Maricopa\, Ariz. 
+SUMMARY:University of Nevada Women's Golf vs Wyoming Cowgirl Classic
+DESCRIPTION:University of Nevada Women's Golf vs Wyoming Cowgirl Classic\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14364&amp;sport_id=11
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14393-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+LOCATION:El Macero\, Calif. 
+SUMMARY:University of Nevada Men's Golf vs El Macero Classic
+DESCRIPTION:University of Nevada Men's Golf vs El Macero Classic\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14393&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14394-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+LOCATION:El Macero\, Calif. 
+SUMMARY:University of Nevada Men's Golf vs El Macero Classic
+DESCRIPTION:University of Nevada Men's Golf vs El Macero Classic\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14394&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14395-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+LOCATION:El Macero\, Calif. 
+SUMMARY:University of Nevada Men's Golf vs El Macero Classic
+DESCRIPTION:University of Nevada Men's Golf vs El Macero Classic\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14395&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14148-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+LOCATION:USAFA\, Colo.
+SUMMARY:University of Nevada Baseball at Air Force
+DESCRIPTION:University of Nevada Baseball at Air Force\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14148&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14158-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+LOCATION:USAFA\, Colo.
+SUMMARY:University of Nevada Baseball at Air Force
+DESCRIPTION:University of Nevada Baseball at Air Force\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14158&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14159-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+LOCATION:USAFA\, Colo.
+SUMMARY:University of Nevada Baseball at Air Force
+DESCRIPTION:University of Nevada Baseball at Air Force\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14159&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14365-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+LOCATION:Rancho Mirage\, Calif.
+SUMMARY:University of Nevada Women's Golf vs 2026 Credit Union One Mountain West Women's Golf Championships
+DESCRIPTION:University of Nevada Women's Golf vs 2026 Credit Union One Moun
+ tain West Women's Golf Championships\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14365&amp;sport_id=11
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14366-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+LOCATION:Rancho Mirage\, Calif. 
+SUMMARY:University of Nevada Women's Golf vs 2026 Credit Union One Mountain West Women's Golf Championships
+DESCRIPTION:University of Nevada Women's Golf vs 2026 Credit Union One Moun
+ tain West Women's Golf Championships\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14366&amp;sport_id=11
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14367-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+LOCATION:Rancho Mirage\, Calif. 
+SUMMARY:University of Nevada Women's Golf vs 2026 Credit Union One Mountain West Women's Golf Championships
+DESCRIPTION:University of Nevada Women's Golf vs 2026 Credit Union One Moun
+ tain West Women's Golf Championships\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14367&amp;sport_id=11
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14149-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+LOCATION:Reno\, Nev., Don Weir Field at Peccole Park
+SUMMARY:University of Nevada Baseball vs Utah Tech
+DESCRIPTION:University of Nevada Baseball vs Utah Tech\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14149&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14160-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+LOCATION:Reno\, Nev., Don Weir Field at Peccole Park
+SUMMARY:University of Nevada Baseball vs Utah Tech
+DESCRIPTION:University of Nevada Baseball vs Utah Tech\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14160&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14161-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+LOCATION:Reno\, Nev., Don Weir Field at Peccole Park
+SUMMARY:University of Nevada Baseball vs Utah Tech
+DESCRIPTION:University of Nevada Baseball vs Utah Tech\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14161&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14396-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270428
+LOCATION:Palm Desert\, Calif. 
+SUMMARY:University of Nevada Men's Golf vs Credit Union One Mountain West Men's Golf Championships
+DESCRIPTION:University of Nevada Men's Golf vs Credit Union One Mountain We
+ st Men's Golf Championships\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14396&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14397-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270429
+LOCATION:Palm Desert\, Calif. 
+SUMMARY:University of Nevada Men's Golf vs Credit Union One Mountain West Men's Golf Championships
+DESCRIPTION:University of Nevada Men's Golf vs Credit Union One Mountain We
+ st Men's Golf Championships\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14397&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14398-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270430
+LOCATION:Palm Desert\, Calif. 
+SUMMARY:University of Nevada Men's Golf vs Credit Union One Mountain West Men's Golf Championships
+DESCRIPTION:University of Nevada Men's Golf vs Credit Union One Mountain We
+ st Men's Golf Championships\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14398&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14150-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+LOCATION:Phoenix\, Ariz.
+SUMMARY:University of Nevada Baseball at GCU
+DESCRIPTION:University of Nevada Baseball at GCU\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14150&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14162-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+LOCATION:Phoenix\, Ariz.
+SUMMARY:University of Nevada Baseball at GCU
+DESCRIPTION:University of Nevada Baseball at GCU\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14162&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14163-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+LOCATION:Phoenix\, Ariz.
+SUMMARY:University of Nevada Baseball at GCU
+DESCRIPTION:University of Nevada Baseball at GCU\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14163&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14151-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+LOCATION:Reno\, Nev., Don Weir Field at Peccole Park
+SUMMARY:University of Nevada Baseball vs New Mexico
+DESCRIPTION:University of Nevada Baseball vs New Mexico\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14151&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14164-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+LOCATION:Reno\, Nev., Don Weir Field at Peccole Park
+SUMMARY:University of Nevada Baseball vs New Mexico
+DESCRIPTION:University of Nevada Baseball vs New Mexico\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14164&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14165-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+LOCATION:Reno\, Nev., Don Weir Field at Peccole Park
+SUMMARY:University of Nevada Baseball vs New Mexico
+DESCRIPTION:University of Nevada Baseball vs New Mexico\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14165&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14152-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
+LOCATION:Las Vegas\, Nev.
+SUMMARY:University of Nevada Baseball at UNLV
+DESCRIPTION:University of Nevada Baseball at UNLV\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14152&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14166-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+LOCATION:Las Vegas\, Nev.
+SUMMARY:University of Nevada Baseball at UNLV
+DESCRIPTION:University of Nevada Baseball at UNLV\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14166&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14167-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+LOCATION:Las Vegas\, Nev.
+SUMMARY:University of Nevada Baseball at UNLV
+DESCRIPTION:University of Nevada Baseball at UNLV\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14167&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14153-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270521
+LOCATION:Reno\, Nev., Don Weir Field at Peccole Park
+SUMMARY:University of Nevada Baseball vs Hawai'i
+DESCRIPTION:University of Nevada Baseball vs Hawai'i\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14153&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14168-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+LOCATION:Reno\, Nev., Don Weir Field at Peccole Park
+SUMMARY:University of Nevada Baseball vs Hawai'i
+DESCRIPTION:University of Nevada Baseball vs Hawai'i\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14168&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_14169-nevadawolfpack.com
+DTSTAMP:20261005T221929Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+LOCATION:Reno\, Nev., Don Weir Field at Peccole Park
+SUMMARY:University of Nevada Baseball vs Hawai'i
+DESCRIPTION:University of Nevada Baseball vs Hawai'i\n
+URL:https://nevadawolfpack.com/calendar.aspx?game_id=14169&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+END:VCALENDAR
