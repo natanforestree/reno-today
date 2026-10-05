@@ -33,6 +33,12 @@ def _error_text(err):
     return f"collector error: {type(err).__name__}"
 
 
+def _brief(err):
+    """An error for the log without its traceback: our own errors are already safe
+    to print; anything else shows only its type, as its message may hold a URL."""
+    return str(err) if isinstance(err, (net.FetchError, SourceError)) else type(err).__name__
+
+
 def _status(label, ok, count, last_success, error=None):
     return {"label": label, "ok": ok, "count": count, "lastSuccess": last_success, "error": error}
 
@@ -108,8 +114,8 @@ def run(root, now, env, srcs=None, post=None):
         try:
             picks = guide.badges(events, card, guide.page_text(net.get_text(card["url"])))
             print(f"lovingreno: {picks} events are in the current guide")
-        except net.FetchError as err:
-            print(f"lovingreno: badges skipped ({err})")
+        except Exception as err:  # noqa: BLE001 - decorative; must never cost the refresh
+            print(f"lovingreno: badges skipped ({_brief(err)})")
 
     if events or any_source_ok:
         store.write("docs/data/events.json",
@@ -132,9 +138,13 @@ def run(root, now, env, srcs=None, post=None):
 
     if decision.digest:
         today = now.date().isoformat()
-        day_wx = next((d for d in (wx or {}).get("days", []) if d.get("date") == today), None)
-        text = digest.build(today, events, day_wx, places, card)
-        if (post or digest.post)(webhook, text):
+        try:
+            day_wx = next((d for d in (wx or {}).get("days", []) if d.get("date") == today), None)
+            sent = (post or digest.post)(webhook, digest.build(today, events, day_wx, places, card))
+        except Exception as err:  # noqa: BLE001 - the data is written; only the type, the webhook may be in the message
+            print(f"digest not sent ({type(err).__name__})")
+            sent = False
+        if sent:
             store.set_digest_date(today)
             print("digest sent")
         else:

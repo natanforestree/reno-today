@@ -11,6 +11,7 @@ import time
 import urllib.error
 import urllib.parse
 import urllib.request
+import zlib
 
 UA = "reno-today/1.0 (+https://github.com/natanforestree/reno-today)"
 TIMEOUT = 20
@@ -25,10 +26,18 @@ class FetchError(Exception):
         self.status = status
 
 
+HIDDEN = "address hidden"   # a malformed URL is never echoed: a secret may be in it
+
+
 def _where(url, label):
     if label:
         return label
-    parts = urllib.parse.urlsplit(url)
+    try:
+        parts = urllib.parse.urlsplit(url)
+    except ValueError:
+        return HIDDEN
+    if not (parts.scheme and parts.netloc):
+        return HIDDEN
     return urllib.parse.urlunsplit((parts.scheme, parts.netloc, parts.path, "", ""))
 
 
@@ -38,7 +47,10 @@ def request(url, *, data=None, headers=None, method=None, timeout=TIMEOUT, retri
     sent.update(headers or {})
     where = _where(url, label)
     for attempt in range(retries + 1):
-        req = urllib.request.Request(url, data=data, headers=sent, method=method)
+        try:
+            req = urllib.request.Request(url, data=data, headers=sent, method=method)
+        except ValueError:              # "unknown url type: '<the whole URL>'"
+            raise FetchError(label or HIDDEN, "invalid URL") from None
         try:
             with urllib.request.urlopen(req, timeout=timeout) as res:
                 body = res.read()
@@ -49,6 +61,9 @@ def request(url, *, data=None, headers=None, method=None, timeout=TIMEOUT, retri
             err.close()
             if err.code < 500 or attempt == retries:
                 raise FetchError(where, f"HTTP {err.code}", err.code) from None
+        except (EOFError, zlib.error, gzip.BadGzipFile):   # truncated or corrupt gzip body
+            if attempt == retries:
+                raise FetchError(where, "broken gzip body") from None
         except (urllib.error.URLError, http.client.HTTPException, TimeoutError, ConnectionError, OSError) as err:
             if attempt == retries:
                 reason = getattr(err, "reason", None) or type(err).__name__

@@ -1,7 +1,9 @@
+import io
 import json
 import os
 import tempfile
 import unittest
+from contextlib import redirect_stderr, redirect_stdout
 from datetime import timedelta
 from types import SimpleNamespace
 from unittest import mock
@@ -195,6 +197,44 @@ class CollectTest(unittest.TestCase):
         with mock.patch.object(net, "get_text", mock.Mock(side_effect=net.FetchError("x", "HTTP 500", 500))):
             collect.run(self.root, NOW, {}, srcs=[fake_source("lib", [storytime()])])
         self.assertIsNone(self.read("docs/data/events.json")["events"][0]["lovingReno"])
+
+    def assert_data_written(self):
+        self.assertEqual([e["title"] for e in self.read("docs/data/events.json")["events"]], ["Baby Storytime"])
+        self.assertTrue(self.read("docs/data/status.json")["sources"]["lib"]["ok"])
+        self.assertEqual(self.read("state/refresh.json"), {"at": "2026-10-10T14:31:00Z"})
+
+    def test_any_badge_failure_does_not_stop_the_run(self):
+        for err in (EOFError("Compressed file ended"), ValueError("unknown url type: 'x'"), KeyError("url")):
+            with self.subTest(err=type(err).__name__):
+                out = io.StringIO()
+                with mock.patch.object(net, "get_text", mock.Mock(side_effect=err)), redirect_stdout(out):
+                    collect.run(self.root, NOW, {}, srcs=[fake_source("lib", [storytime()])])
+                self.assert_data_written()
+                self.assertIn(f"badges skipped ({type(err).__name__})", out.getvalue())
+                os.remove(os.path.join(self.root, "state/refresh.json"))
+
+    def test_digest_crash_keeps_data_and_leaves_the_date_unset(self):
+        hook = "https://discord.example/api/webhooks/1/SECRETTOKEN"
+        env = {"DISCORD_WEBHOOK_URL": hook}
+
+        def bad_post(url, text):
+            raise ValueError(f"unknown url type: '{url}?wait=true'")
+
+        out = io.StringIO()
+        with redirect_stdout(out), redirect_stderr(out):
+            d = collect.run(self.root, NOW, env, srcs=[fake_source("lib", [storytime()])], post=bad_post)
+        self.assertTrue(d.digest)
+        self.assert_data_written()
+        self.assertFalse(os.path.exists(os.path.join(self.root, "state/digest.json")))
+        self.assertIn("digest not sent (ValueError)", out.getvalue())
+        self.assertNotIn("SECRETTOKEN", out.getvalue())
+        os.remove(os.path.join(self.root, "state/refresh.json"))
+        with mock.patch.object(collect.digest, "build", mock.Mock(side_effect=TypeError("bad weather"))), \
+                redirect_stdout(out):
+            collect.run(self.root, NOW, env, srcs=[fake_source("lib", [storytime()])], post=self.post_ok)
+        self.assertIn("digest not sent (TypeError)", out.getvalue())
+        self.assertFalse(os.path.exists(os.path.join(self.root, "state/digest.json")))
+        self.assertEqual(self.sent, [])
 
     def test_loving_reno_alone_does_not_count_as_a_working_source(self):
         collect.run(self.root, NOW, {}, srcs=[fake_source("lib", [storytime()])])

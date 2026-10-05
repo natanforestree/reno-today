@@ -8,6 +8,14 @@ import helpers  # noqa: F401  (puts collector/ on the path)
 import net
 
 
+_GZ = gzip.compress(b'{"ok": true}' * 50)
+BAD_GZIP = {
+    "/gzip-truncated": _GZ[:-8],                          # EOFError
+    "/gzip-corrupt": _GZ[:10] + b"\xff" * 20 + _GZ[30:],  # zlib.error
+    "/gzip-bogus": b"not gzip at all",                    # gzip.BadGzipFile
+}
+
+
 class Handler(BaseHTTPRequestHandler):
     hits = {}
     posted = None
@@ -29,6 +37,8 @@ class Handler(BaseHTTPRequestHandler):
         Handler.hits[path] = Handler.hits.get(path, 0) + 1
         if path == "/gzip":
             self._send(200, gzip.compress(b'{"ok": true}'), [("Content-Encoding", "gzip")])
+        elif path in BAD_GZIP:
+            self._send(200, BAD_GZIP[path], [("Content-Encoding", "gzip")])
         elif path == "/ua":
             self._send(200, self.headers.get("User-Agent", "").encode())
         elif path == "/flaky":
@@ -99,6 +109,27 @@ class NetTest(unittest.TestCase):
         with self.assertRaises(net.FetchError) as cm:
             net.get_text("http://127.0.0.1:9/", timeout=2)
         self.assertIsNone(cm.exception.status)
+
+    def test_broken_gzip_body_is_a_fetch_error(self):
+        for path in BAD_GZIP:
+            with self.subTest(path=path):
+                with self.assertRaises(net.FetchError) as cm:
+                    net.get_json(self.base + path + "?key=SECRET123")
+                self.assertNotIn("SECRET123", str(cm.exception))
+
+    def test_malformed_url_is_a_fetch_error_that_hides_the_url(self):
+        for url in ["discord.example/api/webhooks/1/SECRETTOKEN?wait=true",   # no scheme
+                    "http://[::1/api/SECRETTOKEN?key=SECRET123"]:              # bad IPv6 host
+            with self.subTest(url=url):
+                with self.assertRaises(net.FetchError) as cm:
+                    net.post_json(url, {"content": "hi"}, retries=0)
+                self.assertNotIn("SECRET", str(cm.exception))
+                self.assertIsNone(cm.exception.__cause__)
+                self.assertTrue(cm.exception.__suppress_context__)
+                with self.assertRaises(net.FetchError) as cm:
+                    net.post_json(url, {"content": "hi"}, label="discord webhook", retries=0)
+                self.assertNotIn("SECRET", str(cm.exception))
+                self.assertIn("discord webhook", str(cm.exception))
 
     def test_post_json(self):
         self.assertEqual(net.post_json(self.base + "/hook", {"content": "hi"}), 204)

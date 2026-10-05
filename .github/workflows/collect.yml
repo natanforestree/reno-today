@@ -36,6 +36,8 @@ jobs:
         run: python3 collector/collect.py
 
       - name: Commit data
+        # Also after a failed Collect step: whatever it wrote before failing is kept.
+        if: ${{ !cancelled() }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
