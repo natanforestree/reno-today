@@ -1,0 +1,25 @@
+{
+  "totalGames": 4,
+  "dates": [
+    {"date": "2026-05-13", "games": [
+      {"gamePk": 815155, "gameDate": "2026-05-14T01:05:00Z", "officialDate": "2026-05-13",
+       "status": {"detailedState": "Scheduled", "startTimeTBD": false},
+       "teams": {"away": {"team": {"id": 400, "name": "Las Vegas Aviators"}}, "home": {"team": {"id": 2310, "name": "Reno Aces"}}},
+       "venue": {"id": 3789, "name": "Greater Nevada Field"}},
+      {"gamePk": 815999, "gameDate": "2026-05-13T18:05:00Z", "officialDate": "2026-05-13",
+       "status": {"detailedState": "Scheduled", "startTimeTBD": false},
+       "teams": {"away": {"team": {"id": 2310, "name": "Reno Aces"}}, "home": {"team": {"id": 529, "name": "Sacramento River Cats"}}},
+       "venue": {"id": 2529, "name": "Sutter Health Park"}}
+    ]},
+    {"date": "2026-05-14", "games": [
+      {"gamePk": 815156, "gameDate": "2026-05-15T01:05:00Z", "officialDate": "2026-05-14",
+       "status": {"detailedState": "Postponed", "startTimeTBD": false},
+       "teams": {"away": {"team": {"id": 400, "name": "Las Vegas Aviators"}}, "home": {"team": {"id": 2310, "name": "Reno Aces"}}},
+       "venue": {"id": 3789, "name": "Greater Nevada Field"}},
+      {"gamePk": 815157, "gameDate": "2026-05-14T07:33:00Z", "officialDate": "2026-05-14",
+       "status": {"detailedState": "Scheduled", "startTimeTBD": true},
+       "teams": {"away": {"team": {"id": 400, "name": "Las Vegas Aviators"}}, "home": {"team": {"id": 2310, "name": "Reno Aces"}}},
+       "venue": {"id": 3789, "name": "Greater Nevada Field"}}
+    ]}
+  ]
+}
