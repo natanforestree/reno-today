@@ -10,7 +10,9 @@ const params = new URLSearchParams(location.search);
 const fakeNow = Date.parse(params.get('now') ?? '');
 const now = () => (Number.isFinite(fakeNow) ? fakeNow : Date.now());
 const $ = (id) => document.getElementById(id);
-const state = { data: null, day: null, filters: loadFilters() };
+const state = { data: null, day: null, today: null, loadedAt: 0, loading: false, filters: loadFilters() };
+const RELOAD_AFTER_MS = 3600e3;   // a tab that stays open fetches the data again after an hour
+const TICK_MS = 5 * 60e3;
 
 function loadFilters() {
   try {
@@ -193,19 +195,49 @@ function render() {
   renderFooter();
 }
 
-async function main() {
+async function loadData() {
   const [events, weather, status, guide, places] = await Promise.all([
     loadJson('events.json', null), loadJson('weather.json', null), loadJson('status.json', null),
     loadJson('guide.json', null), loadJson('places.json', []),
   ]);
-  state.data = {
+  return {
     events: Array.isArray(events?.events) ? events.events : [],
     generatedAt: events?.generatedAt ?? null,
     weather, status, guide,
     places: Array.isArray(places) ? places : [],
   };
-  state.day = L.renoDate(now());
+}
+
+async function main() {
+  state.data = await loadData();
+  state.loadedAt = now();
+  state.today = state.day = L.renoDate(now());
   render();
+}
+
+// A tab left open overnight, or brought back from the back/forward cache, catches up:
+// on a new Reno day "Today" moves on and the data reloads; data over an hour old
+// reloads; the timer also refreshes the "on now" marks and the stale-data notice.
+async function catchUp(tick) {
+  if (!state.data || state.loading || document.hidden) return;
+  const today = L.renoDate(now());
+  if (today === state.today && now() - state.loadedAt < RELOAD_AFTER_MS) {
+    if (tick) { renderNotice(); renderLists(); }
+    return;
+  }
+  state.loading = true;
+  try {
+    const data = await loadData();
+    if (data.generatedAt || !state.data.generatedAt) {   // offline just after waking: keep what we had
+      state.data = data;
+      state.loadedAt = now();
+    }
+    state.day = L.dayAfterRollover(state.day, state.today, today);
+    state.today = today;
+    render();
+  } finally {
+    state.loading = false;
+  }
 }
 
 $('days').addEventListener('click', (ev) => {
@@ -223,3 +255,8 @@ main().catch((err) => {
   console.error(err);
   $('notice').innerHTML = '<p>Something went wrong loading the list. Try reloading.</p>';
 });
+const catchUpLogged = (tick) => catchUp(tick).catch((err) => console.error(err));
+document.addEventListener('visibilitychange', () => catchUpLogged(false));
+window.addEventListener('pageshow', (ev) => { if (ev.persisted) catchUpLogged(false); });
+window.addEventListener('focus', () => catchUpLogged(false));
+setInterval(() => catchUpLogged(true), TICK_MS);

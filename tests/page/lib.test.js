@@ -137,3 +137,12 @@ test('freshness', () => {
   assert.equal(L.isStale('2026-10-10T08:00:00Z', now), true);
   assert.equal(L.isStale(null, now), true);
 });
+
+test('a tab left open overnight: "Today" follows the clock, a picked day stays while it is a tab', () => {
+  assert.equal(L.dayAfterRollover('2026-10-10', '2026-10-10', '2026-10-11'), '2026-10-11');   // was on Today
+  assert.equal(L.dayAfterRollover('2026-10-13', '2026-10-10', '2026-10-11'), '2026-10-13');   // picked Tue: keep
+  assert.equal(L.dayAfterRollover('2026-10-11', '2026-10-10', '2026-10-11'), '2026-10-11');   // picked Tomorrow
+  assert.equal(L.dayAfterRollover('2026-10-18', '2026-10-11', '2026-10-12'), '2026-10-18');   // last tab
+  assert.equal(L.dayAfterRollover('2026-10-17', '2026-10-10', '2026-10-19'), '2026-10-19');   // gone after days away
+  assert.equal(L.dayAfterRollover('2026-10-31', '2026-10-31', '2026-11-01'), '2026-11-01');   // across the fall-back
+});

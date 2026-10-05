@@ -43,6 +43,13 @@ export function dayTabs(today, n = 8) {
   });
 }
 
+/** The day to show once Reno's date has moved on from wasToday to today: "Today"
+ * follows the clock; a day the viewer picked stays while it's still one of the tabs. */
+export function dayAfterRollover(shown, wasToday, today, n = 8) {
+  if (shown === wasToday) return today;
+  return today <= shown && shown <= addDays(today, n - 1) ? shown : today;
+}
+
 export const isLocal = (e) => LOCAL_AREAS.includes(e.area);
 
 const MULTI_DAY_MS = 20 * 3600e3;
