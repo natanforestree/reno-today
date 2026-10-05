@@ -1,7 +1,7 @@
 -- arch.png: the page header, the Reno Arch at dusk. 8 frames of 176x96, 120 ms each.
 -- Bulbs chase along the pillars and over the arch (every fourth bulb is dark and the
 -- dark ones step forward a bulb each frame), RENO glows in pink neon with a flicker on
--- frame 6, and the red banner reads THE BIGGEST LITTLE CITY IN THE WORLD in a 3x5 font.
+-- frame 6, and the red banner reads THE BIGGEST LITTLE CITY IN THE WORLD in a 5-px-tall font.
 -- Run from the repo root:
 --   /Applications/Aseprite.app/Contents/MacOS/aseprite -b --script art/arch.lua
 -- Writes art/arch.aseprite and docs/art/arch.png (a 1408x96 strip).
@@ -30,11 +30,11 @@ local SMALL = {
   I = { "###", ".#.", ".#.", ".#.", "###" }, G = { ".##", "#..", "#.#", "#.#", ".##" },
   S = { ".##", "#..", ".#.", "..#", "##." }, L = { "#..", "#..", "#..", "#..", "###" },
   C = { ".##", "#..", "#..", "#..", ".##" }, Y = { "#.#", "#.#", ".#.", ".#.", ".#." },
-  N = { "#.#", "###", "###", "#.#", "#.#" }, W = { "#.#", "#.#", "#.#", "###", "#.#" },
+  N = { "#..#", "##.#", "#.##", "#..#", "#..#" }, W = { "#...#", "#...#", "#.#.#", "#.#.#", ".#.#." },
   O = { ".#.", "#.#", "#.#", "#.#", ".#." }, R = { "##.", "#.#", "##.", "#.#", "#.#" },
   D = { "##.", "#.#", "#.#", "#.#", "##." },
 }
-local BANNER = "THE BIGGEST LITTLE CITY IN THE WORLD"   -- 129 px wide in this font
+local BANNER = "THE BIGGEST LITTLE CITY IN THE WORLD"   -- 132 px wide in this font, x 22..153
 
 -- Everything that stays the same between frames. The left half is drawn and then
 -- mirrored, so the arch is exactly symmetric.
@@ -83,7 +83,7 @@ local function structure()
   L.fillRect(b, 18, 54, 157, 54, P.redLight)
   L.fillRect(b, 18, 53, 157, 53, P.redDark)
   L.fillRect(b, 18, 61, 157, 61, P.redDark)
-  local x = 23
+  local x = 22
   for i = 1, #BANNER do
     local ch = BANNER:sub(i, i)
     if ch == " " then
@@ -91,11 +91,11 @@ local function structure()
     else
       local g = SMALL[ch]
       for gy = 1, 5 do
-        for gx = 1, 3 do
+        for gx = 1, #g[1] do
           if g[gy]:sub(gx, gx) == "#" then L.set(b, x + gx - 1, 54 + gy, P.ink) end
         end
       end
-      x = x + 4
+      x = x + #g[1] + 1
     end
   end
   return b
