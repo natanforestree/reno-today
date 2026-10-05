@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-05T22:34:24Z",
+ "generatedAt": "2026-10-05T23:07:24Z",
  "sources": {
   "ticketmaster": {
    "label": "Ticketmaster",
@@ -12,35 +12,98 @@
    "label": "UNR events",
    "ok": true,
    "count": 57,
-   "lastSuccess": "2026-10-05T22:34:24Z",
+   "lastSuccess": "2026-10-05T23:07:24Z",
    "error": null
   },
   "wolfpack": {
    "label": "Nevada Wolf Pack",
    "ok": true,
    "count": 92,
-   "lastSuccess": "2026-10-05T22:34:24Z",
+   "lastSuccess": "2026-10-05T23:07:24Z",
    "error": null
   },
   "aces": {
    "label": "Reno Aces",
    "ok": true,
    "count": 0,
-   "lastSuccess": "2026-10-05T22:34:24Z",
+   "lastSuccess": "2026-10-05T23:07:24Z",
+   "error": null
+  },
+  "library": {
+   "label": "Washoe County Library",
+   "ok": true,
+   "count": 138,
+   "lastSuccess": "2026-10-05T23:07:24Z",
+   "error": null
+  },
+  "wcparks": {
+   "label": "Washoe County Parks",
+   "ok": true,
+   "count": 16,
+   "lastSuccess": "2026-10-05T23:07:24Z",
+   "error": null
+  },
+  "standing": {
+   "label": "Weekly regulars",
+   "ok": true,
+   "count": 2,
+   "lastSuccess": "2026-10-05T23:07:24Z",
+   "error": null
+  },
+  "discovery": {
+   "label": "The Discovery",
+   "ok": true,
+   "count": 10,
+   "lastSuccess": "2026-10-05T23:07:24Z",
+   "error": null
+  },
+  "reno": {
+   "label": "City of Reno",
+   "ok": true,
+   "count": 197,
+   "lastSuccess": "2026-10-05T23:07:24Z",
+   "error": null
+  },
+  "sparks": {
+   "label": "City of Sparks",
+   "ok": true,
+   "count": 15,
+   "lastSuccess": "2026-10-05T23:07:24Z",
+   "error": null
+  },
+  "carson": {
+   "label": "Visit Carson City",
+   "ok": true,
+   "count": 4,
+   "lastSuccess": "2026-10-05T23:07:24Z",
+   "error": null
+  },
+  "southtahoe": {
+   "label": "Visit Lake Tahoe",
+   "ok": true,
+   "count": 77,
+   "lastSuccess": "2026-10-05T23:07:24Z",
+   "error": null
+  },
+  "vcity": {
+   "label": "Virginia City",
+   "ok": true,
+   "count": 8,
+   "lastSuccess": "2026-10-05T23:07:24Z",
    "error": null
   },
   "weather": {
    "label": "Weather (Open-Meteo)",
    "ok": true,
    "count": 1,
-   "lastSuccess": "2026-10-05T22:34:24Z",
+   "lastSuccess": "2026-10-05T23:07:24Z",
    "error": null
   },
   "lovingreno": {
    "label": "Loving Reno",
    "ok": true,
    "count": 1,
-   "lastSuccess": "2026-10-05T22:34:24Z",
+   "lastSuccess": "2026-10-05T23:07:24Z",
    "error": null
   }
  }

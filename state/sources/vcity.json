@@ -1,0 +1,254 @@
+{
+ "at": "2026-10-05T23:07:24Z",
+ "events": [
+  {
+   "id": "vcity:10000611",
+   "title": "Haunted Ghost Tour at the Gold Hill Hotel",
+   "start": "2026-10-08T17:00:00-07:00",
+   "end": "2026-10-08T21:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Gold Hill Hotel",
+    "address": "1540 South Main St, Gold Hill, NV, 89440",
+    "lat": null,
+    "lon": null
+   },
+   "area": "other",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "vcity",
+     "url": "https://visitvirginiacitynv.com/event/haunted-ghost-tour-at-the-gold-hill-hotel-3-2-2/2026-10-08/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "vcity:10000543",
+   "title": "Art and Cocktails at St. Mary’s Art Center",
+   "start": "2026-10-08T18:00:00-07:00",
+   "end": "2026-10-08T20:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": null,
+   "area": "virginia-city",
+   "drive": "~40 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "vcity",
+     "url": "https://visitvirginiacitynv.com/event/art-and-cocktails-at-st-marys-art-center/2026-10-08/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "21+",
+   "_tags": [],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "vcity:10000641",
+   "title": "The Walking Séance at Silver Terrace Cemetery",
+   "start": "2026-10-10T10:00:00-07:00",
+   "end": "2026-10-10T11:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Silver Terrace Cemetery",
+    "address": "381 Cemetery Rd, Virginia City, NV, 89440",
+    "lat": null,
+    "lon": null
+   },
+   "area": "virginia-city",
+   "drive": "~40 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "vcity",
+     "url": "https://visitvirginiacitynv.com/event/the-walking-seance-at-silver-terrace-cemetery/2026-10-10/1/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "children",
+   "_tags": [],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "vcity:10000647",
+   "title": "The Walking Séance at Silver Terrace Cemetery",
+   "start": "2026-10-10T13:00:00-07:00",
+   "end": "2026-10-10T14:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Silver Terrace Cemetery",
+    "address": "381 Cemetery Rd, Virginia City, NV, 89440",
+    "lat": null,
+    "lon": null
+   },
+   "area": "virginia-city",
+   "drive": "~40 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "vcity",
+     "url": "https://visitvirginiacitynv.com/event/the-walking-seance-at-silver-terrace-cemetery/2026-10-10/3/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "children",
+   "_tags": [],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "vcity:10000643",
+   "title": "The Walking Séance at Silver Terrace Cemetery",
+   "start": "2026-10-11T10:00:00-07:00",
+   "end": "2026-10-11T11:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Silver Terrace Cemetery",
+    "address": "381 Cemetery Rd, Virginia City, NV, 89440",
+    "lat": null,
+    "lon": null
+   },
+   "area": "virginia-city",
+   "drive": "~40 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "vcity",
+     "url": "https://visitvirginiacitynv.com/event/the-walking-seance-at-silver-terrace-cemetery/2026-10-11/1/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "children",
+   "_tags": [],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "vcity:10000535",
+   "title": "Arts & Crafts Revival at St. Mary’s Art Center",
+   "start": "2026-10-11T13:00:00-07:00",
+   "end": "2026-10-11T15:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": null,
+   "area": "virginia-city",
+   "drive": "~40 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "vcity",
+     "url": "https://visitvirginiacitynv.com/event/arts-crafts-revival-at-st-marys-art-center-2/2026-10-11/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "vcity:10000587",
+   "title": "Arts & Crafts Revival at St. Mary’s Art Center",
+   "start": "2026-10-11T13:00:00-07:00",
+   "end": "2026-10-11T15:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": null,
+   "area": "virginia-city",
+   "drive": "~40 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "vcity",
+     "url": "https://visitvirginiacitynv.com/event/arts-crafts-revival-at-st-marys-art-center-3/2026-10-11/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "vcity:10000648",
+   "title": "The Walking Séance at Silver Terrace Cemetery",
+   "start": "2026-10-11T13:00:00-07:00",
+   "end": "2026-10-11T14:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Silver Terrace Cemetery",
+    "address": "381 Cemetery Rd, Virginia City, NV, 89440",
+    "lat": null,
+    "lon": null
+   },
+   "area": "virginia-city",
+   "drive": "~40 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "vcity",
+     "url": "https://visitvirginiacitynv.com/event/the-walking-seance-at-silver-terrace-cemetery/2026-10-11/3/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "children",
+   "_tags": [],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  }
+ ]
+}

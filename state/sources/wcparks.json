@@ -1,0 +1,552 @@
+{
+ "at": "2026-10-05T23:07:24Z",
+ "events": [
+  {
+   "id": "wcparks:709-1790528400000",
+   "title": "Ranger Walk: Fall Photo Hike at Crystal Peak Park",
+   "start": "2026-09-27T10:00:00-07:00",
+   "end": "2026-09-27T11:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Crystal peak Park",
+    "address": "561 Crystal Park Road, Verdi, NV 89439",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "wcparks",
+     "url": "https://tockify.com/wcparks/detail/709/1790528400000"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "wcparks:704-1790811000000",
+   "title": "Wild Wednesday - Animal Migrations",
+   "start": "2026-09-30T16:30:00-07:00",
+   "end": "2026-09-30T17:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Spanish Springs Library",
+    "address": "7100A Pyramid Way, Sparks, NV 89436, USA",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "wcparks",
+     "url": "https://tockify.com/wcparks/detail/704/1790811000000"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "wcparks:702-1790866800000",
+   "title": "Sierra-Nevada Autumn Photo Exhibit at Bartley Ranch Regional Park",
+   "start": "2026-10-01T08:00:00-07:00",
+   "end": "2026-10-31T17:00:00-07:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "Bartley Ranch Regional Park, Western Heritage Interpretive Center",
+    "address": "6000 Bartley Ranch Rd, Reno, NV 89511, USA",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "wcparks",
+     "url": "https://tockify.com/wcparks/detail/702/1790866800000"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "wcparks:710-1791057600000",
+   "title": "Fall Photo Hike: Lockwood Trailhead",
+   "start": "2026-10-03T13:00:00-07:00",
+   "end": "2026-10-03T14:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": null,
+    "address": "981 Lockwood Road, Sparks, NV 89434",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "wcparks",
+     "url": "https://tockify.com/wcparks/detail/710/1791057600000"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "wcparks:711-1791651600000",
+   "title": "Fall Photo Hike: Slide Mountain Trail",
+   "start": "2026-10-10T10:00:00-07:00",
+   "end": "2026-10-10T11:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Slide Mountain Trail",
+    "address": "New Washoe City, NV 89704, USA",
+    "lat": null,
+    "lon": null
+   },
+   "area": "other",
+   "drive": "~25 min",
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "wcparks",
+     "url": "https://tockify.com/wcparks/detail/711/1791651600000"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "wcparks:639-1791738000000",
+   "title": "Junior Ranger Adventure Day! (Bowers Mansion Regional Park)",
+   "start": "2026-10-11T10:00:00-07:00",
+   "end": "2026-10-11T11:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Bowers Mansion Regional Park",
+    "address": "4005 Bowers Mansion Rd, New Washoe City, NV 89704, USA",
+    "lat": null,
+    "lon": null
+   },
+   "area": "other",
+   "drive": "~25 min",
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "wcparks",
+     "url": "https://tockify.com/wcparks/detail/639/1791738000000"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "family",
+   "_tags": [],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "wcparks:705-1792020600000",
+   "title": "Wild Wednesday - Owls, Spiders, and Bats Oh My!",
+   "start": "2026-10-14T16:30:00-07:00",
+   "end": "2026-10-14T17:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Cottonwood Community Center at Lazy 5 Regional Park",
+    "address": "7100 Pyramid Way, Sparks, NV 89436, USA",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "wcparks",
+     "url": "https://tockify.com/wcparks/detail/705/1792020600000"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "wcparks:630-1792256400000",
+   "title": "Ranger Walk: Fall Photo Hike (Wilbur D. May Arboretum)",
+   "start": "2026-10-17T10:00:00-07:00",
+   "end": "2026-10-17T11:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Rancho San Rafael Regional Park",
+    "address": "1595 N Sierra St, Reno, NV 89503, USA",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "wcparks",
+     "url": "https://tockify.com/wcparks/detail/630/1792256400000"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "wcparks:701-1792350000000",
+   "title": "Western Heritage Festival at Bartley Ranch",
+   "start": "2026-10-18T12:00:00-07:00",
+   "end": "2026-10-18T15:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Bartley Ranch Regional Park, Western Heritage Interpretive Center",
+    "address": "6000 Bartley Ranch Rd, Reno, NV 89511, USA",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "wcparks",
+     "url": "https://tockify.com/wcparks/detail/701/1792350000000"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "children's",
+   "_tags": [],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "wcparks:716-1792796400000",
+   "title": "THE HAUNTED HIVE! (Free Event)",
+   "start": "2026-10-23T16:00:00-07:00",
+   "end": "2026-10-31T18:00:00-07:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "The Hive",
+    "address": "7100 Pyramid Way, Sparks, NV 89436, USA",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "wcparks",
+     "url": "https://tockify.com/wcparks/detail/716/1792796400000"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "family",
+   "_tags": [],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "wcparks:713-1792861200000",
+   "title": "Fall Photo Hike (Hidden Valley Regional Park)",
+   "start": "2026-10-24T10:00:00-07:00",
+   "end": "2026-10-24T11:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Hidden Valley Regional Park",
+    "address": "4740 Parkway Dr, Reno, NV 89502, USA",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "wcparks",
+     "url": "https://tockify.com/wcparks/detail/713/1792861200000"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "wcparks:715-1793379600000",
+   "title": "Galena Creek Fall Festival",
+   "start": "2026-10-30T10:00:00-07:00",
+   "end": "2026-10-30T20:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Galena Creek Visitor Center",
+    "address": "18250 Mt Rose Hwy, Reno, NV 89511, USA",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "wcparks",
+     "url": "https://tockify.com/wcparks/detail/715/1793379600000"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "family kids",
+   "_tags": [
+    "crafts",
+    "festival"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "wcparks:714-1793466000000",
+   "title": "Fall Photo Hike: Bartley Ranch",
+   "start": "2026-10-31T10:00:00-07:00",
+   "end": "2026-10-31T11:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Bartley Ranch Regional Park, Western Heritage Interpretive Center",
+    "address": "6000 Bartley Ranch Rd, Reno, NV 89511, USA",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "wcparks",
+     "url": "https://tockify.com/wcparks/detail/714/1793466000000"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "wcparks:631-1794690000000",
+   "title": "Ranger Walks! (Galena Creek Trail)",
+   "start": "2026-11-14T13:00:00-08:00",
+   "end": "2026-11-14T14:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Callahan Park",
+    "address": "16036 Callahan Rd, Reno, NV 89511, USA",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "wcparks",
+     "url": "https://tockify.com/wcparks/detail/631/1794690000000"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "wcparks:640-1794765600000",
+   "title": "Junior Ranger Adventure Day! (Lockwood Trailhead)",
+   "start": "2026-11-15T10:00:00-08:00",
+   "end": "2026-11-15T11:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Lockwood Trailhead",
+    "address": "981 Lockwood Rd, Sparks, NV 89434, USA",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "wcparks",
+     "url": "https://tockify.com/wcparks/detail/640/1794765600000"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "Children's",
+   "_tags": [],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "wcparks:706-1796862600000",
+   "title": "Wild Wednesday - Trail Safety and Navigation",
+   "start": "2026-12-09T16:30:00-08:00",
+   "end": "2026-12-09T17:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Cottonwood Community Center at Lazy 5 Regional Park",
+    "address": "7100 Pyramid Way, Sparks, NV 89436, USA",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "wcparks",
+     "url": "https://tockify.com/wcparks/detail/706/1796862600000"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  }
+ ]
+}

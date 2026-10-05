@@ -1,0 +1,362 @@
+{
+ "at": "2026-10-05T23:07:24Z",
+ "events": [
+  {
+   "id": "discovery:11689",
+   "title": "Fall Break: Open Monday",
+   "start": "2026-10-05T10:00:00-07:00",
+   "end": "2026-10-05T17:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Discovery",
+    "address": "490 S. Center Street, Reno, NV, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "discovery",
+     "url": "https://nvdm.org/event/fall-break-open-monday/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "special hours"
+   ],
+   "_family": true,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "discovery:42305",
+   "title": "World Space Week: Rocket Revolution",
+   "start": "2026-10-05T10:00:00-07:00",
+   "end": "2026-10-05T17:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Discovery",
+    "address": "490 S. Center Street, Reno, NV, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "discovery",
+     "url": "https://nvdm.org/event/world-space-week-rocket-revolution/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "hands-on activity",
+    "special event"
+   ],
+   "_family": true,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "discovery:42326",
+   "title": "World Space Week: Rocket Revolution",
+   "start": "2026-10-06T10:00:00-07:00",
+   "end": "2026-10-06T17:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Discovery",
+    "address": "490 S. Center Street, Reno, NV, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "discovery",
+     "url": "https://nvdm.org/event/world-space-week-rocket-revolution-2026-10-06/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "hands-on activity",
+    "special event"
+   ],
+   "_family": true,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "discovery:42052",
+   "title": "Small Wonder Wednesday",
+   "start": "2026-10-07T09:00:00-07:00",
+   "end": "2026-10-07T10:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Discovery",
+    "address": "490 S. Center Street, Reno, NV, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "discovery",
+     "url": "https://nvdm.org/event/small-wonder-wednesday-2026-07-22/2026-10-07/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "families children",
+   "_tags": [
+    "special hours"
+   ],
+   "_family": true,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "discovery:42327",
+   "title": "World Space Week: Rocket Revolution",
+   "start": "2026-10-07T10:00:00-07:00",
+   "end": "2026-10-07T19:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Discovery",
+    "address": "490 S. Center Street, Reno, NV, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "discovery",
+     "url": "https://nvdm.org/event/world-space-week-rocket-revolution-2026-10-07/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "hands-on activity",
+    "special event"
+   ],
+   "_family": true,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "discovery:42328",
+   "title": "World Space Week: Rocket Revolution",
+   "start": "2026-10-08T10:00:00-07:00",
+   "end": "2026-10-08T17:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Discovery",
+    "address": "490 S. Center Street, Reno, NV, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "discovery",
+     "url": "https://nvdm.org/event/world-space-week-rocket-revolution-2026-10-08/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "hands-on activity",
+    "special event"
+   ],
+   "_family": true,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "discovery:42329",
+   "title": "World Space Week: Rocket Revolution",
+   "start": "2026-10-09T10:00:00-07:00",
+   "end": "2026-10-09T17:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Discovery",
+    "address": "490 S. Center Street, Reno, NV, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "discovery",
+     "url": "https://nvdm.org/event/world-space-week-rocket-revolution-2026-10-09/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "hands-on activity",
+    "special event"
+   ],
+   "_family": true,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "discovery:42330",
+   "title": "World Space Week: Rocket Revolution",
+   "start": "2026-10-10T10:00:00-07:00",
+   "end": "2026-10-10T17:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Discovery",
+    "address": "490 S. Center Street, Reno, NV, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "discovery",
+     "url": "https://nvdm.org/event/world-space-week-rocket-revolution-2026-10-10/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "hands-on activity",
+    "special event"
+   ],
+   "_family": true,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "discovery:42841",
+   "title": "Make a Lucha Libre Mask",
+   "start": "2026-10-11T10:30:00-07:00",
+   "end": "2026-10-11T16:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Discovery",
+    "address": "490 S. Center Street, Reno, NV, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "discovery",
+     "url": "https://nvdm.org/event/make-a-lucha-libre-mask-2026-10-11/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "hands-on activity",
+    "maker project"
+   ],
+   "_family": true,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "discovery:42820",
+   "title": "Fall Break: Open Monday",
+   "start": "2026-10-12T10:00:00-07:00",
+   "end": "2026-10-12T17:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Discovery",
+    "address": "490 S. Center Street, Reno, NV, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "discovery",
+     "url": "https://nvdm.org/event/fall-break-open-monday/2026-10-12/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "special hours"
+   ],
+   "_family": true,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  }
+ ]
+}

@@ -1,0 +1,520 @@
+{
+ "at": "2026-10-05T23:07:24Z",
+ "events": [
+  {
+   "id": "sparks:15-202607021330",
+   "title": "Content Editing Training (Part 1)",
+   "start": "2026-07-02T13:30:00-07:00",
+   "end": "2026-07-02T15:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": null,
+   "area": "sparks",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "sparks",
+     "url": "https://www.sparksnv.gov/calendar"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "community events"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "sparks:16-202607161330",
+   "title": "Content Editing Training (Part 2)",
+   "start": "2026-07-16T13:30:00-07:00",
+   "end": "2026-07-16T15:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": null,
+   "area": "sparks",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "sparks",
+     "url": "https://www.sparksnv.gov/calendar"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "community events"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "sparks:20-202607230900",
+   "title": "Coffee with the Revize Team",
+   "start": "2026-07-23T09:00:00-07:00",
+   "end": "2026-07-23T15:24:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "150 Kirts Blvd Suite B",
+    "address": "150 Kirts Blvd Suite B, Troy, MI 48084",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "sparks",
+     "url": "https://www.sparksnv.gov/calendar"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "community events"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "sparks:29-202608081100",
+   "title": "Issues, Ideas, & Ice Cream",
+   "start": "2026-08-08T11:00:00-07:00",
+   "end": "2026-08-08T14:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Church Park",
+    "address": "Church Park",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "sparks",
+     "url": "https://www.sparksnv.gov/calendar"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "community events"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "sparks:30-202609121800",
+   "title": "NEC: Deep Purple with Kansas",
+   "start": "2026-09-12T18:00:00-07:00",
+   "end": "2026-09-12T22:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Nugget Event Center",
+    "address": "Nugget Event Center",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "sparks",
+     "url": "https://www.cnty.com/nugget/calendar/events/deep-purple"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "community events"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "sparks:31-202609191600",
+   "title": "Water Lantern Festival",
+   "start": "2026-09-19T16:00:00-07:00",
+   "end": "2026-09-19T20:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sparks Marina",
+    "address": "Sparks Marina",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "sparks",
+     "url": "https://www.sparksnv.gov/calendar"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "families",
+   "_tags": [
+    "community events"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "sparks:32-202609260600",
+   "title": "Northern Nevada Out of the Darkness Community Walk",
+   "start": "2026-09-26T06:00:00-07:00",
+   "end": "2026-09-26T13:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sparks Marina",
+    "address": "Sparks Marina",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "sparks",
+     "url": "https://afspwalks.donordrive.com/OOTDWalks"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "community events"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "sparks:33-202610030700",
+   "title": "Northern Nevada Walk with the Heart of a Child",
+   "start": "2026-10-03T07:00:00-07:00",
+   "end": "2026-10-03T15:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sparks Marina Park",
+    "address": "Sparks Marina Park",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "sparks",
+     "url": "https://chfn.org/news-events/walk.html"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "Children’s",
+   "_tags": [
+    "community events"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "sparks:34-202610090000",
+   "title": "Biggest Little Ultra",
+   "start": "2026-10-09T00:00:00-07:00",
+   "end": "2026-10-11T00:00:00-07:00",
+   "allDay": true,
+   "ongoing": false,
+   "venue": {
+    "name": "Sparks Marina Park",
+    "address": "Sparks Marina Park",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "sparks",
+     "url": "https://www.biggestlittleultra.com/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "community events"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "sparks:35-202610160900",
+   "title": "Mayor's Cup Golf Tournament",
+   "start": "2026-10-16T09:00:00-07:00",
+   "end": "2026-10-16T15:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Red Hawk Golf and Resort",
+    "address": "Red Hawk Golf and Resort",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "sparks",
+     "url": "https://builder1.revize.com/revize/sparksnv/recreation/special_events/sparks_special_events.php?rz=catalogueDetails&id=207"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "community events"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "sparks:37-202610171000",
+   "title": "Walk to End Alzheimer's",
+   "start": "2026-10-17T10:00:00-07:00",
+   "end": "2026-10-17T13:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sparks Marina Park",
+    "address": "Sparks Marina Park",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "sparks",
+     "url": "https://www.sparksnv.gov/calendar"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "families",
+   "_tags": [
+    "community events"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "sparks:38-202611080700",
+   "title": "Lizzy Hammond Walk/5K",
+   "start": "2026-11-08T07:00:00-08:00",
+   "end": "2026-11-08T13:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sparks Marina Park",
+    "address": "Sparks Marina Park",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "sparks",
+     "url": "https://lizzyhammondfoundation.org/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "family",
+   "_tags": [
+    "community events"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "sparks:39-202612031600",
+   "title": "39 North Pole Village",
+   "start": "2026-12-03T16:00:00-08:00",
+   "end": "2026-12-05T21:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Victorian Square",
+    "address": "Victorian Square",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "sparks",
+     "url": "https://www.sparksnv.gov/calendar"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "community events"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "sparks:40-202612041800",
+   "title": "Sparks Hometowne Christmas Tree Lighting",
+   "start": "2026-12-04T18:00:00-08:00",
+   "end": "2026-12-04T18:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Victorian Square",
+    "address": "Victorian Square",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "sparks",
+     "url": "https://builder1.revize.com/revize/sparksnv/recreation/special_events/sparks_special_events.php?rz=catalogueDetails&id=205"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "community events"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "sparks:41-202612051300",
+   "title": "Sparks Hometowne Christmas Parade",
+   "start": "2026-12-05T13:00:00-08:00",
+   "end": "2026-12-05T15:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Victorian Avenue",
+    "address": "Victorian Avenue",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "sparks",
+     "url": "https://builder1.revize.com/revize/sparksnv/recreation/special_events/sparks_special_events.php?rz=catalogueDetails&id=205"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "community events"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  }
+ ]
+}

@@ -1,0 +1,180 @@
+{
+ "at": "2026-10-05T23:07:24Z",
+ "events": [
+  {
+   "id": "carson:80820",
+   "title": "Annual Empty Bowls 2026",
+   "start": "2026-10-10T11:00:00-07:00",
+   "end": "2026-10-10T15:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Carson Mall",
+    "address": "1215 South Carson Street, Carson City, 89701",
+    "lat": 39.15481,
+    "lon": -119.76701
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/annual-empty-bowls-2026/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "family Kids",
+   "_tags": [
+    "annual event",
+    "carson city",
+    "carson city events",
+    "carson city nevada",
+    "events in carson city",
+    "food",
+    "visit carson city nevada",
+    "what to do in carson city"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:73693",
+   "title": "After Dark Cemetery Walking Tour",
+   "start": "2026-10-10T18:00:00-07:00",
+   "end": "2026-10-10T19:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Lone Mountain Cemetery, 1044 Beverly Dr. Carson City, NV 89706",
+    "address": "1044 Beverly Dr., Carson City, NV, 89706",
+    "lat": 39.17566,
+    "lon": -119.75688
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/after-dark-cemetery-tour-walking-tour/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "family",
+   "_tags": [
+    "after dark cemetery tour walking tour",
+    "carson city park ranger",
+    "lone mountain cemetery"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:10005837",
+   "title": "Fright at the Museum",
+   "start": "2026-10-10T18:00:00-07:00",
+   "end": "2026-10-10T21:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Nevada State Museum",
+    "address": "600 North Carson Street, Carson City, NV, 89701",
+    "lat": 39.16773,
+    "lon": -119.76741
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": {
+    "min": 15.0,
+    "max": 15.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/fright-at-the-museum/2026-10-10/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "CHILDREN",
+   "_tags": [
+    "carson city",
+    "carson city events",
+    "carson city nevada",
+    "events in carson city",
+    "fright at the museum",
+    "halloween",
+    "halloween carson city",
+    "halloween carson city nv",
+    "halloween events",
+    "halloween events near reno nv",
+    "haunted house",
+    "haunted house carson city",
+    "haunted museum",
+    "haunted museum carson city",
+    "holiday",
+    "nevada state museum",
+    "things to do in carson city",
+    "visit carson city",
+    "what to do in carson city"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:10006287",
+   "title": "Saturday Night Star Parties",
+   "start": "2026-10-10T18:30:00-07:00",
+   "end": "2026-10-10T23:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Jack C. Davis Observatory",
+    "address": "2699 Vanpatten Ave, NV, 89703",
+    "lat": 39.18627,
+    "lon": -119.79616
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/saturday-night-star-parties/2026-10-10/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "night life",
+    "workshops/classes"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  }
+ ]
+}
