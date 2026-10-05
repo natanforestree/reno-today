@@ -45,6 +45,21 @@ def _start(dates):
     raise ValueError("no usable start")
 
 
+def _number(value):
+    return isinstance(value, (int, float)) and not isinstance(value, bool)
+
+
+def _price(ranges):
+    """The lowest min to the highest max. Ranges without a numeric min are skipped;
+    a missing or null max counts as the min (one bad entry mustn't fail the source)."""
+    lows, highs = [], []
+    for p in ranges if isinstance(ranges, list) else []:
+        if isinstance(p, dict) and _number(p.get("min")):
+            lows.append(p["min"])
+            highs.append(p["max"] if _number(p.get("max")) else p["min"])
+    return price_range(min(lows), max(highs)) if lows else None
+
+
 def parse(items):
     events = []
     for ev in items:
@@ -69,9 +84,7 @@ def parse(items):
         cls = next((c for c in classes if c.get("primary")), classes[0] if classes else {})
         tags = [(cls.get(k) or {}).get("name") for k in ("segment", "genre", "subGenre")]
         tags = [t for t in tags if t and t != "Undefined"]
-        prices = [p for p in ev.get("priceRanges") or [] if isinstance(p.get("min"), (int, float))]
-        price = (price_range(min(p["min"] for p in prices), max(p.get("max", p["min"]) for p in prices))
-                 if prices else None)
+        price = _price(ev.get("priceRanges"))
         events.append(make_event(
             "tm", ev.get("id") or name, name, start, end=end, all_day=all_day,
             venue=venue(v.get("name"), address, loc.get("latitude"), loc.get("longitude")),

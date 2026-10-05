@@ -14,6 +14,7 @@ NAME = "wcparks"
 LABEL = "Washoe County Parks"
 URL = "https://tockify.com/wcparks"
 MARKER = '"bootdata":'
+RESHAPED = "unexpected calendar data (did Tockify change its page?)"
 FREE_EVENT = re.compile(r"\bfree (event|admission|entry|program)\b|\(free event\)", re.I)
 
 
@@ -25,6 +26,30 @@ def _when(part):
     return datetime.fromtimestamp(part["millis"] / 1000, tz=timezone.utc)
 
 
+def _event_lists(boot):
+    """The upcoming and pinned event lists. Data with neither, or with either in
+    another shape, is a SourceError (the last good events stay), not zero events."""
+    query = boot.get("query") if isinstance(boot, dict) else None
+    if not isinstance(query, dict):
+        raise SourceError(RESHAPED)
+    lists = []
+    for name in ("upcoming", "pinboard"):
+        bucket = query.get(name)
+        if bucket is None:
+            continue
+        if not isinstance(bucket, dict):
+            raise SourceError(RESHAPED)
+        listed = bucket.get("events")
+        if listed is None:
+            listed = []
+        if not isinstance(listed, list):
+            raise SourceError(RESHAPED)
+        lists.append(listed)
+    if not lists:
+        raise SourceError(RESHAPED)
+    return lists
+
+
 def parse(page):
     at = page.find(MARKER)
     if at < 0:
@@ -33,10 +58,9 @@ def parse(page):
         boot, _ = json.JSONDecoder().raw_decode(page[at + len(MARKER):])
     except ValueError:
         raise SourceError("the calendar data didn't parse") from None
-    query = boot.get("query") or {}
     seen, events = set(), []
-    for bucket in ("upcoming", "pinboard"):
-        for e in (query.get(bucket) or {}).get("events") or []:
+    for listed in _event_lists(boot):
+        for e in listed:
             eid = e.get("eid") or {}
             key = (eid.get("uid"), eid.get("tid"))
             if key in seen or ((e.get("status") or {}).get("name") or "").lower() in ("cancelled", "canceled"):

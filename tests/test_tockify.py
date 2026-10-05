@@ -7,6 +7,10 @@ from sources import tockify
 from sources.base import Context, SourceError
 
 
+def page(boot):
+    return f'<script>window.tkf = {{"version":"x","bootdata":{boot}}};</script>'
+
+
 class TockifyTest(unittest.TestCase):
     def setUp(self):
         self.by_uid = {e["id"].split(":")[1].split("-")[0]: e for e in tockify.parse(fixture_text("tockify.html"))}
@@ -32,6 +36,19 @@ class TockifyTest(unittest.TestCase):
         self.assertTrue(e["allDay"])
         self.assertEqual(e["start"], "2026-10-17T00:00:00-07:00")
         self.assertEqual((e["area"], e["drive"]), ("other", "~25 min"))
+
+    def test_reshaped_calendar_data_is_a_source_error(self):
+        for boot in ['null', '[1, 2]', '{}', '{"query": null}', '{"query": "x"}', '{"query": {}}',
+                     '{"query": {"other": {"events": []}}}', '{"query": {"upcoming": []}}',
+                     '{"query": {"upcoming": {"events": {}}}}', '{"query": {"pinboard": {"events": "x"}}}']:
+            with self.subTest(boot=boot):
+                with self.assertRaises(SourceError):
+                    tockify.parse(page(boot))
+
+    def test_an_empty_calendar_is_zero_events(self):
+        self.assertEqual(tockify.parse(page('{"query": {"upcoming": {"events": []}}}')), [])
+        self.assertEqual(tockify.parse(page('{"query": {"upcoming": {"events": []}, "pinboard": {}}}')), [])
+        self.assertEqual(tockify.parse(page('{"query": {"upcoming": {"events": null}}}')), [])
 
     def test_page_without_data_is_a_source_error(self):
         with self.assertRaises(SourceError):

@@ -40,6 +40,21 @@ class ParseTest(unittest.TestCase):
         self.assertIsNone(e["price"])
 
 
+class PriceTest(unittest.TestCase):
+    def price(self, ranges):
+        item = {"id": "P1", "name": "Comedy Night", "dates": {"start": {"dateTime": "2026-10-11T03:00:00Z"}},
+                "priceRanges": ranges}
+        [e] = ticketmaster.parse([item])
+        return e["price"]
+
+    def test_a_bad_price_entry_does_not_fail_the_source(self):
+        self.assertEqual(self.price([{"min": 20, "max": 50}, {"min": 30, "max": None}]), {"min": 20.0, "max": 50.0})
+        self.assertEqual(self.price([{"max": 99}, {"min": 25.5, "max": 60}]), {"min": 25.5, "max": 60.0})
+        self.assertEqual(self.price([None, "x", {"min": "10", "max": "20"}, {"min": 15}]), {"min": 15.0, "max": 15.0})
+        self.assertEqual(self.price([{"min": None, "max": None}]), None)
+        self.assertEqual(self.price(None), None)
+
+
 class FetchTest(unittest.TestCase):
     def test_not_set_up_yet(self):
         with self.assertRaises(SourceError) as cm:
