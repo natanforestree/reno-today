@@ -42,3 +42,51 @@ Design: `docs/superpowers/specs/2026-10-05-reno-today-design.md`.
 
 Variants: `full`, `empty`, `partial`, `failing`. Without `?data=` the page reads
 `docs/data/` (the live data once the collector has run).
+
+## Sources
+
+| Source | Module | Notes |
+| --- | --- | --- |
+| Ticketmaster | `sources/ticketmaster.py` | needs `TICKETMASTER_KEY` |
+| UNR events | `sources/unr.py` | Localist API |
+| Nevada Wolf Pack | `sources/wolfpack.py` | iCal, home games only |
+| Reno Aces | `sources/aces.py` | MLB Stats API; off-season Oct–Mar |
+| Washoe County Library | `sources/library.py` | LibCal; 10 s crawl delay, read twice a day |
+| The Discovery, Carson City, South Lake Tahoe, Virginia City | `sources/tribe.py` | The Events Calendar REST API |
+| City of Reno, City of Sparks | `sources/revize.py` + `rrule.py` | Revize JSON, read twice a day |
+| Washoe County Parks | `sources/tockify.py` | Tockify page data (its /api/ is off-limits by robots.txt) |
+| Weekly regulars | `sources/standing.py` + `standing.json` | hand-kept |
+| Weather | `weather.py` | Open-Meteo |
+| Loving Reno | `guide.py` | guide card + "Loving Reno pick" badges; title and link only |
+
+Skipped on purpose: North Lake Tahoe (robots.txt), This Is Reno (blocks programs),
+Artown (no feed; July only).
+
+## Adding a source
+
+1. Find a feed (API, iCal, RSS, JSON-LD); check robots.txt.
+2. Save a real response, write a small hand-made fixture with the cases that
+   matter, and write `tests/test_<name>.py` first.
+3. Add `collector/sources/<name>.py` with `NAME`, `LABEL`, `fetch(ctx)` (raise
+   `SourceError` on a reshaped response), and add it to `sources.ALL`.
+4. `python3 dev/try_source.py <name>`, then run all tests.
+5. Add its link label to `SOURCE_LABEL` in `docs/lib.js`.
+
+**Facts only.** The repo is public, so new sources and recordings keep facts
+(title, time, place, price, link), not write-ups. Real recordings in
+`tests/fixtures/real/` are scrubbed: descriptions are reduced to keyword cues
+(`classify.cues`), and there are no write-ups, contacts, join links or tokens.
+Saved last-good results in `state/sources/` likewise keep only the keyword cues
+(`classify.cues`), not descriptions.
+
+## Maintenance
+
+- `places.json` hours change with the seasons. Each entry has a `checked` date.
+  Seasonal re-checks:
+  - County park hours switch after the November time change (re-check 2026-11-01).
+  - Animal Ark closes after Thanksgiving, though `places.json` lists all of November.
+  - V&T Railroad starts May 23, though May is listed.
+  - Idlewild, Virginia Lake and Wingfield hours are winter hours (re-check in April).
+- `overrides.json` fixes misclassified events without code changes.
+- If a source goes red on the page footer for days, run
+  `python3 dev/try_source.py <name>` to see why.
