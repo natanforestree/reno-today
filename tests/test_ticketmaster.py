@@ -17,6 +17,11 @@ class ParseTest(unittest.TestCase):
     def test_drops_parking_and_cancelled(self):
         self.assertEqual(sorted(self.by_id), ["tm:G5vYZ9A1", "tm:G5vYZ9A2", "tm:G5vYZ9A3", "tm:G5vYZ9A6"])
 
+    def test_drops_season_passes_and_hotel_packages(self):
+        self.assertNotIn("tm:G5vYZ9A7", self.by_id)
+        self.assertNotIn("tm:G5vYZ9A8", self.by_id)
+        self.assertNotIn("tm:G5vYZ9A9", self.by_id)
+
     def test_concert(self):
         e = self.by_id["tm:G5vYZ9A1"]
         self.assertEqual(e["start"], "2026-10-10T19:30:00-07:00")

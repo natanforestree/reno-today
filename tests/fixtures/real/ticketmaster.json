@@ -1,0 +1,7817 @@
+{
+ "_embedded": {
+  "events": [
+   {
+    "name": "Dragon Lights 2026 Season Pass",
+    "type": "event",
+    "id": "LvZ18QJRZdTKk2BCReib3",
+    "test": false,
+    "url": "https://www.universe.com/events/dragon-lights-2026-season-pass-tickets-ZCRN2H?ref=ticketmaster",
+    "locale": "en-us",
+    "distance": 1.25,
+    "units": "MILES",
+    "dates": {
+     "access": {
+      "startDateTime": "2026-07-30T21:20:16Z",
+      "startApproximate": false,
+      "endDateTime": "2026-11-02T06:00:00Z",
+      "endApproximate": false
+     },
+     "start": {
+      "localDate": "2026-10-02",
+      "localTime": "18:00:00",
+      "dateTime": "2026-10-03T01:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "end": {
+      "localTime": "18:00:00",
+      "dateTime": "2026-11-02T06:00:00Z",
+      "approximate": false,
+      "noSpecificTime": false
+     },
+     "timezone": "America/Los_Angeles",
+     "status": {
+      "code": "onsale"
+     },
+     "spanMultipleDays": false
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7na",
+       "name": "Arts & Theatre"
+      },
+      "genre": {
+       "id": "KnvZfZ7v7nE",
+       "name": "Cultural"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7v7nt",
+       "name": "Cultural"
+      },
+      "type": {
+       "id": "KZAyXgnZfZ7v7lt",
+       "name": "Event Style"
+      },
+      "subType": {
+       "id": "KZFzBErXgnZfZ7vA6E",
+       "name": "Festival"
+      },
+      "family": false
+     }
+    ],
+    "nameOrigin": "custom",
+    "_embedded": {
+     "venues": [
+      {
+       "name": "Wilbur D. May Arboretum",
+       "type": "venue",
+       "id": "KovZ917AcZn",
+       "test": false,
+       "url": "https://www.ticketmaster.com/wilbur-d-may-arboretum-tickets-reno/venue/467978",
+       "locale": "en-us",
+       "distance": 1.25,
+       "units": "MILES",
+       "postalCode": "89503",
+       "timezone": "America/Los_Angeles",
+       "city": {
+        "name": "Reno"
+       },
+       "state": {
+        "name": "Nevada",
+        "stateCode": "NV"
+       },
+       "country": {
+        "name": "United States Of America",
+        "countryCode": "US"
+       },
+       "address": {
+        "line1": "1595 N Sierra St"
+       },
+       "location": {
+        "longitude": "-119.82411600",
+        "latitude": "39.54589621"
+       },
+       "markets": [
+        {
+         "name": "N. California/N. Nevada",
+         "id": "41"
+        }
+       ],
+       "dmas": [
+        {
+         "id": 250
+        },
+        {
+         "id": 273
+        },
+        {
+         "id": 282
+        },
+        {
+         "id": 341
+        },
+        {
+         "id": 368
+        },
+        {
+         "id": 374
+        },
+        {
+         "id": 382
+        }
+       ],
+       "upcomingEvents": {
+        "universe": 2,
+        "ticketmaster": 1,
+        "_total": 3,
+        "_filtered": 0
+       }
+      }
+     ],
+     "attractions": [
+      {
+       "name": "Dragon Lights: Reno",
+       "type": "attraction",
+       "id": "K8vZ917h_H0",
+       "test": false,
+       "url": "https://www.ticketmaster.com/dragon-lights-reno-tickets/artist/3016962",
+       "locale": "en-us",
+       "classifications": [
+        {
+         "primary": true,
+         "segment": {
+          "id": "KZFzniwnSyZfZ7v7na",
+          "name": "Arts & Theatre"
+         },
+         "genre": {
+          "id": "KnvZfZ7v7nE",
+          "name": "Cultural"
+         },
+         "subGenre": {
+          "id": "KZazBEonSMnZfZ7v7nt",
+          "name": "Cultural"
+         },
+         "type": {
+          "id": "KZAyXgnZfZ7v7lt",
+          "name": "Event Style"
+         },
+         "subType": {
+          "id": "KZFzBErXgnZfZ7vA6E",
+          "name": "Festival"
+         },
+         "family": false
+        }
+       ],
+       "upcomingEvents": {
+        "universe": 2,
+        "ticketmaster": 1,
+        "_total": 3,
+        "_filtered": 0
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Every Avenue, In Her Own Words, Felicity, Too Close for Comfort, Tarni",
+    "type": "event",
+    "id": "1718v0G655XvsYy",
+    "test": false,
+    "url": "https://www.ticketweb.com/event/every-avenue-in-her-own-club-underground-tickets/14930883?REFERRAL_ID=tmfeed",
+    "locale": "en-us",
+    "distance": 0.41,
+    "units": "MILES",
+    "dates": {
+     "start": {
+      "localDate": "2026-10-06",
+      "localTime": "19:00:00",
+      "dateTime": "2026-10-07T02:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "timezone": "America/Los_Angeles",
+     "status": {
+      "code": "onsale"
+     },
+     "spanMultipleDays": false
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7nJ",
+       "name": "Music"
+      },
+      "genre": {
+       "id": "KnvZfZ7vAeA",
+       "name": "Rock"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7v6F1",
+       "name": "Pop"
+      },
+      "type": {
+       "id": "KZAyXgnZfZ7v7nI",
+       "name": "Undefined"
+      },
+      "subType": {
+       "id": "KZFzBErXgnZfZ7v7lJ",
+       "name": "Undefined"
+      },
+      "family": false
+     }
+    ],
+    "ageRestrictions": {
+     "legalAgeEnforced": false
+    },
+    "ticketing": {
+     "safeTix": {
+      "enabled": false
+     },
+     "allInclusivePricing": {
+      "enabled": false
+     }
+    },
+    "nameOrigin": "custom",
+    "ticketTextLines": {
+     "en-us": {
+      "line6": "        1 XNUMBER         ",
+      "line5": "         250 OPEN         ",
+      "line4": "       500 CAPACITY       ",
+      "line3": "                          ",
+      "line2": "    RESERVED GA CHART     ",
+      "line1": "          * * *           "
+     }
+    },
+    "_embedded": {
+     "venues": [
+      {
+       "name": "Club Underground",
+       "type": "venue",
+       "id": "KovZ917AYle",
+       "test": false,
+       "url": "https://www.ticketmaster.com/club-underground-tickets-reno/venue/189576",
+       "locale": "en-us",
+       "distance": 0.41,
+       "units": "MILES",
+       "postalCode": "89512",
+       "timezone": "America/Los_Angeles",
+       "city": {
+        "name": "Reno"
+       },
+       "state": {
+        "name": "Nevada",
+        "stateCode": "NV"
+       },
+       "country": {
+        "name": "United States Of America",
+        "countryCode": "US"
+       },
+       "address": {
+        "line1": "555 E 4th St"
+       },
+       "location": {
+        "longitude": "-119.80657600",
+        "latitude": "39.53150600"
+       },
+       "markets": [
+        {
+         "name": "N. California/N. Nevada",
+         "id": "41"
+        }
+       ],
+       "dmas": [
+        {
+         "id": 250
+        },
+        {
+         "id": 273
+        },
+        {
+         "id": 282
+        },
+        {
+         "id": 341
+        },
+        {
+         "id": 368
+        },
+        {
+         "id": 374
+        },
+        {
+         "id": 382
+        }
+       ],
+       "upcomingEvents": {
+        "tmr": 7,
+        "ticketmaster": 19,
+        "_total": 26,
+        "_filtered": 0
+       }
+      }
+     ],
+     "attractions": [
+      {
+       "name": "Every Avenue",
+       "type": "attraction",
+       "id": "K8vZ917G1af",
+       "test": false,
+       "url": "https://www.ticketmaster.com/every-avenue-tickets/artist/1173505",
+       "locale": "en-us",
+       "externalLinks": {
+        "youtube": [
+         {
+          "url": "https://www.youtube.com/user/EveryAvenue"
+         }
+        ],
+        "twitter": [
+         {
+          "url": "https://twitter.com/EveryAvenue"
+         }
+        ],
+        "itunes": [
+         {
+          "url": "https://music.apple.com/us/artist/every-avenue/39358650"
+         }
+        ],
+        "lastfm": [
+         {
+          "url": "http://www.last.fm/music/Every%20Avenue"
+         }
+        ],
+        "facebook": [
+         {
+          "url": "https://www.facebook.com/everyavenue/"
+         }
+        ],
+        "spotify": [
+         {
+          "url": "https://open.spotify.com/artist/1IpSmgcN9F3KNa7j9JtAE4"
+         }
+        ],
+        "wiki": [
+         {
+          "url": "https://en.wikipedia.org/wiki/Every_Avenue"
+         }
+        ],
+        "instagram": [
+         {
+          "url": "https://www.instagram.com/everyavenueband/"
+         }
+        ],
+        "musicbrainz": [
+         {
+          "id": "27cb81c2-0a39-444c-bd73-101c14393a4a",
+          "url": "https://musicbrainz.org/artist/27cb81c2-0a39-444c-bd73-101c14393a4a"
+         }
+        ],
+        "homepage": [
+         {
+          "url": "https://www.everyavenueband.com/"
+         }
+        ]
+       },
+       "classifications": [
+        {
+         "primary": true,
+         "segment": {
+          "id": "KZFzniwnSyZfZ7v7nJ",
+          "name": "Music"
+         },
+         "genre": {
+          "id": "KnvZfZ7vAeA",
+          "name": "Rock"
+         },
+         "subGenre": {
+          "id": "KZazBEonSMnZfZ7v6F1",
+          "name": "Pop"
+         },
+         "type": {
+          "id": "KZAyXgnZfZ7v7nI",
+          "name": "Undefined"
+         },
+         "subType": {
+          "id": "KZFzBErXgnZfZ7v7lJ",
+          "name": "Undefined"
+         },
+         "family": false
+        }
+       ],
+       "upcomingEvents": {
+        "tmr": 3,
+        "ticketmaster": 6,
+        "ticketweb": 3,
+        "_total": 12,
+        "_filtered": 0
+       }
+      },
+      {
+       "name": "In Her Own Words",
+       "type": "attraction",
+       "id": "K8vZ9172KMV",
+       "test": false,
+       "url": "https://www.ticketmaster.com/in-her-own-words-tickets/artist/1676045",
+       "locale": "en-us",
+       "externalLinks": {
+        "youtube": [
+         {
+          "url": "https://www.youtube.com/user/InHerOwnWordsBand"
+         }
+        ],
+        "twitter": [
+         {
+          "url": "https://twitter.com/ihowband"
+         }
+        ],
+        "itunes": [
+         {
+          "url": "https://itunes.apple.com/us/artist/id397696987"
+         }
+        ],
+        "spotify": [
+         {
+          "url": "https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI?autoplay=true"
+         }
+        ],
+        "facebook": [
+         {
+          "url": "https://www.facebook.com/inherownwordsband"
+         }
+        ],
+        "instagram": [
+         {
+          "url": "https://www.instagram.com/ihowband/reels/"
+         }
+        ],
+        "musicbrainz": [
+         {
+          "id": "e625b520-f85a-4c16-aa30-febcd08c7359",
+          "url": "https://musicbrainz.org/artist/e625b520-f85a-4c16-aa30-febcd08c7359"
+         }
+        ]
+       },
+       "classifications": [
+        {
+         "primary": true,
+         "segment": {
+          "id": "KZFzniwnSyZfZ7v7nJ",
+          "name": "Music"
+         },
+         "genre": {
+          "id": "KnvZfZ7vAvt",
+          "name": "Metal"
+         },
+         "subGenre": {
+          "id": "KZazBEonSMnZfZ7vkFd",
+          "name": "Heavy Metal"
+         },
+         "type": {
+          "id": "KZAyXgnZfZ7v7nI",
+          "name": "Undefined"
+         },
+         "subType": {
+          "id": "KZFzBErXgnZfZ7v7lJ",
+          "name": "Undefined"
+         },
+         "family": false
+        }
+       ],
+       "upcomingEvents": {
+        "tmr": 5,
+        "ticketmaster": 6,
+        "ticketweb": 6,
+        "_total": 17,
+        "_filtered": 0
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Alex Ramon \"Magic\"",
+    "type": "event",
+    "id": "17C8v0G61N9W6vD",
+    "test": false,
+    "url": "https://www.ticketmaster.com/alex-ramon-magic-lake-tahoe-nevada-10-06-2026/event/390064A8D7F4707B",
+    "locale": "en-us",
+    "distance": 39.77,
+    "units": "MILES",
+    "dates": {
+     "start": {
+      "localDate": "2026-10-06",
+      "localTime": "19:30:00",
+      "dateTime": "2026-10-07T02:30:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "timezone": "America/Los_Angeles",
+     "status": {
+      "code": "cancelled"
+     },
+     "spanMultipleDays": false
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7na",
+       "name": "Arts & Theatre"
+      },
+      "genre": {
+       "id": "KnvZfZ7v7lv",
+       "name": "Magic & Illusion"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7v7l7",
+       "name": "Magic"
+      },
+      "type": {
+       "id": "KZAyXgnZfZ7v7nI",
+       "name": "Undefined"
+      },
+      "subType": {
+       "id": "KZFzBErXgnZfZ7v7lJ",
+       "name": "Undefined"
+      },
+      "family": false
+     }
+    ],
+    "ageRestrictions": {
+     "legalAgeEnforced": false
+    },
+    "ticketing": {
+     "safeTix": {
+      "enabled": false
+     },
+     "allInclusivePricing": {
+      "enabled": true
+     }
+    },
+    "nameOrigin": "custom",
+    "ticketTextLines": {
+     "en-us": {
+      "line6": " TUE OCT 06 2026 7:30 PM  ",
+      "line5": "         ALL AGES         ",
+      "line4": "     SOUTH SHORE ROOM     ",
+      "line3": "          MAGIC           ",
+      "line2": "        ALEX RAMON        ",
+      "line1": " CANCELED-REFUNDS P.O.P.  "
+     }
+    },
+    "_embedded": {
+     "venues": [
+      {
+       "name": "South Shore Room at Harrah's Lake Tahoe",
+       "type": "venue",
+       "id": "KovZpZAJaJAA",
+       "test": false,
+       "url": "https://www.ticketmaster.com/south-shore-room-at-harrahs-lake-tickets-lake-tahoe/venue/467752",
+       "locale": "en-us",
+       "distance": 39.77,
+       "units": "MILES",
+       "postalCode": "89449",
+       "timezone": "America/Los_Angeles",
+       "city": {
+        "name": "Lake Tahoe"
+       },
+       "state": {
+        "name": "Nevada",
+        "stateCode": "NV"
+       },
+       "country": {
+        "name": "United States Of America",
+        "countryCode": "US"
+       },
+       "address": {
+        "line1": "15 Hwy 50"
+       },
+       "location": {
+        "longitude": "-119.93990290",
+        "latitude": "38.96240790"
+       },
+       "markets": [
+        {
+         "name": "N. California/N. Nevada",
+         "id": "41"
+        }
+       ],
+       "dmas": [
+        {
+         "id": 250
+        },
+        {
+         "id": 273
+        },
+        {
+         "id": 282
+        },
+        {
+         "id": 341
+        },
+        {
+         "id": 368
+        },
+        {
+         "id": 374
+        },
+        {
+         "id": 382
+        }
+       ],
+       "parkingDetail": "Available onsite",
+       "accessibleSeatingDetail": "*To better accommodate your needs the box office has requested that special seating accommodations be solicited through their representatives. Please call 775 588-6611 during box office hours",
+       "upcomingEvents": {
+        "ticketmaster": 33,
+        "_total": 33,
+        "_filtered": 0
+       }
+      }
+     ],
+     "attractions": [
+      {
+       "name": "Alex Ramon",
+       "type": "attraction",
+       "id": "K8vZ917pZ40",
+       "test": false,
+       "url": "https://www.ticketmaster.com/alex-ramon-tickets/artist/2216508",
+       "locale": "en-us",
+       "classifications": [
+        {
+         "primary": true,
+         "segment": {
+          "id": "KZFzniwnSyZfZ7v7na",
+          "name": "Arts & Theatre"
+         },
+         "genre": {
+          "id": "KnvZfZ7v7lv",
+          "name": "Magic & Illusion"
+         },
+         "subGenre": {
+          "id": "KZazBEonSMnZfZ7v7l7",
+          "name": "Magic"
+         },
+         "type": {
+          "id": "KZAyXgnZfZ7v7la",
+          "name": "Individual"
+         },
+         "subType": {
+          "id": "KZFzBErXgnZfZ7vAdA",
+          "name": "Magician"
+         },
+         "family": false
+        }
+       ],
+       "upcomingEvents": {
+        "ticketmaster": 9,
+        "_total": 9,
+        "_filtered": 0
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Madeon presents Victory Live with MGNA Crrrta",
+    "type": "event",
+    "id": "rZ7HnEZ1Af0Z4K",
+    "test": false,
+    "url": "https://www.ticketweb.com/event/madeon-presents-victory-live-with-cargo-concert-hall-tickets/14900553",
+    "locale": "en-us",
+    "distance": 0.1,
+    "units": "MILES",
+    "dates": {
+     "access": {
+      "startDateTime": "2026-10-07T03:00:00Z",
+      "startApproximate": false,
+      "endApproximate": false
+     },
+     "start": {
+      "localDate": "2026-10-06",
+      "localTime": "20:00:00",
+      "dateTime": "2026-10-07T03:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "end": {
+      "approximate": false,
+      "noSpecificTime": false
+     },
+     "timezone": "America/Los_Angeles",
+     "status": {
+      "code": "onsale"
+     },
+     "spanMultipleDays": false
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7nJ",
+       "name": "Music"
+      },
+      "genre": {
+       "id": "KnvZfZ7vAvF",
+       "name": "Dance/Electronic"
+      },
+      "type": {
+       "id": "KZAyXgnZfZ7v7nI",
+       "name": "Undefined"
+      },
+      "subType": {
+       "id": "KZFzBErXgnZfZ7v7lJ",
+       "name": "Undefined"
+      },
+      "family": false
+     },
+     {
+      "primary": false,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7nJ",
+       "name": "Music"
+      },
+      "genre": {
+       "id": "KnvZfZ7vAvF",
+       "name": "Dance/Electronic"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7vA1E",
+       "name": "Dance/Electronic"
+      },
+      "type": {
+       "id": "KZAyXgnZfZ7v7nI",
+       "name": "Undefined"
+      },
+      "subType": {
+       "id": "KZFzBErXgnZfZ7v7lJ",
+       "name": "Undefined"
+      },
+      "family": false
+     }
+    ],
+    "priceRanges": [
+     {
+      "type": "standard",
+      "currency": "USD",
+      "min": 41.23,
+      "max": 44.03
+     }
+    ],
+    "nameOrigin": "custom",
+    "_embedded": {
+     "venues": [
+      {
+       "name": "Cargo Concert Hall",
+       "type": "venue",
+       "id": "rZ7HnEZ17GZC4",
+       "test": false,
+       "url": "https://www.ticketweb.com/venue/cargo-concert-hall-reno-nv/300395",
+       "locale": "en-us",
+       "distance": 0.1,
+       "units": "MILES",
+       "postalCode": "89501",
+       "timezone": "America/Los_Angeles",
+       "city": {
+        "name": "Reno"
+       },
+       "state": {
+        "name": "Nevada",
+        "stateCode": "NV"
+       },
+       "country": {
+        "name": "United States Of America",
+        "countryCode": "US"
+       },
+       "address": {
+        "line1": "255 North Virginia Street"
+       },
+       "location": {
+        "longitude": "-119.81377",
+        "latitude": "39.528097"
+       },
+       "upcomingEvents": {
+        "ticketweb": 17,
+        "_total": 17,
+        "_filtered": 0
+       }
+      }
+     ],
+     "attractions": [
+      {
+       "name": "Madeon",
+       "type": "attraction",
+       "id": "K8vZ9172ZR7",
+       "test": false,
+       "url": "https://www.ticketmaster.com/madeon-tickets/artist/1645520",
+       "locale": "en-us",
+       "externalLinks": {
+        "youtube": [
+         {
+          "url": "https://www.youtube.com/user/MadeonVEVO"
+         }
+        ],
+        "twitter": [
+         {
+          "url": "https://twitter.com/madeon"
+         }
+        ],
+        "itunes": [
+         {
+          "url": "https://itunes.apple.com/gb/artist/id371199302"
+         }
+        ],
+        "lastfm": [
+         {
+          "url": "http://www.last.fm/music/Madeon"
+         }
+        ],
+        "spotify": [
+         {
+          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+         }
+        ],
+        "wiki": [
+         {
+          "url": "https://en.wikipedia.org/wiki/Madeon"
+         }
+        ],
+        "facebook": [
+         {
+          "url": "https://www.facebook.com/itsmadeon"
+         }
+        ],
+        "musicbrainz": [
+         {
+          "id": "fa1de503-aba7-41fa-a1ed-371b3e87a717",
+          "url": "https://musicbrainz.org/artist/fa1de503-aba7-41fa-a1ed-371b3e87a717"
+         }
+        ],
+        "instagram": [
+         {
+          "url": "https://www.instagram.com/madeon/"
+         }
+        ],
+        "homepage": [
+         {
+          "url": "http://www.madeon.fr/"
+         }
+        ]
+       },
+       "classifications": [
+        {
+         "primary": true,
+         "segment": {
+          "id": "KZFzniwnSyZfZ7v7nJ",
+          "name": "Music"
+         },
+         "genre": {
+          "id": "KnvZfZ7vAev",
+          "name": "Pop"
+         },
+         "subGenre": {
+          "id": "KZazBEonSMnZfZ7vk1t",
+          "name": "Pop"
+         },
+         "type": {
+          "id": "KZAyXgnZfZ7v7l1",
+          "name": "Group"
+         },
+         "subType": {
+          "id": "KZFzBErXgnZfZ7vA71",
+          "name": "Band"
+         },
+         "family": false
+        }
+       ],
+       "upcomingEvents": {
+        "tmr": 10,
+        "ticketmaster": 14,
+        "ticketweb": 1,
+        "_total": 25,
+        "_filtered": 0
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Madeon (18 and Over with Valid ID)",
+    "type": "event",
+    "id": "Z7r9jZ1A70Vvw",
+    "test": false,
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Vvw",
+    "locale": "en-us",
+    "distance": 0.24,
+    "units": "MILES",
+    "dates": {
+     "start": {
+      "localDate": "2026-10-06",
+      "localTime": "20:00:00",
+      "dateTime": "2026-10-07T03:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "status": {
+      "code": "onsale"
+     },
+     "spanMultipleDays": false
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7nJ",
+       "name": "Music"
+      },
+      "genre": {
+       "id": "KnvZfZ7vAvl",
+       "name": "Other"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7vk1I",
+       "name": "Other"
+      },
+      "family": false
+     }
+    ],
+    "ticketing": {
+     "allInclusivePricing": {
+      "enabled": true
+     }
+    },
+    "nameOrigin": "custom",
+    "_embedded": {
+     "venues": [
+      {
+       "name": "Cargo",
+       "type": "venue",
+       "id": "Z7r9jZaetz",
+       "test": false,
+       "locale": "en-us",
+       "distance": 0.24,
+       "units": "MILES",
+       "postalCode": "89501",
+       "timezone": "America/Los_Angeles",
+       "city": {
+        "name": "Reno"
+       },
+       "state": {
+        "name": "Nevada",
+        "stateCode": "NV"
+       },
+       "country": {
+        "name": "United States Of America",
+        "countryCode": "US"
+       },
+       "address": {
+        "line1": "255 North Virginia Street"
+       },
+       "location": {
+        "longitude": "-119.812401000",
+        "latitude": "39.526299000"
+       },
+       "dmas": [
+        {
+         "id": 368
+        }
+       ],
+       "upcomingEvents": {
+        "tmr": 10,
+        "_total": 10,
+        "_filtered": 0
+       }
+      }
+     ],
+     "attractions": [
+      {
+       "name": "Madeon",
+       "type": "attraction",
+       "id": "K8vZ9172ZR7",
+       "test": false,
+       "url": "https://www.ticketmaster.com/madeon-tickets/artist/1645520",
+       "locale": "en-us",
+       "externalLinks": {
+        "youtube": [
+         {
+          "url": "https://www.youtube.com/user/MadeonVEVO"
+         }
+        ],
+        "twitter": [
+         {
+          "url": "https://twitter.com/madeon"
+         }
+        ],
+        "itunes": [
+         {
+          "url": "https://itunes.apple.com/gb/artist/id371199302"
+         }
+        ],
+        "lastfm": [
+         {
+          "url": "http://www.last.fm/music/Madeon"
+         }
+        ],
+        "spotify": [
+         {
+          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+         }
+        ],
+        "wiki": [
+         {
+          "url": "https://en.wikipedia.org/wiki/Madeon"
+         }
+        ],
+        "facebook": [
+         {
+          "url": "https://www.facebook.com/itsmadeon"
+         }
+        ],
+        "musicbrainz": [
+         {
+          "id": "fa1de503-aba7-41fa-a1ed-371b3e87a717",
+          "url": "https://musicbrainz.org/artist/fa1de503-aba7-41fa-a1ed-371b3e87a717"
+         }
+        ],
+        "instagram": [
+         {
+          "url": "https://www.instagram.com/madeon/"
+         }
+        ],
+        "homepage": [
+         {
+          "url": "http://www.madeon.fr/"
+         }
+        ]
+       },
+       "classifications": [
+        {
+         "primary": true,
+         "segment": {
+          "id": "KZFzniwnSyZfZ7v7nJ",
+          "name": "Music"
+         },
+         "genre": {
+          "id": "KnvZfZ7vAev",
+          "name": "Pop"
+         },
+         "subGenre": {
+          "id": "KZazBEonSMnZfZ7vk1t",
+          "name": "Pop"
+         },
+         "type": {
+          "id": "KZAyXgnZfZ7v7l1",
+          "name": "Group"
+         },
+         "subType": {
+          "id": "KZFzBErXgnZfZ7vA71",
+          "name": "Band"
+         },
+         "family": false
+        }
+       ],
+       "upcomingEvents": {
+        "tmr": 10,
+        "ticketmaster": 14,
+        "ticketweb": 1,
+        "_total": 25,
+        "_filtered": 0
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Get the Led Out",
+    "type": "event",
+    "id": "17C8v0G6G9ZtgQ0",
+    "test": false,
+    "url": "https://www.ticketmaster.com/get-the-led-out-lake-tahoe-nevada-10-06-2026/event/390064C5C0A756A4",
+    "locale": "en-us",
+    "distance": 39.77,
+    "units": "MILES",
+    "dates": {
+     "start": {
+      "localDate": "2026-10-06",
+      "localTime": "20:00:00",
+      "dateTime": "2026-10-07T03:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "timezone": "America/Los_Angeles",
+     "status": {
+      "code": "onsale"
+     },
+     "spanMultipleDays": false
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7nJ",
+       "name": "Music"
+      },
+      "genre": {
+       "id": "KnvZfZ7vAe6",
+       "name": "Undefined"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7v6JI",
+       "name": "Undefined"
+      },
+      "type": {
+       "id": "KZAyXgnZfZ7v7l1",
+       "name": "Group"
+      },
+      "subType": {
+       "id": "KZFzBErXgnZfZ7vAAI",
+       "name": "Tribute Band"
+      },
+      "family": false
+     }
+    ],
+    "ageRestrictions": {
+     "legalAgeEnforced": false
+    },
+    "ticketing": {
+     "safeTix": {
+      "enabled": true
+     },
+     "allInclusivePricing": {
+      "enabled": true
+     }
+    },
+    "nameOrigin": "primaryAttraction",
+    "ticketTextLines": {
+     "en-us": {
+      "line6": " TUE OCT 06 2026 8:00 PM  ",
+      "line5": "     6+ YRS TO ATTEND     ",
+      "line4": "        LAKE TAHOE        ",
+      "line3": "     SOUTH SHORE ROOM     ",
+      "line2": "     GET THE LED OUT      ",
+      "line1": "    HARRAH'S PRESENTS     "
+     }
+    },
+    "_embedded": {
+     "venues": [
+      {
+       "name": "South Shore Room at Harrah's Lake Tahoe",
+       "type": "venue",
+       "id": "KovZpZAJaJAA",
+       "test": false,
+       "url": "https://www.ticketmaster.com/south-shore-room-at-harrahs-lake-tickets-lake-tahoe/venue/467752",
+       "locale": "en-us",
+       "distance": 39.77,
+       "units": "MILES",
+       "postalCode": "89449",
+       "timezone": "America/Los_Angeles",
+       "city": {
+        "name": "Lake Tahoe"
+       },
+       "state": {
+        "name": "Nevada",
+        "stateCode": "NV"
+       },
+       "country": {
+        "name": "United States Of America",
+        "countryCode": "US"
+       },
+       "address": {
+        "line1": "15 Hwy 50"
+       },
+       "location": {
+        "longitude": "-119.93990290",
+        "latitude": "38.96240790"
+       },
+       "markets": [
+        {
+         "name": "N. California/N. Nevada",
+         "id": "41"
+        }
+       ],
+       "dmas": [
+        {
+         "id": 250
+        },
+        {
+         "id": 273
+        },
+        {
+         "id": 282
+        },
+        {
+         "id": 341
+        },
+        {
+         "id": 368
+        },
+        {
+         "id": 374
+        },
+        {
+         "id": 382
+        }
+       ],
+       "parkingDetail": "Available onsite",
+       "accessibleSeatingDetail": "*To better accommodate your needs the box office has requested that special seating accommodations be solicited through their representatives. Please call 775 588-6611 during box office hours",
+       "upcomingEvents": {
+        "ticketmaster": 33,
+        "_total": 33,
+        "_filtered": 0
+       }
+      }
+     ],
+     "attractions": [
+      {
+       "name": "Get the Led Out",
+       "type": "attraction",
+       "id": "K8vZ917GEfV",
+       "test": false,
+       "url": "https://www.ticketmaster.com/get-the-led-out-tickets/artist/1029212",
+       "locale": "en-us",
+       "externalLinks": {
+        "youtube": [
+         {
+          "url": "https://www.youtube.com/user/GTLOROCKS"
+         }
+        ],
+        "twitter": [
+         {
+          "url": "https://twitter.com/GetTheLedOut"
+         }
+        ],
+        "facebook": [
+         {
+          "url": "https://www.facebook.com/GetTheLedOut"
+         }
+        ],
+        "instagram": [
+         {
+          "url": "https://www.instagram.com/gettheledout/"
+         }
+        ],
+        "musicbrainz": [
+         {
+          "id": "c3db8087-1148-4208-ba06-ba53f76d1ae5",
+          "url": "https://musicbrainz.org/artist/c3db8087-1148-4208-ba06-ba53f76d1ae5"
+         }
+        ],
+        "homepage": [
+         {
+          "url": "http://www.gtlorocks.com/"
+         }
+        ]
+       },
+       "classifications": [
+        {
+         "primary": true,
+         "segment": {
+          "id": "KZFzniwnSyZfZ7v7nJ",
+          "name": "Music"
+         },
+         "genre": {
+          "id": "KnvZfZ7vAe6",
+          "name": "Undefined"
+         },
+         "subGenre": {
+          "id": "KZazBEonSMnZfZ7v6JI",
+          "name": "Undefined"
+         },
+         "type": {
+          "id": "KZAyXgnZfZ7v7l1",
+          "name": "Group"
+         },
+         "subType": {
+          "id": "KZFzBErXgnZfZ7vAAI",
+          "name": "Tribute Band"
+         },
+         "family": false
+        }
+       ],
+       "upcomingEvents": {
+        "tmr": 15,
+        "ticketmaster": 19,
+        "_total": 34,
+        "_filtered": 0
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Get the Led Out\u00a0| Official Caesars Ticket + Hotel Packages",
+    "type": "event",
+    "id": "17C8v0G6GXhgsAN",
+    "test": false,
+    "url": "https://travel.ticketmaster.com/en-US/package-forward/123586239?_uid=01e06df2-8b31-4246-b25c-04d738f89509&utm_source=Caesars_TM&utm_medium=TM_ADP_GettheLedOut1006",
+    "locale": "en-us",
+    "distance": 39.77,
+    "units": "MILES",
+    "dates": {
+     "start": {
+      "localDate": "2026-10-06",
+      "localTime": "20:00:00",
+      "dateTime": "2026-10-07T03:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "timezone": "America/Los_Angeles",
+     "status": {
+      "code": "onsale"
+     },
+     "spanMultipleDays": false
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7nJ",
+       "name": "Music"
+      },
+      "genre": {
+       "id": "KnvZfZ7vAe6",
+       "name": "Undefined"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7v6JI",
+       "name": "Undefined"
+      },
+      "type": {
+       "id": "KZAyXgnZfZ7v7l1",
+       "name": "Group"
+      },
+      "subType": {
+       "id": "KZFzBErXgnZfZ7vAAI",
+       "name": "Tribute Band"
+      },
+      "family": false
+     }
+    ],
+    "ageRestrictions": {
+     "legalAgeEnforced": false
+    },
+    "ticketing": {
+     "safeTix": {
+      "enabled": false
+     },
+     "allInclusivePricing": {
+      "enabled": false
+     }
+    },
+    "nameOrigin": "custom",
+    "ticketTextLines": {
+     "en-us": {
+      "line6": "   EVENT LISTING CHART    ",
+      "line5": "                          ",
+      "line4": "                          ",
+      "line3": "                          ",
+      "line2": "           NONE           ",
+      "line1": "                          "
+     }
+    },
+    "_embedded": {
+     "venues": [
+      {
+       "name": "South Shore Room at Harrah's Lake Tahoe",
+       "type": "venue",
+       "id": "KovZpZAJaJAA",
+       "test": false,
+       "url": "https://www.ticketmaster.com/south-shore-room-at-harrahs-lake-tickets-lake-tahoe/venue/467752",
+       "locale": "en-us",
+       "distance": 39.77,
+       "units": "MILES",
+       "postalCode": "89449",
+       "timezone": "America/Los_Angeles",
+       "city": {
+        "name": "Lake Tahoe"
+       },
+       "state": {
+        "name": "Nevada",
+        "stateCode": "NV"
+       },
+       "country": {
+        "name": "United States Of America",
+        "countryCode": "US"
+       },
+       "address": {
+        "line1": "15 Hwy 50"
+       },
+       "location": {
+        "longitude": "-119.93990290",
+        "latitude": "38.96240790"
+       },
+       "markets": [
+        {
+         "name": "N. California/N. Nevada",
+         "id": "41"
+        }
+       ],
+       "dmas": [
+        {
+         "id": 250
+        },
+        {
+         "id": 273
+        },
+        {
+         "id": 282
+        },
+        {
+         "id": 341
+        },
+        {
+         "id": 368
+        },
+        {
+         "id": 374
+        },
+        {
+         "id": 382
+        }
+       ],
+       "parkingDetail": "Available onsite",
+       "accessibleSeatingDetail": "*To better accommodate your needs the box office has requested that special seating accommodations be solicited through their representatives. Please call 775 588-6611 during box office hours",
+       "upcomingEvents": {
+        "ticketmaster": 33,
+        "_total": 33,
+        "_filtered": 0
+       }
+      }
+     ],
+     "attractions": [
+      {
+       "name": "Get the Led Out",
+       "type": "attraction",
+       "id": "K8vZ917GEfV",
+       "test": false,
+       "url": "https://www.ticketmaster.com/get-the-led-out-tickets/artist/1029212",
+       "locale": "en-us",
+       "externalLinks": {
+        "youtube": [
+         {
+          "url": "https://www.youtube.com/user/GTLOROCKS"
+         }
+        ],
+        "twitter": [
+         {
+          "url": "https://twitter.com/GetTheLedOut"
+         }
+        ],
+        "facebook": [
+         {
+          "url": "https://www.facebook.com/GetTheLedOut"
+         }
+        ],
+        "instagram": [
+         {
+          "url": "https://www.instagram.com/gettheledout/"
+         }
+        ],
+        "musicbrainz": [
+         {
+          "id": "c3db8087-1148-4208-ba06-ba53f76d1ae5",
+          "url": "https://musicbrainz.org/artist/c3db8087-1148-4208-ba06-ba53f76d1ae5"
+         }
+        ],
+        "homepage": [
+         {
+          "url": "http://www.gtlorocks.com/"
+         }
+        ]
+       },
+       "classifications": [
+        {
+         "primary": true,
+         "segment": {
+          "id": "KZFzniwnSyZfZ7v7nJ",
+          "name": "Music"
+         },
+         "genre": {
+          "id": "KnvZfZ7vAe6",
+          "name": "Undefined"
+         },
+         "subGenre": {
+          "id": "KZazBEonSMnZfZ7v6JI",
+          "name": "Undefined"
+         },
+         "type": {
+          "id": "KZAyXgnZfZ7v7l1",
+          "name": "Group"
+         },
+         "subType": {
+          "id": "KZFzBErXgnZfZ7vAAI",
+          "name": "Tribute Band"
+         },
+         "family": false
+        }
+       ],
+       "upcomingEvents": {
+        "tmr": 15,
+        "ticketmaster": 19,
+        "_total": 34,
+        "_filtered": 0
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "The Rasmus",
+    "type": "event",
+    "id": "Z7r9jZ1A7J7f4",
+    "test": false,
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J7f4",
+    "locale": "en-us",
+    "distance": 0.24,
+    "units": "MILES",
+    "dates": {
+     "start": {
+      "localDate": "2026-10-07",
+      "localTime": "19:30:00",
+      "dateTime": "2026-10-08T02:30:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "status": {
+      "code": "onsale"
+     },
+     "spanMultipleDays": false
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7nJ",
+       "name": "Music"
+      },
+      "genre": {
+       "id": "KnvZfZ7vAvl",
+       "name": "Other"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7vk1I",
+       "name": "Other"
+      },
+      "family": false
+     }
+    ],
+    "ticketing": {
+     "allInclusivePricing": {
+      "enabled": true
+     }
+    },
+    "nameOrigin": "custom",
+    "_embedded": {
+     "venues": [
+      {
+       "name": "Cargo",
+       "type": "venue",
+       "id": "Z7r9jZaetz",
+       "test": false,
+       "locale": "en-us",
+       "distance": 0.24,
+       "units": "MILES",
+       "postalCode": "89501",
+       "timezone": "America/Los_Angeles",
+       "city": {
+        "name": "Reno"
+       },
+       "state": {
+        "name": "Nevada",
+        "stateCode": "NV"
+       },
+       "country": {
+        "name": "United States Of America",
+        "countryCode": "US"
+       },
+       "address": {
+        "line1": "255 North Virginia Street"
+       },
+       "location": {
+        "longitude": "-119.812401000",
+        "latitude": "39.526299000"
+       },
+       "dmas": [
+        {
+         "id": 368
+        }
+       ],
+       "upcomingEvents": {
+        "tmr": 10,
+        "_total": 10,
+        "_filtered": 0
+       }
+      }
+     ],
+     "attractions": [
+      {
+       "name": "The Rasmus",
+       "type": "attraction",
+       "id": "K8vZ917G2Sf",
+       "test": false,
+       "url": "https://www.ticketmaster.com/the-rasmus-tickets/artist/941617",
+       "locale": "en-us",
+       "externalLinks": {
+        "youtube": [
+         {
+          "url": "https://www.youtube.com/channel/UCDhEg3ByjFIju7bD4jhrctw"
+         }
+        ],
+        "itunes": [
+         {
+          "url": "https://music.apple.com/us/artist/the-rasmus/6929309"
+         }
+        ],
+        "lastfm": [
+         {
+          "url": "http://www.last.fm/music/The+Rasmus"
+         }
+        ],
+        "spotify": [
+         {
+          "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
+         }
+        ],
+        "facebook": [
+         {
+          "url": "https://www.facebook.com/therasmusofficial/"
+         }
+        ],
+        "wiki": [
+         {
+          "url": "https://en.wikipedia.org/wiki/The_Rasmus"
+         }
+        ],
+        "instagram": [
+         {
+          "url": "https://www.instagram.com/therasmusofficial/"
+         }
+        ],
+        "musicbrainz": [
+         {
+          "id": "012e3432-71d3-4317-9ce5-b60cb6cdc38f",
+          "url": "https://musicbrainz.org/artist/012e3432-71d3-4317-9ce5-b60cb6cdc38f"
+         }
+        ],
+        "homepage": [
+         {
+          "url": "http://therasmus.com/"
+         }
+        ]
+       },
+       "classifications": [
+        {
+         "primary": true,
+         "segment": {
+          "id": "KZFzniwnSyZfZ7v7nJ",
+          "name": "Music"
+         },
+         "genre": {
+          "id": "KnvZfZ7vAeA",
+          "name": "Rock"
+         },
+         "subGenre": {
+          "id": "KZazBEonSMnZfZ7v6F1",
+          "name": "Pop"
+         },
+         "type": {
+          "id": "KZAyXgnZfZ7v7nI",
+          "name": "Undefined"
+         },
+         "subType": {
+          "id": "KZFzBErXgnZfZ7v7lJ",
+          "name": "Undefined"
+         },
+         "family": false
+        }
+       ],
+       "upcomingEvents": {
+        "mfx-cz": 1,
+        "universe": 6,
+        "tmr": 1,
+        "ticketmaster": 6,
+        "ticketweb": 1,
+        "trium": 3,
+        "mfx-pl": 4,
+        "crowder": 1,
+        "_total": 23,
+        "_filtered": 0
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "The Rasmus, Saint Agnes, Death Valley Dreams",
+    "type": "event",
+    "id": "rZ7HnEZ1AfaZO0",
+    "test": false,
+    "url": "https://www.ticketweb.com/event/the-rasmus-saint-agnes-death-the-alpine-tickets/14240824",
+    "locale": "en-us",
+    "distance": 0.27,
+    "units": "MILES",
+    "dates": {
+     "access": {
+      "startDateTime": "2026-10-08T01:30:00Z",
+      "startApproximate": false,
+      "endApproximate": false
+     },
+     "start": {
+      "localDate": "2026-10-07",
+      "localTime": "19:30:00",
+      "dateTime": "2026-10-08T02:30:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "end": {
+      "approximate": false,
+      "noSpecificTime": false
+     },
+     "timezone": "America/Los_Angeles",
+     "status": {
+      "code": "onsale"
+     },
+     "spanMultipleDays": false
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7nJ",
+       "name": "Music"
+      },
+      "genre": {
+       "id": "KnvZfZ7vAeA",
+       "name": "Rock"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7v6da",
+       "name": "Rock"
+      },
+      "type": {
+       "id": "KZAyXgnZfZ7v7nI",
+       "name": "Undefined"
+      },
+      "subType": {
+       "id": "KZFzBErXgnZfZ7v7lJ",
+       "name": "Undefined"
+      },
+      "family": false
+     },
+     {
+      "primary": false,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7nJ",
+       "name": "Music"
+      },
+      "genre": {
+       "id": "KnvZfZ7vAeA",
+       "name": "Rock"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7v6k6",
+       "name": "Garage Rock"
+      },
+      "type": {
+       "id": "KZAyXgnZfZ7v7nI",
+       "name": "Undefined"
+      },
+      "subType": {
+       "id": "KZFzBErXgnZfZ7v7lJ",
+       "name": "Undefined"
+      },
+      "family": false
+     },
+     {
+      "primary": false,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7nJ",
+       "name": "Music"
+      },
+      "genre": {
+       "id": "KnvZfZ7vAvv",
+       "name": "Alternative"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7vAde",
+       "name": "Indie Rock"
+      },
+      "type": {
+       "id": "KZAyXgnZfZ7v7nI",
+       "name": "Undefined"
+      },
+      "subType": {
+       "id": "KZFzBErXgnZfZ7v7lJ",
+       "name": "Undefined"
+      },
+      "family": false
+     }
+    ],
+    "priceRanges": [
+     {
+      "type": "standard",
+      "currency": "USD",
+      "min": 38.43,
+      "max": 38.43
+     }
+    ],
+    "nameOrigin": "custom",
+    "_embedded": {
+     "venues": [
+      {
+       "name": "The Alpine",
+       "type": "venue",
+       "id": "rZ7HnEZ17f6fA",
+       "test": false,
+       "url": "https://www.ticketweb.com/venue/the-alpine-reno-nv/507505",
+       "locale": "en-us",
+       "distance": 0.27,
+       "units": "MILES",
+       "postalCode": "89512",
+       "timezone": "America/Los_Angeles",
+       "city": {
+        "name": "Reno"
+       },
+       "state": {
+        "name": "Nevada",
+        "stateCode": "NV"
+       },
+       "country": {
+        "name": "United States Of America",
+        "countryCode": "US"
+       },
+       "address": {
+        "line1": "324 E 4th St"
+       },
+       "location": {
+        "longitude": "-119.809043",
+        "latitude": "39.5309066"
+       },
+       "upcomingEvents": {
+        "tmr": 2,
+        "ticketweb": 21,
+        "_total": 23,
+        "_filtered": 0
+       }
+      }
+     ],
+     "attractions": [
+      {
+       "name": "The Rasmus",
+       "type": "attraction",
+       "id": "K8vZ917G2Sf",
+       "test": false,
+       "url": "https://www.ticketmaster.com/the-rasmus-tickets/artist/941617",
+       "locale": "en-us",
+       "externalLinks": {
+        "youtube": [
+         {
+          "url": "https://www.youtube.com/channel/UCDhEg3ByjFIju7bD4jhrctw"
+         }
+        ],
+        "itunes": [
+         {
+          "url": "https://music.apple.com/us/artist/the-rasmus/6929309"
+         }
+        ],
+        "lastfm": [
+         {
+          "url": "http://www.last.fm/music/The+Rasmus"
+         }
+        ],
+        "spotify": [
+         {
+          "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
+         }
+        ],
+        "facebook": [
+         {
+          "url": "https://www.facebook.com/therasmusofficial/"
+         }
+        ],
+        "wiki": [
+         {
+          "url": "https://en.wikipedia.org/wiki/The_Rasmus"
+         }
+        ],
+        "instagram": [
+         {
+          "url": "https://www.instagram.com/therasmusofficial/"
+         }
+        ],
+        "musicbrainz": [
+         {
+          "id": "012e3432-71d3-4317-9ce5-b60cb6cdc38f",
+          "url": "https://musicbrainz.org/artist/012e3432-71d3-4317-9ce5-b60cb6cdc38f"
+         }
+        ],
+        "homepage": [
+         {
+          "url": "http://therasmus.com/"
+         }
+        ]
+       },
+       "classifications": [
+        {
+         "primary": true,
+         "segment": {
+          "id": "KZFzniwnSyZfZ7v7nJ",
+          "name": "Music"
+         },
+         "genre": {
+          "id": "KnvZfZ7vAeA",
+          "name": "Rock"
+         },
+         "subGenre": {
+          "id": "KZazBEonSMnZfZ7v6F1",
+          "name": "Pop"
+         },
+         "type": {
+          "id": "KZAyXgnZfZ7v7nI",
+          "name": "Undefined"
+         },
+         "subType": {
+          "id": "KZFzBErXgnZfZ7v7lJ",
+          "name": "Undefined"
+         },
+         "family": false
+        }
+       ],
+       "upcomingEvents": {
+        "mfx-cz": 1,
+        "universe": 6,
+        "tmr": 1,
+        "ticketmaster": 6,
+        "ticketweb": 1,
+        "trium": 3,
+        "mfx-pl": 4,
+        "crowder": 1,
+        "_total": 23,
+        "_filtered": 0
+       }
+      },
+      {
+       "name": "Saint Agnes",
+       "type": "attraction",
+       "id": "K8vZ9173ui7",
+       "test": false,
+       "url": "https://www.ticketmaster.com/saint-agnes-tickets/artist/1966686",
+       "locale": "en-us",
+       "externalLinks": {
+        "youtube": [
+         {
+          "url": "https://www.youtube.com/channel/UCZVjtrzewE0VgjsG9PONcEQ"
+         }
+        ],
+        "twitter": [
+         {
+          "url": "https://twitter.com/wearesaintagnes"
+         }
+        ],
+        "itunes": [
+         {
+          "url": "https://music.apple.com/us/artist/saint-agnes/874839733"
+         }
+        ],
+        "spotify": [
+         {
+          "url": "https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL"
+         }
+        ],
+        "facebook": [
+         {
+          "url": "https://www.facebook.com/wearesaintagnes"
+         }
+        ],
+        "instagram": [
+         {
+          "url": "https://www.instagram.com/wearesaintagnes/"
+         }
+        ],
+        "musicbrainz": [
+         {
+          "id": "26d09032-2c33-4656-92bc-1e855f3e7d89",
+          "url": "https://musicbrainz.org/artist/26d09032-2c33-4656-92bc-1e855f3e7d89"
+         }
+        ],
+        "homepage": [
+         {
+          "url": "https://wearesaintagnes.com"
+         }
+        ]
+       },
+       "classifications": [
+        {
+         "primary": true,
+         "segment": {
+          "id": "KZFzniwnSyZfZ7v7nJ",
+          "name": "Music"
+         },
+         "genre": {
+          "id": "KnvZfZ7vAeA",
+          "name": "Rock"
+         },
+         "subGenre": {
+          "id": "KZazBEonSMnZfZ7v6dt",
+          "name": "Alternative Rock"
+         },
+         "type": {
+          "id": "KZAyXgnZfZ7v7nI",
+          "name": "Undefined"
+         },
+         "subType": {
+          "id": "KZFzBErXgnZfZ7v7lJ",
+          "name": "Undefined"
+         },
+         "family": false
+        }
+       ],
+       "upcomingEvents": {
+        "ticketmaster": 5,
+        "ticketweb": 1,
+        "_total": 6,
+        "_filtered": 0
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Alex Ramon \"Magic\"",
+    "type": "event",
+    "id": "17C8v0G61N9X9vT",
+    "test": false,
+    "url": "https://www.ticketmaster.com/alex-ramon-magic-lake-tahoe-nevada-10-07-2026/event/390064A8D7F9707F",
+    "locale": "en-us",
+    "distance": 39.77,
+    "units": "MILES",
+    "dates": {
+     "start": {
+      "localDate": "2026-10-07",
+      "localTime": "19:30:00",
+      "dateTime": "2026-10-08T02:30:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "timezone": "America/Los_Angeles",
+     "status": {
+      "code": "onsale"
+     },
+     "spanMultipleDays": false
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7na",
+       "name": "Arts & Theatre"
+      },
+      "genre": {
+       "id": "KnvZfZ7v7lv",
+       "name": "Magic & Illusion"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7v7l7",
+       "name": "Magic"
+      },
+      "type": {
+       "id": "KZAyXgnZfZ7v7nI",
+       "name": "Undefined"
+      },
+      "subType": {
+       "id": "KZFzBErXgnZfZ7v7lJ",
+       "name": "Undefined"
+      },
+      "family": false
+     }
+    ],
+    "ageRestrictions": {
+     "legalAgeEnforced": false
+    },
+    "ticketing": {
+     "safeTix": {
+      "enabled": false
+     },
+     "allInclusivePricing": {
+      "enabled": true
+     }
+    },
+    "nameOrigin": "custom",
+    "ticketTextLines": {
+     "en-us": {
+      "line6": " WED OCT 07 2026 7:30 PM  ",
+      "line5": "         ALL AGES         ",
+      "line4": "     SOUTH SHORE ROOM     ",
+      "line3": "          MAGIC           ",
+      "line2": "        ALEX RAMON        ",
+      "line1": "    HARRAH'S PRESENTS     "
+     }
+    },
+    "_embedded": {
+     "venues": [
+      {
+       "name": "South Shore Room at Harrah's Lake Tahoe",
+       "type": "venue",
+       "id": "KovZpZAJaJAA",
+       "test": false,
+       "url": "https://www.ticketmaster.com/south-shore-room-at-harrahs-lake-tickets-lake-tahoe/venue/467752",
+       "locale": "en-us",
+       "distance": 39.77,
+       "units": "MILES",
+       "postalCode": "89449",
+       "timezone": "America/Los_Angeles",
+       "city": {
+        "name": "Lake Tahoe"
+       },
+       "state": {
+        "name": "Nevada",
+        "stateCode": "NV"
+       },
+       "country": {
+        "name": "United States Of America",
+        "countryCode": "US"
+       },
+       "address": {
+        "line1": "15 Hwy 50"
+       },
+       "location": {
+        "longitude": "-119.93990290",
+        "latitude": "38.96240790"
+       },
+       "markets": [
+        {
+         "name": "N. California/N. Nevada",
+         "id": "41"
+        }
+       ],
+       "dmas": [
+        {
+         "id": 250
+        },
+        {
+         "id": 273
+        },
+        {
+         "id": 282
+        },
+        {
+         "id": 341
+        },
+        {
+         "id": 368
+        },
+        {
+         "id": 374
+        },
+        {
+         "id": 382
+        }
+       ],
+       "parkingDetail": "Available onsite",
+       "accessibleSeatingDetail": "*To better accommodate your needs the box office has requested that special seating accommodations be solicited through their representatives. Please call 775 588-6611 during box office hours",
+       "upcomingEvents": {
+        "ticketmaster": 33,
+        "_total": 33,
+        "_filtered": 0
+       }
+      }
+     ],
+     "attractions": [
+      {
+       "name": "Alex Ramon",
+       "type": "attraction",
+       "id": "K8vZ917pZ40",
+       "test": false,
+       "url": "https://www.ticketmaster.com/alex-ramon-tickets/artist/2216508",
+       "locale": "en-us",
+       "classifications": [
+        {
+         "primary": true,
+         "segment": {
+          "id": "KZFzniwnSyZfZ7v7na",
+          "name": "Arts & Theatre"
+         },
+         "genre": {
+          "id": "KnvZfZ7v7lv",
+          "name": "Magic & Illusion"
+         },
+         "subGenre": {
+          "id": "KZazBEonSMnZfZ7v7l7",
+          "name": "Magic"
+         },
+         "type": {
+          "id": "KZAyXgnZfZ7v7la",
+          "name": "Individual"
+         },
+         "subType": {
+          "id": "KZFzBErXgnZfZ7vAdA",
+          "name": "Magician"
+         },
+         "family": false
+        }
+       ],
+       "upcomingEvents": {
+        "ticketmaster": 9,
+        "_total": 9,
+        "_filtered": 0
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "The Used",
+    "type": "event",
+    "id": "1A9Zkf4Gkezh6wL",
+    "test": false,
+    "url": "https://www.ticketmaster.com/the-used-reno-nevada-10-07-2026/event/17006515B86C7C9F",
+    "locale": "en-us",
+    "distance": 1.8,
+    "units": "MILES",
+    "dates": {
+     "start": {
+      "localDate": "2026-10-07",
+      "localTime": "20:00:00",
+      "dateTime": "2026-10-08T03:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "timezone": "America/Los_Angeles",
+     "status": {
+      "code": "onsale"
+     },
+     "spanMultipleDays": false
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7nJ",
+       "name": "Music"
+      },
+      "genre": {
+       "id": "KnvZfZ7vAeA",
+       "name": "Rock"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7v6dt",
+       "name": "Alternative Rock"
+      },
+      "type": {
+       "id": "KZAyXgnZfZ7v7nI",
+       "name": "Undefined"
+      },
+      "subType": {
+       "id": "KZFzBErXgnZfZ7v7lJ",
+       "name": "Undefined"
+      },
+      "family": false
+     }
+    ],
+    "ageRestrictions": {
+     "legalAgeEnforced": false
+    },
+    "doorsTimes": {
+     "localDate": "2026-10-07",
+     "localTime": "19:00:00",
+     "dateTime": "2026-10-08T02:00:00Z"
+    },
+    "ticketing": {
+     "safeTix": {
+      "enabled": true
+     },
+     "allInclusivePricing": {
+      "enabled": true
+     }
+    },
+    "nameOrigin": "primaryAttraction",
+    "ticketTextLines": {
+     "en-us": {
+      "line6": "  WED OCT 7 2026 8:00 PM  ",
+      "line5": "NONREFUNDABLE/PLUS 9% LET ",
+      "line4": "      GRAND THEATRE       ",
+      "line3": "       THEUSED.COM        ",
+      "line2": "         THE USED         ",
+      "line1": "  GRAND SIERRA PRESENTS   "
+     }
+    },
+    "linkMoreInfo": {
+     "descriptions": {
+      "en-nz": "Venue Policies",
+      "en-ca": "Venue Policies",
+      "en-us": "Venue Policies",
+      "pt-br": "Venue Policies",
+      "en-au": "Venue Policies",
+      "es-us": "Venue Policies",
+      "es-br": "Venue Policies",
+      "en-mx": "Venue Policies",
+      "es-mx": "Venue Policies",
+      "fr-ca": "Venue Policies"
+     },
+     "url": "https://www.grandsierraresort.com/entertainment/venue-policies"
+    },
+    "_embedded": {
+     "venues": [
+      {
+       "name": "Grand Sierra Resort and Casino",
+       "type": "venue",
+       "id": "KovZpa30Ve",
+       "test": false,
+       "url": "https://www.ticketmaster.com/grand-sierra-resort-and-casino-tickets-reno/venue/189217",
+       "locale": "en-us",
+       "distance": 1.8,
+       "units": "MILES",
+       "postalCode": "89595",
+       "timezone": "America/Los_Angeles",
+       "city": {
+        "name": "Reno"
+       },
+       "state": {
+        "name": "Nevada",
+        "stateCode": "NV"
+       },
+       "country": {
+        "name": "United States Of America",
+        "countryCode": "US"
+       },
+       "address": {
+        "line1": "2500 East Second Street"
+       },
+       "location": {
+        "longitude": "-119.78101700",
+        "latitude": "39.52331000"
+       },
+       "markets": [
+        {
+         "name": "N. California/N. Nevada",
+         "id": "41"
+        }
+       ],
+       "dmas": [
+        {
+         "id": 250
+        },
+        {
+         "id": 273
+        },
+        {
+         "id": 282
+        },
+        {
+         "id": 341
+        },
+        {
+         "id": 368
+        },
+        {
+         "id": 374
+        },
+        {
+         "id": 382
+        }
+       ],
+       "social": {
+        "twitter": {
+         "handle": "@grandsierra"
+        }
+       },
+       "parkingDetail": "There is plenty of free lot parking on site.",
+       "accessibleSeatingDetail": "Wheelchair and limited mobility seating is available.",
+       "upcomingEvents": {
+        "ticketmaster": 40,
+        "_total": 40,
+        "_filtered": 0
+       }
+      }
+     ],
+     "attractions": [
+      {
+       "name": "The Used",
+       "type": "attraction",
+       "id": "K8vZ91753o0",
+       "test": false,
+       "url": "https://www.ticketmaster.com/the-used-tickets/artist/849503",
+       "locale": "en-us",
+       "externalLinks": {
+        "youtube": [
+         {
+          "url": "https://www.youtube.com/user/THEUSEDCHANNEL"
+         }
+        ],
+        "twitter": [
+         {
+          "url": "https://twitter.com/wearetheused"
+         }
+        ],
+        "itunes": [
+         {
+          "url": "https://itunes.apple.com/us/artist/id799141"
+         }
+        ],
+        "lastfm": [
+         {
+          "url": "http://www.last.fm/music/The+Used"
+         }
+        ],
+        "wiki": [
+         {
+          "url": "https://en.wikipedia.org/wiki/The_Used"
+         }
+        ],
+        "facebook": [
+         {
+          "url": "https://www.facebook.com/TheUsed"
+         }
+        ],
+        "spotify": [
+         {
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+         }
+        ],
+        "musicbrainz": [
+         {
+          "id": "8262d8e4-9137-4bb3-a787-3caabbbc13e9",
+          "url": "https://musicbrainz.org/artist/8262d8e4-9137-4bb3-a787-3caabbbc13e9"
+         }
+        ],
+        "instagram": [
+         {
+          "url": "https://instagram.com/theused"
+         }
+        ],
+        "homepage": [
+         {
+          "url": "http://theused.net/"
+         }
+        ]
+       },
+       "classifications": [
+        {
+         "primary": true,
+         "segment": {
+          "id": "KZFzniwnSyZfZ7v7nJ",
+          "name": "Music"
+         },
+         "genre": {
+          "id": "KnvZfZ7vAeA",
+          "name": "Rock"
+         },
+         "subGenre": {
+          "id": "KZazBEonSMnZfZ7v6dt",
+          "name": "Alternative Rock"
+         },
+         "type": {
+          "id": "KZAyXgnZfZ7v7nI",
+          "name": "Undefined"
+         },
+         "subType": {
+          "id": "KZFzBErXgnZfZ7v7lJ",
+          "name": "Undefined"
+         },
+         "family": false
+        }
+       ],
+       "upcomingEvents": {
+        "universe": 2,
+        "tmr": 2,
+        "ticketmaster": 5,
+        "ticketweb": 1,
+        "_total": 10,
+        "_filtered": 0
+       }
+      },
+      {
+       "name": "Modern Color",
+       "type": "attraction",
+       "id": "K8vZ917bKvV",
+       "test": false,
+       "url": "https://www.ticketmaster.com/modern-color-tickets/artist/2666451",
+       "locale": "en-us",
+       "externalLinks": {
+        "musicbrainz": [
+         {
+          "id": "3436fc1e-eccb-4ed2-bd09-b21956e5b3e3",
+          "url": "https://musicbrainz.org/artist/3436fc1e-eccb-4ed2-bd09-b21956e5b3e3"
+         }
+        ]
+       },
+       "classifications": [
+        {
+         "primary": true,
+         "segment": {
+          "id": "KZFzniwnSyZfZ7v7nJ",
+          "name": "Music"
+         },
+         "genre": {
+          "id": "KnvZfZ7vAvv",
+          "name": "Alternative"
+         },
+         "subGenre": {
+          "id": "KZazBEonSMnZfZ7vAvn",
+          "name": "Alternative Rock"
+         },
+         "type": {
+          "id": "KZAyXgnZfZ7v7l1",
+          "name": "Group"
+         },
+         "subType": {
+          "id": "KZFzBErXgnZfZ7vA71",
+          "name": "Band"
+         },
+         "family": false
+        }
+       ],
+       "upcomingEvents": {
+        "mfx-nl": 1,
+        "ticketmaster": 3,
+        "ticketweb": 1,
+        "_total": 5,
+        "_filtered": 0
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Laugh Factory",
+    "type": "event",
+    "id": "1Ad0Z_FGkBI2eQE",
+    "test": false,
+    "url": "https://www.ticketmaster.com/laugh-factory-reno-nevada-10-08-2026/event/3900648EA83C26A7",
+    "locale": "en-us",
+    "distance": 0.11,
+    "units": "MILES",
+    "dates": {
+     "start": {
+      "localDate": "2026-10-08",
+      "localTime": "19:30:00",
+      "dateTime": "2026-10-09T02:30:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "timezone": "America/Los_Angeles",
+     "status": {
+      "code": "onsale"
+     },
+     "spanMultipleDays": false
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7na",
+       "name": "Arts & Theatre"
+      },
+      "genre": {
+       "id": "KnvZfZ7vAe1",
+       "name": "Comedy"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7vF17",
+       "name": "Comedy"
+      },
+      "type": {
+       "id": "KZAyXgnZfZ7v7nI",
+       "name": "Undefined"
+      },
+      "subType": {
+       "id": "KZFzBErXgnZfZ7v7lJ",
+       "name": "Undefined"
+      },
+      "family": false
+     }
+    ],
+    "ageRestrictions": {
+     "legalAgeEnforced": false
+    },
+    "ticketing": {
+     "safeTix": {
+      "enabled": true
+     },
+     "allInclusivePricing": {
+      "enabled": true
+     }
+    },
+    "nameOrigin": "custom",
+    "ticketTextLines": {
+     "en-us": {
+      "line6": " THU OCT 08 2026 7:30 PM  ",
+      "line5": "   MUST BE 18 OR OLDER    ",
+      "line4": "   SILVER LEGACY CASINO   ",
+      "line3": "          ******          ",
+      "line2": "      LAUGH FACTORY       ",
+      "line1": "          ******          "
+     }
+    },
+    "_embedded": {
+     "venues": [
+      {
+       "name": "Laugh Factory at the Silver Legacy Casino",
+       "type": "venue",
+       "id": "KovZ917AP-J",
+       "test": false,
+       "url": "https://www.ticketmaster.com/laugh-factory-at-the-silver-legacy-tickets-reno/venue/467963",
+       "locale": "en-us",
+       "distance": 0.11,
+       "units": "MILES",
+       "postalCode": "89501",
+       "timezone": "America/Los_Angeles",
+       "city": {
+        "name": "Reno"
+       },
+       "state": {
+        "name": "Nevada",
+        "stateCode": "NV"
+       },
+       "country": {
+        "name": "United States Of America",
+        "countryCode": "US"
+       },
+       "address": {
+        "line1": "407 N Virginia St"
+       },
+       "location": {
+        "longitude": "-119.81531385",
+        "latitude": "39.53069210"
+       },
+       "markets": [
+        {
+         "name": "N. California/N. Nevada",
+         "id": "41"
+        }
+       ],
+       "dmas": [
+        {
+         "id": 250
+        },
+        {
+         "id": 273
+        },
+        {
+         "id": 282
+        },
+        {
+         "id": 341
+        },
+        {
+         "id": 368
+        },
+        {
+         "id": 374
+        },
+        {
+         "id": 382
+        }
+       ],
+       "upcomingEvents": {
+        "ticketmaster": 76,
+        "_total": 76,
+        "_filtered": 0
+       }
+      }
+     ],
+     "attractions": [
+      {
+       "name": "Laugh Factory @ Silver Legacy",
+       "type": "attraction",
+       "id": "K8vZ917_KN7",
+       "test": false,
+       "url": "https://www.ticketmaster.com/laugh-factory-silver-legacy-tickets/artist/2779534",
+       "locale": "en-us",
+       "classifications": [
+        {
+         "primary": true,
+         "segment": {
+          "id": "KZFzniwnSyZfZ7v7na",
+          "name": "Arts & Theatre"
+         },
+         "genre": {
+          "id": "KnvZfZ7vAe1",
+          "name": "Comedy"
+         },
+         "subGenre": {
+          "id": "KZazBEonSMnZfZ7vF17",
+          "name": "Comedy"
+         },
+         "type": {
+          "id": "KZAyXgnZfZ7v7nI",
+          "name": "Undefined"
+         },
+         "subType": {
+          "id": "KZFzBErXgnZfZ7v7lJ",
+          "name": "Undefined"
+         },
+         "family": false
+        }
+       ],
+       "upcomingEvents": {
+        "ticketmaster": 76,
+        "_total": 76,
+        "_filtered": 0
+       }
+      },
+      {
+       "name": "Steve McGrew",
+       "type": "attraction",
+       "id": "K8vZ91726hf",
+       "test": false,
+       "url": "https://www.ticketmaster.com/steve-mcgrew-tickets/artist/796300",
+       "locale": "en-us",
+       "classifications": [
+        {
+         "primary": true,
+         "segment": {
+          "id": "KZFzniwnSyZfZ7v7na",
+          "name": "Arts & Theatre"
+         },
+         "genre": {
+          "id": "KnvZfZ7vAe1",
+          "name": "Comedy"
+         },
+         "subGenre": {
+          "id": "KZazBEonSMnZfZ7vF17",
+          "name": "Comedy"
+         },
+         "type": {
+          "id": "KZAyXgnZfZ7v7nI",
+          "name": "Undefined"
+         },
+         "subType": {
+          "id": "KZFzBErXgnZfZ7v7lJ",
+          "name": "Undefined"
+         },
+         "family": false
+        }
+       ],
+       "upcomingEvents": {
+        "ticketmaster": 7,
+        "_total": 7,
+        "_filtered": 0
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Alex Ramon \"Magic\"",
+    "type": "event",
+    "id": "17C8v0G61N9TEee",
+    "test": false,
+    "url": "https://www.ticketmaster.com/alex-ramon-magic-lake-tahoe-nevada-10-08-2026/event/390064A8D7FE7082",
+    "locale": "en-us",
+    "distance": 39.77,
+    "units": "MILES",
+    "dates": {
+     "start": {
+      "localDate": "2026-10-08",
+      "localTime": "19:30:00",
+      "dateTime": "2026-10-09T02:30:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "timezone": "America/Los_Angeles",
+     "status": {
+      "code": "onsale"
+     },
+     "spanMultipleDays": false
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7na",
+       "name": "Arts & Theatre"
+      },
+      "genre": {
+       "id": "KnvZfZ7v7lv",
+       "name": "Magic & Illusion"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7v7l7",
+       "name": "Magic"
+      },
+      "type": {
+       "id": "KZAyXgnZfZ7v7nI",
+       "name": "Undefined"
+      },
+      "subType": {
+       "id": "KZFzBErXgnZfZ7v7lJ",
+       "name": "Undefined"
+      },
+      "family": false
+     }
+    ],
+    "ageRestrictions": {
+     "legalAgeEnforced": false
+    },
+    "ticketing": {
+     "safeTix": {
+      "enabled": false
+     },
+     "allInclusivePricing": {
+      "enabled": true
+     }
+    },
+    "nameOrigin": "custom",
+    "ticketTextLines": {
+     "en-us": {
+      "line6": " THU OCT 08 2026 7:30 PM  ",
+      "line5": "         ALL AGES         ",
+      "line4": "     SOUTH SHORE ROOM     ",
+      "line3": "          MAGIC           ",
+      "line2": "        ALEX RAMON        ",
+      "line1": "    HARRAH'S PRESENTS     "
+     }
+    },
+    "_embedded": {
+     "venues": [
+      {
+       "name": "South Shore Room at Harrah's Lake Tahoe",
+       "type": "venue",
+       "id": "KovZpZAJaJAA",
+       "test": false,
+       "url": "https://www.ticketmaster.com/south-shore-room-at-harrahs-lake-tickets-lake-tahoe/venue/467752",
+       "locale": "en-us",
+       "distance": 39.77,
+       "units": "MILES",
+       "postalCode": "89449",
+       "timezone": "America/Los_Angeles",
+       "city": {
+        "name": "Lake Tahoe"
+       },
+       "state": {
+        "name": "Nevada",
+        "stateCode": "NV"
+       },
+       "country": {
+        "name": "United States Of America",
+        "countryCode": "US"
+       },
+       "address": {
+        "line1": "15 Hwy 50"
+       },
+       "location": {
+        "longitude": "-119.93990290",
+        "latitude": "38.96240790"
+       },
+       "markets": [
+        {
+         "name": "N. California/N. Nevada",
+         "id": "41"
+        }
+       ],
+       "dmas": [
+        {
+         "id": 250
+        },
+        {
+         "id": 273
+        },
+        {
+         "id": 282
+        },
+        {
+         "id": 341
+        },
+        {
+         "id": 368
+        },
+        {
+         "id": 374
+        },
+        {
+         "id": 382
+        }
+       ],
+       "parkingDetail": "Available onsite",
+       "accessibleSeatingDetail": "*To better accommodate your needs the box office has requested that special seating accommodations be solicited through their representatives. Please call 775 588-6611 during box office hours",
+       "upcomingEvents": {
+        "ticketmaster": 33,
+        "_total": 33,
+        "_filtered": 0
+       }
+      }
+     ],
+     "attractions": [
+      {
+       "name": "Alex Ramon",
+       "type": "attraction",
+       "id": "K8vZ917pZ40",
+       "test": false,
+       "url": "https://www.ticketmaster.com/alex-ramon-tickets/artist/2216508",
+       "locale": "en-us",
+       "classifications": [
+        {
+         "primary": true,
+         "segment": {
+          "id": "KZFzniwnSyZfZ7v7na",
+          "name": "Arts & Theatre"
+         },
+         "genre": {
+          "id": "KnvZfZ7v7lv",
+          "name": "Magic & Illusion"
+         },
+         "subGenre": {
+          "id": "KZazBEonSMnZfZ7v7l7",
+          "name": "Magic"
+         },
+         "type": {
+          "id": "KZAyXgnZfZ7v7la",
+          "name": "Individual"
+         },
+         "subType": {
+          "id": "KZFzBErXgnZfZ7vAdA",
+          "name": "Magician"
+         },
+         "family": false
+        }
+       ],
+       "upcomingEvents": {
+        "ticketmaster": 9,
+        "_total": 9,
+        "_filtered": 0
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Laugh Factory",
+    "type": "event",
+    "id": "1Ad0Z_FGkBI83hu",
+    "test": false,
+    "url": "https://www.ticketmaster.com/laugh-factory-reno-nevada-10-09-2026/event/3900648EA84126CD",
+    "locale": "en-us",
+    "distance": 0.11,
+    "units": "MILES",
+    "dates": {
+     "start": {
+      "localDate": "2026-10-09",
+      "localTime": "19:30:00",
+      "dateTime": "2026-10-10T02:30:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "timezone": "America/Los_Angeles",
+     "status": {
+      "code": "onsale"
+     },
+     "spanMultipleDays": false
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7na",
+       "name": "Arts & Theatre"
+      },
+      "genre": {
+       "id": "KnvZfZ7vAe1",
+       "name": "Comedy"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7vF17",
+       "name": "Comedy"
+      },
+      "type": {
+       "id": "KZAyXgnZfZ7v7nI",
+       "name": "Undefined"
+      },
+      "subType": {
+       "id": "KZFzBErXgnZfZ7v7lJ",
+       "name": "Undefined"
+      },
+      "family": false
+     }
+    ],
+    "ageRestrictions": {
+     "legalAgeEnforced": false
+    },
+    "ticketing": {
+     "safeTix": {
+      "enabled": true
+     },
+     "allInclusivePricing": {
+      "enabled": true
+     }
+    },
+    "nameOrigin": "custom",
+    "ticketTextLines": {
+     "en-us": {
+      "line6": " FRI OCT 09 2026 7:30 PM  ",
+      "line5": "   MUST BE 18 OR OLDER    ",
+      "line4": "   SILVER LEGACY CASINO   ",
+      "line3": "          ******          ",
+      "line2": "      LAUGH FACTORY       ",
+      "line1": "          ******          "
+     }
+    },
+    "_embedded": {
+     "venues": [
+      {
+       "name": "Laugh Factory at the Silver Legacy Casino",
+       "type": "venue",
+       "id": "KovZ917AP-J",
+       "test": false,
+       "url": "https://www.ticketmaster.com/laugh-factory-at-the-silver-legacy-tickets-reno/venue/467963",
+       "locale": "en-us",
+       "distance": 0.11,
+       "units": "MILES",
+       "postalCode": "89501",
+       "timezone": "America/Los_Angeles",
+       "city": {
+        "name": "Reno"
+       },
+       "state": {
+        "name": "Nevada",
+        "stateCode": "NV"
+       },
+       "country": {
+        "name": "United States Of America",
+        "countryCode": "US"
+       },
+       "address": {
+        "line1": "407 N Virginia St"
+       },
+       "location": {
+        "longitude": "-119.81531385",
+        "latitude": "39.53069210"
+       },
+       "markets": [
+        {
+         "name": "N. California/N. Nevada",
+         "id": "41"
+        }
+       ],
+       "dmas": [
+        {
+         "id": 250
+        },
+        {
+         "id": 273
+        },
+        {
+         "id": 282
+        },
+        {
+         "id": 341
+        },
+        {
+         "id": 368
+        },
+        {
+         "id": 374
+        },
+        {
+         "id": 382
+        }
+       ],
+       "upcomingEvents": {
+        "ticketmaster": 76,
+        "_total": 76,
+        "_filtered": 0
+       }
+      }
+     ],
+     "attractions": [
+      {
+       "name": "Laugh Factory @ Silver Legacy",
+       "type": "attraction",
+       "id": "K8vZ917_KN7",
+       "test": false,
+       "url": "https://www.ticketmaster.com/laugh-factory-silver-legacy-tickets/artist/2779534",
+       "locale": "en-us",
+       "classifications": [
+        {
+         "primary": true,
+         "segment": {
+          "id": "KZFzniwnSyZfZ7v7na",
+          "name": "Arts & Theatre"
+         },
+         "genre": {
+          "id": "KnvZfZ7vAe1",
+          "name": "Comedy"
+         },
+         "subGenre": {
+          "id": "KZazBEonSMnZfZ7vF17",
+          "name": "Comedy"
+         },
+         "type": {
+          "id": "KZAyXgnZfZ7v7nI",
+          "name": "Undefined"
+         },
+         "subType": {
+          "id": "KZFzBErXgnZfZ7v7lJ",
+          "name": "Undefined"
+         },
+         "family": false
+        }
+       ],
+       "upcomingEvents": {
+        "ticketmaster": 76,
+        "_total": 76,
+        "_filtered": 0
+       }
+      },
+      {
+       "name": "Steve McGrew",
+       "type": "attraction",
+       "id": "K8vZ91726hf",
+       "test": false,
+       "url": "https://www.ticketmaster.com/steve-mcgrew-tickets/artist/796300",
+       "locale": "en-us",
+       "classifications": [
+        {
+         "primary": true,
+         "segment": {
+          "id": "KZFzniwnSyZfZ7v7na",
+          "name": "Arts & Theatre"
+         },
+         "genre": {
+          "id": "KnvZfZ7vAe1",
+          "name": "Comedy"
+         },
+         "subGenre": {
+          "id": "KZazBEonSMnZfZ7vF17",
+          "name": "Comedy"
+         },
+         "type": {
+          "id": "KZAyXgnZfZ7v7nI",
+          "name": "Undefined"
+         },
+         "subType": {
+          "id": "KZFzBErXgnZfZ7v7lJ",
+          "name": "Undefined"
+         },
+         "family": false
+        }
+       ],
+       "upcomingEvents": {
+        "ticketmaster": 7,
+        "_total": 7,
+        "_filtered": 0
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Beauty School Dropout, Olive Vox",
+    "type": "event",
+    "id": "rZ7HnEZ1A4ZNeK",
+    "test": false,
+    "url": "https://www.ticketweb.com/event/beauty-school-dropout-olive-vox-the-alpine-tickets/15023093",
+    "locale": "en-us",
+    "distance": 0.27,
+    "units": "MILES",
+    "dates": {
+     "access": {
+      "startDateTime": "2026-10-10T02:00:00Z",
+      "startApproximate": false,
+      "endApproximate": false
+     },
+     "start": {
+      "localDate": "2026-10-09",
+      "localTime": "19:30:00",
+      "dateTime": "2026-10-10T02:30:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "end": {
+      "approximate": false,
+      "noSpecificTime": false
+     },
+     "timezone": "America/Los_Angeles",
+     "status": {
+      "code": "onsale"
+     },
+     "spanMultipleDays": false
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7nJ",
+       "name": "Music"
+      },
+      "genre": {
+       "id": "KnvZfZ7vAeA",
+       "name": "Rock"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7v6FE",
+       "name": "Pop Punk"
+      },
+      "type": {
+       "id": "KZAyXgnZfZ7v7nI",
+       "name": "Undefined"
+      },
+      "subType": {
+       "id": "KZFzBErXgnZfZ7v7lJ",
+       "name": "Undefined"
+      },
+      "family": false
+     },
+     {
+      "primary": false,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7nJ",
+       "name": "Music"
+      },
+      "genre": {
+       "id": "KnvZfZ7vAvv",
+       "name": "Alternative"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7vAvn",
+       "name": "Alternative Rock"
+      },
+      "type": {
+       "id": "KZAyXgnZfZ7v7nI",
+       "name": "Undefined"
+      },
+      "subType": {
+       "id": "KZFzBErXgnZfZ7v7lJ",
+       "name": "Undefined"
+      },
+      "family": false
+     }
+    ],
+    "priceRanges": [
+     {
+      "type": "standard",
+      "currency": "USD",
+      "min": 31.25,
+      "max": 31.25
+     }
+    ],
+    "nameOrigin": "custom",
+    "_embedded": {
+     "venues": [
+      {
+       "name": "The Alpine",
+       "type": "venue",
+       "id": "rZ7HnEZ17f6fA",
+       "test": false,
+       "url": "https://www.ticketweb.com/venue/the-alpine-reno-nv/507505",
+       "locale": "en-us",
+       "distance": 0.27,
+       "units": "MILES",
+       "postalCode": "89512",
+       "timezone": "America/Los_Angeles",
+       "city": {
+        "name": "Reno"
+       },
+       "state": {
+        "name": "Nevada",
+        "stateCode": "NV"
+       },
+       "country": {
+        "name": "United States Of America",
+        "countryCode": "US"
+       },
+       "address": {
+        "line1": "324 E 4th St"
+       },
+       "location": {
+        "longitude": "-119.809043",
+        "latitude": "39.5309066"
+       },
+       "upcomingEvents": {
+        "tmr": 2,
+        "ticketweb": 21,
+        "_total": 23,
+        "_filtered": 0
+       }
+      }
+     ],
+     "attractions": [
+      {
+       "name": "Beauty School Dropout",
+       "type": "attraction",
+       "id": "K8vZ917uq60",
+       "test": false,
+       "url": "https://www.ticketmaster.com/beauty-school-dropout-tickets/artist/1514272",
+       "locale": "en-us",
+       "externalLinks": {
+        "youtube": [
+         {
+          "url": "https://www.youtube.com/@BeautySchoolDropout/"
+         }
+        ],
+        "twitter": [
+         {
+          "url": "https://twitter.com/bsd_wav"
+         }
+        ],
+        "itunes": [
+         {
+          "url": "https://music.apple.com/us/artist/beauty-school-dropout/1496319090"
+         }
+        ],
+        "spotify": [
+         {
+          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
+         }
+        ],
+        "facebook": [
+         {
+          "url": "https://www.facebook.com/officialbsd/"
+         }
+        ],
+        "instagram": [
+         {
+          "url": "https://www.instagram.com/bsd.wav/"
+         }
+        ],
+        "musicbrainz": [
+         {
+          "id": "20c5daf8-6cb4-4db9-84df-ecd8337bf9d7",
+          "url": "https://musicbrainz.org/artist/20c5daf8-6cb4-4db9-84df-ecd8337bf9d7"
+         }
+        ]
+       },
+       "classifications": [
+        {
+         "primary": true,
+         "segment": {
+          "id": "KZFzniwnSyZfZ7v7nJ",
+          "name": "Music"
+         },
+         "genre": {
+          "id": "KnvZfZ7vAeA",
+          "name": "Rock"
+         },
+         "subGenre": {
+          "id": "KZazBEonSMnZfZ7v6F1",
+          "name": "Pop"
+         },
+         "type": {
+          "id": "KZAyXgnZfZ7v7nI",
+          "name": "Undefined"
+         },
+         "subType": {
+          "id": "KZFzBErXgnZfZ7v7lJ",
+          "name": "Undefined"
+         },
+         "family": false
+        }
+       ],
+       "upcomingEvents": {
+        "tmr": 4,
+        "ticketmaster": 11,
+        "ticketweb": 1,
+        "_total": 16,
+        "_filtered": 0
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Bonnie Raitt: Live 2026 with Special Guest Jon Cleary",
+    "type": "event",
+    "id": "1AvjZ_AGkYmeUHc",
+    "test": false,
+    "url": "https://www.ticketmaster.com/bonnie-raitt-live-2026-with-special-reno-nevada-10-09-2026/event/1700645C2E0B6F2D",
+    "locale": "en-us",
+    "distance": 1.8,
+    "units": "MILES",
+    "dates": {
+     "start": {
+      "localDate": "2026-10-09",
+      "localTime": "19:30:00",
+      "dateTime": "2026-10-10T02:30:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "timezone": "America/Los_Angeles",
+     "status": {
+      "code": "onsale"
+     },
+     "spanMultipleDays": false
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7nJ",
+       "name": "Music"
+      },
+      "genre": {
+       "id": "KnvZfZ7vAeA",
+       "name": "Rock"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7v6F1",
+       "name": "Pop"
+      },
+      "type": {
+       "id": "KZAyXgnZfZ7v7nI",
+       "name": "Undefined"
+      },
+      "subType": {
+       "id": "KZFzBErXgnZfZ7v7lJ",
+       "name": "Undefined"
+      },
+      "family": false
+     }
+    ],
+    "ageRestrictions": {
+     "legalAgeEnforced": false
+    },
+    "ticketing": {
+     "safeTix": {
+      "enabled": true
+     },
+     "allInclusivePricing": {
+      "enabled": true
+     }
+    },
+    "nameOrigin": "custom",
+    "ticketTextLines": {
+     "en-us": {
+      "line6": " FRI OCT 09 2026 7:30 PM  ",
+      "line5": "GRAND THEATRE - INC 9% LET",
+      "line4": "  NO PHOTOS OR RECORDING  ",
+      "line3": "      LIVE 2026 TOUR      ",
+      "line2": "       BONNIE RAITT       ",
+      "line1": " ANOTHER PLANET PRESENTS  "
+     }
+    },
+    "_embedded": {
+     "venues": [
+      {
+       "name": "Grand Sierra Resort and Casino",
+       "type": "venue",
+       "id": "KovZpa30Ve",
+       "test": false,
+       "url": "https://www.ticketmaster.com/grand-sierra-resort-and-casino-tickets-reno/venue/189217",
+       "locale": "en-us",
+       "distance": 1.8,
+       "units": "MILES",
+       "postalCode": "89595",
+       "timezone": "America/Los_Angeles",
+       "city": {
+        "name": "Reno"
+       },
+       "state": {
+        "name": "Nevada",
+        "stateCode": "NV"
+       },
+       "country": {
+        "name": "United States Of America",
+        "countryCode": "US"
+       },
+       "address": {
+        "line1": "2500 East Second Street"
+       },
+       "location": {
+        "longitude": "-119.78101700",
+        "latitude": "39.52331000"
+       },
+       "markets": [
+        {
+         "name": "N. California/N. Nevada",
+         "id": "41"
+        }
+       ],
+       "dmas": [
+        {
+         "id": 250
+        },
+        {
+         "id": 273
+        },
+        {
+         "id": 282
+        },
+        {
+         "id": 341
+        },
+        {
+         "id": 368
+        },
+        {
+         "id": 374
+        },
+        {
+         "id": 382
+        }
+       ],
+       "social": {
+        "twitter": {
+         "handle": "@grandsierra"
+        }
+       },
+       "parkingDetail": "There is plenty of free lot parking on site.",
+       "accessibleSeatingDetail": "Wheelchair and limited mobility seating is available.",
+       "upcomingEvents": {
+        "ticketmaster": 40,
+        "_total": 40,
+        "_filtered": 0
+       }
+      }
+     ],
+     "attractions": [
+      {
+       "name": "Bonnie Raitt",
+       "type": "attraction",
+       "id": "K8vZ9171Gqf",
+       "test": false,
+       "url": "https://www.ticketmaster.com/bonnie-raitt-tickets/artist/735932",
+       "locale": "en-us",
+       "externalLinks": {
+        "youtube": [
+         {
+          "url": "https://www.youtube.com/user/TheBonnieRaitt"
+         }
+        ],
+        "twitter": [
+         {
+          "url": "https://twitter.com/TheBonnieRaitt"
+         }
+        ],
+        "itunes": [
+         {
+          "url": "https://music.apple.com/us/artist/bonnie-raitt/22677"
+         }
+        ],
+        "spotify": [
+         {
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+         }
+        ],
+        "wiki": [
+         {
+          "url": "https://en.wikipedia.org/wiki/Bonnie_Raitt"
+         }
+        ],
+        "facebook": [
+         {
+          "url": "https://www.facebook.com/officialbonnieraitt"
+         }
+        ],
+        "instagram": [
+         {
+          "url": "https://www.instagram.com/bonnieraittofficial/"
+         }
+        ],
+        "musicbrainz": [
+         {
+          "id": "0f0da09c-3940-4cb5-879f-4cea28907810",
+          "url": "https://musicbrainz.org/artist/0f0da09c-3940-4cb5-879f-4cea28907810"
+         }
+        ],
+        "homepage": [
+         {
+          "url": "http://www.bonnieraitt.com/"
+         }
+        ]
+       },
+       "classifications": [
+        {
+         "primary": true,
+         "segment": {
+          "id": "KZFzniwnSyZfZ7v7nJ",
+          "name": "Music"
+         },
+         "genre": {
+          "id": "KnvZfZ7vAeA",
+          "name": "Rock"
+         },
+         "subGenre": {
+          "id": "KZazBEonSMnZfZ7v6F1",
+          "name": "Pop"
+         },
+         "type": {
+          "id": "KZAyXgnZfZ7v7nI",
+          "name": "Undefined"
+         },
+         "subType": {
+          "id": "KZFzBErXgnZfZ7v7lJ",
+          "name": "Undefined"
+         },
+         "family": false
+        }
+       ],
+       "upcomingEvents": {
+        "tmr": 1,
+        "ticketmaster": 7,
+        "_total": 8,
+        "_filtered": 0
+       }
+      },
+      {
+       "name": "Jon Cleary & the Absolute Monster Gentlemen",
+       "type": "attraction",
+       "id": "K8vZ9175Oo0",
+       "test": false,
+       "url": "https://www.ticketmaster.com/jon-cleary-the-absolute-monster-gentlemen-tickets/artist/842532",
+       "locale": "en-us",
+       "externalLinks": {
+        "youtube": [
+         {
+          "url": "https://www.youtube.com/jonclearymusic"
+         }
+        ],
+        "twitter": [
+         {
+          "url": "https://twitter.com/jonclearymusic"
+         }
+        ],
+        "itunes": [
+         {
+          "url": "https://music.apple.com/us/artist/jon-cleary/1054824429"
+         }
+        ],
+        "spotify": [
+         {
+          "url": "https://open.spotify.com/artist/5AUpDp4yxURZjwzl1aOVyX?autoplay=true"
+         }
+        ],
+        "facebook": [
+         {
+          "url": "https://www.facebook.com/jonclearymusicofficial/"
+         }
+        ],
+        "instagram": [
+         {
+          "url": "https://www.instagram.com/jonclearymusic/"
+         }
+        ],
+        "homepage": [
+         {
+          "url": "https://www.joncleary.com/"
+         }
+        ]
+       },
+       "classifications": [
+        {
+         "primary": true,
+         "segment": {
+          "id": "KZFzniwnSyZfZ7v7nJ",
+          "name": "Music"
+         },
+         "genre": {
+          "id": "KnvZfZ7vAvE",
+          "name": "Jazz"
+         },
+         "subGenre": {
+          "id": "KZazBEonSMnZfZ7vkda",
+          "name": "Jazz"
+         },
+         "type": {
+          "id": "KZAyXgnZfZ7v7nI",
+          "name": "Undefined"
+         },
+         "subType": {
+          "id": "KZFzBErXgnZfZ7v7lJ",
+          "name": "Undefined"
+         },
+         "family": false
+        }
+       ],
+       "upcomingEvents": {
+        "ticketmaster": 6,
+        "ticketweb": 2,
+        "_total": 8,
+        "_filtered": 0
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Alex Ramon \"Magic\"",
+    "type": "event",
+    "id": "17C8v0G61NbZMe7",
+    "test": false,
+    "url": "https://www.ticketmaster.com/alex-ramon-magic-lake-tahoe-nevada-10-09-2026/event/390064A8D8037084",
+    "locale": "en-us",
+    "distance": 39.77,
+    "units": "MILES",
+    "dates": {
+     "start": {
+      "localDate": "2026-10-09",
+      "localTime": "19:30:00",
+      "dateTime": "2026-10-10T02:30:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "timezone": "America/Los_Angeles",
+     "status": {
+      "code": "onsale"
+     },
+     "spanMultipleDays": false
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7na",
+       "name": "Arts & Theatre"
+      },
+      "genre": {
+       "id": "KnvZfZ7v7lv",
+       "name": "Magic & Illusion"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7v7l7",
+       "name": "Magic"
+      },
+      "type": {
+       "id": "KZAyXgnZfZ7v7nI",
+       "name": "Undefined"
+      },
+      "subType": {
+       "id": "KZFzBErXgnZfZ7v7lJ",
+       "name": "Undefined"
+      },
+      "family": false
+     }
+    ],
+    "ageRestrictions": {
+     "legalAgeEnforced": false
+    },
+    "ticketing": {
+     "safeTix": {
+      "enabled": false
+     },
+     "allInclusivePricing": {
+      "enabled": true
+     }
+    },
+    "nameOrigin": "custom",
+    "ticketTextLines": {
+     "en-us": {
+      "line6": " FRI OCT 09 2026 7:30 PM  ",
+      "line5": "         ALL AGES         ",
+      "line4": "     SOUTH SHORE ROOM     ",
+      "line3": "          MAGIC           ",
+      "line2": "        ALEX RAMON        ",
+      "line1": "    HARRAH'S PRESENTS     "
+     }
+    },
+    "_embedded": {
+     "venues": [
+      {
+       "name": "South Shore Room at Harrah's Lake Tahoe",
+       "type": "venue",
+       "id": "KovZpZAJaJAA",
+       "test": false,
+       "url": "https://www.ticketmaster.com/south-shore-room-at-harrahs-lake-tickets-lake-tahoe/venue/467752",
+       "locale": "en-us",
+       "distance": 39.77,
+       "units": "MILES",
+       "postalCode": "89449",
+       "timezone": "America/Los_Angeles",
+       "city": {
+        "name": "Lake Tahoe"
+       },
+       "state": {
+        "name": "Nevada",
+        "stateCode": "NV"
+       },
+       "country": {
+        "name": "United States Of America",
+        "countryCode": "US"
+       },
+       "address": {
+        "line1": "15 Hwy 50"
+       },
+       "location": {
+        "longitude": "-119.93990290",
+        "latitude": "38.96240790"
+       },
+       "markets": [
+        {
+         "name": "N. California/N. Nevada",
+         "id": "41"
+        }
+       ],
+       "dmas": [
+        {
+         "id": 250
+        },
+        {
+         "id": 273
+        },
+        {
+         "id": 282
+        },
+        {
+         "id": 341
+        },
+        {
+         "id": 368
+        },
+        {
+         "id": 374
+        },
+        {
+         "id": 382
+        }
+       ],
+       "parkingDetail": "Available onsite",
+       "accessibleSeatingDetail": "*To better accommodate your needs the box office has requested that special seating accommodations be solicited through their representatives. Please call 775 588-6611 during box office hours",
+       "upcomingEvents": {
+        "ticketmaster": 33,
+        "_total": 33,
+        "_filtered": 0
+       }
+      }
+     ],
+     "attractions": [
+      {
+       "name": "Alex Ramon",
+       "type": "attraction",
+       "id": "K8vZ917pZ40",
+       "test": false,
+       "url": "https://www.ticketmaster.com/alex-ramon-tickets/artist/2216508",
+       "locale": "en-us",
+       "classifications": [
+        {
+         "primary": true,
+         "segment": {
+          "id": "KZFzniwnSyZfZ7v7na",
+          "name": "Arts & Theatre"
+         },
+         "genre": {
+          "id": "KnvZfZ7v7lv",
+          "name": "Magic & Illusion"
+         },
+         "subGenre": {
+          "id": "KZazBEonSMnZfZ7v7l7",
+          "name": "Magic"
+         },
+         "type": {
+          "id": "KZAyXgnZfZ7v7la",
+          "name": "Individual"
+         },
+         "subType": {
+          "id": "KZFzBErXgnZfZ7vAdA",
+          "name": "Magician"
+         },
+         "family": false
+        }
+       ],
+       "upcomingEvents": {
+        "ticketmaster": 9,
+        "_total": 9,
+        "_filtered": 0
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "CLUB SLAYYY: SLAYYYTER + HYPERPOP NIGHT",
+    "type": "event",
+    "id": "rZ7HnEZ1Af1b70",
+    "test": false,
+    "url": "https://www.ticketweb.com/event/club-slayyy-slayyyter-hyperpop-cargo-concert-hall-tickets/14298124",
+    "locale": "en-us",
+    "distance": 0.1,
+    "units": "MILES",
+    "dates": {
+     "access": {
+      "startDateTime": "2026-10-10T04:00:00Z",
+      "startApproximate": false,
+      "endApproximate": false
+     },
+     "start": {
+      "localDate": "2026-10-09",
+      "localTime": "21:00:00",
+      "dateTime": "2026-10-10T04:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "end": {
+      "approximate": false,
+      "noSpecificTime": false
+     },
+     "timezone": "America/Los_Angeles",
+     "status": {
+      "code": "onsale"
+     },
+     "spanMultipleDays": false
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7n1",
+       "name": "Miscellaneous"
+      },
+      "type": {
+       "id": "KZAyXgnZfZ7v7nI",
+       "name": "Undefined"
+      },
+      "subType": {
+       "id": "KZFzBErXgnZfZ7v7lJ",
+       "name": "Undefined"
+      },
+      "family": false
+     }
+    ],
+    "priceRanges": [
+     {
+      "type": "standard",
+      "currency": "USD",
+      "min": 22.91,
+      "max": 22.91
+     }
+    ],
+    "nameOrigin": "custom",
+    "_embedded": {
+     "venues": [
+      {
+       "name": "Cargo Concert Hall",
+       "type": "venue",
+       "id": "rZ7HnEZ17GZC4",
+       "test": false,
+       "url": "https://www.ticketweb.com/venue/cargo-concert-hall-reno-nv/300395",
+       "locale": "en-us",
+       "distance": 0.1,
+       "units": "MILES",
+       "postalCode": "89501",
+       "timezone": "America/Los_Angeles",
+       "city": {
+        "name": "Reno"
+       },
+       "state": {
+        "name": "Nevada",
+        "stateCode": "NV"
+       },
+       "country": {
+        "name": "United States Of America",
+        "countryCode": "US"
+       },
+       "address": {
+        "line1": "255 North Virginia Street"
+       },
+       "location": {
+        "longitude": "-119.81377",
+        "latitude": "39.528097"
+       },
+       "upcomingEvents": {
+        "ticketweb": 17,
+        "_total": 17,
+        "_filtered": 0
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Club Slayyy",
+    "type": "event",
+    "id": "Z7r9jZ1AAvsGA",
+    "test": false,
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvsGA",
+    "locale": "en-us",
+    "distance": 0.24,
+    "units": "MILES",
+    "dates": {
+     "start": {
+      "localDate": "2026-10-09",
+      "localTime": "21:00:00",
+      "dateTime": "2026-10-10T04:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "status": {
+      "code": "onsale"
+     },
+     "spanMultipleDays": false
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7nl",
+       "name": "Undefined"
+      },
+      "family": false
+     }
+    ],
+    "ticketing": {
+     "allInclusivePricing": {
+      "enabled": true
+     }
+    },
+    "nameOrigin": "custom",
+    "_embedded": {
+     "venues": [
+      {
+       "name": "Cargo",
+       "type": "venue",
+       "id": "Z7r9jZaetz",
+       "test": false,
+       "locale": "en-us",
+       "distance": 0.24,
+       "units": "MILES",
+       "postalCode": "89501",
+       "timezone": "America/Los_Angeles",
+       "city": {
+        "name": "Reno"
+       },
+       "state": {
+        "name": "Nevada",
+        "stateCode": "NV"
+       },
+       "country": {
+        "name": "United States Of America",
+        "countryCode": "US"
+       },
+       "address": {
+        "line1": "255 North Virginia Street"
+       },
+       "location": {
+        "longitude": "-119.812401000",
+        "latitude": "39.526299000"
+       },
+       "dmas": [
+        {
+         "id": 368
+        }
+       ],
+       "upcomingEvents": {
+        "tmr": 10,
+        "_total": 10,
+        "_filtered": 0
+       }
+      }
+     ],
+     "attractions": [
+      {
+       "type": "attraction",
+       "id": "Z7r9jZ177PjF",
+       "test": false,
+       "locale": "tm-df",
+       "upcomingEvents": {
+        "tmr": 1,
+        "_total": 1,
+        "_filtered": 0
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Laugh Factory",
+    "type": "event",
+    "id": "1Ad0Z_FGkBIo3hO",
+    "test": false,
+    "url": "https://www.ticketmaster.com/laugh-factory-reno-nevada-10-09-2026/event/3900648EA84526E0",
+    "locale": "en-us",
+    "distance": 0.11,
+    "units": "MILES",
+    "dates": {
+     "start": {
+      "localDate": "2026-10-09",
+      "localTime": "21:30:00",
+      "dateTime": "2026-10-10T04:30:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "timezone": "America/Los_Angeles",
+     "status": {
+      "code": "onsale"
+     },
+     "spanMultipleDays": false
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7na",
+       "name": "Arts & Theatre"
+      },
+      "genre": {
+       "id": "KnvZfZ7vAe1",
+       "name": "Comedy"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7vF17",
+       "name": "Comedy"
+      },
+      "type": {
+       "id": "KZAyXgnZfZ7v7nI",
+       "name": "Undefined"
+      },
+      "subType": {
+       "id": "KZFzBErXgnZfZ7v7lJ",
+       "name": "Undefined"
+      },
+      "family": false
+     }
+    ],
+    "ageRestrictions": {
+     "legalAgeEnforced": false
+    },
+    "ticketing": {
+     "safeTix": {
+      "enabled": true
+     },
+     "allInclusivePricing": {
+      "enabled": true
+     }
+    },
+    "nameOrigin": "custom",
+    "ticketTextLines": {
+     "en-us": {
+      "line6": " FRI OCT 09 2026 9:30 PM  ",
+      "line5": "   MUST BE 18 OR OLDER    ",
+      "line4": "   SILVER LEGACY CASINO   ",
+      "line3": "          ******          ",
+      "line2": "      LAUGH FACTORY       ",
+      "line1": "          ******          "
+     }
+    },
+    "_embedded": {
+     "venues": [
+      {
+       "name": "Laugh Factory at the Silver Legacy Casino",
+       "type": "venue",
+       "id": "KovZ917AP-J",
+       "test": false,
+       "url": "https://www.ticketmaster.com/laugh-factory-at-the-silver-legacy-tickets-reno/venue/467963",
+       "locale": "en-us",
+       "distance": 0.11,
+       "units": "MILES",
+       "postalCode": "89501",
+       "timezone": "America/Los_Angeles",
+       "city": {
+        "name": "Reno"
+       },
+       "state": {
+        "name": "Nevada",
+        "stateCode": "NV"
+       },
+       "country": {
+        "name": "United States Of America",
+        "countryCode": "US"
+       },
+       "address": {
+        "line1": "407 N Virginia St"
+       },
+       "location": {
+        "longitude": "-119.81531385",
+        "latitude": "39.53069210"
+       },
+       "markets": [
+        {
+         "name": "N. California/N. Nevada",
+         "id": "41"
+        }
+       ],
+       "dmas": [
+        {
+         "id": 250
+        },
+        {
+         "id": 273
+        },
+        {
+         "id": 282
+        },
+        {
+         "id": 341
+        },
+        {
+         "id": 368
+        },
+        {
+         "id": 374
+        },
+        {
+         "id": 382
+        }
+       ],
+       "upcomingEvents": {
+        "ticketmaster": 76,
+        "_total": 76,
+        "_filtered": 0
+       }
+      }
+     ],
+     "attractions": [
+      {
+       "name": "Laugh Factory @ Silver Legacy",
+       "type": "attraction",
+       "id": "K8vZ917_KN7",
+       "test": false,
+       "url": "https://www.ticketmaster.com/laugh-factory-silver-legacy-tickets/artist/2779534",
+       "locale": "en-us",
+       "classifications": [
+        {
+         "primary": true,
+         "segment": {
+          "id": "KZFzniwnSyZfZ7v7na",
+          "name": "Arts & Theatre"
+         },
+         "genre": {
+          "id": "KnvZfZ7vAe1",
+          "name": "Comedy"
+         },
+         "subGenre": {
+          "id": "KZazBEonSMnZfZ7vF17",
+          "name": "Comedy"
+         },
+         "type": {
+          "id": "KZAyXgnZfZ7v7nI",
+          "name": "Undefined"
+         },
+         "subType": {
+          "id": "KZFzBErXgnZfZ7v7lJ",
+          "name": "Undefined"
+         },
+         "family": false
+        }
+       ],
+       "upcomingEvents": {
+        "ticketmaster": 76,
+        "_total": 76,
+        "_filtered": 0
+       }
+      },
+      {
+       "name": "Steve McGrew",
+       "type": "attraction",
+       "id": "K8vZ91726hf",
+       "test": false,
+       "url": "https://www.ticketmaster.com/steve-mcgrew-tickets/artist/796300",
+       "locale": "en-us",
+       "classifications": [
+        {
+         "primary": true,
+         "segment": {
+          "id": "KZFzniwnSyZfZ7v7na",
+          "name": "Arts & Theatre"
+         },
+         "genre": {
+          "id": "KnvZfZ7vAe1",
+          "name": "Comedy"
+         },
+         "subGenre": {
+          "id": "KZazBEonSMnZfZ7vF17",
+          "name": "Comedy"
+         },
+         "type": {
+          "id": "KZAyXgnZfZ7v7nI",
+          "name": "Undefined"
+         },
+         "subType": {
+          "id": "KZFzBErXgnZfZ7v7lJ",
+          "name": "Undefined"
+         },
+         "family": false
+        }
+       ],
+       "upcomingEvents": {
+        "ticketmaster": 7,
+        "_total": 7,
+        "_filtered": 0
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "The Great Italian Festival VIP Tent Saturday 10AM - 2PM",
+    "type": "event",
+    "id": "16yZkf3JpZAGe681",
+    "test": false,
+    "url": "https://www.ticketmaster.com/the-great-italian-festival-vip-tent-reno-nevada-10-10-2026/event/39006512996B16F9",
+    "locale": "en-us",
+    "distance": 0.02,
+    "units": "MILES",
+    "dates": {
+     "start": {
+      "localDate": "2026-10-10",
+      "localTime": "10:00:00",
+      "dateTime": "2026-10-10T17:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "timezone": "America/Los_Angeles",
+     "status": {
+      "code": "onsale"
+     },
+     "spanMultipleDays": false
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7n1",
+       "name": "Miscellaneous"
+      },
+      "genre": {
+       "id": "KnvZfZ7v7ll",
+       "name": "Undefined"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7vAv1",
+       "name": "Undefined"
+      },
+      "type": {
+       "id": "KZAyXgnZfZ7v7lt",
+       "name": "Event Style"
+      },
+      "subType": {
+       "id": "KZFzBErXgnZfZ7vA6E",
+       "name": "Festival"
+      },
+      "family": false
+     }
+    ],
+    "ageRestrictions": {
+     "legalAgeEnforced": false
+    },
+    "ticketing": {
+     "safeTix": {
+      "enabled": false
+     },
+     "allInclusivePricing": {
+      "enabled": true
+     }
+    },
+    "nameOrigin": "custom",
+    "ticketTextLines": {
+     "en-us": {
+      "line6": "     SAT OCT 10 2026      ",
+      "line5": "    10:00 AM - 2:00 PM    ",
+      "line4": "         VIP TENT         ",
+      "line3": "  GREAT ITALIAN FESTIVAL  ",
+      "line2": "       44TH ANNUAL        ",
+      "line1": "    ELDORADO PRESENTS     "
+     }
+    },
+    "_embedded": {
+     "venues": [
+      {
+       "name": "Eldorado Casino Reno",
+       "type": "venue",
+       "id": "KovZ917AElm",
+       "test": false,
+       "url": "https://www.ticketmaster.com/eldorado-casino-reno-tickets-reno/venue/467971",
+       "locale": "en-us",
+       "distance": 0.02,
+       "units": "MILES",
+       "postalCode": "89501",
+       "timezone": "America/Los_Angeles",
+       "city": {
+        "name": "Reno"
+       },
+       "state": {
+        "name": "Nevada",
+        "stateCode": "NV"
+       },
+       "country": {
+        "name": "United States Of America",
+        "countryCode": "US"
+       },
+       "address": {
+        "line1": "345 N. Virginia St."
+       },
+       "location": {
+        "longitude": "-119.81406370",
+        "latitude": "39.52933970"
+       },
+       "markets": [
+        {
+         "name": "N. California/N. Nevada",
+         "id": "41"
+        }
+       ],
+       "dmas": [
+        {
+         "id": 250
+        },
+        {
+         "id": 273
+        },
+        {
+         "id": 282
+        },
+        {
+         "id": 341
+        },
+        {
+         "id": 368
+        },
+        {
+         "id": 374
+        },
+        {
+         "id": 382
+        }
+       ],
+       "parkingDetail": "Free self parking with validation or free valet parking is available.",
+       "accessibleSeatingDetail": "The venue has accessible seating available.",
+       "upcomingEvents": {
+        "ticketmaster": 16,
+        "_total": 16,
+        "_filtered": 0
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Great Italian Festival VIP | Official Caesars Ticket + Hotel Packages",
+    "type": "event",
+    "id": "1Ad0Z_oGknrZwaL",
+    "test": false,
+    "url": "https://travel.ticketmaster.com/en-US/event/165309330/pf?_uid=01e06df2-8b31-4246-b25c-04d738f89509&utm_source=Caesars_TM&utm_medium=TM_ADP_GreatItalianFestivalVIPSaturday10AM",
+    "locale": "en-us",
+    "distance": 0.02,
+    "units": "MILES",
+    "dates": {
+     "start": {
+      "localDate": "2026-10-10",
+      "localTime": "10:00:00",
+      "dateTime": "2026-10-10T17:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "timezone": "America/Los_Angeles",
+     "status": {
+      "code": "onsale"
+     },
+     "spanMultipleDays": false
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7n1",
+       "name": "Miscellaneous"
+      },
+      "genre": {
+       "id": "KnvZfZ7v7ll",
+       "name": "Undefined"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7vAv1",
+       "name": "Undefined"
+      },
+      "type": {
+       "id": "KZAyXgnZfZ7v7nJ",
+       "name": "Upsell"
+      },
+      "subType": {
+       "id": "KZFzBErXgnZfZ7v7l6",
+       "name": "Hotel Package"
+      },
+      "family": false
+     }
+    ],
+    "ageRestrictions": {
+     "legalAgeEnforced": false
+    },
+    "ticketing": {
+     "safeTix": {
+      "enabled": false
+     },
+     "allInclusivePricing": {
+      "enabled": false
+     }
+    },
+    "nameOrigin": "custom",
+    "ticketTextLines": {
+     "en-us": {
+      "line6": "   EVENT LISTING CHART    ",
+      "line5": "                          ",
+      "line4": "                          ",
+      "line3": "                          ",
+      "line2": "           NONE           ",
+      "line1": "                          "
+     }
+    },
+    "_embedded": {
+     "venues": [
+      {
+       "name": "Eldorado Casino Reno",
+       "type": "venue",
+       "id": "KovZ917AElm",
+       "test": false,
+       "url": "https://www.ticketmaster.com/eldorado-casino-reno-tickets-reno/venue/467971",
+       "locale": "en-us",
+       "distance": 0.02,
+       "units": "MILES",
+       "postalCode": "89501",
+       "timezone": "America/Los_Angeles",
+       "city": {
+        "name": "Reno"
+       },
+       "state": {
+        "name": "Nevada",
+        "stateCode": "NV"
+       },
+       "country": {
+        "name": "United States Of America",
+        "countryCode": "US"
+       },
+       "address": {
+        "line1": "345 N. Virginia St."
+       },
+       "location": {
+        "longitude": "-119.81406370",
+        "latitude": "39.52933970"
+       },
+       "markets": [
+        {
+         "name": "N. California/N. Nevada",
+         "id": "41"
+        }
+       ],
+       "dmas": [
+        {
+         "id": 250
+        },
+        {
+         "id": 273
+        },
+        {
+         "id": 282
+        },
+        {
+         "id": 341
+        },
+        {
+         "id": 368
+        },
+        {
+         "id": 374
+        },
+        {
+         "id": 382
+        }
+       ],
+       "parkingDetail": "Free self parking with validation or free valet parking is available.",
+       "accessibleSeatingDetail": "The venue has accessible seating available.",
+       "upcomingEvents": {
+        "ticketmaster": 16,
+        "_total": 16,
+        "_filtered": 0
+       }
+      }
+     ],
+     "attractions": [
+      {
+       "name": "Hotel Reservations",
+       "type": "attraction",
+       "id": "K8vZ917qBJ7",
+       "test": false,
+       "url": "https://www.ticketmaster.com/hotel-reservations-tickets/artist/3172343",
+       "locale": "en-us",
+       "classifications": [
+        {
+         "primary": true,
+         "segment": {
+          "id": "KZFzniwnSyZfZ7v7n1",
+          "name": "Miscellaneous"
+         },
+         "genre": {
+          "id": "KnvZfZ7v7ll",
+          "name": "Undefined"
+         },
+         "subGenre": {
+          "id": "KZazBEonSMnZfZ7vAv1",
+          "name": "Undefined"
+         },
+         "type": {
+          "id": "KZAyXgnZfZ7v7nJ",
+          "name": "Upsell"
+         },
+         "subType": {
+          "id": "KZFzBErXgnZfZ7v7l6",
+          "name": "Hotel Package"
+         },
+         "family": false
+        }
+       ],
+       "upcomingEvents": {
+        "ticketmaster": 50,
+        "_total": 50,
+        "_filtered": 0
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Wine Walk Saturday 12PM - 5PM",
+    "type": "event",
+    "id": "1Ad0Z_8GkyB1ptm",
+    "test": false,
+    "url": "https://www.ticketmaster.com/wine-walk-saturday-12pm-5pm-reno-nevada-10-10-2026/event/3900650E7A296A6E",
+    "locale": "en-us",
+    "distance": 0.02,
+    "units": "MILES",
+    "dates": {
+     "start": {
+      "localDate": "2026-10-10",
+      "localTime": "12:00:00",
+      "dateTime": "2026-10-10T19:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "timezone": "America/Los_Angeles",
+     "status": {
+      "code": "onsale"
+     },
+     "spanMultipleDays": false
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7n1",
+       "name": "Miscellaneous"
+      },
+      "genre": {
+       "id": "KnvZfZ7v7ll",
+       "name": "Undefined"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7vAv1",
+       "name": "Undefined"
+      },
+      "type": {
+       "id": "KZAyXgnZfZ7v7lt",
+       "name": "Event Style"
+      },
+      "subType": {
+       "id": "KZFzBErXgnZfZ7vA6E",
+       "name": "Festival"
+      },
+      "family": false
+     }
+    ],
+    "ageRestrictions": {
+     "legalAgeEnforced": false
+    },
+    "ticketing": {
+     "safeTix": {
+      "enabled": false
+     },
+     "allInclusivePricing": {
+      "enabled": true
+     }
+    },
+    "nameOrigin": "custom",
+    "ticketTextLines": {
+     "en-us": {
+      "line6": "     SAT OCT 10 2026      ",
+      "line5": "     12:00PM - 5:00PM     ",
+      "line4": "        WINE WALK         ",
+      "line3": "  GREAT ITALIAN FESTIVAL  ",
+      "line2": "       44TH ANNUAL        ",
+      "line1": "    ELDORADO PRESENTS     "
+     }
+    },
+    "_embedded": {
+     "venues": [
+      {
+       "name": "Eldorado Casino Reno",
+       "type": "venue",
+       "id": "KovZ917AElm",
+       "test": false,
+       "url": "https://www.ticketmaster.com/eldorado-casino-reno-tickets-reno/venue/467971",
+       "locale": "en-us",
+       "distance": 0.02,
+       "units": "MILES",
+       "postalCode": "89501",
+       "timezone": "America/Los_Angeles",
+       "city": {
+        "name": "Reno"
+       },
+       "state": {
+        "name": "Nevada",
+        "stateCode": "NV"
+       },
+       "country": {
+        "name": "United States Of America",
+        "countryCode": "US"
+       },
+       "address": {
+        "line1": "345 N. Virginia St."
+       },
+       "location": {
+        "longitude": "-119.81406370",
+        "latitude": "39.52933970"
+       },
+       "markets": [
+        {
+         "name": "N. California/N. Nevada",
+         "id": "41"
+        }
+       ],
+       "dmas": [
+        {
+         "id": 250
+        },
+        {
+         "id": 273
+        },
+        {
+         "id": 282
+        },
+        {
+         "id": 341
+        },
+        {
+         "id": 368
+        },
+        {
+         "id": 374
+        },
+        {
+         "id": 382
+        }
+       ],
+       "parkingDetail": "Free self parking with validation or free valet parking is available.",
+       "accessibleSeatingDetail": "The venue has accessible seating available.",
+       "upcomingEvents": {
+        "ticketmaster": 16,
+        "_total": 16,
+        "_filtered": 0
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Wine Walk Saturday | Official Caesars Ticket + Hotel Packages",
+    "type": "event",
+    "id": "1Ad0Z_oGknqT3Fl",
+    "test": false,
+    "url": "https://travel.ticketmaster.com/en-US/event/164536730/pf?_uid=01e06df2-8b31-4246-b25c-04d738f89509&utm_source=Caesars_TM&utm_medium=TM_ADP_WineWalkSaturday1010",
+    "locale": "en-us",
+    "distance": 0.02,
+    "units": "MILES",
+    "dates": {
+     "start": {
+      "localDate": "2026-10-10",
+      "localTime": "12:00:00",
+      "dateTime": "2026-10-10T19:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "timezone": "America/Los_Angeles",
+     "status": {
+      "code": "onsale"
+     },
+     "spanMultipleDays": false
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7n1",
+       "name": "Miscellaneous"
+      },
+      "genre": {
+       "id": "KnvZfZ7v7ll",
+       "name": "Undefined"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7vAv1",
+       "name": "Undefined"
+      },
+      "type": {
+       "id": "KZAyXgnZfZ7v7nJ",
+       "name": "Upsell"
+      },
+      "subType": {
+       "id": "KZFzBErXgnZfZ7v7l6",
+       "name": "Hotel Package"
+      },
+      "family": false
+     }
+    ],
+    "ageRestrictions": {
+     "legalAgeEnforced": false
+    },
+    "ticketing": {
+     "safeTix": {
+      "enabled": false
+     },
+     "allInclusivePricing": {
+      "enabled": false
+     }
+    },
+    "nameOrigin": "custom",
+    "ticketTextLines": {
+     "en-us": {
+      "line6": "   EVENT LISTING CHART    ",
+      "line5": "                          ",
+      "line4": "                          ",
+      "line3": "                          ",
+      "line2": "           NONE           ",
+      "line1": "                          "
+     }
+    },
+    "_embedded": {
+     "venues": [
+      {
+       "name": "Eldorado Casino Reno",
+       "type": "venue",
+       "id": "KovZ917AElm",
+       "test": false,
+       "url": "https://www.ticketmaster.com/eldorado-casino-reno-tickets-reno/venue/467971",
+       "locale": "en-us",
+       "distance": 0.02,
+       "units": "MILES",
+       "postalCode": "89501",
+       "timezone": "America/Los_Angeles",
+       "city": {
+        "name": "Reno"
+       },
+       "state": {
+        "name": "Nevada",
+        "stateCode": "NV"
+       },
+       "country": {
+        "name": "United States Of America",
+        "countryCode": "US"
+       },
+       "address": {
+        "line1": "345 N. Virginia St."
+       },
+       "location": {
+        "longitude": "-119.81406370",
+        "latitude": "39.52933970"
+       },
+       "markets": [
+        {
+         "name": "N. California/N. Nevada",
+         "id": "41"
+        }
+       ],
+       "dmas": [
+        {
+         "id": 250
+        },
+        {
+         "id": 273
+        },
+        {
+         "id": 282
+        },
+        {
+         "id": 341
+        },
+        {
+         "id": 368
+        },
+        {
+         "id": 374
+        },
+        {
+         "id": 382
+        }
+       ],
+       "parkingDetail": "Free self parking with validation or free valet parking is available.",
+       "accessibleSeatingDetail": "The venue has accessible seating available.",
+       "upcomingEvents": {
+        "ticketmaster": 16,
+        "_total": 16,
+        "_filtered": 0
+       }
+      }
+     ],
+     "attractions": [
+      {
+       "name": "Hotel Reservations",
+       "type": "attraction",
+       "id": "K8vZ917qBJ7",
+       "test": false,
+       "url": "https://www.ticketmaster.com/hotel-reservations-tickets/artist/3172343",
+       "locale": "en-us",
+       "classifications": [
+        {
+         "primary": true,
+         "segment": {
+          "id": "KZFzniwnSyZfZ7v7n1",
+          "name": "Miscellaneous"
+         },
+         "genre": {
+          "id": "KnvZfZ7v7ll",
+          "name": "Undefined"
+         },
+         "subGenre": {
+          "id": "KZazBEonSMnZfZ7vAv1",
+          "name": "Undefined"
+         },
+         "type": {
+          "id": "KZAyXgnZfZ7v7nJ",
+          "name": "Upsell"
+         },
+         "subType": {
+          "id": "KZFzBErXgnZfZ7v7l6",
+          "name": "Hotel Package"
+         },
+         "family": false
+        }
+       ],
+       "upcomingEvents": {
+        "ticketmaster": 50,
+        "_total": 50,
+        "_filtered": 0
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Great Italian Festival VIP | Official Caesars Ticket + Hotel Packages",
+    "type": "event",
+    "id": "1Ad0Z_oGknrveaE",
+    "test": false,
+    "url": "https://travel.ticketmaster.com/en-US/event/165309043/pf?_uid=01e06df2-8b31-4246-b25c-04d738f89509&utm_source=Caesars_TM&utm_medium=TM_ADP_GreatItalianFestivalVIPSaturday230PM",
+    "locale": "en-us",
+    "distance": 0.02,
+    "units": "MILES",
+    "dates": {
+     "start": {
+      "localDate": "2026-10-10",
+      "localTime": "14:30:00",
+      "dateTime": "2026-10-10T21:30:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "timezone": "America/Los_Angeles",
+     "status": {
+      "code": "onsale"
+     },
+     "spanMultipleDays": false
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7n1",
+       "name": "Miscellaneous"
+      },
+      "genre": {
+       "id": "KnvZfZ7v7ll",
+       "name": "Undefined"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7vAv1",
+       "name": "Undefined"
+      },
+      "type": {
+       "id": "KZAyXgnZfZ7v7nJ",
+       "name": "Upsell"
+      },
+      "subType": {
+       "id": "KZFzBErXgnZfZ7v7l6",
+       "name": "Hotel Package"
+      },
+      "family": false
+     }
+    ],
+    "ageRestrictions": {
+     "legalAgeEnforced": false
+    },
+    "ticketing": {
+     "safeTix": {
+      "enabled": false
+     },
+     "allInclusivePricing": {
+      "enabled": false
+     }
+    },
+    "nameOrigin": "custom",
+    "ticketTextLines": {
+     "en-us": {
+      "line6": "   EVENT LISTING CHART    ",
+      "line5": "                          ",
+      "line4": "                          ",
+      "line3": "                          ",
+      "line2": "           NONE           ",
+      "line1": "                          "
+     }
+    },
+    "_embedded": {
+     "venues": [
+      {
+       "name": "Eldorado Casino Reno",
+       "type": "venue",
+       "id": "KovZ917AElm",
+       "test": false,
+       "url": "https://www.ticketmaster.com/eldorado-casino-reno-tickets-reno/venue/467971",
+       "locale": "en-us",
+       "distance": 0.02,
+       "units": "MILES",
+       "postalCode": "89501",
+       "timezone": "America/Los_Angeles",
+       "city": {
+        "name": "Reno"
+       },
+       "state": {
+        "name": "Nevada",
+        "stateCode": "NV"
+       },
+       "country": {
+        "name": "United States Of America",
+        "countryCode": "US"
+       },
+       "address": {
+        "line1": "345 N. Virginia St."
+       },
+       "location": {
+        "longitude": "-119.81406370",
+        "latitude": "39.52933970"
+       },
+       "markets": [
+        {
+         "name": "N. California/N. Nevada",
+         "id": "41"
+        }
+       ],
+       "dmas": [
+        {
+         "id": 250
+        },
+        {
+         "id": 273
+        },
+        {
+         "id": 282
+        },
+        {
+         "id": 341
+        },
+        {
+         "id": 368
+        },
+        {
+         "id": 374
+        },
+        {
+         "id": 382
+        }
+       ],
+       "parkingDetail": "Free self parking with validation or free valet parking is available.",
+       "accessibleSeatingDetail": "The venue has accessible seating available.",
+       "upcomingEvents": {
+        "ticketmaster": 16,
+        "_total": 16,
+        "_filtered": 0
+       }
+      }
+     ],
+     "attractions": [
+      {
+       "name": "Hotel Reservations",
+       "type": "attraction",
+       "id": "K8vZ917qBJ7",
+       "test": false,
+       "url": "https://www.ticketmaster.com/hotel-reservations-tickets/artist/3172343",
+       "locale": "en-us",
+       "classifications": [
+        {
+         "primary": true,
+         "segment": {
+          "id": "KZFzniwnSyZfZ7v7n1",
+          "name": "Miscellaneous"
+         },
+         "genre": {
+          "id": "KnvZfZ7v7ll",
+          "name": "Undefined"
+         },
+         "subGenre": {
+          "id": "KZazBEonSMnZfZ7vAv1",
+          "name": "Undefined"
+         },
+         "type": {
+          "id": "KZAyXgnZfZ7v7nJ",
+          "name": "Upsell"
+         },
+         "subType": {
+          "id": "KZFzBErXgnZfZ7v7l6",
+          "name": "Hotel Package"
+         },
+         "family": false
+        }
+       ],
+       "upcomingEvents": {
+        "ticketmaster": 50,
+        "_total": 50,
+        "_filtered": 0
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "The Great Italian Festival VIP Tent Saturday 2:30PM - 6:30PM",
+    "type": "event",
+    "id": "1ayZkf3J9ZpZe8G",
+    "test": false,
+    "url": "https://www.ticketmaster.com/the-great-italian-festival-vip-tent-reno-nevada-10-10-2026/event/39006512997016FB",
+    "locale": "en-us",
+    "distance": 0.02,
+    "units": "MILES",
+    "dates": {
+     "start": {
+      "localDate": "2026-10-10",
+      "localTime": "14:30:00",
+      "dateTime": "2026-10-10T21:30:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "timezone": "America/Los_Angeles",
+     "status": {
+      "code": "onsale"
+     },
+     "spanMultipleDays": false
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7n1",
+       "name": "Miscellaneous"
+      },
+      "genre": {
+       "id": "KnvZfZ7v7ll",
+       "name": "Undefined"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7vAv1",
+       "name": "Undefined"
+      },
+      "type": {
+       "id": "KZAyXgnZfZ7v7lt",
+       "name": "Event Style"
+      },
+      "subType": {
+       "id": "KZFzBErXgnZfZ7vA6E",
+       "name": "Festival"
+      },
+      "family": false
+     }
+    ],
+    "ageRestrictions": {
+     "legalAgeEnforced": false
+    },
+    "ticketing": {
+     "safeTix": {
+      "enabled": false
+     },
+     "allInclusivePricing": {
+      "enabled": true
+     }
+    },
+    "nameOrigin": "custom",
+    "ticketTextLines": {
+     "en-us": {
+      "line6": "     SAT OCT 10 2026      ",
+      "line5": "     2:30PM - 6:30PM      ",
+      "line4": "         VIP TENT         ",
+      "line3": "  GREAT ITALIAN FESTIVAL  ",
+      "line2": "       44TH ANNUAL        ",
+      "line1": "    ELDORADO PRESENTS     "
+     }
+    },
+    "_embedded": {
+     "venues": [
+      {
+       "name": "Eldorado Casino Reno",
+       "type": "venue",
+       "id": "KovZ917AElm",
+       "test": false,
+       "url": "https://www.ticketmaster.com/eldorado-casino-reno-tickets-reno/venue/467971",
+       "locale": "en-us",
+       "distance": 0.02,
+       "units": "MILES",
+       "postalCode": "89501",
+       "timezone": "America/Los_Angeles",
+       "city": {
+        "name": "Reno"
+       },
+       "state": {
+        "name": "Nevada",
+        "stateCode": "NV"
+       },
+       "country": {
+        "name": "United States Of America",
+        "countryCode": "US"
+       },
+       "address": {
+        "line1": "345 N. Virginia St."
+       },
+       "location": {
+        "longitude": "-119.81406370",
+        "latitude": "39.52933970"
+       },
+       "markets": [
+        {
+         "name": "N. California/N. Nevada",
+         "id": "41"
+        }
+       ],
+       "dmas": [
+        {
+         "id": 250
+        },
+        {
+         "id": 273
+        },
+        {
+         "id": 282
+        },
+        {
+         "id": 341
+        },
+        {
+         "id": 368
+        },
+        {
+         "id": 374
+        },
+        {
+         "id": 382
+        }
+       ],
+       "parkingDetail": "Free self parking with validation or free valet parking is available.",
+       "accessibleSeatingDetail": "The venue has accessible seating available.",
+       "upcomingEvents": {
+        "ticketmaster": 16,
+        "_total": 16,
+        "_filtered": 0
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Northern Nevada Night Skies 2026 featuring Enemies of Freedom Tour Sta",
+    "type": "event",
+    "id": "1Ae0ZbMGkzKbYB1",
+    "test": false,
+    "url": "https://www.ticketweb.com/event/northern-nevada-night-skies-2026-bartley-ranch-hawkins-tickets/14728993?REFERRAL_ID=tmfeed",
+    "locale": "en-us",
+    "distance": 4.12,
+    "units": "MILES",
+    "dates": {
+     "start": {
+      "localDate": "2026-10-10",
+      "localTime": "19:00:00",
+      "dateTime": "2026-10-11T02:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "timezone": "America/Los_Angeles",
+     "status": {
+      "code": "onsale"
+     },
+     "spanMultipleDays": false
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7na",
+       "name": "Arts & Theatre"
+      },
+      "genre": {
+       "id": "KnvZfZ7vAe1",
+       "name": "Comedy"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7vF17",
+       "name": "Comedy"
+      },
+      "type": {
+       "id": "KZAyXgnZfZ7v7nI",
+       "name": "Undefined"
+      },
+      "subType": {
+       "id": "KZFzBErXgnZfZ7v7lJ",
+       "name": "Undefined"
+      },
+      "family": false
+     }
+    ],
+    "ageRestrictions": {
+     "legalAgeEnforced": false
+    },
+    "ticketing": {
+     "safeTix": {
+      "enabled": false
+     },
+     "allInclusivePricing": {
+      "enabled": false
+     }
+    },
+    "nameOrigin": "custom",
+    "ticketTextLines": {
+     "en-us": {
+      "line6": "        1 XNUMBER         ",
+      "line5": "         250 OPEN         ",
+      "line4": "       500 CAPACITY       ",
+      "line3": "                          ",
+      "line2": "    RESERVED GA CHART     ",
+      "line1": "          * * *           "
+     }
+    },
+    "_embedded": {
+     "venues": [
+      {
+       "name": "Bartley Ranch - Hawkins Amphitheater",
+       "type": "venue",
+       "id": "KovZpZAFJkeA",
+       "test": false,
+       "url": "https://www.ticketmaster.com/bartley-ranch-hawkins-amphitheater-tickets-reno/venue/338478",
+       "locale": "en-us",
+       "distance": 4.12,
+       "units": "MILES",
+       "postalCode": "89511",
+       "timezone": "America/Los_Angeles",
+       "city": {
+        "name": "Reno"
+       },
+       "state": {
+        "name": "Nevada",
+        "stateCode": "NV"
+       },
+       "country": {
+        "name": "United States Of America",
+        "countryCode": "US"
+       },
+       "address": {
+        "line1": "6000 Bartley Ranch Rd"
+       },
+       "location": {
+        "longitude": "-119.80789050",
+        "latitude": "39.47012900"
+       },
+       "markets": [
+        {
+         "name": "N. California/N. Nevada",
+         "id": "41"
+        }
+       ],
+       "dmas": [
+        {
+         "id": 250
+        },
+        {
+         "id": 273
+        },
+        {
+         "id": 282
+        },
+        {
+         "id": 341
+        },
+        {
+         "id": 368
+        },
+        {
+         "id": 374
+        },
+        {
+         "id": 382
+        }
+       ],
+       "upcomingEvents": {
+        "ticketmaster": 1,
+        "_total": 1,
+        "_filtered": 0
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Micro Mania Midget Wrestling ",
+    "type": "event",
+    "id": "rZ7HnEZ1Af14xf",
+    "test": false,
+    "url": "https://www.ticketweb.com/event/micro-mania-midget-wrestling-battleborn-harley-davidson-tickets/14295894",
+    "locale": "en-us",
+    "distance": 24.01,
+    "units": "MILES",
+    "dates": {
+     "access": {
+      "startDateTime": "2026-10-11T01:00:00Z",
+      "startApproximate": false,
+      "endApproximate": false
+     },
+     "start": {
+      "localDate": "2026-10-10",
+      "localTime": "19:00:00",
+      "dateTime": "2026-10-11T02:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "end": {
+      "approximate": false,
+      "noSpecificTime": false
+     },
+     "timezone": "America/Los_Angeles",
+     "status": {
+      "code": "onsale"
+     },
+     "spanMultipleDays": false
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7nE",
+       "name": "Sports"
+      },
+      "genre": {
+       "id": "KnvZfZ7vAAk",
+       "name": "Wrestling"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7vFna",
+       "name": "Wrestling"
+      },
+      "type": {
+       "id": "KZAyXgnZfZ7v7nI",
+       "name": "Undefined"
+      },
+      "subType": {
+       "id": "KZFzBErXgnZfZ7v7lJ",
+       "name": "Undefined"
+      },
+      "family": false
+     }
+    ],
+    "priceRanges": [
+     {
+      "type": "standard",
+      "currency": "USD",
+      "min": 33.3,
+      "max": 54.4
+     }
+    ],
+    "nameOrigin": "custom",
+    "_embedded": {
+     "venues": [
+      {
+       "name": "Battleborn Harley Davidson",
+       "type": "venue",
+       "id": "rZ7HnEZ17OvuV",
+       "test": false,
+       "url": "https://www.ticketweb.com/venue/battleborn-harley-davidson-carson-city-nv/801374",
+       "locale": "en-us",
+       "distance": 24.01,
+       "units": "MILES",
+       "postalCode": "89706",
+       "timezone": "America/Los_Angeles",
+       "city": {
+        "name": "Carson City"
+       },
+       "state": {
+        "name": "Nevada",
+        "stateCode": "NV"
+       },
+       "country": {
+        "name": "United States Of America",
+        "countryCode": "US"
+       },
+       "address": {
+        "line1": "2900 Research Way"
+       },
+       "location": {
+        "longitude": "-119.7474657",
+        "latitude": "39.1858525"
+       },
+       "upcomingEvents": {
+        "ticketweb": 1,
+        "_total": 1,
+        "_filtered": 0
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Laugh Factory",
+    "type": "event",
+    "id": "1Ad0Z_FGkBI3xhP",
+    "test": false,
+    "url": "https://www.ticketmaster.com/laugh-factory-reno-nevada-10-10-2026/event/3900648EA84A26E5",
+    "locale": "en-us",
+    "distance": 0.11,
+    "units": "MILES",
+    "dates": {
+     "start": {
+      "localDate": "2026-10-10",
+      "localTime": "19:30:00",
+      "dateTime": "2026-10-11T02:30:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "timezone": "America/Los_Angeles",
+     "status": {
+      "code": "onsale"
+     },
+     "spanMultipleDays": false
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7na",
+       "name": "Arts & Theatre"
+      },
+      "genre": {
+       "id": "KnvZfZ7vAe1",
+       "name": "Comedy"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7vF17",
+       "name": "Comedy"
+      },
+      "type": {
+       "id": "KZAyXgnZfZ7v7nI",
+       "name": "Undefined"
+      },
+      "subType": {
+       "id": "KZFzBErXgnZfZ7v7lJ",
+       "name": "Undefined"
+      },
+      "family": false
+     }
+    ],
+    "ageRestrictions": {
+     "legalAgeEnforced": false
+    },
+    "ticketing": {
+     "safeTix": {
+      "enabled": true
+     },
+     "allInclusivePricing": {
+      "enabled": true
+     }
+    },
+    "nameOrigin": "custom",
+    "ticketTextLines": {
+     "en-us": {
+      "line6": " SAT OCT 10 2026 7:30 PM  ",
+      "line5": "   MUST BE 18 OR OLDER    ",
+      "line4": "   SILVER LEGACY CASINO   ",
+      "line3": "          ******          ",
+      "line2": "      LAUGH FACTORY       ",
+      "line1": "          ******          "
+     }
+    },
+    "_embedded": {
+     "venues": [
+      {
+       "name": "Laugh Factory at the Silver Legacy Casino",
+       "type": "venue",
+       "id": "KovZ917AP-J",
+       "test": false,
+       "url": "https://www.ticketmaster.com/laugh-factory-at-the-silver-legacy-tickets-reno/venue/467963",
+       "locale": "en-us",
+       "distance": 0.11,
+       "units": "MILES",
+       "postalCode": "89501",
+       "timezone": "America/Los_Angeles",
+       "city": {
+        "name": "Reno"
+       },
+       "state": {
+        "name": "Nevada",
+        "stateCode": "NV"
+       },
+       "country": {
+        "name": "United States Of America",
+        "countryCode": "US"
+       },
+       "address": {
+        "line1": "407 N Virginia St"
+       },
+       "location": {
+        "longitude": "-119.81531385",
+        "latitude": "39.53069210"
+       },
+       "markets": [
+        {
+         "name": "N. California/N. Nevada",
+         "id": "41"
+        }
+       ],
+       "dmas": [
+        {
+         "id": 250
+        },
+        {
+         "id": 273
+        },
+        {
+         "id": 282
+        },
+        {
+         "id": 341
+        },
+        {
+         "id": 368
+        },
+        {
+         "id": 374
+        },
+        {
+         "id": 382
+        }
+       ],
+       "upcomingEvents": {
+        "ticketmaster": 76,
+        "_total": 76,
+        "_filtered": 0
+       }
+      }
+     ],
+     "attractions": [
+      {
+       "name": "Laugh Factory @ Silver Legacy",
+       "type": "attraction",
+       "id": "K8vZ917_KN7",
+       "test": false,
+       "url": "https://www.ticketmaster.com/laugh-factory-silver-legacy-tickets/artist/2779534",
+       "locale": "en-us",
+       "classifications": [
+        {
+         "primary": true,
+         "segment": {
+          "id": "KZFzniwnSyZfZ7v7na",
+          "name": "Arts & Theatre"
+         },
+         "genre": {
+          "id": "KnvZfZ7vAe1",
+          "name": "Comedy"
+         },
+         "subGenre": {
+          "id": "KZazBEonSMnZfZ7vF17",
+          "name": "Comedy"
+         },
+         "type": {
+          "id": "KZAyXgnZfZ7v7nI",
+          "name": "Undefined"
+         },
+         "subType": {
+          "id": "KZFzBErXgnZfZ7v7lJ",
+          "name": "Undefined"
+         },
+         "family": false
+        }
+       ],
+       "upcomingEvents": {
+        "ticketmaster": 76,
+        "_total": 76,
+        "_filtered": 0
+       }
+      },
+      {
+       "name": "Steve McGrew",
+       "type": "attraction",
+       "id": "K8vZ91726hf",
+       "test": false,
+       "url": "https://www.ticketmaster.com/steve-mcgrew-tickets/artist/796300",
+       "locale": "en-us",
+       "classifications": [
+        {
+         "primary": true,
+         "segment": {
+          "id": "KZFzniwnSyZfZ7v7na",
+          "name": "Arts & Theatre"
+         },
+         "genre": {
+          "id": "KnvZfZ7vAe1",
+          "name": "Comedy"
+         },
+         "subGenre": {
+          "id": "KZazBEonSMnZfZ7vF17",
+          "name": "Comedy"
+         },
+         "type": {
+          "id": "KZAyXgnZfZ7v7nI",
+          "name": "Undefined"
+         },
+         "subType": {
+          "id": "KZFzBErXgnZfZ7v7lJ",
+          "name": "Undefined"
+         },
+         "family": false
+        }
+       ],
+       "upcomingEvents": {
+        "ticketmaster": 7,
+        "_total": 7,
+        "_filtered": 0
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Alex Ramon \"Magic\"",
+    "type": "event",
+    "id": "17C8v0G61Nbe6eF",
+    "test": false,
+    "url": "https://www.ticketmaster.com/alex-ramon-magic-lake-tahoe-nevada-10-10-2026/event/390064A8D8087088",
+    "locale": "en-us",
+    "distance": 39.77,
+    "units": "MILES",
+    "dates": {
+     "start": {
+      "localDate": "2026-10-10",
+      "localTime": "19:30:00",
+      "dateTime": "2026-10-11T02:30:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "timezone": "America/Los_Angeles",
+     "status": {
+      "code": "cancelled"
+     },
+     "spanMultipleDays": false
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7na",
+       "name": "Arts & Theatre"
+      },
+      "genre": {
+       "id": "KnvZfZ7v7lv",
+       "name": "Magic & Illusion"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7v7l7",
+       "name": "Magic"
+      },
+      "type": {
+       "id": "KZAyXgnZfZ7v7nI",
+       "name": "Undefined"
+      },
+      "subType": {
+       "id": "KZFzBErXgnZfZ7v7lJ",
+       "name": "Undefined"
+      },
+      "family": false
+     }
+    ],
+    "ageRestrictions": {
+     "legalAgeEnforced": false
+    },
+    "ticketing": {
+     "safeTix": {
+      "enabled": false
+     },
+     "allInclusivePricing": {
+      "enabled": true
+     }
+    },
+    "nameOrigin": "custom",
+    "ticketTextLines": {
+     "en-us": {
+      "line6": " SAT OCT 10 2026 7:30 PM  ",
+      "line5": "         ALL AGES         ",
+      "line4": "     SOUTH SHORE ROOM     ",
+      "line3": "          MAGIC           ",
+      "line2": "        ALEX RAMON        ",
+      "line1": " CANCELED-REFUNDS P.O.P.  "
+     }
+    },
+    "_embedded": {
+     "venues": [
+      {
+       "name": "South Shore Room at Harrah's Lake Tahoe",
+       "type": "venue",
+       "id": "KovZpZAJaJAA",
+       "test": false,
+       "url": "https://www.ticketmaster.com/south-shore-room-at-harrahs-lake-tickets-lake-tahoe/venue/467752",
+       "locale": "en-us",
+       "distance": 39.77,
+       "units": "MILES",
+       "postalCode": "89449",
+       "timezone": "America/Los_Angeles",
+       "city": {
+        "name": "Lake Tahoe"
+       },
+       "state": {
+        "name": "Nevada",
+        "stateCode": "NV"
+       },
+       "country": {
+        "name": "United States Of America",
+        "countryCode": "US"
+       },
+       "address": {
+        "line1": "15 Hwy 50"
+       },
+       "location": {
+        "longitude": "-119.93990290",
+        "latitude": "38.96240790"
+       },
+       "markets": [
+        {
+         "name": "N. California/N. Nevada",
+         "id": "41"
+        }
+       ],
+       "dmas": [
+        {
+         "id": 250
+        },
+        {
+         "id": 273
+        },
+        {
+         "id": 282
+        },
+        {
+         "id": 341
+        },
+        {
+         "id": 368
+        },
+        {
+         "id": 374
+        },
+        {
+         "id": 382
+        }
+       ],
+       "parkingDetail": "Available onsite",
+       "accessibleSeatingDetail": "*To better accommodate your needs the box office has requested that special seating accommodations be solicited through their representatives. Please call 775 588-6611 during box office hours",
+       "upcomingEvents": {
+        "ticketmaster": 33,
+        "_total": 33,
+        "_filtered": 0
+       }
+      }
+     ],
+     "attractions": [
+      {
+       "name": "Alex Ramon",
+       "type": "attraction",
+       "id": "K8vZ917pZ40",
+       "test": false,
+       "url": "https://www.ticketmaster.com/alex-ramon-tickets/artist/2216508",
+       "locale": "en-us",
+       "classifications": [
+        {
+         "primary": true,
+         "segment": {
+          "id": "KZFzniwnSyZfZ7v7na",
+          "name": "Arts & Theatre"
+         },
+         "genre": {
+          "id": "KnvZfZ7v7lv",
+          "name": "Magic & Illusion"
+         },
+         "subGenre": {
+          "id": "KZazBEonSMnZfZ7v7l7",
+          "name": "Magic"
+         },
+         "type": {
+          "id": "KZAyXgnZfZ7v7la",
+          "name": "Individual"
+         },
+         "subType": {
+          "id": "KZFzBErXgnZfZ7vAdA",
+          "name": "Magician"
+         },
+         "family": false
+        }
+       ],
+       "upcomingEvents": {
+        "ticketmaster": 9,
+        "_total": 9,
+        "_filtered": 0
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Rumours of Fleetwood Mac | Official Caesars Ticket + Hotel Packages",
+    "type": "event",
+    "id": "17C8v0G62qPPOSp",
+    "test": false,
+    "url": "https://travel.ticketmaster.com/en-US/event/127178590/pf?_uid=01e06df2-8b31-4246-b25c-04d738f89509&utm_source=Caesars_TM&utm_medium=TM_ADP_RumoursofFleetwoodMac1010",
+    "locale": "en-us",
+    "distance": 39.77,
+    "units": "MILES",
+    "dates": {
+     "start": {
+      "localDate": "2026-10-10",
+      "localTime": "19:30:00",
+      "dateTime": "2026-10-11T02:30:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "timezone": "America/Los_Angeles",
+     "status": {
+      "code": "onsale"
+     },
+     "spanMultipleDays": false
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7nJ",
+       "name": "Music"
+      },
+      "genre": {
+       "id": "KnvZfZ7vAe6",
+       "name": "Undefined"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7v6JI",
+       "name": "Undefined"
+      },
+      "type": {
+       "id": "KZAyXgnZfZ7v7l1",
+       "name": "Group"
+      },
+      "subType": {
+       "id": "KZFzBErXgnZfZ7vAAI",
+       "name": "Tribute Band"
+      },
+      "family": false
+     }
+    ],
+    "ageRestrictions": {
+     "legalAgeEnforced": false
+    },
+    "ticketing": {
+     "safeTix": {
+      "enabled": false
+     },
+     "allInclusivePricing": {
+      "enabled": false
+     }
+    },
+    "nameOrigin": "custom",
+    "ticketTextLines": {
+     "en-us": {
+      "line6": "   EVENT LISTING CHART    ",
+      "line5": "                          ",
+      "line4": "                          ",
+      "line3": "                          ",
+      "line2": "           NONE           ",
+      "line1": "                          "
+     }
+    },
+    "_embedded": {
+     "venues": [
+      {
+       "name": "South Shore Room at Harrah's Lake Tahoe",
+       "type": "venue",
+       "id": "KovZpZAJaJAA",
+       "test": false,
+       "url": "https://www.ticketmaster.com/south-shore-room-at-harrahs-lake-tickets-lake-tahoe/venue/467752",
+       "locale": "en-us",
+       "distance": 39.77,
+       "units": "MILES",
+       "postalCode": "89449",
+       "timezone": "America/Los_Angeles",
+       "city": {
+        "name": "Lake Tahoe"
+       },
+       "state": {
+        "name": "Nevada",
+        "stateCode": "NV"
+       },
+       "country": {
+        "name": "United States Of America",
+        "countryCode": "US"
+       },
+       "address": {
+        "line1": "15 Hwy 50"
+       },
+       "location": {
+        "longitude": "-119.93990290",
+        "latitude": "38.96240790"
+       },
+       "markets": [
+        {
+         "name": "N. California/N. Nevada",
+         "id": "41"
+        }
+       ],
+       "dmas": [
+        {
+         "id": 250
+        },
+        {
+         "id": 273
+        },
+        {
+         "id": 282
+        },
+        {
+         "id": 341
+        },
+        {
+         "id": 368
+        },
+        {
+         "id": 374
+        },
+        {
+         "id": 382
+        }
+       ],
+       "parkingDetail": "Available onsite",
+       "accessibleSeatingDetail": "*To better accommodate your needs the box office has requested that special seating accommodations be solicited through their representatives. Please call 775 588-6611 during box office hours",
+       "upcomingEvents": {
+        "ticketmaster": 33,
+        "_total": 33,
+        "_filtered": 0
+       }
+      }
+     ],
+     "attractions": [
+      {
+       "name": "Rumours of Fleetwood Mac",
+       "type": "attraction",
+       "id": "K8vZ9175no7",
+       "test": false,
+       "url": "https://www.ticketmaster.com/rumours-of-fleetwood-mac-tickets/artist/27157",
+       "locale": "en-us",
+       "externalLinks": {
+        "youtube": [
+         {
+          "url": "https://www.youtube.com/channel/UCTdyX5hhfUhEnbWRjlI22LQ"
+         }
+        ],
+        "twitter": [
+         {
+          "url": "https://twitter.com/rumoursfm"
+         }
+        ],
+        "facebook": [
+         {
+          "url": "https://www.facebook.com/pages/Rumours-Of-Fleetwood-Mac-Official/153658654677935"
+         }
+        ],
+        "instagram": [
+         {
+          "url": "https://instagram.com/rumoursoffleetwoodmac"
+         }
+        ],
+        "musicbrainz": [
+         {
+          "id": "b6b8a637-e4f1-4d30-b400-2116e9182630",
+          "url": "https://musicbrainz.org/artist/b6b8a637-e4f1-4d30-b400-2116e9182630"
+         }
+        ],
+        "homepage": [
+         {
+          "url": "https://www.rumoursoffleetwoodmac.com/"
+         }
+        ]
+       },
+       "classifications": [
+        {
+         "primary": true,
+         "segment": {
+          "id": "KZFzniwnSyZfZ7v7nJ",
+          "name": "Music"
+         },
+         "genre": {
+          "id": "KnvZfZ7vAe6",
+          "name": "Undefined"
+         },
+         "subGenre": {
+          "id": "KZazBEonSMnZfZ7v6JI",
+          "name": "Undefined"
+         },
+         "type": {
+          "id": "KZAyXgnZfZ7v7l1",
+          "name": "Group"
+         },
+         "subType": {
+          "id": "KZFzBErXgnZfZ7vAAI",
+          "name": "Tribute Band"
+         },
+         "family": false
+        }
+       ],
+       "upcomingEvents": {
+        "mfx-dk": 1,
+        "mfx-be": 1,
+        "tmr": 4,
+        "mfx-nl": 4,
+        "ticketmaster": 78,
+        "mfx-de": 1,
+        "trium": 3,
+        "mfx-no": 1,
+        "_total": 93,
+        "_filtered": 0
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Rumours of Fleetwood Mac",
+    "type": "event",
+    "id": "17C8v0G6Glt1wyo",
+    "test": false,
+    "url": "https://www.ticketmaster.com/rumours-of-fleetwood-mac-lake-tahoe-nevada-10-10-2026/event/390064CAE92B2E51",
+    "locale": "en-us",
+    "distance": 39.77,
+    "units": "MILES",
+    "dates": {
+     "start": {
+      "localDate": "2026-10-10",
+      "localTime": "19:30:00",
+      "dateTime": "2026-10-11T02:30:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "timezone": "America/Los_Angeles",
+     "status": {
+      "code": "onsale"
+     },
+     "spanMultipleDays": false
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7nJ",
+       "name": "Music"
+      },
+      "genre": {
+       "id": "KnvZfZ7vAe6",
+       "name": "Undefined"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7v6JI",
+       "name": "Undefined"
+      },
+      "type": {
+       "id": "KZAyXgnZfZ7v7l1",
+       "name": "Group"
+      },
+      "subType": {
+       "id": "KZFzBErXgnZfZ7vAAI",
+       "name": "Tribute Band"
+      },
+      "family": false
+     }
+    ],
+    "ageRestrictions": {
+     "legalAgeEnforced": false
+    },
+    "ticketing": {
+     "safeTix": {
+      "enabled": true
+     },
+     "allInclusivePricing": {
+      "enabled": true
+     }
+    },
+    "nameOrigin": "primaryAttraction",
+    "ticketTextLines": {
+     "en-us": {
+      "line6": " SAT OCT 10 2026 7:30 PM  ",
+      "line5": "     6+ YRS TO ATTEND     ",
+      "line4": "   HARRAH'S LAKE TAHOE    ",
+      "line3": "     SOUTH SHORE ROOM     ",
+      "line2": " RUMOURS OF FLEETWOOD MAC ",
+      "line1": "    HARRAH'S PRESENTS     "
+     }
+    },
+    "_embedded": {
+     "venues": [
+      {
+       "name": "South Shore Room at Harrah's Lake Tahoe",
+       "type": "venue",
+       "id": "KovZpZAJaJAA",
+       "test": false,
+       "url": "https://www.ticketmaster.com/south-shore-room-at-harrahs-lake-tickets-lake-tahoe/venue/467752",
+       "locale": "en-us",
+       "distance": 39.77,
+       "units": "MILES",
+       "postalCode": "89449",
+       "timezone": "America/Los_Angeles",
+       "city": {
+        "name": "Lake Tahoe"
+       },
+       "state": {
+        "name": "Nevada",
+        "stateCode": "NV"
+       },
+       "country": {
+        "name": "United States Of America",
+        "countryCode": "US"
+       },
+       "address": {
+        "line1": "15 Hwy 50"
+       },
+       "location": {
+        "longitude": "-119.93990290",
+        "latitude": "38.96240790"
+       },
+       "markets": [
+        {
+         "name": "N. California/N. Nevada",
+         "id": "41"
+        }
+       ],
+       "dmas": [
+        {
+         "id": 250
+        },
+        {
+         "id": 273
+        },
+        {
+         "id": 282
+        },
+        {
+         "id": 341
+        },
+        {
+         "id": 368
+        },
+        {
+         "id": 374
+        },
+        {
+         "id": 382
+        }
+       ],
+       "parkingDetail": "Available onsite",
+       "accessibleSeatingDetail": "*To better accommodate your needs the box office has requested that special seating accommodations be solicited through their representatives. Please call 775 588-6611 during box office hours",
+       "upcomingEvents": {
+        "ticketmaster": 33,
+        "_total": 33,
+        "_filtered": 0
+       }
+      }
+     ],
+     "attractions": [
+      {
+       "name": "Rumours of Fleetwood Mac",
+       "type": "attraction",
+       "id": "K8vZ9175no7",
+       "test": false,
+       "url": "https://www.ticketmaster.com/rumours-of-fleetwood-mac-tickets/artist/27157",
+       "locale": "en-us",
+       "externalLinks": {
+        "youtube": [
+         {
+          "url": "https://www.youtube.com/channel/UCTdyX5hhfUhEnbWRjlI22LQ"
+         }
+        ],
+        "twitter": [
+         {
+          "url": "https://twitter.com/rumoursfm"
+         }
+        ],
+        "facebook": [
+         {
+          "url": "https://www.facebook.com/pages/Rumours-Of-Fleetwood-Mac-Official/153658654677935"
+         }
+        ],
+        "instagram": [
+         {
+          "url": "https://instagram.com/rumoursoffleetwoodmac"
+         }
+        ],
+        "musicbrainz": [
+         {
+          "id": "b6b8a637-e4f1-4d30-b400-2116e9182630",
+          "url": "https://musicbrainz.org/artist/b6b8a637-e4f1-4d30-b400-2116e9182630"
+         }
+        ],
+        "homepage": [
+         {
+          "url": "https://www.rumoursoffleetwoodmac.com/"
+         }
+        ]
+       },
+       "classifications": [
+        {
+         "primary": true,
+         "segment": {
+          "id": "KZFzniwnSyZfZ7v7nJ",
+          "name": "Music"
+         },
+         "genre": {
+          "id": "KnvZfZ7vAe6",
+          "name": "Undefined"
+         },
+         "subGenre": {
+          "id": "KZazBEonSMnZfZ7v6JI",
+          "name": "Undefined"
+         },
+         "type": {
+          "id": "KZAyXgnZfZ7v7l1",
+          "name": "Group"
+         },
+         "subType": {
+          "id": "KZFzBErXgnZfZ7vAAI",
+          "name": "Tribute Band"
+         },
+         "family": false
+        }
+       ],
+       "upcomingEvents": {
+        "mfx-dk": 1,
+        "mfx-be": 1,
+        "tmr": 4,
+        "mfx-nl": 4,
+        "ticketmaster": 78,
+        "mfx-de": 1,
+        "trium": 3,
+        "mfx-no": 1,
+        "_total": 93,
+        "_filtered": 0
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Gabriel Iglesias: The 1976 Tour",
+    "type": "event",
+    "id": "1AvjZ_FGkD6MUh7",
+    "test": false,
+    "url": "https://www.ticketmaster.com/gabriel-iglesias-the-1976-tour-reno-nevada-10-10-2026/event/1700648EC7DF66C4",
+    "locale": "en-us",
+    "distance": 0.06,
+    "units": "MILES",
+    "dates": {
+     "start": {
+      "localDate": "2026-10-10",
+      "localTime": "20:00:00",
+      "dateTime": "2026-10-11T03:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "timezone": "America/Los_Angeles",
+     "status": {
+      "code": "onsale"
+     },
+     "spanMultipleDays": false
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7na",
+       "name": "Arts & Theatre"
+      },
+      "genre": {
+       "id": "KnvZfZ7vAe1",
+       "name": "Comedy"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7vF17",
+       "name": "Comedy"
+      },
+      "type": {
+       "id": "KZAyXgnZfZ7v7nI",
+       "name": "Undefined"
+      },
+      "subType": {
+       "id": "KZFzBErXgnZfZ7v7lJ",
+       "name": "Undefined"
+      },
+      "family": false
+     }
+    ],
+    "ageRestrictions": {
+     "legalAgeEnforced": false
+    },
+    "doorsTimes": {
+     "localDate": "2026-10-10",
+     "localTime": "19:00:00",
+     "dateTime": "2026-10-11T02:00:00Z"
+    },
+    "ticketing": {
+     "safeTix": {
+      "enabled": true
+     },
+     "allInclusivePricing": {
+      "enabled": true
+     }
+    },
+    "nameOrigin": "custom",
+    "ticketTextLines": {
+     "en-us": {
+      "line6": " SAT OCT 10 2026 8:00 PM  ",
+      "line5": "400 UNIVERSITY WAY RENO NV",
+      "line4": "    RENO EVENTS CENTER    ",
+      "line3": "      THE 1976 TOUR       ",
+      "line2": "     GABRIEL IGLESIAS     ",
+      "line1": "  ICON CONCERTS PRESENTS  "
+     }
+    },
+    "linkMoreInfo": {
+     "url": "https://www.visitrenotahoe.com/event-venues/reno-events-center"
+    },
+    "_embedded": {
+     "venues": [
+      {
+       "name": "Reno Events Center",
+       "type": "venue",
+       "id": "KovZpZAa6teA",
+       "test": false,
+       "url": "https://www.ticketmaster.com/reno-events-center-tickets-reno/venue/189220",
+       "locale": "en-us",
+       "distance": 0.06,
+       "units": "MILES",
+       "postalCode": "89501",
+       "timezone": "America/Los_Angeles",
+       "city": {
+        "name": "Reno"
+       },
+       "state": {
+        "name": "Nevada",
+        "stateCode": "NV"
+       },
+       "country": {
+        "name": "United States Of America",
+        "countryCode": "US"
+       },
+       "address": {
+        "line1": "400 University Way"
+       },
+       "location": {
+        "longitude": "-119.81289350",
+        "latitude": "39.53017450"
+       },
+       "markets": [
+        {
+         "name": "N. California/N. Nevada",
+         "id": "41"
+        }
+       ],
+       "dmas": [
+        {
+         "id": 250
+        },
+        {
+         "id": 273
+        },
+        {
+         "id": 282
+        },
+        {
+         "id": 341
+        },
+        {
+         "id": 368
+        },
+        {
+         "id": 374
+        },
+        {
+         "id": 382
+        }
+       ],
+       "social": {
+        "twitter": {
+         "handle": "@RenoTahoe"
+        }
+       },
+       "parkingDetail": "There are a limited number of parking spaces available in the National Bowling Stadium parking lot. There are also many public and private lots situated near the Events Center. Customers can park at Circus Circus or Fitzgerald's. Sorry >>NO<< RV parking available in the National Bowling Stadium parking lot.",
+       "accessibleSeatingDetail": "Accessible seating is located on platforms at the bottom of all 100 section seating. Accessible doors to facility are located at the Southwest, Southeast and Northwest entrances",
+       "upcomingEvents": {
+        "ticketmaster": 6,
+        "_total": 6,
+        "_filtered": 0
+       }
+      }
+     ],
+     "attractions": [
+      {
+       "name": "Gabriel Iglesias",
+       "type": "attraction",
+       "id": "K8vZ9175rM7",
+       "test": false,
+       "url": "https://www.ticketmaster.com/gabriel-iglesias-tickets/artist/853206",
+       "locale": "en-us",
+       "aliases": [
+        "fluffy"
+       ],
+       "classifications": [
+        {
+         "primary": true,
+         "segment": {
+          "id": "KZFzniwnSyZfZ7v7na",
+          "name": "Arts & Theatre"
+         },
+         "genre": {
+          "id": "KnvZfZ7vAe1",
+          "name": "Comedy"
+         },
+         "subGenre": {
+          "id": "KZazBEonSMnZfZ7vF17",
+          "name": "Comedy"
+         },
+         "type": {
+          "id": "KZAyXgnZfZ7v7nI",
+          "name": "Undefined"
+         },
+         "subType": {
+          "id": "KZFzBErXgnZfZ7v7lJ",
+          "name": "Undefined"
+         },
+         "family": false
+        }
+       ],
+       "upcomingEvents": {
+        "tmr": 3,
+        "ticketmaster": 18,
+        "_total": 21,
+        "_filtered": 0
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Strangelove: The Depeche Mode Experience with Asphalt Socialites and DJ Bobby G",
+    "type": "event",
+    "id": "rZ7HnEZ1AfPNPK",
+    "test": false,
+    "url": "https://www.ticketweb.com/event/strangelove-the-depeche-mode-experience-cargo-concert-hall-tickets/14963953",
+    "locale": "en-us",
+    "distance": 0.1,
+    "units": "MILES",
+    "dates": {
+     "access": {
+      "startDateTime": "2026-10-11T02:00:00Z",
+      "startApproximate": false,
+      "endApproximate": false
+     },
+     "start": {
+      "localDate": "2026-10-10",
+      "localTime": "20:00:00",
+      "dateTime": "2026-10-11T03:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "end": {
+      "approximate": false,
+      "noSpecificTime": false
+     },
+     "timezone": "America/Los_Angeles",
+     "status": {
+      "code": "onsale"
+     },
+     "spanMultipleDays": false
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7nJ",
+       "name": "Music"
+      },
+      "genre": {
+       "id": "KnvZfZ7vAvl",
+       "name": "Other"
+      },
+      "type": {
+       "id": "KZAyXgnZfZ7v7nI",
+       "name": "Undefined"
+      },
+      "subType": {
+       "id": "KZFzBErXgnZfZ7v7lJ",
+       "name": "Undefined"
+      },
+      "family": false
+     },
+     {
+      "primary": false,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7nJ",
+       "name": "Music"
+      },
+      "genre": {
+       "id": "KnvZfZ7vAeA",
+       "name": "Rock"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7v6F1",
+       "name": "Pop"
+      },
+      "type": {
+       "id": "KZAyXgnZfZ7v7nI",
+       "name": "Undefined"
+      },
+      "subType": {
+       "id": "KZFzBErXgnZfZ7v7lJ",
+       "name": "Undefined"
+      },
+      "family": false
+     },
+     {
+      "primary": false,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7nJ",
+       "name": "Music"
+      },
+      "genre": {
+       "id": "KnvZfZ7vAvl",
+       "name": "Other"
+      },
+      "type": {
+       "id": "KZAyXgnZfZ7v7nI",
+       "name": "Undefined"
+      },
+      "subType": {
+       "id": "KZFzBErXgnZfZ7v7lJ",
+       "name": "Undefined"
+      },
+      "family": false
+     }
+    ],
+    "priceRanges": [
+     {
+      "type": "standard",
+      "currency": "USD",
+      "min": 34.61,
+      "max": 34.61
+     }
+    ],
+    "nameOrigin": "custom",
+    "_embedded": {
+     "venues": [
+      {
+       "name": "Cargo Concert Hall",
+       "type": "venue",
+       "id": "rZ7HnEZ17GZC4",
+       "test": false,
+       "url": "https://www.ticketweb.com/venue/cargo-concert-hall-reno-nv/300395",
+       "locale": "en-us",
+       "distance": 0.1,
+       "units": "MILES",
+       "postalCode": "89501",
+       "timezone": "America/Los_Angeles",
+       "city": {
+        "name": "Reno"
+       },
+       "state": {
+        "name": "Nevada",
+        "stateCode": "NV"
+       },
+       "country": {
+        "name": "United States Of America",
+        "countryCode": "US"
+       },
+       "address": {
+        "line1": "255 North Virginia Street"
+       },
+       "location": {
+        "longitude": "-119.81377",
+        "latitude": "39.528097"
+       },
+       "upcomingEvents": {
+        "ticketweb": 17,
+        "_total": 17,
+        "_filtered": 0
+       }
+      }
+     ],
+     "attractions": [
+      {
+       "name": "Strangelove: The Depeche Mode Experience",
+       "type": "attraction",
+       "id": "K8vZ917uMC0",
+       "test": false,
+       "url": "https://www.ticketmaster.com/strangelove-the-depeche-mode-experience-tickets/artist/1543273",
+       "locale": "en-us",
+       "externalLinks": {
+        "youtube": [
+         {
+          "url": "https://www.youtube.com/strangelove"
+         }
+        ],
+        "twitter": [
+         {
+          "url": "https://twitter.com/depechetribute"
+         }
+        ],
+        "facebook": [
+         {
+          "url": "https://www.facebook.com/strangelovetribute/"
+         }
+        ],
+        "wiki": [
+         {
+          "url": "https://en.wikipedia.org/wiki/Strangelove_(band)"
+         }
+        ],
+        "instagram": [
+         {
+          "url": "https://www.instagram.com/strangelovetribute/"
+         }
+        ],
+        "musicbrainz": [
+         {
+          "id": "dbc22c3d-ed99-4267-a1e4-990d5c405d79",
+          "url": "https://musicbrainz.org/artist/dbc22c3d-ed99-4267-a1e4-990d5c405d79"
+         }
+        ],
+        "homepage": [
+         {
+          "url": "https://www.depechetribute.com/"
+         }
+        ]
+       },
+       "classifications": [
+        {
+         "primary": true,
+         "segment": {
+          "id": "KZFzniwnSyZfZ7v7nJ",
+          "name": "Music"
+         },
+         "genre": {
+          "id": "KnvZfZ7vAe6",
+          "name": "Undefined"
+         },
+         "subGenre": {
+          "id": "KZazBEonSMnZfZ7v6JI",
+          "name": "Undefined"
+         },
+         "type": {
+          "id": "KZAyXgnZfZ7v7l1",
+          "name": "Group"
+         },
+         "subType": {
+          "id": "KZFzBErXgnZfZ7vAAI",
+          "name": "Tribute Band"
+         },
+         "family": false
+        }
+       ],
+       "upcomingEvents": {
+        "mfx-cz": 1,
+        "tmr": 1,
+        "ticketmaster": 3,
+        "ticketweb": 2,
+        "mfx-de": 7,
+        "mfx-pl": 3,
+        "_total": 17,
+        "_filtered": 0
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Girls Night Out the Show",
+    "type": "event",
+    "id": "1718v0G6uq1NOmq",
+    "test": false,
+    "url": "https://www.ticketweb.com/event/girls-night-out-the-show-club-underground-tickets/14217284?REFERRAL_ID=tmfeed",
+    "locale": "en-us",
+    "distance": 0.41,
+    "units": "MILES",
+    "dates": {
+     "start": {
+      "localDate": "2026-10-10",
+      "localTime": "20:00:00",
+      "dateTime": "2026-10-11T03:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "timezone": "America/Los_Angeles",
+     "status": {
+      "code": "onsale"
+     },
+     "spanMultipleDays": false
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7na",
+       "name": "Arts & Theatre"
+      },
+      "genre": {
+       "id": "KnvZfZ7v7l1",
+       "name": "Theatre"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7v7lI",
+       "name": "Comedy"
+      },
+      "type": {
+       "id": "KZAyXgnZfZ7v7nI",
+       "name": "Undefined"
+      },
+      "subType": {
+       "id": "KZFzBErXgnZfZ7v7lJ",
+       "name": "Undefined"
+      },
+      "family": false
+     }
+    ],
+    "ageRestrictions": {
+     "legalAgeEnforced": false
+    },
+    "ticketing": {
+     "safeTix": {
+      "enabled": false
+     },
+     "allInclusivePricing": {
+      "enabled": false
+     }
+    },
+    "nameOrigin": "custom",
+    "ticketTextLines": {
+     "en-us": {
+      "line6": "        1 XNUMBER         ",
+      "line5": "         250 OPEN         ",
+      "line4": "       500 CAPACITY       ",
+      "line3": "                          ",
+      "line2": "    RESERVED GA CHART     ",
+      "line1": "          * * *           "
+     }
+    },
+    "_embedded": {
+     "venues": [
+      {
+       "name": "Club Underground",
+       "type": "venue",
+       "id": "KovZ917AYle",
+       "test": false,
+       "url": "https://www.ticketmaster.com/club-underground-tickets-reno/venue/189576",
+       "locale": "en-us",
+       "distance": 0.41,
+       "units": "MILES",
+       "postalCode": "89512",
+       "timezone": "America/Los_Angeles",
+       "city": {
+        "name": "Reno"
+       },
+       "state": {
+        "name": "Nevada",
+        "stateCode": "NV"
+       },
+       "country": {
+        "name": "United States Of America",
+        "countryCode": "US"
+       },
+       "address": {
+        "line1": "555 E 4th St"
+       },
+       "location": {
+        "longitude": "-119.80657600",
+        "latitude": "39.53150600"
+       },
+       "markets": [
+        {
+         "name": "N. California/N. Nevada",
+         "id": "41"
+        }
+       ],
+       "dmas": [
+        {
+         "id": 250
+        },
+        {
+         "id": 273
+        },
+        {
+         "id": 282
+        },
+        {
+         "id": 341
+        },
+        {
+         "id": 368
+        },
+        {
+         "id": 374
+        },
+        {
+         "id": 382
+        }
+       ],
+       "upcomingEvents": {
+        "tmr": 7,
+        "ticketmaster": 19,
+        "_total": 26,
+        "_filtered": 0
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "PROJECTflow #28",
+    "type": "event",
+    "id": "rZ7HnEZ1Afata7",
+    "test": false,
+    "url": "https://www.ticketweb.com/event/projectflow-28-the-alpine-tickets/14269244",
+    "locale": "en-us",
+    "distance": 0.27,
+    "units": "MILES",
+    "dates": {
+     "access": {
+      "startDateTime": "2026-10-11T03:00:00Z",
+      "startApproximate": false,
+      "endDateTime": "2026-10-11T06:30:00Z",
+      "endApproximate": false
+     },
+     "start": {
+      "localDate": "2026-10-10",
+      "localTime": "20:30:00",
+      "dateTime": "2026-10-11T03:30:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "end": {
+      "localDate": "2026-10-10",
+      "localTime": "23:30:00",
+      "dateTime": "2026-10-11T06:30:00Z",
+      "approximate": false,
+      "noSpecificTime": false
+     },
+     "timezone": "America/Los_Angeles",
+     "status": {
+      "code": "onsale"
+     },
+     "spanMultipleDays": false
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7nJ",
+       "name": "Music"
+      },
+      "genre": {
+       "id": "KnvZfZ7vAv1",
+       "name": "Hip-Hop/Rap"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7vkdA",
+       "name": "Urban"
+      },
+      "type": {
+       "id": "KZAyXgnZfZ7v7nI",
+       "name": "Undefined"
+      },
+      "subType": {
+       "id": "KZFzBErXgnZfZ7v7lJ",
+       "name": "Undefined"
+      },
+      "family": false
+     }
+    ],
+    "priceRanges": [
+     {
+      "type": "standard",
+      "currency": "USD",
+      "min": 13.35,
+      "max": 24.15
+     }
+    ],
+    "nameOrigin": "custom",
+    "_embedded": {
+     "venues": [
+      {
+       "name": "The Alpine",
+       "type": "venue",
+       "id": "rZ7HnEZ17f6fA",
+       "test": false,
+       "url": "https://www.ticketweb.com/venue/the-alpine-reno-nv/507505",
+       "locale": "en-us",
+       "distance": 0.27,
+       "units": "MILES",
+       "postalCode": "89512",
+       "timezone": "America/Los_Angeles",
+       "city": {
+        "name": "Reno"
+       },
+       "state": {
+        "name": "Nevada",
+        "stateCode": "NV"
+       },
+       "country": {
+        "name": "United States Of America",
+        "countryCode": "US"
+       },
+       "address": {
+        "line1": "324 E 4th St"
+       },
+       "location": {
+        "longitude": "-119.809043",
+        "latitude": "39.5309066"
+       },
+       "upcomingEvents": {
+        "tmr": 2,
+        "ticketweb": 21,
+        "_total": 23,
+        "_filtered": 0
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Laugh Factory",
+    "type": "event",
+    "id": "1Ad0Z_FGkBIKxhE",
+    "test": false,
+    "url": "https://www.ticketmaster.com/laugh-factory-reno-nevada-10-10-2026/event/3900648EA84E26E7",
+    "locale": "en-us",
+    "distance": 0.11,
+    "units": "MILES",
+    "dates": {
+     "start": {
+      "localDate": "2026-10-10",
+      "localTime": "21:30:00",
+      "dateTime": "2026-10-11T04:30:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "timezone": "America/Los_Angeles",
+     "status": {
+      "code": "onsale"
+     },
+     "spanMultipleDays": false
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7na",
+       "name": "Arts & Theatre"
+      },
+      "genre": {
+       "id": "KnvZfZ7vAe1",
+       "name": "Comedy"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7vF17",
+       "name": "Comedy"
+      },
+      "type": {
+       "id": "KZAyXgnZfZ7v7nI",
+       "name": "Undefined"
+      },
+      "subType": {
+       "id": "KZFzBErXgnZfZ7v7lJ",
+       "name": "Undefined"
+      },
+      "family": false
+     }
+    ],
+    "ageRestrictions": {
+     "legalAgeEnforced": false
+    },
+    "ticketing": {
+     "safeTix": {
+      "enabled": true
+     },
+     "allInclusivePricing": {
+      "enabled": true
+     }
+    },
+    "nameOrigin": "custom",
+    "ticketTextLines": {
+     "en-us": {
+      "line6": " SAT OCT 10 2026 9:30 PM  ",
+      "line5": "   MUST BE 18 OR OLDER    ",
+      "line4": "   SILVER LEGACY CASINO   ",
+      "line3": "          ******          ",
+      "line2": "      LAUGH FACTORY       ",
+      "line1": "          ******          "
+     }
+    },
+    "_embedded": {
+     "venues": [
+      {
+       "name": "Laugh Factory at the Silver Legacy Casino",
+       "type": "venue",
+       "id": "KovZ917AP-J",
+       "test": false,
+       "url": "https://www.ticketmaster.com/laugh-factory-at-the-silver-legacy-tickets-reno/venue/467963",
+       "locale": "en-us",
+       "distance": 0.11,
+       "units": "MILES",
+       "postalCode": "89501",
+       "timezone": "America/Los_Angeles",
+       "city": {
+        "name": "Reno"
+       },
+       "state": {
+        "name": "Nevada",
+        "stateCode": "NV"
+       },
+       "country": {
+        "name": "United States Of America",
+        "countryCode": "US"
+       },
+       "address": {
+        "line1": "407 N Virginia St"
+       },
+       "location": {
+        "longitude": "-119.81531385",
+        "latitude": "39.53069210"
+       },
+       "markets": [
+        {
+         "name": "N. California/N. Nevada",
+         "id": "41"
+        }
+       ],
+       "dmas": [
+        {
+         "id": 250
+        },
+        {
+         "id": 273
+        },
+        {
+         "id": 282
+        },
+        {
+         "id": 341
+        },
+        {
+         "id": 368
+        },
+        {
+         "id": 374
+        },
+        {
+         "id": 382
+        }
+       ],
+       "upcomingEvents": {
+        "ticketmaster": 76,
+        "_total": 76,
+        "_filtered": 0
+       }
+      }
+     ],
+     "attractions": [
+      {
+       "name": "Laugh Factory @ Silver Legacy",
+       "type": "attraction",
+       "id": "K8vZ917_KN7",
+       "test": false,
+       "url": "https://www.ticketmaster.com/laugh-factory-silver-legacy-tickets/artist/2779534",
+       "locale": "en-us",
+       "classifications": [
+        {
+         "primary": true,
+         "segment": {
+          "id": "KZFzniwnSyZfZ7v7na",
+          "name": "Arts & Theatre"
+         },
+         "genre": {
+          "id": "KnvZfZ7vAe1",
+          "name": "Comedy"
+         },
+         "subGenre": {
+          "id": "KZazBEonSMnZfZ7vF17",
+          "name": "Comedy"
+         },
+         "type": {
+          "id": "KZAyXgnZfZ7v7nI",
+          "name": "Undefined"
+         },
+         "subType": {
+          "id": "KZFzBErXgnZfZ7v7lJ",
+          "name": "Undefined"
+         },
+         "family": false
+        }
+       ],
+       "upcomingEvents": {
+        "ticketmaster": 76,
+        "_total": 76,
+        "_filtered": 0
+       }
+      },
+      {
+       "name": "Steve McGrew",
+       "type": "attraction",
+       "id": "K8vZ91726hf",
+       "test": false,
+       "url": "https://www.ticketmaster.com/steve-mcgrew-tickets/artist/796300",
+       "locale": "en-us",
+       "classifications": [
+        {
+         "primary": true,
+         "segment": {
+          "id": "KZFzniwnSyZfZ7v7na",
+          "name": "Arts & Theatre"
+         },
+         "genre": {
+          "id": "KnvZfZ7vAe1",
+          "name": "Comedy"
+         },
+         "subGenre": {
+          "id": "KZazBEonSMnZfZ7vF17",
+          "name": "Comedy"
+         },
+         "type": {
+          "id": "KZAyXgnZfZ7v7nI",
+          "name": "Undefined"
+         },
+         "subType": {
+          "id": "KZFzBErXgnZfZ7v7lJ",
+          "name": "Undefined"
+         },
+         "family": false
+        }
+       ],
+       "upcomingEvents": {
+        "ticketmaster": 7,
+        "_total": 7,
+        "_filtered": 0
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Wine Walk Two Day Pass 12PM - 5PM",
+    "type": "event",
+    "id": "1Ad0Z_8GkyB5JtY",
+    "test": false,
+    "url": "https://www.ticketmaster.com/wine-walk-two-day-pass-12pm-reno-nevada-10-10-2026/event/3900650E7A2E6A70",
+    "locale": "en-us",
+    "distance": 0.02,
+    "units": "MILES",
+    "dates": {
+     "start": {
+      "localDate": "2026-10-10",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": true
+     },
+     "end": {
+      "localDate": "2026-10-11",
+      "approximate": false,
+      "noSpecificTime": true
+     },
+     "timezone": "America/Los_Angeles",
+     "status": {
+      "code": "onsale"
+     },
+     "spanMultipleDays": false
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7n1",
+       "name": "Miscellaneous"
+      },
+      "genre": {
+       "id": "KnvZfZ7v7ll",
+       "name": "Undefined"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7vAv1",
+       "name": "Undefined"
+      },
+      "type": {
+       "id": "KZAyXgnZfZ7v7lt",
+       "name": "Event Style"
+      },
+      "subType": {
+       "id": "KZFzBErXgnZfZ7vA6E",
+       "name": "Festival"
+      },
+      "family": false
+     }
+    ],
+    "ageRestrictions": {
+     "legalAgeEnforced": false
+    },
+    "ticketing": {
+     "safeTix": {
+      "enabled": false
+     },
+     "allInclusivePricing": {
+      "enabled": true
+     }
+    },
+    "nameOrigin": "custom",
+    "ticketTextLines": {
+     "en-us": {
+      "line6": " SAT OCT 10 & SUN OCT 11  ",
+      "line5": "     12:00PM - 5:00PM     ",
+      "line4": " WINE WALK - TWO DAY PASS ",
+      "line3": "  GREAT ITALIAN FESTIVAL  ",
+      "line2": "       44TH ANNUAL        ",
+      "line1": "    ELDORADO PRESENTS     "
+     }
+    },
+    "_embedded": {
+     "venues": [
+      {
+       "name": "Eldorado Casino Reno",
+       "type": "venue",
+       "id": "KovZ917AElm",
+       "test": false,
+       "url": "https://www.ticketmaster.com/eldorado-casino-reno-tickets-reno/venue/467971",
+       "locale": "en-us",
+       "distance": 0.02,
+       "units": "MILES",
+       "postalCode": "89501",
+       "timezone": "America/Los_Angeles",
+       "city": {
+        "name": "Reno"
+       },
+       "state": {
+        "name": "Nevada",
+        "stateCode": "NV"
+       },
+       "country": {
+        "name": "United States Of America",
+        "countryCode": "US"
+       },
+       "address": {
+        "line1": "345 N. Virginia St."
+       },
+       "location": {
+        "longitude": "-119.81406370",
+        "latitude": "39.52933970"
+       },
+       "markets": [
+        {
+         "name": "N. California/N. Nevada",
+         "id": "41"
+        }
+       ],
+       "dmas": [
+        {
+         "id": 250
+        },
+        {
+         "id": 273
+        },
+        {
+         "id": 282
+        },
+        {
+         "id": 341
+        },
+        {
+         "id": 368
+        },
+        {
+         "id": 374
+        },
+        {
+         "id": 382
+        }
+       ],
+       "parkingDetail": "Free self parking with validation or free valet parking is available.",
+       "accessibleSeatingDetail": "The venue has accessible seating available.",
+       "upcomingEvents": {
+        "ticketmaster": 16,
+        "_total": 16,
+        "_filtered": 0
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Great Italian Festival VIP | Official Caesars Ticket + Hotel Packages",
+    "type": "event",
+    "id": "1Ad0Z_oGknrvx1M",
+    "test": false,
+    "url": "https://travel.ticketmaster.com/en-US/event/165309424/pf?_uid=01e06df2-8b31-4246-b25c-04d738f89509&utm_source=Caesars_TM&utm_medium=TM_ADP_GreatItalianFestivalVIPSunday10AM",
+    "locale": "en-us",
+    "distance": 0.02,
+    "units": "MILES",
+    "dates": {
+     "start": {
+      "localDate": "2026-10-11",
+      "localTime": "10:00:00",
+      "dateTime": "2026-10-11T17:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "timezone": "America/Los_Angeles",
+     "status": {
+      "code": "onsale"
+     },
+     "spanMultipleDays": false
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7n1",
+       "name": "Miscellaneous"
+      },
+      "genre": {
+       "id": "KnvZfZ7v7ll",
+       "name": "Undefined"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7vAv1",
+       "name": "Undefined"
+      },
+      "type": {
+       "id": "KZAyXgnZfZ7v7nJ",
+       "name": "Upsell"
+      },
+      "subType": {
+       "id": "KZFzBErXgnZfZ7v7l6",
+       "name": "Hotel Package"
+      },
+      "family": false
+     }
+    ],
+    "ageRestrictions": {
+     "legalAgeEnforced": false
+    },
+    "ticketing": {
+     "safeTix": {
+      "enabled": false
+     },
+     "allInclusivePricing": {
+      "enabled": false
+     }
+    },
+    "nameOrigin": "custom",
+    "ticketTextLines": {
+     "en-us": {
+      "line6": "   EVENT LISTING CHART    ",
+      "line5": "                          ",
+      "line4": "                          ",
+      "line3": "                          ",
+      "line2": "           NONE           ",
+      "line1": "                          "
+     }
+    },
+    "_embedded": {
+     "venues": [
+      {
+       "name": "Eldorado Casino Reno",
+       "type": "venue",
+       "id": "KovZ917AElm",
+       "test": false,
+       "url": "https://www.ticketmaster.com/eldorado-casino-reno-tickets-reno/venue/467971",
+       "locale": "en-us",
+       "distance": 0.02,
+       "units": "MILES",
+       "postalCode": "89501",
+       "timezone": "America/Los_Angeles",
+       "city": {
+        "name": "Reno"
+       },
+       "state": {
+        "name": "Nevada",
+        "stateCode": "NV"
+       },
+       "country": {
+        "name": "United States Of America",
+        "countryCode": "US"
+       },
+       "address": {
+        "line1": "345 N. Virginia St."
+       },
+       "location": {
+        "longitude": "-119.81406370",
+        "latitude": "39.52933970"
+       },
+       "markets": [
+        {
+         "name": "N. California/N. Nevada",
+         "id": "41"
+        }
+       ],
+       "dmas": [
+        {
+         "id": 250
+        },
+        {
+         "id": 273
+        },
+        {
+         "id": 282
+        },
+        {
+         "id": 341
+        },
+        {
+         "id": 368
+        },
+        {
+         "id": 374
+        },
+        {
+         "id": 382
+        }
+       ],
+       "parkingDetail": "Free self parking with validation or free valet parking is available.",
+       "accessibleSeatingDetail": "The venue has accessible seating available.",
+       "upcomingEvents": {
+        "ticketmaster": 16,
+        "_total": 16,
+        "_filtered": 0
+       }
+      }
+     ],
+     "attractions": [
+      {
+       "name": "Hotel Reservations",
+       "type": "attraction",
+       "id": "K8vZ917qBJ7",
+       "test": false,
+       "url": "https://www.ticketmaster.com/hotel-reservations-tickets/artist/3172343",
+       "locale": "en-us",
+       "classifications": [
+        {
+         "primary": true,
+         "segment": {
+          "id": "KZFzniwnSyZfZ7v7n1",
+          "name": "Miscellaneous"
+         },
+         "genre": {
+          "id": "KnvZfZ7v7ll",
+          "name": "Undefined"
+         },
+         "subGenre": {
+          "id": "KZazBEonSMnZfZ7vAv1",
+          "name": "Undefined"
+         },
+         "type": {
+          "id": "KZAyXgnZfZ7v7nJ",
+          "name": "Upsell"
+         },
+         "subType": {
+          "id": "KZFzBErXgnZfZ7v7l6",
+          "name": "Hotel Package"
+         },
+         "family": false
+        }
+       ],
+       "upcomingEvents": {
+        "ticketmaster": 50,
+        "_total": 50,
+        "_filtered": 0
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "The Great Italian Festival VIP Tent Sunday 10AM - 2PM",
+    "type": "event",
+    "id": "1ayZkf3J9fpZe82",
+    "test": false,
+    "url": "https://www.ticketmaster.com/the-great-italian-festival-vip-tent-reno-nevada-10-11-2026/event/39006512997516FE",
+    "locale": "en-us",
+    "distance": 0.02,
+    "units": "MILES",
+    "dates": {
+     "start": {
+      "localDate": "2026-10-11",
+      "localTime": "10:00:00",
+      "dateTime": "2026-10-11T17:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "timezone": "America/Los_Angeles",
+     "status": {
+      "code": "onsale"
+     },
+     "spanMultipleDays": false
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7n1",
+       "name": "Miscellaneous"
+      },
+      "genre": {
+       "id": "KnvZfZ7v7ll",
+       "name": "Undefined"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7vAv1",
+       "name": "Undefined"
+      },
+      "type": {
+       "id": "KZAyXgnZfZ7v7lt",
+       "name": "Event Style"
+      },
+      "subType": {
+       "id": "KZFzBErXgnZfZ7vA6E",
+       "name": "Festival"
+      },
+      "family": false
+     }
+    ],
+    "ageRestrictions": {
+     "legalAgeEnforced": false
+    },
+    "ticketing": {
+     "safeTix": {
+      "enabled": false
+     },
+     "allInclusivePricing": {
+      "enabled": true
+     }
+    },
+    "nameOrigin": "custom",
+    "ticketTextLines": {
+     "en-us": {
+      "line6": "     SUN OCT 11 2026      ",
+      "line5": "    10:00 AM - 2:00 PM    ",
+      "line4": "         VIP TENT         ",
+      "line3": "  GREAT ITALIAN FESTIVAL  ",
+      "line2": "       44TH ANNUAL        ",
+      "line1": "    ELDORADO PRESENTS     "
+     }
+    },
+    "_embedded": {
+     "venues": [
+      {
+       "name": "Eldorado Casino Reno",
+       "type": "venue",
+       "id": "KovZ917AElm",
+       "test": false,
+       "url": "https://www.ticketmaster.com/eldorado-casino-reno-tickets-reno/venue/467971",
+       "locale": "en-us",
+       "distance": 0.02,
+       "units": "MILES",
+       "postalCode": "89501",
+       "timezone": "America/Los_Angeles",
+       "city": {
+        "name": "Reno"
+       },
+       "state": {
+        "name": "Nevada",
+        "stateCode": "NV"
+       },
+       "country": {
+        "name": "United States Of America",
+        "countryCode": "US"
+       },
+       "address": {
+        "line1": "345 N. Virginia St."
+       },
+       "location": {
+        "longitude": "-119.81406370",
+        "latitude": "39.52933970"
+       },
+       "markets": [
+        {
+         "name": "N. California/N. Nevada",
+         "id": "41"
+        }
+       ],
+       "dmas": [
+        {
+         "id": 250
+        },
+        {
+         "id": 273
+        },
+        {
+         "id": 282
+        },
+        {
+         "id": 341
+        },
+        {
+         "id": 368
+        },
+        {
+         "id": 374
+        },
+        {
+         "id": 382
+        }
+       ],
+       "parkingDetail": "Free self parking with validation or free valet parking is available.",
+       "accessibleSeatingDetail": "The venue has accessible seating available.",
+       "upcomingEvents": {
+        "ticketmaster": 16,
+        "_total": 16,
+        "_filtered": 0
+       }
+      }
+     ]
+    }
+   }
+  ]
+ },
+ "page": {
+  "size": 200,
+  "totalElements": 49,
+  "totalPages": 1,
+  "number": 0
+ }
+}

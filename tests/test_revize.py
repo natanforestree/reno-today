@@ -70,6 +70,14 @@ class RevizeTest(unittest.TestCase):
         self.assertEqual([(e["area"], e["drive"]) for e in got],
                          [("reno", None), ("reno", None), ("tahoe", "~70 min")])
 
+    def test_html_entities_in_the_address_are_unescaped(self):
+        [e] = RENO.parse([{"id": 1, "title": "Fall Fest", "start": "2026-10-10T09:00:00", "end": "2026-10-10T11:00:00",
+                           "location": "Tahoe Blue event Center 75 Hwy 50,&nbsp; Stateline, NV"}],
+                         date(2026, 10, 5), date(2026, 10, 12))
+        self.assertEqual(e["venue"]["address"], "Tahoe Blue event Center 75 Hwy 50, Stateline, NV")
+        self.assertNotIn("&nbsp;", str(e["venue"]))
+        self.assertEqual(e["area"], "tahoe")
+
     def test_fetch_checks_the_shape(self):
         ctx = Context(la(2026, 10, 5), la(2026, 10, 13))
         with mock.patch.object(net, "get_json", lambda url, **kw: fixture_json("revize.json")):

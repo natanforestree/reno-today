@@ -1,6 +1,7 @@
 """City calendars on Revize sites (City of Reno, City of Sparks): one JSON array
 of every event, with recurring ones as RRULE strings. One class; an instance per city."""
 
+import html
 import re
 import urllib.parse
 from datetime import datetime, timedelta
@@ -57,7 +58,7 @@ class RevizeSource:
                 continue
             all_day = bool(e.get("allDay")) or (_midnight(start) and end is not None and _midnight(end) and end > start)
             length = _duration(e.get("duration")) or (end - start if end and not all_day and end > start else None)
-            raw_location = e.get("location") or ""
+            raw_location = " ".join(html.unescape(e.get("location") or "").split())
             found = URL_IN_TEXT.search(raw_location)
             location = URL_IN_TEXT.sub("", raw_location).strip(" ,")
             own = str(e.get("url") or "")
