@@ -3,7 +3,7 @@ fetch(ctx) -> list of model.make_event dicts, raising net.FetchError or
 sources.base.SourceError when it can't be read. Optional EVERY (timedelta):
 collect.py reuses the last good result while it's younger than that."""
 
-from sources import aces, library, ticketmaster, unr, wolfpack
+from sources import aces, library, ticketmaster, tockify, unr, wolfpack
 from sources.revize import RevizeSource
 from sources.tribe import TribeSource
 
@@ -23,4 +23,4 @@ CITY_OF_SPARKS = RevizeSource("sparks", "City of Sparks", "www.sparksnv.gov", "s
                               page_url="https://www.sparksnv.gov/calendar", skip_calendars={"2", "5"},
                               calendar_names={"1": "community events"})
 
-ALL = [ticketmaster, unr, wolfpack, aces, library, DISCOVERY, CITY_OF_RENO, CITY_OF_SPARKS, CARSON, SOUTH_TAHOE, VIRGINIA_CITY]
+ALL = [ticketmaster, unr, wolfpack, aces, library, tockify, DISCOVERY, CITY_OF_RENO, CITY_OF_SPARKS, CARSON, SOUTH_TAHOE, VIRGINIA_CITY]
