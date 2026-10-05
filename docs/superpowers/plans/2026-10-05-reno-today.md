@@ -27,6 +27,7 @@
 - **Facts only:** "Store and show only facts (name, time, place, price, link). Never copy write-ups."
   - Descriptions are used in memory for classification and are **never** written to `docs/data/`.
   - From Loving Reno we store only titles and URLs.
+  - Last-good results in `state/sources/` (committed to the public repo) keep `_text` reduced to `classify.cues(...)`, the matched keywords only. Real recordings in `tests/fixtures/real/` reduce description fields the same way.
 - **Secrets:**
   - `TICKETMASTER_KEY` and `DISCORD_WEBHOOK_URL` live only in repo secrets.
   - They never appear in committed files, `status.json` error text or logs. `net.FetchError` strips query strings and accepts a `label` for this.
@@ -56,7 +57,7 @@
 
 1. **Pipeline order:** the spec's diagram has normalise → classify → dedupe. This plan runs normalise → **dedupe → classify** → overrides. A merged event is then classified once, from the union of both listings' facts, which gives the same result with less code.
 2. **Digest times:** the digest shows `10:30am` / `1:05pm` instead of the spec example's bare `10:30` / `1:05`. Without am/pm, "1:05" is ambiguous.
-3. **Worth the drive** in the digest is always a header plus bullets (up to 5), like the other sections. The spec example shows a single inline item.
+3. **Worth the drive** in the digest is always a header plus bullets (up to 5), like the other sections. The spec example shows a single inline item. Each bullet starts with the time and names the **area** (e.g. `• 11am Lake Tahoe Oktoberfest (Lake Tahoe, ~55 min)`), not the town, because events carry an area, not a town.
 4. **`guide.json`** also stores `shortTitle`: the title up to its first colon. Loving Reno titles run to 200+ characters.
 5. **The page reads `docs/data/` from `raw.githubusercontent.com` first**, falling back to the Pages copy. Data commits then show within ~5 min even when Pages builds fail (seen 2026-10-05).
 6. **The workflow has a manual `force_digest` input** for testing the Discord message outside 07:00–10:59.
@@ -64,6 +65,11 @@
 8. **Drive times:** the table is per town. The South Shore (Stateline ~70 min, South Lake Tahoe ~75 min) is longer than the spec's "Tahoe ~45–60", which fits the North Shore.
 9. **Arcadipelago's minimum island width drops from 96 to 80 px.** With the Reno island ≤ 80 px wide, this is the smallest change that lets seven islands fit the landscape stage (Task 30).
 10. **Multi-day events** show on every day they cover (page and digest) when they're all-day, ongoing or 20 h+ long. A Fri–Sun festival appears each day; a show ending at 1 am doesn't spill into the next day.
+11. **"Everything else" has an "All day" group** before Morning / Afternoon / Evening / Late (spec lists the four timed groups). All-day events need a home; the group is hidden when empty.
+12. **`places.json` fields:** `setting` is `indoor` | `outdoor` | `both` (the spec says indoor/outdoor), plus `free`, `address` and `checked` (the date the hours were verified).
+13. **Loving Reno feed URL:** `/feeds/posts/summary` instead of `/feeds/posts/default`: same posts, without full post bodies (we only keep titles and URLs).
+14. **`status.json`** also stores each source's `label` and a top-level `generatedAt`.
+15. **Last-good results keep keyword cues, not descriptions** (`classify.cues`). The spec's "store only facts" applies to the committed `state/` files too; classification of reused events is unchanged.
 
 ## Review Focus
 
@@ -625,7 +631,7 @@ if __name__ == "__main__":
 
 - [ ] **Step 2: Run them to make sure they fail**
 
-Run: `python3 -m unittest tests/test_model.py -v` (from the repo root; `discover -s tests` also works)
+Run: `python3 -m unittest discover -s tests -p test_model.py -v` (from the repo root)
 Expected: `ModuleNotFoundError: No module named 'model'`
 
 - [ ] **Step 3: Implement** `collector/model.py`
@@ -803,7 +809,7 @@ def in_window(event, start, end):
 - [ ] **Step 4: Run them to make sure they pass**
 
 Run: `python3 -m unittest discover -s tests -v`
-Expected: all tests OK (Task 1's 9 + this task's 18)
+Expected: all tests OK (Task 1's 9 + this task's 19)
 
 - [ ] **Step 5: Commit**
 
@@ -1020,6 +1026,7 @@ git commit -m "Minimal iCalendar reader"
   - `classify.load_overrides(path) -> list of rules`
   - `classify.apply_overrides(events, rules) -> list`
   - `classify.HINTS = ("all-ages", "outdoors", "daytime", "21+")` (the display order)
+  - `classify.cues(text) -> str`: only the words of a description that `classify` looks for (used by Task 15 when saving last-good results, and by the recording scripts in Tasks 7 and 23)
 
 - [ ] **Step 1: Write the failing tests** `tests/test_classify.py`
 
@@ -1094,6 +1101,22 @@ class HintsTest(unittest.TestCase):
         e = ev("Storytime")
         classify.classify(e)
         self.assertEqual(e["tier"], "general")
+
+
+class CuesTest(unittest.TestCase):
+    def test_keeps_only_the_words_classify_looks_for(self):
+        self.assertEqual(classify.cues("A gentle class for toddlers and their grown-ups. 21+ after 9pm."),
+                         "toddlers 21+")
+        self.assertEqual(classify.cues("Kids, kids, kids!"), "Kids kids")
+        self.assertEqual(classify.cues("An evening of chamber music."), "")
+        self.assertEqual(classify.cues(None), "")
+
+    def test_classifying_from_cues_matches_classifying_from_the_text(self):
+        for text in ("Songs and puppets for little ones", "Wine tasting, 21 and over", "Chamber music",
+                     "Kids eat free before the bar crawl"):
+            full = classify.classify(ev("Event", text=text))
+            short = classify.classify(ev("Event", text=classify.cues(text)))
+            self.assertEqual((full["tier"], full["hints"]), (short["tier"], short["hints"]), text)
 
 
 class OverridesTest(unittest.TestCase):
@@ -1185,6 +1208,14 @@ def classify(event):
     e["tier"] = "little" if little else "general"
     e["hints"] = hints
     return e
+
+
+def cues(text):
+    """Only the words of a description that classify() looks for, e.g. "toddlers 21+".
+    Saved last-good results keep these instead of the description: write-ups aren't
+    ours to store (spec: "Store and show only facts")."""
+    found = [m.group(0) for pattern in (LITTLE_WORDS, ADULT_WORDS) for m in pattern.finditer(text or "")]
+    return " ".join(dict.fromkeys(found))
 
 
 def load_overrides(path):
@@ -1970,11 +2001,13 @@ mkdir -p tests/fixtures/real
 curl -sS -A "reno-today/1.0 (+https://github.com/natanforestree/reno-today)" \
   "https://events.unr.edu/api/2/events?days=8&pp=100&page=1" | python3 -c "
 import json, sys
+sys.path.insert(0, 'collector')
+import classify
 d = json.load(sys.stdin)
 d['events'] = d['events'][:60]
 for w in d['events']:
     w['event']['description'] = ''
-    w['event']['description_text'] = (w['event'].get('description_text') or '')[:200]
+    w['event']['description_text'] = classify.cues(w['event'].get('description_text'))
 json.dump(d, open('tests/fixtures/real/unr.json', 'w'), indent=1)"
 python3 -m unittest tests.test_unr -v 2>&1 | tail -3     # run from tests/ is not needed; discover also works
 python3 dev/try_source.py unr
@@ -2578,10 +2611,10 @@ Expected: `ImportError: cannot import name 'ticketmaster'`
 within ~60 miles of Reno. Needs the TICKETMASTER_KEY secret."""
 
 import re
-from datetime import date, datetime, timezone
+from datetime import date, datetime
 
 import net
-from model import make_event, price_range, venue
+from model import make_event, price_range, utc, venue
 from sources.base import SourceError
 
 NAME = "ticketmaster"
@@ -2595,17 +2628,13 @@ SKIP_STATUS = {"cancelled", "canceled", "postponed"}
 FAMILY = {"family", "children's theatre"}
 
 
-def _utc(dt):
-    return dt.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-
-
 def fetch(ctx):
     key = ctx.env.get("TICKETMASTER_KEY")
     if not key:
         raise SourceError("not set up yet (TICKETMASTER_KEY missing)")
     items = []
     for page in range(MAX_PAGES):
-        data = net.get_json(URL.format(key=key, start=_utc(ctx.start), end=_utc(ctx.end), page=page),
+        data = net.get_json(URL.format(key=key, start=utc(ctx.start), end=utc(ctx.end), page=page),
                             label="ticketmaster")
         if not isinstance(data, dict) or not isinstance(data.get("page"), dict):
             raise SourceError("unexpected response (no page info)")
@@ -3570,7 +3599,7 @@ def post(webhook_url, text):
 - [ ] **Step 6: Run the tests to make sure they pass**
 
 Run: `python3 -m unittest discover -s tests -v`
-Expected: all OK. If `test_full_example` differs, compare it line by line with the spec's example. The intended differences are only the am/pm times and the bulleted "Worth the drive" (see "Deliberate differences"). Fix the code, not the expected text, unless the difference is one of those.
+Expected: all OK. If `test_full_example` differs, compare it line by line with the spec's example. The intended differences are only the am/pm times and the bulleted "Worth the drive" with a start time and the area name instead of the town (see "Deliberate differences" #2 and #3). Fix the code, not the expected text, unless the difference is one of those.
 
 - [ ] **Step 7: Commit**
 
@@ -3788,6 +3817,18 @@ class CollectTest(unittest.TestCase):
         collect.run(self.root, NOW + timedelta(hours=13), {}, srcs=[src])
         self.assertEqual(src.fetch.call_count, 2)
 
+    def test_last_good_keeps_keyword_cues_not_descriptions(self):
+        sing = model.make_event("lib", "sing1", "Sing-Along", la(2026, 10, 10, 10, 30), city="Reno",
+                                url="https://example.org/sing", text="Songs for toddlers and their grown-ups")
+        collect.run(self.root, NOW, {}, srcs=[fake_source("lib", [sing])])
+        with open(os.path.join(self.root, "state/sources/lib.json"), encoding="utf-8") as f:
+            saved = f.read()
+        self.assertNotIn("grown-ups", saved)
+        self.assertIn("toddlers", saved)
+        later = NOW + timedelta(hours=3)
+        collect.run(self.root, later, {}, srcs=[fake_source("lib", error=net.FetchError("lib", "HTTP 503", 503))])
+        self.assertEqual(self.read("docs/data/events.json")["events"][0]["tier"], "little")
+
     def test_force_digest(self):
         env = {"DISCORD_WEBHOOK_URL": "https://discord.example/hook", "FORCE_DIGEST": "true"}
         afternoon = la(2026, 10, 10, 15, 0)
@@ -3866,7 +3907,7 @@ def collect_sources(srcs, ctx, store, now, previous):
             last = model.utc(at) if at else (previous.get(src.NAME) or {}).get("lastSuccess")
             status[src.NAME] = _status(src.LABEL, False, len(kept), last, message)
             continue
-        store.remember(src.NAME, got, now)
+        store.remember(src.NAME, [dict(e, _text=classify.cues(e.get("_text"))) for e in got], now)
         raw += got
         status[src.NAME] = _status(src.LABEL, True, len(got), model.utc(now))
     return raw, status
@@ -4023,6 +4064,8 @@ jobs:
     timeout-minutes: 8
     steps:
       - uses: actions/checkout@v7
+        with:
+          ref: main   # a run queued behind another starts from the latest state, so the digest can't go twice
 
       - name: Collect
         env:
@@ -5350,7 +5393,7 @@ Use the Playwright browser tools (`browser_navigate`, `browser_resize`, `browser
    - There's no horizontal scroll: `document.documentElement.scrollWidth <= 390`.
    - "Great for little ones" lists the Fall Festival, the storytime and Small Wonder Wednesday.
    - Small Wonder Wednesday shows **on now**. So do the 9:30 storytime and the 10:00 Carson hayride, because events with no end time count as on for 2 hours.
-   - "Everything else" has All day / Morning / Afternoon / Evening / Late headings.
+   - "Everything else" has Morning / Afternoon / Evening / Late headings. (An "All day" heading appears only when there is a general, local all-day event; this fixture day has none, so its absence is correct.)
    - The `<img …> Totally Safe Show` title shows as **literal text**, and no dialog appears.
    - "Ongoing · 1" is collapsed.
    - "Worth the drive" shows the Tahoe and Carson events with 🚗 drive badges.
@@ -5539,6 +5582,7 @@ In `worker/README.md`, after the GitHub token step, add:
    (`RENO_TODAY_REPO` / `RENO_TODAY_WORKFLOW` in wrangler.toml). The token
    needs both repos under "Repository access".
 ```
+In the "Checking the timer" section of the same README, change `collect dispatch failed: HTTP <status> <GitHub's message>` to `dispatch <repo> failed: HTTP <status> <GitHub's message>` (the new log text).
 
 - [ ] **Step 4: Run all Worker tests**
 
@@ -5614,7 +5658,7 @@ import model, net
 from sources import ticketmaster as tm
 key = os.environ["TICKETMASTER_KEY"]
 start, end = model.window(datetime.now(model.LA))
-data = net.get_json(tm.URL.format(key=key, start=tm._utc(start), end=tm._utc(end), page=0), label="ticketmaster")
+data = net.get_json(tm.URL.format(key=key, start=model.utc(start), end=model.utc(end), page=0), label="ticketmaster")
 def strip(o):
     if isinstance(o, dict):
         return {k: strip(v) for k, v in o.items()
@@ -5639,7 +5683,7 @@ Expected:
 - `ok`, then a page summary and roughly 50–200 events parsed.
 - The secret is set and all tests pass, including `test_real_recording_parses` for Ticketmaster.
 
-If the real data shows a shape the parser misses (a field name, junk listings such as "Premium Seating"), fix `ticketmaster.py` and add that case to `tests/fixtures/ticketmaster.json` with a test. Then commit:
+If the real data shows a shape the parser misses (a field name, junk listings such as "Premium Seating"), fix `ticketmaster.py` and add that case to `tests/fixtures/ticketmaster.json` with a test. Either way, commit the recording (plus any parser fixes):
 ```bash
 git add tests/fixtures/real/ticketmaster.json collector/sources/ticketmaster.py tests/test_ticketmaster.py tests/fixtures/ticketmaster.json
 git commit -m "Ticketmaster: real recording (and parser fixes from it)"
@@ -5755,7 +5799,7 @@ if __name__ == "__main__":
 - [ ] **Step 2: Run it to make sure it fails**
 
 Run: `python3 -m unittest discover -s tests -v`
-Expected: `test_shape` fails (`0 not greater than or equal to 12`)
+Expected: `test_shape` fails (`0 not greater than or equal to 12`), and so does `test_something_is_open_every_day_of_the_year`
 
 - [ ] **Step 3: Write** `places.json`
 
@@ -5789,11 +5833,12 @@ Expected: all OK
 ```bash
 python3 dev/make_fixture.py --today 2026-10-05
 cp places.json dev/fixture/empty/places.json
+python3 -m http.server 8000 >/dev/null 2>&1 &     # stop it afterwards with: kill %1
 ```
 Open `http://localhost:8000/docs/?data=../dev/fixture/empty/&now=2026-10-05T09:00:00-07:00` at 390 px and check:
 - "Always an option" is expanded.
 - The Discovery is **not** listed (Monday).
-- Animal Ark is listed (October is in its season).
+- Animal Ark is **not** listed (it's closed Mondays). Tap **Tomorrow** and it appears (October is in its season).
 - Each card has "Check hours" and "Directions".
 
 - [ ] **Step 6: Commit and push**
@@ -6056,9 +6101,11 @@ curl -sS -A "reno-today/1.0 (+https://github.com/natanforestree/reno-today)" \
   | python3 -c "
 import json, sys
 d = json.load(sys.stdin)
+sys.path.insert(0, 'collector')
+import classify
 for r in d['results']:
     r['description'] = ''
-    r['shortdesc'] = (r.get('shortdesc') or '')[:120]
+    r['shortdesc'] = classify.cues(r.get('shortdesc'))
 json.dump(d, open('tests/fixtures/real/library.json', 'w'), indent=1)"
 python3 -m unittest discover -s tests -p test_library.py -v
 python3 dev/try_source.py library        # about 80 s because of the crawl delay
@@ -7152,6 +7199,7 @@ def occurrences(entries, first, last):
 
 ```bash
 python3 -m unittest discover -s tests -v
+rm -f state/refresh.json       # force a refresh; the git checkout below restores it
 python3 collector/collect.py && python3 -c "import json; s=json.load(open('docs/data/status.json'))['sources']; print({k:(v['ok'],v['count']) for k,v in s.items()})"
 git checkout -- docs/data state 2>/dev/null; git clean -fdq docs/data state
 git add standing.json collector/sources/standing.py collector/sources/__init__.py tests/test_standing.py
@@ -7184,7 +7232,7 @@ Expected:
 
 The spec: "For each event with a distinctive title (≥ 3 significant words, or a title plus venue match), set `lovingReno` when the guide's text contains it. Only the guide's title and URL are stored." The guide's HTML is fetched once per full refresh (`robots.txt` allows it). Nothing from it is stored except that match.
 
-- [ ] **Step 1: Write the failing tests.** Append to `tests/test_guide.py`:
+- [ ] **Step 1: Write the failing tests.** Add to `tests/test_guide.py`: put the two imports with the file's other imports at the top, and the rest above the `if __name__ == "__main__":` block:
 
 ```python
 import model
@@ -7402,7 +7450,7 @@ git pull --rebase -q && git push
     - `L.outline(b, color)` (it outlines around **any** painted pixel, so outline before adding translucent glow)
     - `L.blit`
   - `art/site/island.lua`: `I.write(id, frames, ms, glowColor)` (asserts a 3 px empty margin and computes `hit`)
-- Produces: a 12-frame island, **88×84 frames**, 160 ms, with **hit ≤ 80 wide and ≤ 72 tall**. Task 30's layout depends on that size; 7 islands only fit the landscape stage if this island is at most 80 px wide (2026-10-05 layout study).
+- Produces: a 12-frame island, **88×84 frames**, 160 ms, with **hit exactly 80 wide and ≤ 72 tall**. Task 30's layout depends on that size: 7 islands only fit the landscape stage if this island is at most 80 px wide (2026-10-05 layout study), and Task 30 makes 80 the minimum game-island width.
 
 The island: a chunk of Virginia Street on warm desert stone, with the Reno Arch over it:
 - steel pillars
@@ -7483,7 +7531,7 @@ local function scenery()
   -- the top: a sage verge with Virginia Street across it, and the rim's front edge
   for y = 44, 62 do
     for x = 4, 84 do
-      if ell(x, y, 44, 53, 38, 8) then
+      if ell(x, y, 44, 53, 39, 8) then
         local c = (y <= 47) and C.grass[3] or C.grass[2]
         if y >= 50 and y <= 55 then c = (y == 50) and C.road[2] or C.road[1] end
         if y == 52 and x % 6 < 3 and x > 12 and x < 76 then c = C.paint end
@@ -7574,7 +7622,7 @@ cd ~/Documents/code/games
 cat site/assets/island-reno-today.json
 ```
 Expected:
-- It prints `island reno-today: 12 frames of 88x84, 160 ms; hit X,Y WxH` with **W ≤ 80 and H ≤ 72**.
+- It prints `island reno-today: 12 frames of 88x84, 160 ms; hit X,Y WxH` with **W = 80 and H ≤ 72** (expected: hit `4,7 80x72`).
 - There's no margin assertion.
 
 Then view `site/assets/island-reno-today.png` (top row: frames; bottom row: hover glow) and `art/site/preview-island-reno-today.gif`. Refine until it sits well beside the other islands:
@@ -7583,7 +7631,7 @@ Then view `site/assets/island-reno-today.png` (top row: frames; bottom row: hove
 - the bulbs chase
 - the stone matches the others' lighting
 
-Re-run after each change. If the hit grows past 80×72, pull the rock edges in.
+Re-run after each change. The hit must stay exactly 80 wide and at most 72 tall: if it grows, pull the rock edges in; if it shrinks below 80, widen the rim ellipse.
 
 - [ ] **Step 4: Commit (in the games repo; don't push until Task 30)**
 
@@ -7620,7 +7668,7 @@ git commit -m "Reno Today island: the Reno Arch over Virginia Street"
 
 - [ ] **Step 1: Change the width rule and its test message**
 - `site/islands.js`: `const WIDTHS = { game: [80, 140], unfinished: [48, 80] };`
-- `site/test/islands.test.js`: change `'it should be 96–140'` to `'it should be 80–140'`
+- `site/test/islands.test.js`: change the text `it should be 96–140` to `it should be 80–140` (it sits inside a longer message string; match it without quotes)
 - `README.md`, "Adding a game" step 3: "Keep it 96–140 px wide" becomes "Keep it 80–140 px wide"
 
 - [ ] **Step 2: Work out Reno's spots from its real hit box, and write `site/games.json`**
@@ -7663,7 +7711,7 @@ Write the two Reno numbers out (e.g. `[191, 18]`), not the expressions.
 Run: `cd ~/Documents/code/games/site && npm test`
 Expected: all pass (70).
 - If a test reports an overlap involving `reno-today`, its hit box differs from the study's. Move Reno only, within its free region (landscape: hit x exactly 196 when 80 wide, hit y from 5 to 120 − hh). Re-run.
-- If it can't fit, make the island narrower in Task 29 rather than moving the others.
+- If a test says `reno-today: island is N px wide`, fix Task 29's island to exactly 80 px wide; don't change `WIDTHS`. If it can't fit, adjust the island in Task 29 rather than moving the others.
 
 - [ ] **Step 6: Look at it.** Rebuild the style preview, serve the site and screenshot it:
 
