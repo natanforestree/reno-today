@@ -64,7 +64,7 @@ def _also_rank(e):
             "all-ages" not in e["hints"], "daytime" not in e["hints"], e["start"])
 
 
-def build(day, events, wx, places, guide, page_url=PAGE_URL):
+def build(day, events, wx, places, guide, page_url=PAGE_URL, visitors=None):
     todays = [e for e in events if on_day(e, day) and not e["ongoing"]]
     local = [e for e in todays if e["area"] in LOCAL_AREAS]
     little = sorted((e for e in local if e["tier"] == "little"), key=lambda e: e["start"])
@@ -74,14 +74,23 @@ def build(day, events, wx, places, guide, page_url=PAGE_URL):
     options = open_on(places or [], day) if len(little) < 3 else []
     text = ""
     for cap in range(PER_SECTION, 0, -1):
-        text = _render(day, wx, little, also, drive, options, guide, page_url, cap)
+        text = _render(day, wx, little, also, drive, options, guide, page_url, cap, visitors)
         if len(text) <= LIMIT:
             return text
-    footer = f"\nFull list → {page_url}"
+    footer = "\n" + _footer(page_url, visitors)
     return text[:LIMIT - len(footer) - 1] + "…" + footer
 
 
-def _render(day, wx, little, also, drive, options, guide, page_url, cap):
+def visitors_line(visitors):
+    return f"👀 Yesterday: {visitors} visitor{'' if visitors == 1 else 's'}"
+
+
+def _footer(page_url, visitors):
+    link = f"Full list → {page_url}"
+    return link if visitors is None else f"{visitors_line(visitors)}\n{link}"
+
+
+def _render(day, wx, little, also, drive, options, guide, page_url, cap, visitors=None):
     lines = [header(day, wx)]
     if not (little or also or drive):
         lines.append("Nothing listed for today yet.")
@@ -96,7 +105,7 @@ def _render(day, wx, little, also, drive, options, guide, page_url, cap):
         lines.append("🏠 Always an option: " + " · ".join(names))
     if guide:
         lines.append(f"📖 Loving Reno: {guide.get('shortTitle') or guide['title']}")
-    lines.append(f"Full list → {page_url}")
+    lines.append(_footer(page_url, visitors))
     return "\n".join(lines)
 
 

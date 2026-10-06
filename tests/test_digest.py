@@ -84,6 +84,35 @@ class BuildTest(unittest.TestCase):
         text = digest.build(DAY, events, None, [], None)
         self.assertEqual(sum(1 for l in text.splitlines() if l.startswith("•")), 5)
 
+    def test_visitor_line_sits_right_before_the_link(self):
+        text = digest.build(DAY, [ev("Storytime", 10)], WX, PLACES, GUIDE, visitors=12)
+        lines = text.splitlines()
+        self.assertEqual(lines[-2:], ["👀 Yesterday: 12 visitors", f"Full list → {digest.PAGE_URL}"])
+
+    def test_visitor_line_absent_without_a_count(self):
+        self.assertNotIn("👀", digest.build(DAY, [ev("Storytime", 10)], WX, PLACES, GUIDE))
+        self.assertNotIn("👀", digest.build(DAY, [ev("Storytime", 10)], WX, PLACES, GUIDE, visitors=None))
+
+    def test_visitor_singular_plural_and_zero(self):
+        for n, word in ((0, "visitors"), (1, "visitor"), (2, "visitors")):
+            text = digest.build(DAY, [], WX, PLACES, GUIDE, visitors=n)
+            self.assertIn(f"👀 Yesterday: {n} {word}\nFull list", text)
+
+    def test_visitor_line_survives_trimming_within_2000(self):
+        long = "Very " * 60
+        events = ([ev(f"{long}{i}", 9 + i % 10, i) for i in range(15)]
+                  + [ev(f"Storytime {long}{i}", 8, i) for i in range(15)]
+                  + [ev(f"Tahoe {long}{i}", 9 + i % 10, i, area_city="Truckee") for i in range(15)])
+        text = digest.build(DAY, events, WX, PLACES, GUIDE, visitors=123456)
+        self.assertLessEqual(len(text), digest.LIMIT)
+        self.assertTrue(text.endswith(f"👀 Yesterday: 123456 visitors\nFull list → {digest.PAGE_URL}"))
+
+    def test_hard_trim_keeps_the_visitor_line(self):
+        huge = "x" * 3000
+        text = digest.build(DAY, [], WX, PLACES, {"title": huge, "shortTitle": huge}, visitors=5)
+        self.assertLessEqual(len(text), digest.LIMIT)
+        self.assertTrue(text.endswith(f"👀 Yesterday: 5 visitors\nFull list → {digest.PAGE_URL}"))
+
     def test_trimmed_to_2000_characters(self):
         long = "Very " * 60
         events = ([ev(f"{long}{i}", 9 + i % 10, i) for i in range(15)]

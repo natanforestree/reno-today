@@ -5,7 +5,7 @@ to send the morning digest (docs/superpowers/specs/2026-10-05-reno-today-design.
 import os
 import sys
 import traceback
-from datetime import datetime
+from datetime import datetime, timedelta
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 if HERE not in sys.path:
@@ -24,6 +24,7 @@ from sources.base import Context, SourceError  # noqa: E402
 from store import Store  # noqa: E402
 
 ROOT = os.path.dirname(HERE)
+VISITS_URL = "https://ruby-radar.nathanforestlee.workers.dev/api/visits/reno-today?days=2"
 
 
 def _error_text(err):
@@ -89,6 +90,21 @@ def _optional(name, label, fn, status, previous, now):
     return value
 
 
+def yesterday_visitors(today):
+    """Yesterday's page-visit count (a bare number, kept by the Ruby Radar worker), or None
+    when it can't be had. Only the exception type is logged; this never stops the digest."""
+    try:
+        yesterday = (today - timedelta(days=1)).isoformat()
+        body = net.get_json(VISITS_URL, label="visitor count", retries=0)
+        count = next(d["count"] for d in body["days"] if d["day"] == yesterday)
+        if isinstance(count, bool) or not isinstance(count, int) or count < 0:
+            raise ValueError("bad count")
+        return count
+    except Exception as err:  # noqa: BLE001
+        print(f"visitor count: not available ({type(err).__name__})")
+        return None
+
+
 def run(root, now, env, srcs=None, post=None):
     store = Store(root)
     webhook = env.get("DISCORD_WEBHOOK_URL", "")
@@ -140,7 +156,9 @@ def run(root, now, env, srcs=None, post=None):
         today = now.date().isoformat()
         try:
             day_wx = next((d for d in (wx or {}).get("days", []) if d.get("date") == today), None)
-            sent = (post or digest.post)(webhook, digest.build(today, events, day_wx, places, card))
+            visitors = yesterday_visitors(now.date())
+            sent = (post or digest.post)(
+                webhook, digest.build(today, events, day_wx, places, card, visitors=visitors))
         except Exception as err:  # noqa: BLE001 - the data is written; only the type, the webhook may be in the message
             print(f"digest not sent ({type(err).__name__})")
             sent = False

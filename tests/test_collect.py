@@ -52,7 +52,10 @@ class CollectTest(unittest.TestCase):
         self.tmp = tempfile.TemporaryDirectory()
         self.root = self.tmp.name
         self.sent = []
-        self.patches = [mock.patch.object(weather, "fetch", lambda now: WX),
+        self.visits = mock.Mock(return_value={"site": "reno-today", "days": [
+            {"day": "2026-10-09", "count": 7}, {"day": "2026-10-10", "count": 2}]})
+        self.patches = [mock.patch.object(net, "get_json", self.visits),
+                        mock.patch.object(weather, "fetch", lambda now: WX),
                         mock.patch.object(guide, "fetch", lambda: GUIDE),
                         mock.patch.object(net, "get_text", lambda url, **kw: "")]
         for p in self.patches:
@@ -94,6 +97,41 @@ class CollectTest(unittest.TestCase):
         self.assertEqual(self.read("state/digest.json"), {"date": "2026-10-10"})
         self.assertEqual(len(self.sent), 1)
         self.assertIn("Baby Storytime", self.sent[0])
+
+    def test_digest_gets_yesterdays_visitors(self):
+        env = {"DISCORD_WEBHOOK_URL": "https://discord.example/hook"}
+        collect.run(self.root, NOW, env, srcs=[fake_source("lib", [storytime()])], post=self.post_ok)
+        self.visits.assert_called_once_with(
+            "https://ruby-radar.nathanforestlee.workers.dev/api/visits/reno-today?days=2",
+            label="visitor count", retries=0)
+        self.assertIn("👀 Yesterday: 7 visitors\nFull list", self.sent[0])
+
+    def test_visitor_count_is_only_fetched_when_a_digest_is_sent(self):
+        collect.run(self.root, NOW, {}, srcs=[fake_source("lib", [storytime()])])
+        self.visits.assert_not_called()
+
+    def test_visitor_fetch_failure_does_not_stop_the_digest(self):
+        env = {"DISCORD_WEBHOOK_URL": "https://discord.example/hook"}
+        bad = [net.FetchError("visitor count", "HTTP 503 SECRETISH", 503), ValueError("x"), TimeoutError(),
+               {"days": []}, {"days": [{"day": "2026-10-09", "count": "7"}]}, {"nope": 1}, None]
+        for err in bad:
+            with self.subTest(err=repr(err)[:30]):
+                if isinstance(err, BaseException):
+                    self.visits.side_effect = err
+                else:
+                    self.visits.side_effect = None
+                    self.visits.return_value = err
+                self.sent.clear()
+                out = io.StringIO()
+                with redirect_stdout(out):
+                    collect.run(self.root, NOW, env, srcs=[fake_source("lib", [storytime()])], post=self.post_ok)
+                self.assertEqual(len(self.sent), 1)
+                self.assertNotIn("👀", self.sent[0])
+                self.assertIn("visitor count: not available", out.getvalue())
+                self.assertNotIn("SECRETISH", out.getvalue())
+                self.assertEqual(self.read("state/digest.json"), {"date": "2026-10-10"})
+                os.remove(os.path.join(self.root, "state/refresh.json"))
+                os.remove(os.path.join(self.root, "state/digest.json"))
 
     def test_next_hour_does_nothing(self):
         env = {"DISCORD_WEBHOOK_URL": "https://discord.example/hook"}

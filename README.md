@@ -34,6 +34,22 @@ Design: `docs/superpowers/specs/2026-10-05-reno-today-design.md`.
   `{"match": "trivia night", "addHint": "21+"}`, `{"match": "…", "tier": "little"}`,
   `{"match": "…", "hide": true}`.
 
+## Visitor count
+
+The page keeps a tiny daily visitor count, and the morning Discord message ends
+with a line like `👀 Yesterday: 12 visitors`.
+
+- **Stored:** only a site name (`reno-today`), a Reno-local date and a number,
+  in the Ruby Radar Worker's database (`visits` table, repo `finals-radar`).
+- **Not stored, anywhere:** IP addresses, user agents, cookies, referrers, or
+  anything else about who visited. The request carries no body and no custom headers.
+- **Once a day per browser:** the browser remembers "already counted today" in
+  its own localStorage (`reno-today:counted`); that never leaves the device.
+- Only the live hosts count (`natanforestree.github.io`, `renotoday.com`,
+  `www.renotoday.com`), never localhost, `?data=` fixtures or `?now=` previews.
+- The collector reads the count only when it is about to send the digest. If
+  that fails, the line is simply left out.
+
 ## Previewing the page
 
     python3 dev/make_fixture.py --today 2026-10-10
