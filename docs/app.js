@@ -1,6 +1,6 @@
 // Reno Today page: loads docs/data/*.json and renders the chosen day.
 // Every piece of text from the data goes through L.esc, and every link through L.safeUrl.
-import * as L from './lib.js?v=2dac00ce';
+import * as L from './lib.js?v=ff90d7d1';
 
 const RAW = 'https://raw.githubusercontent.com/natanforestree/reno-today/main/docs/data/';
 const FILTERS_KEY = 'reno-today:filters';
@@ -36,7 +36,8 @@ function saveFilters() {
 function dataBases() {
   const d = params.get('data');
   if (d && /^[\w./-]+\/$/.test(d) && !d.startsWith('//')) return [d];
-  return location.hostname.endsWith('github.io') ? [RAW, 'data/'] : ['data/'];
+  const h = location.hostname;
+  return h.endsWith('github.io') || h === 'renotoday.org' || h === 'www.renotoday.org' ? [RAW, 'data/'] : ['data/'];
 }
 
 async function loadJson(name, fallback) {
@@ -200,8 +201,7 @@ function renderFooter() {
     ${L.sourceNotes(sources, nowMs).map((n) => `<p class="warn small">${L.esc(n)}</p>`).join('')}
     <p class="small">Updated ${gen ? L.esc(L.ago(gen, nowMs)) : 'never'} · Sources: ${sources.map((s) => L.esc(s.label)).join(', ') || 'none yet'}</p>
     <p class="small">Times, places and prices come from each source; check its link before you go.</p>
-    ${state.data.status?.sources?.ticketmaster ? '<p class="small">Concert and show listings from <a href="https://www.ticketmaster.com/" target="_blank" rel="noopener">Ticketmaster</a>.</p>' : ''}
-    <p class="small"><a href="https://natanforestree.github.io/arcadipelago/">← More on Arcadipelago</a></p>`;
+    ${state.data.status?.sources?.ticketmaster ? '<p class="small">Concert and show listings from <a href="https://www.ticketmaster.com/" target="_blank" rel="noopener">Ticketmaster</a>.</p>' : ''}`;
 }
 
 function render() {

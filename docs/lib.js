@@ -192,7 +192,7 @@ export function sourceNotes(sources, nowMs) {
   return notes;
 }
 
-export const COUNTED_HOSTS = ['natanforestree.github.io', 'renotoday.com', 'www.renotoday.com'];
+export const COUNTED_HOSTS = ['natanforestree.github.io', 'renotoday.org', 'www.renotoday.org'];
 
 /** Count a visit once per Reno day, and only on the real site (not localhost or a preview).
  * countedDay is the day this browser last counted (its own localStorage); it never leaves the device. */

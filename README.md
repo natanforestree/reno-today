@@ -45,8 +45,8 @@ with a line like `👀 Yesterday: 12 visitors`.
   anything else about who visited. The request carries no body and no custom headers.
 - **Once a day per browser:** the browser remembers "already counted today" in
   its own localStorage (`reno-today:counted`); that never leaves the device.
-- Only the live hosts count (`natanforestree.github.io`, `renotoday.com`,
-  `www.renotoday.com`), never localhost, `?data=` fixtures or `?now=` previews.
+- Only the live hosts count (`natanforestree.github.io`, `renotoday.org`,
+  `www.renotoday.org`), never localhost, `?data=` fixtures or `?now=` previews.
 - The collector reads the count only when it is about to send the digest. If
   that fails, the line is simply left out.
 

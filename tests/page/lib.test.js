@@ -166,13 +166,13 @@ test('sourceNotes: quiet about a short blip, plain words when a source is really
 });
 
 test('shouldCountVisit: only the real hosts, once per Reno day', () => {
-  for (const host of ['natanforestree.github.io', 'renotoday.com', 'www.renotoday.com']) {
+  for (const host of ['natanforestree.github.io', 'renotoday.org', 'www.renotoday.org']) {
     assert.equal(L.shouldCountVisit(host, null, '2026-10-06'), true, host);
     assert.equal(L.shouldCountVisit(host, undefined, '2026-10-06'), true, host);
     assert.equal(L.shouldCountVisit(host, '2026-10-05', '2026-10-06'), true, host);
     assert.equal(L.shouldCountVisit(host, '2026-10-06', '2026-10-06'), false, host);
   }
-  for (const host of ['localhost', '127.0.0.1', '', 'example.com', 'evil.renotoday.com', 'renotoday.com.evil.example', 'github.io']) {
+  for (const host of ['localhost', '127.0.0.1', '', 'example.com', 'evil.renotoday.org', 'renotoday.org.evil.example', 'github.io']) {
     assert.equal(L.shouldCountVisit(host, null, '2026-10-06'), false, host);
   }
 });
