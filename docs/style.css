@@ -23,7 +23,7 @@ a:focus-visible, button:focus-visible, summary:focus-visible { outline: 3px soli
 }
 .arch {
   width: min(100%, 352px); aspect-ratio: 176 / 96; margin: 0 auto;
-  background: url(art/arch.png) 0 0 / 800% 100% no-repeat;
+  background: url(art/arch.png?v=c31ee844) 0 0 / 800% 100% no-repeat;
   image-rendering: pixelated;
   animation: chase 960ms steps(8) infinite;
 }

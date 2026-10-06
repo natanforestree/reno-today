@@ -43,6 +43,11 @@ Design: `docs/superpowers/specs/2026-10-05-reno-today-design.md`.
 Variants: `full`, `empty`, `partial`, `failing`. Without `?data=` the page reads
 `docs/data/` (the live data once the collector has run).
 
+**After editing anything in `docs/`**, run `node dev/stamp.mjs`. It stamps each file's
+address with a hash of its content (`app.js?v=1a2b3c4d`), so browsers fetch new page code
+right away instead of reusing a cached copy for up to 10 minutes. `npm test` fails while a
+stamp is out of date.
+
 ## Sources
 
 | Source | Module | Notes |
