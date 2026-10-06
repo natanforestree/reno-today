@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-05T23:45:19Z",
+ "generatedAt": "2026-10-06T03:30:28Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -27,32 +27,6 @@
     {
      "source": "wcparks",
      "url": "https://tockify.com/wcparks/detail/702/1790866800000"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "tm:LvZ18QJRZdTKk2BCReib3",
-   "title": "Dragon Lights 2026 Season Pass",
-   "start": "2026-10-02T18:00:00-07:00",
-   "end": "2026-11-01T22:00:00-08:00",
-   "allDay": false,
-   "ongoing": true,
-   "venue": {
-    "name": "Wilbur D. May Arboretum",
-    "address": "1595 N Sierra St, Reno, NV",
-    "lat": 39.5459,
-    "lon": -119.82412
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.universe.com/events/dragon-lights-2026-season-pass-tickets-ZCRN2H?ref=ticketmaster"
     }
    ],
    "lovingReno": null
@@ -1953,32 +1927,6 @@
     {
      "source": "tm",
      "url": "https://www.ticketmaster.com/get-the-led-out-lake-tahoe-nevada-10-06-2026/event/390064C5C0A756A4"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "tm:17C8v0G6GXhgsAN",
-   "title": "Get the Led Out | Official Caesars Ticket + Hotel Packages",
-   "start": "2026-10-06T20:00:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "South Shore Room at Harrah's Lake Tahoe",
-    "address": "15 Hwy 50, Lake Tahoe, NV",
-    "lat": 38.96241,
-    "lon": -119.9399
-   },
-   "area": "other",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://travel.ticketmaster.com/en-US/package-forward/123586239?_uid=01e06df2-8b31-4246-b25c-04d738f89509&utm_source=Caesars_TM&utm_medium=TM_ADP_GettheLedOut1006"
     }
    ],
    "lovingReno": null
@@ -7284,34 +7232,6 @@
    "lovingReno": null
   },
   {
-   "id": "tm:1Ad0Z_oGknrZwaL",
-   "title": "Great Italian Festival VIP | Official Caesars Ticket + Hotel Packages",
-   "start": "2026-10-10T10:00:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Eldorado Casino Reno",
-    "address": "345 N. Virginia St., Reno, NV",
-    "lat": 39.52934,
-    "lon": -119.81406
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://travel.ticketmaster.com/en-US/event/165309330/pf?_uid=01e06df2-8b31-4246-b25c-04d738f89509&utm_source=Caesars_TM&utm_medium=TM_ADP_GreatItalianFestivalVIPSaturday10AM"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
    "id": "southtahoe:244912",
    "title": "Inaugural Opening of the Osgood Toll House at the History Museum Complex",
    "start": "2026-10-10T10:00:00-07:00",
@@ -7842,34 +7762,6 @@
    "lovingReno": null
   },
   {
-   "id": "tm:1Ad0Z_oGknqT3Fl",
-   "title": "Wine Walk Saturday | Official Caesars Ticket + Hotel Packages",
-   "start": "2026-10-10T12:00:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Eldorado Casino Reno",
-    "address": "345 N. Virginia St., Reno, NV",
-    "lat": 39.52934,
-    "lon": -119.81406
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://travel.ticketmaster.com/en-US/event/164536730/pf?_uid=01e06df2-8b31-4246-b25c-04d738f89509&utm_source=Caesars_TM&utm_medium=TM_ADP_WineWalkSaturday1010"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
    "id": "wolfpack:vcal_14521-nevadawolfpack.com",
    "title": "Nevada Softball vs Sacramento City College",
    "start": "2026-10-10T13:00:00-07:00",
@@ -8128,34 +8020,6 @@
     {
      "source": "reno",
      "url": "https://www.reno.gov/parks-and-recreation/recreation/junior-rangers.php"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "tm:1Ad0Z_oGknrveaE",
-   "title": "Great Italian Festival VIP | Official Caesars Ticket + Hotel Packages",
-   "start": "2026-10-10T14:30:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Eldorado Casino Reno",
-    "address": "345 N. Virginia St., Reno, NV",
-    "lat": 39.52934,
-    "lon": -119.81406
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://travel.ticketmaster.com/en-US/event/165309043/pf?_uid=01e06df2-8b31-4246-b25c-04d738f89509&utm_source=Caesars_TM&utm_medium=TM_ADP_GreatItalianFestivalVIPSaturday230PM"
     }
    ],
    "lovingReno": null
@@ -8547,32 +8411,6 @@
     {
      "source": "tm",
      "url": "https://www.ticketmaster.com/rumours-of-fleetwood-mac-lake-tahoe-nevada-10-10-2026/event/390064CAE92B2E51"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "tm:17C8v0G62qPPOSp",
-   "title": "Rumours of Fleetwood Mac | Official Caesars Ticket + Hotel Packages",
-   "start": "2026-10-10T19:30:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "South Shore Room at Harrah's Lake Tahoe",
-    "address": "15 Hwy 50, Lake Tahoe, NV",
-    "lat": 38.96241,
-    "lon": -119.9399
-   },
-   "area": "other",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://travel.ticketmaster.com/en-US/event/127178590/pf?_uid=01e06df2-8b31-4246-b25c-04d738f89509&utm_source=Caesars_TM&utm_medium=TM_ADP_RumoursofFleetwoodMac1010"
     }
    ],
    "lovingReno": null
@@ -9134,34 +8972,6 @@
    "lovingReno": null
   },
   {
-   "id": "tm:1Ad0Z_oGknrvx1M",
-   "title": "Great Italian Festival VIP | Official Caesars Ticket + Hotel Packages",
-   "start": "2026-10-11T10:00:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Eldorado Casino Reno",
-    "address": "345 N. Virginia St., Reno, NV",
-    "lat": 39.52934,
-    "lon": -119.81406
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://travel.ticketmaster.com/en-US/event/165309424/pf?_uid=01e06df2-8b31-4246-b25c-04d738f89509&utm_source=Caesars_TM&utm_medium=TM_ADP_GreatItalianFestivalVIPSunday10AM"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
    "id": "wcparks:639-1791738000000",
    "title": "Junior Ranger Adventure Day! (Bowers Mansion Regional Park)",
    "start": "2026-10-11T10:00:00-07:00",
@@ -9453,62 +9263,6 @@
    "lovingReno": null
   },
   {
-   "id": "tm:1Ad0Z_oGknrZ3aG",
-   "title": "Wine Walk Sunday | Official Caesars Ticket + Hotel Packages",
-   "start": "2026-10-11T12:00:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Eldorado Casino Reno",
-    "address": "345 N. Virginia St., Reno, NV",
-    "lat": 39.52934,
-    "lon": -119.81406
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://travel.ticketmaster.com/en-US/event/164536729/pf?_uid=01e06df2-8b31-4246-b25c-04d738f89509&utm_source=Caesars_TM&utm_medium=TM_ADP_WineWalkSunday1011"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "tm:1Ad0Z_oGknqTwa6",
-   "title": "Wine Walk Two Day Pass | Official Caesars Ticket + Hotel Packages",
-   "start": "2026-10-11T12:00:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Eldorado Casino Reno",
-    "address": "345 N. Virginia St., Reno, NV",
-    "lat": 39.52934,
-    "lon": -119.81406
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://travel.ticketmaster.com/en-US/event/164536733/pf?_uid=01e06df2-8b31-4246-b25c-04d738f89509&utm_source=Caesars_TM&utm_medium=TM_ADP_WineWalkTwoDayPass"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
    "id": "vcity:10000535",
    "title": "Arts & Crafts Revival at St. Mary’s Art Center",
    "start": "2026-10-11T13:00:00-07:00",
@@ -9794,34 +9548,6 @@
     {
      "source": "library",
      "url": "https://events.washoecountylibrary.us/event/17170303"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "tm:1Ad0Z_oGknree50",
-   "title": "Great Italian Festival VIP | Official Caesars Ticket + Hotel Packages",
-   "start": "2026-10-11T14:30:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Eldorado Casino Reno",
-    "address": "345 N. Virginia St., Reno, NV",
-    "lat": 39.52934,
-    "lon": -119.81406
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://travel.ticketmaster.com/en-US/event/165309327/pf?_uid=01e06df2-8b31-4246-b25c-04d738f89509&utm_source=Caesars_TM&utm_medium=TM_ADP_GreatItalianFestivalVIPSunday230PM"
     }
    ],
    "lovingReno": null
