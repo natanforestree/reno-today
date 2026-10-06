@@ -55,7 +55,7 @@ class BuildTest(unittest.TestCase):
             "• 11am Lake Tahoe Oktoberfest (Lake Tahoe, ~55 min)",
             "🏠 Always an option: The Discovery 10–5 · Idlewild Park",
             "📖 Loving Reno: 2026 Ultimate Reno Halloween & Fall Guide",
-            "Full list → https://natanforestree.github.io/reno-today/",
+            "Full list → https://renotoday.org/",
         ]))
 
     def test_empty_sections_are_skipped_and_always_an_option_hides_with_3_little(self):

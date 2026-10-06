@@ -7,7 +7,7 @@ import net
 from model import LOCAL_AREAS
 from places import open_on, short_hours
 
-PAGE_URL = "https://natanforestree.github.io/reno-today/"
+PAGE_URL = "https://renotoday.org/"
 LIMIT = 2000
 PER_SECTION = 5
 LINE_MAX = 140

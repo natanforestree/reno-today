@@ -1,7 +1,7 @@
 # Reno Today
 
 Everything happening in the Reno area each day, things you can bring a
-toddler to first. Live at https://natanforestree.github.io/reno-today/ plus a
+toddler to first. Live at https://renotoday.org/ plus a
 7:xx am Discord message.
 
 - `collector/` (Python, standard library only) gathers events from each source,
