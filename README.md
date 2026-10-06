@@ -79,6 +79,10 @@ Artown (no feed; July only).
 Saved last-good results in `state/sources/` likewise keep only the keyword cues
 (`classify.cues`), not descriptions.
 
+The Ticketmaster recording (`tests/fixtures/real/ticketmaster.json`) stays on your
+own machine and is git-ignored: Ticketmaster's terms allow storing event data only
+for as long as the service needs it. Its test skips when the file isn't there.
+
 ## Maintenance
 
 - `places.json` hours change with the seasons. Each entry has a `checked` date.

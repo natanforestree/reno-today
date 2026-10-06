@@ -182,6 +182,7 @@ function renderFooter() {
       + `${s.error ? ` (${L.esc(s.error)})` : ''}${s.count ? '; showing its last good list' : ''}.</p>`).join('')}
     <p class="small">Updated ${gen ? L.esc(L.ago(gen, nowMs)) : 'never'} · Sources: ${sources.map((s) => L.esc(s.label)).join(', ') || 'none yet'}</p>
     <p class="small">Times, places and prices come from each source; check its link before you go.</p>
+    ${state.data.status?.sources?.ticketmaster ? '<p class="small">Concert and show listings from <a href="https://www.ticketmaster.com/" target="_blank" rel="noopener">Ticketmaster</a>.</p>' : ''}
     <p class="small"><a href="https://natanforestree.github.io/arcadipelago/">← More on Arcadipelago</a></p>`;
 }
 

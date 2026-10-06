@@ -4,3 +4,5 @@ __pycache__/
 *.tmp
 dev/fixture/
 node_modules/
+# Ticketmaster's terms limit storing their event data; keep the real recording local
+tests/fixtures/real/ticketmaster.json

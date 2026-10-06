@@ -96,7 +96,7 @@ class FetchTest(unittest.TestCase):
 
     def test_real_recording_parses(self):
         if not os.path.exists(fixture_path("real/ticketmaster.json")):
-            self.skipTest("recorded in Task 21, once the key exists")
+            self.skipTest("kept local only (git-ignored; Ticketmaster's terms limit storing event data)")
         data = fixture_json("real/ticketmaster.json")
         self.assertNotIn("apikey", str(data).lower())
         events = ticketmaster.parse((data.get("_embedded") or {}).get("events") or [])
