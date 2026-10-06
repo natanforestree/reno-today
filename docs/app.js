@@ -1,6 +1,6 @@
 // Reno Today page: loads docs/data/*.json and renders the chosen day.
 // Every piece of text from the data goes through L.esc, and every link through L.safeUrl.
-import * as L from './lib.js?v=ff90d7d1';
+import * as L from './lib.js?v=8167dcf9';
 
 const RAW = 'https://raw.githubusercontent.com/natanforestree/reno-today/main/docs/data/';
 const FILTERS_KEY = 'reno-today:filters';
@@ -204,7 +204,13 @@ function renderFooter() {
     ${state.data.status?.sources?.ticketmaster ? '<p class="small">Concert and show listings from <a href="https://www.ticketmaster.com/" target="_blank" rel="noopener">Ticketmaster</a>.</p>' : ''}`;
 }
 
+// This month's decorations over the arch (art/season-NN.lua); they change at midnight in Reno.
+function renderSeason() {
+  $('season').dataset.month = L.seasonOf(now());
+}
+
 function render() {
+  renderSeason();
   renderNotice();
   renderDays();
   renderWeather();
@@ -272,6 +278,7 @@ $('chips').addEventListener('click', (ev) => {
   saveFilters();
   render();
 });
+renderSeason();   // before the data arrives
 main().catch((err) => {
   console.error(err);
   $('notice').innerHTML = '<p>Something went wrong loading the list. Try reloading.</p>';

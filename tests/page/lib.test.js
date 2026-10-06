@@ -176,3 +176,12 @@ test('shouldCountVisit: only the real hosts, once per Reno day', () => {
     assert.equal(L.shouldCountVisit(host, null, '2026-10-06'), false, host);
   }
 });
+
+test('seasonOf: the header art follows the month on Reno\'s clock', () => {
+  assert.equal(L.seasonOf(Date.UTC(2026, 9, 6, 19, 0)), '10');    // Oct 6, noon PDT
+  assert.equal(L.seasonOf(Date.UTC(2026, 10, 1, 6, 30)), '10');   // Oct 31, 11:30pm PDT (Nov 1 in UTC and Tokyo)
+  assert.equal(L.seasonOf(Date.UTC(2026, 10, 1, 7, 5)), '11');    // Nov 1, 12:05am PDT
+  assert.equal(L.seasonOf(Date.UTC(2027, 0, 1, 7, 59)), '12');    // Dec 31, 11:59pm PST
+  assert.equal(L.seasonOf(Date.UTC(2027, 0, 1, 8, 0)), '01');     // Jan 1, midnight PST
+  assert.equal(L.seasonOf(Date.UTC(2027, 8, 15, 19, 0)), '09');
+});

@@ -27,6 +27,9 @@ export function renoDate(ms) {
   return `${p.year}-${p.month}-${p.day}`;
 }
 
+/** The month whose decorations the header shows, "01"–"12"; it changes at midnight in Reno. */
+export const seasonOf = (ms) => renoDate(ms).slice(5, 7);
+
 export function addDays(day, n) {
   const d = noon(day);
   d.setUTCDate(d.getUTCDate() + n);

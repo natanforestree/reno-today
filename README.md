@@ -64,6 +64,19 @@ address with a hash of its content (`app.js?v=1a2b3c4d`), so browsers fetch new 
 right away instead of reusing a cached copy for up to 10 minutes. `npm test` fails while a
 stamp is out of date.
 
+## Header art
+
+The arch (`art/arch.lua`) and a decoration layer for each month (`art/season-01.lua` …
+`art/season-12.lua`: pumpkins and ghosts in October, a turkey in November, and so on) are
+Aseprite scripts. The page picks the layer from Reno's date, so it changes by itself at
+midnight on the 1st. To preview a month on the page, add `?now=2026-12-05T12:00:00-08:00`.
+To redraw one:
+
+    /Applications/Aseprite.app/Contents/MacOS/aseprite -b --script art/season-10.lua
+    /Applications/Aseprite.app/Contents/MacOS/aseprite -b --script-param month=10 \
+      --script-param out=/tmp/oct.png --script art/preview.lua    # over the arch and sky
+    node dev/stamp.mjs
+
 ## Sources
 
 | Source | Module | Notes |

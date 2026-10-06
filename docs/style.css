@@ -22,15 +22,34 @@ a:focus-visible, button:focus-visible, summary:focus-visible { outline: 3px soli
                               #8c3b58 60% 74%, #c95a4e 74% 86%, #f0974f 86% 100%);
 }
 .arch {
-  width: min(100%, 352px); aspect-ratio: 176 / 96; margin: 0 auto;
+  position: relative; width: min(100%, 352px); aspect-ratio: 176 / 96; margin: 0 auto;
   background: url(art/arch.png?v=c31ee844) 0 0 / 800% 100% no-repeat;
   image-rendering: pixelated;
   animation: chase 960ms steps(8) infinite;
 }
 /* 8 frames: background-position 0% … 114.2857% (8/7) lands on frames 0–7 */
 @keyframes chase { to { background-position: 114.2857% 0; } }
+/* This month's decorations over the arch (art/season-NN.lua): 16 frames, 0% … 106.6667% (16/15).
+   app.js sets data-month from Reno's date. */
+.season {
+  position: absolute; inset: 0; background: 0 0 / 1600% 100% no-repeat;
+  image-rendering: pixelated; animation: season 1920ms steps(16) infinite;
+}
+@keyframes season { to { background-position: 106.6667% 0; } }
+.season[data-month="01"] { background-image: url(art/season-01.png?v=9d3e58de); }
+.season[data-month="02"] { background-image: url(art/season-02.png?v=514ad962); }
+.season[data-month="03"] { background-image: url(art/season-03.png?v=62558ea3); }
+.season[data-month="04"] { background-image: url(art/season-04.png?v=8fc4d1d5); }
+.season[data-month="05"] { background-image: url(art/season-05.png?v=4a4fa30f); }
+.season[data-month="06"] { background-image: url(art/season-06.png?v=71f305c9); }
+.season[data-month="07"] { background-image: url(art/season-07.png?v=79997940); }
+.season[data-month="08"] { background-image: url(art/season-08.png?v=ea93d036); }
+.season[data-month="09"] { background-image: url(art/season-09.png?v=5f3dc7e1); }
+.season[data-month="10"] { background-image: url(art/season-10.png?v=1dc2c570); }
+.season[data-month="11"] { background-image: url(art/season-11.png?v=e1215178); }
+.season[data-month="12"] { background-image: url(art/season-12.png?v=81908fbf); }
 @media (min-width: 720px) { .arch { width: 528px; } }
-@media (prefers-reduced-motion: reduce) { .arch { animation: none; } .now { animation: none; } }
+@media (prefers-reduced-motion: reduce) { .arch, .season, .now { animation: none; } }
 h1 { font: 600 34px/1 var(--pixel); margin: 10px 0 2px; letter-spacing: 1px; text-shadow: 3px 3px 0 var(--shadow); }
 .tagline { margin: 0; color: #ffe3c4; }
 

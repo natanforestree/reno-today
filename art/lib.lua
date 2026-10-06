@@ -231,6 +231,15 @@ function M.map(rows, key)
   return b
 end
 
+-- Draws src onto dst at (x, y) with a 1px outline of colour c (default P.outline) round its
+-- opaque pixels. Each sprite gets its own outline, so overlapping sprites stay readable.
+function M.stamp(dst, src, x, y, c)
+  local b = M.buffer(src.w + 2, src.h + 2)
+  M.blit(b, src, 1, 1)
+  M.outline(b, c or M.P.outline)
+  M.blit(dst, b, x - 1, y - 1)
+end
+
 -- Mirror image left to right.
 function M.flip(src)
   local b = M.buffer(src.w, src.h)

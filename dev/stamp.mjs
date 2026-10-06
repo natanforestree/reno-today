@@ -14,6 +14,10 @@ import { fileURLToPath } from 'node:url';
 const RULES = [
   { in: 'app.js', ref: "'./lib.js", asset: 'lib.js' },
   { in: 'style.css', ref: 'url(art/arch.png', asset: 'art/arch.png' },
+  ...Array.from({ length: 12 }, (_, i) => {
+    const asset = `art/season-${String(i + 1).padStart(2, '0')}.png`;
+    return { in: 'style.css', ref: `url(${asset}`, asset };
+  }),
   { in: 'index.html', ref: '"art/favicon.png', asset: 'art/favicon.png' },
   { in: 'index.html', ref: '"style.css', asset: 'style.css' },
   { in: 'index.html', ref: '"app.js', asset: 'app.js' },
