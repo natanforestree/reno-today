@@ -16,6 +16,9 @@ BAD_GZIP = {
 }
 
 
+BOT_CHECK = b'<html><head><title>Just a moment...</title><meta http-equiv="refresh" content="0;/.well-known/sgcaptcha/?r=%2Fwp-json%2F&y=SECRETISH"></head></html>'
+
+
 class Handler(BaseHTTPRequestHandler):
     hits = {}
     posted = None
@@ -47,6 +50,17 @@ class Handler(BaseHTTPRequestHandler):
             self._send(404, b"nope")
         elif path == "/bad-json":
             self._send(200, b"{not json")
+        elif path == "/bot-check":
+            self._send(202, BOT_CHECK, [("Content-Type", "text/html; charset=UTF-8")])
+        elif path == "/bot-check-once":
+            if Handler.hits[path] == 1:
+                self._send(200, BOT_CHECK, [("Content-Type", "text/html")])
+            else:
+                self._send(200, b'{"ok": true}', [("Content-Type", "application/json")])
+        elif path == "/html":
+            self._send(200, b"\n  <!DOCTYPE html><html><body>Maintenance</body></html>", [("Content-Type", "text/html")])
+        elif path == "/empty":
+            self._send(200, b"", [("Content-Type", "application/json")])
         else:
             self._send(500)
 
@@ -64,6 +78,7 @@ class NetTest(unittest.TestCase):
         cls.base = f"http://127.0.0.1:{cls.server.server_port}"
         threading.Thread(target=cls.server.serve_forever, daemon=True).start()
         net.RETRY_PAUSE = 0
+        net.NOT_JSON_PAUSE = 0
 
     @classmethod
     def tearDownClass(cls):
@@ -92,6 +107,30 @@ class NetTest(unittest.TestCase):
     def test_bad_json_is_a_fetch_error(self):
         with self.assertRaises(net.FetchError):
             net.get_json(self.base + "/bad-json")
+
+    def test_a_reply_that_is_not_json_is_asked_for_again_once(self):
+        self.assertEqual(net.get_json(self.base + "/bot-check-once"), {"ok": True})
+        self.assertEqual(Handler.hits["/bot-check-once"], 2)
+
+    def test_not_json_errors_say_what_came_back_but_never_quote_it(self):
+        cases = {
+            "/bot-check": "not JSON: a bot-check page (HTTP 202, text/html, 148 bytes)",
+            "/html": "not JSON: a web page (HTTP 200, text/html, 55 bytes)",
+            "/empty": "not JSON: an empty reply (HTTP 200, application/json, 0 bytes)",
+            "/bad-json": "not JSON: broken JSON (HTTP 200, no type, 9 bytes)",
+        }
+        for path, want in cases.items():
+            with self.subTest(path=path):
+                with self.assertRaises(net.FetchError) as cm:
+                    net.get_json(self.base + path)
+                self.assertEqual(str(cm.exception), f"{want} ({self.base}{path})")
+                self.assertNotIn("SECRETISH", str(cm.exception))
+                self.assertEqual(Handler.hits[path], 2)
+
+    def test_retries_zero_means_one_try_for_not_json_too(self):
+        with self.assertRaises(net.FetchError):
+            net.get_json(self.base + "/bot-check", retries=0)
+        self.assertEqual(Handler.hits["/bot-check"], 1)
 
     def test_errors_never_include_the_query_string(self):
         with self.assertRaises(net.FetchError) as cm:

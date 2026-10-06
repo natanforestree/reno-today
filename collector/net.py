@@ -1,4 +1,6 @@
 """HTTP for the collector: our User-Agent, gzip, a timeout and one retry.
+A JSON request that gets something else back (a bot check, a maintenance page)
+is also asked again once, after a pause.
 
 Errors name the host and path but never the query string (API keys live
 there), and callers can pass `label` to hide the URL entirely (the Discord
@@ -7,6 +9,7 @@ webhook's token is in its path)."""
 import gzip
 import http.client
 import json
+import re
 import time
 import urllib.error
 import urllib.parse
@@ -16,6 +19,8 @@ import zlib
 UA = "reno-today/1.0 (+https://github.com/natanforestree/reno-today)"
 TIMEOUT = 20
 RETRY_PAUSE = 2.0
+NOT_JSON_PAUSE = 5.0
+BOT_CHECK = re.compile(rb"captcha|just a moment|challenge|are you a robot|cf-chl|access denied", re.I)
 
 
 class FetchError(Exception):
@@ -41,8 +46,14 @@ def _where(url, label):
     return urllib.parse.urlunsplit((parts.scheme, parts.netloc, parts.path, "", ""))
 
 
-def request(url, *, data=None, headers=None, method=None, timeout=TIMEOUT, retries=1, label=None):
+def request(url, **kw):
     """(status, body bytes). Network errors and 5xx are retried once; 4xx fail at once."""
+    status, _, body = _request(url, **kw)
+    return status, body
+
+
+def _request(url, *, data=None, headers=None, method=None, timeout=TIMEOUT, retries=1, label=None):
+    """(status, content type, body bytes) for request()."""
     sent = {"User-Agent": UA, "Accept-Encoding": "gzip"}
     sent.update(headers or {})
     where = _where(url, label)
@@ -56,7 +67,7 @@ def request(url, *, data=None, headers=None, method=None, timeout=TIMEOUT, retri
                 body = res.read()
                 if res.headers.get("Content-Encoding") == "gzip":
                     body = gzip.decompress(body)
-                return res.status, body
+                return res.status, res.headers.get_content_type() if res.headers.get("Content-Type") else None, body
         except urllib.error.HTTPError as err:
             err.close()
             if err.code < 500 or attempt == retries:
@@ -80,12 +91,33 @@ def get_text(url, **kw):
     return get_bytes(url, **kw).decode("utf-8", errors="replace")
 
 
+def _what(body):
+    """What came back instead of JSON, in a few words; never the body itself (it may hold tokens)."""
+    head = body[:20000].lstrip()
+    if not head:
+        return "an empty reply"
+    if BOT_CHECK.search(head):
+        return "a bot-check page"
+    if head.startswith(b"<"):
+        return "a web page"
+    if head[:1] in (b"{", b"["):
+        return "broken JSON"
+    return "something else"
+
+
 def get_json(url, **kw):
-    body = get_bytes(url, **kw)
-    try:
-        return json.loads(body)
-    except ValueError as err:
-        raise FetchError(_where(url, kw.get("label")), f"bad JSON: {err}") from None
+    retries = kw.get("retries", 1)
+    for attempt in range(retries + 1):
+        status, ctype, body = _request(url, **kw)
+        try:
+            return json.loads(body)
+        except ValueError:
+            if attempt == retries:
+                raise FetchError(_where(url, kw.get("label")),
+                                 f"not JSON: {_what(body)} (HTTP {status}, {ctype or 'no type'}, {len(body)} bytes)",
+                                 status) from None
+        time.sleep(NOT_JSON_PAUSE)
+    raise AssertionError("unreachable")
 
 
 def post_json(url, payload, **kw):
