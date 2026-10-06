@@ -1,5 +1,5 @@
 {
- "at": "2026-10-06T06:30:42Z",
+ "at": "2026-10-06T09:25:48Z",
  "events": [
   {
    "id": "carson:80820",
@@ -169,6 +169,115 @@
    "_tags": [
     "night life",
     "workshops/classes"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:80744",
+   "title": "Mark Twain Days | Poetry Open Mic",
+   "start": "2026-10-13T18:00:00-07:00",
+   "end": "2026-10-13T20:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Brewery Arts Center",
+    "address": "449 W King Street, Carson City, NV, 89703",
+    "lat": 39.16365,
+    "lon": -119.77007
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/mark-twain-days-poetry-open-mic/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & culture",
+    "brewery arts center",
+    "carson city events",
+    "literary festival",
+    "literary festival carson city",
+    "literary festival carson city nevada",
+    "literary festival northern nevada",
+    "mark twain days",
+    "mark twain days carson city",
+    "mark twain days carson city nevada",
+    "mark twain days events",
+    "mark twain days literary festival",
+    "mark twain days literary festival carson city",
+    "mark twain days literary festival carson city nevada",
+    "mark twain days literary festival nevada",
+    "mark twain days nevada",
+    "nevada poet laureate",
+    "nevada poet laureate emeritus",
+    "poet laureate emeritus jesse james ziegler",
+    "poetry carson city nv",
+    "poetry nevada",
+    "poetry northern nevada",
+    "poetry open mic",
+    "poetry open mic carson city nv",
+    "poetry open mic northern nevada",
+    "shows in carson city",
+    "spoken views collective",
+    "spoken views collective reno nv",
+    "things to do in carson city",
+    "things to do in carson city october",
+    "visit carson city",
+    "what to do in carson city"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:80723",
+   "title": "Mile High Jazz Band Presents “Early Autumn Jazz”",
+   "start": "2026-10-13T19:00:00-07:00",
+   "end": "2026-10-13T21:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Gina’s Good Life Music & Lounge",
+    "address": "North Carson Street, Carson City, Nevada, 89701",
+    "lat": 39.16683,
+    "lon": -119.76631
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/mile-high-jazz-band-presents-early-autumn-jazz/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "carson city",
+    "carson city events",
+    "carson city nevada",
+    "live music",
+    "mile high jazz band",
+    "music",
+    "things to do in carson city",
+    "visit carson city",
+    "what to do in carson city"
    ],
    "_family": false,
    "_adult": false,

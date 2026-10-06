@@ -1,41 +1,6 @@
 {
- "at": "2026-10-06T06:30:42Z",
+ "at": "2026-10-06T09:25:48Z",
  "events": [
-  {
-   "id": "wolfpack:vcal_13943-nevadawolfpack.com",
-   "title": "Nevada Football vs Western Kentucky",
-   "start": "2026-09-05T19:30:00-07:00",
-   "end": "2026-09-05T22:30:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Mackay Stadium",
-    "address": "Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "wolfpack",
-     "url": "https://nevadawolfpack.com/calendar.aspx?game_id=13943&sport_id=2"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "sports"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "wolfpack:vcal_14197-nevadawolfpack.com",
    "title": "Nevada Women's Volleyball vs Weber State",

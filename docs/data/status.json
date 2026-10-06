@@ -1,32 +1,32 @@
 {
- "generatedAt": "2026-10-06T06:30:42Z",
+ "generatedAt": "2026-10-06T09:25:48Z",
  "sources": {
   "ticketmaster": {
    "label": "Ticketmaster",
    "ok": true,
-   "count": 36,
-   "lastSuccess": "2026-10-06T06:30:42Z",
+   "count": 38,
+   "lastSuccess": "2026-10-06T09:25:48Z",
    "error": null
   },
   "unr": {
    "label": "UNR events",
    "ok": true,
-   "count": 57,
-   "lastSuccess": "2026-10-06T06:30:42Z",
+   "count": 59,
+   "lastSuccess": "2026-10-06T09:25:48Z",
    "error": null
   },
   "wolfpack": {
    "label": "Nevada Wolf Pack",
    "ok": true,
-   "count": 92,
-   "lastSuccess": "2026-10-06T06:30:42Z",
+   "count": 91,
+   "lastSuccess": "2026-10-06T09:25:48Z",
    "error": null
   },
   "aces": {
    "label": "Reno Aces",
    "ok": true,
    "count": 0,
-   "lastSuccess": "2026-10-06T06:30:42Z",
+   "lastSuccess": "2026-10-06T09:25:48Z",
    "error": null
   },
   "library": {
@@ -40,21 +40,21 @@
    "label": "Washoe County Parks",
    "ok": true,
    "count": 16,
-   "lastSuccess": "2026-10-06T06:30:42Z",
+   "lastSuccess": "2026-10-06T09:25:48Z",
    "error": null
   },
   "standing": {
    "label": "Weekly regulars",
    "ok": true,
    "count": 2,
-   "lastSuccess": "2026-10-06T06:30:42Z",
+   "lastSuccess": "2026-10-06T09:25:48Z",
    "error": null
   },
   "discovery": {
    "label": "The Discovery",
    "ok": true,
-   "count": 10,
-   "lastSuccess": "2026-10-06T06:30:42Z",
+   "count": 8,
+   "lastSuccess": "2026-10-06T09:25:48Z",
    "error": null
   },
   "reno": {
@@ -74,36 +74,36 @@
   "carson": {
    "label": "Visit Carson City",
    "ok": true,
-   "count": 4,
-   "lastSuccess": "2026-10-06T06:30:42Z",
+   "count": 6,
+   "lastSuccess": "2026-10-06T09:25:48Z",
    "error": null
   },
   "southtahoe": {
    "label": "Visit Lake Tahoe",
    "ok": true,
-   "count": 77,
-   "lastSuccess": "2026-10-06T06:30:42Z",
+   "count": 82,
+   "lastSuccess": "2026-10-06T09:25:48Z",
    "error": null
   },
   "vcity": {
    "label": "Virginia City",
-   "ok": true,
+   "ok": false,
    "count": 8,
    "lastSuccess": "2026-10-06T06:30:42Z",
-   "error": null
+   "error": "bad JSON: Expecting value: line 1 column 1 (char 0) (https://visitvirginiacitynv.com/wp-json/tribe/events/v1/events)"
   },
   "lovingreno": {
    "label": "Loving Reno",
    "ok": true,
    "count": 1,
-   "lastSuccess": "2026-10-06T06:30:42Z",
+   "lastSuccess": "2026-10-06T09:25:48Z",
    "error": null
   },
   "weather": {
    "label": "Weather (Open-Meteo)",
    "ok": true,
    "count": 1,
-   "lastSuccess": "2026-10-06T06:30:42Z",
+   "lastSuccess": "2026-10-06T09:25:48Z",
    "error": null
   }
  }

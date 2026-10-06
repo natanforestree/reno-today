@@ -1,5 +1,5 @@
 {
- "at": "2026-10-06T06:30:42Z",
+ "at": "2026-10-06T09:25:48Z",
  "events": [
   {
    "id": "tm:1718v0G655XvsYy",
@@ -1311,6 +1311,80 @@
    "_tags": [
     "arts & theatre",
     "comedy"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:1k18vPAZGA1CvZQ",
+   "title": "Nekromantix, Rezurex, Los Pistoleros, Mortez",
+   "start": "2026-10-13T19:00:00-07:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Club Underground",
+    "address": "555 E 4th St, Reno, NV",
+    "lat": 39.53151,
+    "lon": -119.80658
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketweb.com/event/nekromantix-rezurex-los-pistoleros-mortez-club-underground-tickets/14278084?REFERRAL_ID=tmfeed"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "alternative rock",
+    "music",
+    "rock"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:17C8v0G61Nbd9e3",
+   "title": "Alex Ramon \"Magic\"",
+   "start": "2026-10-13T19:30:00-07:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "South Shore Room at Harrah's Lake Tahoe",
+    "address": "15 Hwy 50, Lake Tahoe, NV",
+    "lat": 38.96241,
+    "lon": -119.9399
+   },
+   "area": "other",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/alex-ramon-magic-lake-tahoe-nevada-10-13-2026/event/390064A8D80D7092"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & theatre",
+    "magic",
+    "magic & illusion"
    ],
    "_family": false,
    "_adult": false,
