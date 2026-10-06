@@ -174,3 +174,20 @@ export function ago(iso, nowMs) {
 }
 
 export const isStale = (iso, nowMs) => !iso || !(nowMs - Date.parse(iso) <= STALE_HOURS * 3600e3);
+
+const SOURCE_QUIET_HOURS = 6;   // a failed update or two while the last list still shows isn't worth a warning
+
+// Footer notes for sources that are really down, in plain words. The technical
+// error stays in status.json for debugging; it never reaches the page.
+export function sourceNotes(sources, nowMs) {
+  const notes = [];
+  for (const s of sources) {
+    if (s.ok) continue;
+    if (!s.count) {
+      notes.push(`${s.label} couldn't be reached, so its events are missing for now.`);
+    } else if (!(nowMs - Date.parse(s.lastSuccess) <= SOURCE_QUIET_HOURS * 3600e3)) {   // also true when lastSuccess is missing
+      notes.push(`${s.label} hasn't updated since ${ago(s.lastSuccess, nowMs) || 'a while ago'}; showing its last list.`);
+    }
+  }
+  return notes;
+}

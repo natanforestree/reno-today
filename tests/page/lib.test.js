@@ -146,3 +146,21 @@ test('a tab left open overnight: "Today" follows the clock, a picked day stays w
   assert.equal(L.dayAfterRollover('2026-10-17', '2026-10-10', '2026-10-19'), '2026-10-19');   // gone after days away
   assert.equal(L.dayAfterRollover('2026-10-31', '2026-10-31', '2026-11-01'), '2026-11-01');   // across the fall-back
 });
+
+test('sourceNotes: quiet about a short blip, plain words when a source is really down', () => {
+  const now = Date.parse('2026-10-06T18:00:00Z');
+  const s = (label, ok, count, lastSuccess, error = 'bad JSON: Expecting value (https://example.org/feed)') =>
+    ({ label, ok, count, lastSuccess, error });
+  const notes = L.sourceNotes([
+    s('UNR events', true, 57, '2026-10-06T17:30:00Z'),
+    s('Virginia City', false, 8, '2026-10-06T15:00:00Z'),        // 3 h, still showing its list: quiet
+    s('City of Reno', false, 30, '2026-10-06T10:00:00Z'),        // 8 h: say so
+    s('Ticketmaster', false, 0, null, 'not set up yet'),          // nothing to show: say so
+  ], now);
+  assert.deepEqual(notes, [
+    "City of Reno hasn't updated since 8 hours ago; showing its last list.",
+    "Ticketmaster couldn't be reached, so its events are missing for now.",
+  ]);
+  assert.ok(notes.every((n) => !/JSON|https?:|set up/.test(n)), 'no technical detail on the page');
+  assert.deepEqual(L.sourceNotes([], now), []);
+});

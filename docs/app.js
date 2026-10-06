@@ -175,11 +175,9 @@ function renderGuide() {
 function renderFooter() {
   const nowMs = now();
   const sources = Object.values(state.data.status?.sources ?? {});
-  const down = sources.filter((s) => !s.ok);
   const gen = state.data.generatedAt;
   $('footer').innerHTML = `
-    ${down.map((s) => `<p class="warn small">${L.esc(s.label)} couldn't be reached on the last update`
-      + `${s.error ? ` (${L.esc(s.error)})` : ''}${s.count ? '; showing its last good list' : ''}.</p>`).join('')}
+    ${L.sourceNotes(sources, nowMs).map((n) => `<p class="warn small">${L.esc(n)}</p>`).join('')}
     <p class="small">Updated ${gen ? L.esc(L.ago(gen, nowMs)) : 'never'} · Sources: ${sources.map((s) => L.esc(s.label)).join(', ') || 'none yet'}</p>
     <p class="small">Times, places and prices come from each source; check its link before you go.</p>
     ${state.data.status?.sources?.ticketmaster ? '<p class="small">Concert and show listings from <a href="https://www.ticketmaster.com/" target="_blank" rel="noopener">Ticketmaster</a>.</p>' : ''}
