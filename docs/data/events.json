@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-07T14:31:46Z",
+ "generatedAt": "2026-10-07T17:31:28Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -1351,7 +1351,10 @@
      "url": "https://renofoodtruckevents.com/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "library:10710439",
@@ -1648,7 +1651,10 @@
    "drive": "~70 min",
    "price": null,
    "tier": "general",
-   "hints": [],
+   "hints": [
+    "music",
+    "21+"
+   ],
    "links": [
     {
      "source": "southtahoe",
@@ -1674,7 +1680,9 @@
    "drive": null,
    "price": null,
    "tier": "general",
-   "hints": [],
+   "hints": [
+    "music"
+   ],
    "links": [
     {
      "source": "tm",
@@ -1703,7 +1711,9 @@
     "max": 38.43
    },
    "tier": "general",
-   "hints": [],
+   "hints": [
+    "music"
+   ],
    "links": [
     {
      "source": "tm",
@@ -1729,7 +1739,9 @@
    "drive": null,
    "price": null,
    "tier": "general",
-   "hints": [],
+   "hints": [
+    "music"
+   ],
    "links": [
     {
      "source": "unr",
@@ -1755,7 +1767,9 @@
    "drive": "~75 min",
    "price": null,
    "tier": "little",
-   "hints": [],
+   "hints": [
+    "music"
+   ],
    "links": [
     {
      "source": "southtahoe",
@@ -1781,7 +1795,9 @@
    "drive": null,
    "price": null,
    "tier": "little",
-   "hints": [],
+   "hints": [
+    "music"
+   ],
    "links": [
     {
      "source": "tm",
@@ -3063,6 +3079,7 @@
    "price": null,
    "tier": "general",
    "hints": [
+    "music",
     "21+"
    ],
    "links": [
@@ -3200,7 +3217,10 @@
    "drive": "~70 min",
    "price": null,
    "tier": "general",
-   "hints": [],
+   "hints": [
+    "music",
+    "21+"
+   ],
    "links": [
     {
      "source": "southtahoe",
@@ -3338,7 +3358,10 @@
    "drive": "~70 min",
    "price": null,
    "tier": "general",
-   "hints": [],
+   "hints": [
+    "music",
+    "21+"
+   ],
    "links": [
     {
      "source": "southtahoe",
@@ -3367,7 +3390,9 @@
     "max": 12.0
    },
    "tier": "general",
-   "hints": [],
+   "hints": [
+    "music"
+   ],
    "links": [
     {
      "source": "unr",
@@ -3393,7 +3418,9 @@
    "drive": "~75 min",
    "price": null,
    "tier": "little",
-   "hints": [],
+   "hints": [
+    "music"
+   ],
    "links": [
     {
      "source": "southtahoe",
@@ -3419,7 +3446,9 @@
    "drive": "~75 min",
    "price": null,
    "tier": "little",
-   "hints": [],
+   "hints": [
+    "music"
+   ],
    "links": [
     {
      "source": "southtahoe",
@@ -3483,7 +3512,10 @@
      "url": "https://www.biggestlittleultra.com/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "library:17341582",
@@ -4257,7 +4289,9 @@
     "max": 40.0
    },
    "tier": "general",
-   "hints": [],
+   "hints": [
+    "music"
+   ],
    "links": [
     {
      "source": "unr",
@@ -4370,7 +4404,9 @@
     "max": 31.25
    },
    "tier": "general",
-   "hints": [],
+   "hints": [
+    "music"
+   ],
    "links": [
     {
      "source": "tm",
@@ -4396,7 +4432,9 @@
    "drive": null,
    "price": null,
    "tier": "general",
-   "hints": [],
+   "hints": [
+    "music"
+   ],
    "links": [
     {
      "source": "tm",
@@ -4478,7 +4516,10 @@
    "drive": "~70 min",
    "price": null,
    "tier": "general",
-   "hints": [],
+   "hints": [
+    "music",
+    "21+"
+   ],
    "links": [
     {
      "source": "southtahoe",
@@ -4504,7 +4545,9 @@
    "drive": "~75 min",
    "price": null,
    "tier": "little",
-   "hints": [],
+   "hints": [
+    "music"
+   ],
    "links": [
     {
      "source": "southtahoe",
@@ -4556,7 +4599,9 @@
    "drive": "~70 min",
    "price": null,
    "tier": "general",
-   "hints": [],
+   "hints": [
+    "music"
+   ],
    "links": [
     {
      "source": "southtahoe",
@@ -4665,7 +4710,9 @@
    "drive": "~75 min",
    "price": null,
    "tier": "little",
-   "hints": [],
+   "hints": [
+    "music"
+   ],
    "links": [
     {
      "source": "southtahoe",
@@ -5161,7 +5208,10 @@
      "url": "https://www.caesars.com/reno/events/great-italian-festival"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "wcparks:711-1791651600000",
@@ -5277,7 +5327,10 @@
      "url": "https://visitvirginiacitynv.com/event/the-walking-seance-at-silver-terrace-cemetery/2026-10-10/1/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "southtahoe:225476",
@@ -5622,7 +5675,8 @@
    "tier": "little",
    "hints": [
     "outdoors",
-    "daytime"
+    "daytime",
+    "music"
    ],
    "links": [
     {
@@ -5807,7 +5861,10 @@
      "url": "https://visitvirginiacitynv.com/event/the-walking-seance-at-silver-terrace-cemetery/2026-10-10/3/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "southtahoe:238139",
@@ -6125,7 +6182,10 @@
      "url": "https://visitcarsoncity.com/events/fright-at-the-museum/2026-10-10/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "southtahoe:112289",
@@ -6339,7 +6399,10 @@
    "drive": "~70 min",
    "price": null,
    "tier": "general",
-   "hints": [],
+   "hints": [
+    "music",
+    "21+"
+   ],
    "links": [
     {
      "source": "southtahoe",
@@ -6365,7 +6428,9 @@
    "drive": "~70 min",
    "price": null,
    "tier": "general",
-   "hints": [],
+   "hints": [
+    "music"
+   ],
    "links": [
     {
      "source": "southtahoe",
@@ -6473,7 +6538,9 @@
    "drive": "~75 min",
    "price": null,
    "tier": "little",
-   "hints": [],
+   "hints": [
+    "music"
+   ],
    "links": [
     {
      "source": "southtahoe",
@@ -6502,7 +6569,9 @@
     "max": 34.61
    },
    "tier": "general",
-   "hints": [],
+   "hints": [
+    "music"
+   ],
    "links": [
     {
      "source": "tm",
@@ -6582,7 +6651,9 @@
    "drive": "~70 min",
    "price": null,
    "tier": "general",
-   "hints": [],
+   "hints": [
+    "music"
+   ],
    "links": [
     {
      "source": "southtahoe",
@@ -6611,7 +6682,9 @@
     "max": 24.15
    },
    "tier": "general",
-   "hints": [],
+   "hints": [
+    "music"
+   ],
    "links": [
     {
      "source": "tm",
@@ -6663,7 +6736,9 @@
    "drive": "~75 min",
    "price": null,
    "tier": "little",
-   "hints": [],
+   "hints": [
+    "music"
+   ],
    "links": [
     {
      "source": "southtahoe",
@@ -6904,7 +6979,10 @@
      "url": "https://www.renofarmersmarket.com/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "reno:285-202610111000",
@@ -6932,7 +7010,10 @@
      "url": "https://www.caesars.com/reno/events/great-italian-festival"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "wcparks:639-1791738000000",
@@ -7049,7 +7130,10 @@
      "url": "https://visitvirginiacitynv.com/event/the-walking-seance-at-silver-terrace-cemetery/2026-10-11/1/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "southtahoe:225477",
@@ -7156,7 +7240,8 @@
    "tier": "little",
    "hints": [
     "outdoors",
-    "daytime"
+    "daytime",
+    "music"
    ],
    "links": [
     {
@@ -7366,7 +7451,10 @@
      "url": "https://visitvirginiacitynv.com/event/the-walking-seance-at-silver-terrace-cemetery/2026-10-11/3/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "library:16303915",
@@ -7513,7 +7601,10 @@
      "url": "https://events.washoecountylibrary.us/event/17170303"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "tm:16yZkf3J9ZAGeFvv",
@@ -7591,7 +7682,9 @@
    "drive": null,
    "price": null,
    "tier": "general",
-   "hints": [],
+   "hints": [
+    "music"
+   ],
    "links": [
     {
      "source": "tm",
@@ -7648,7 +7741,9 @@
     "max": 38.43
    },
    "tier": "general",
-   "hints": [],
+   "hints": [
+    "music"
+   ],
    "links": [
     {
      "source": "tm",
@@ -7728,7 +7823,10 @@
    "drive": "~70 min",
    "price": null,
    "tier": "general",
-   "hints": [],
+   "hints": [
+    "music",
+    "21+"
+   ],
    "links": [
     {
      "source": "southtahoe",
@@ -7754,7 +7852,9 @@
    "drive": "~75 min",
    "price": null,
    "tier": "little",
-   "hints": [],
+   "hints": [
+    "music"
+   ],
    "links": [
     {
      "source": "southtahoe",
@@ -7780,7 +7880,9 @@
    "drive": "~75 min",
    "price": null,
    "tier": "little",
-   "hints": [],
+   "hints": [
+    "music"
+   ],
    "links": [
     {
      "source": "southtahoe",
@@ -8357,7 +8459,9 @@
    "drive": "~65 min",
    "price": null,
    "tier": "general",
-   "hints": [],
+   "hints": [
+    "music"
+   ],
    "links": [
     {
      "source": "southtahoe",
@@ -8437,7 +8541,10 @@
    "drive": "~70 min",
    "price": null,
    "tier": "general",
-   "hints": [],
+   "hints": [
+    "music",
+    "21+"
+   ],
    "links": [
     {
      "source": "southtahoe",
@@ -8463,7 +8570,9 @@
    "drive": "~75 min",
    "price": null,
    "tier": "little",
-   "hints": [],
+   "hints": [
+    "music"
+   ],
    "links": [
     {
      "source": "southtahoe",
@@ -8989,7 +9098,8 @@
    "price": null,
    "tier": "general",
    "hints": [
-    "daytime"
+    "daytime",
+    "music"
    ],
    "links": [
     {
@@ -9655,6 +9765,7 @@
    "price": null,
    "tier": "general",
    "hints": [
+    "music",
     "21+"
    ],
    "links": [
@@ -9682,7 +9793,9 @@
    "drive": null,
    "price": null,
    "tier": "general",
-   "hints": [],
+   "hints": [
+    "music"
+   ],
    "links": [
     {
      "source": "tm",
@@ -9764,7 +9877,10 @@
    "drive": "~70 min",
    "price": null,
    "tier": "general",
-   "hints": [],
+   "hints": [
+    "music",
+    "21+"
+   ],
    "links": [
     {
      "source": "southtahoe",
@@ -9790,7 +9906,9 @@
    "drive": "~75 min",
    "price": null,
    "tier": "little",
-   "hints": [],
+   "hints": [
+    "music"
+   ],
    "links": [
     {
      "source": "southtahoe",
@@ -9816,7 +9934,9 @@
    "drive": "~70 min",
    "price": null,
    "tier": "general",
-   "hints": [],
+   "hints": [
+    "music"
+   ],
    "links": [
     {
      "source": "southtahoe",
@@ -10625,7 +10745,10 @@
      "url": "https://renofoodtruckevents.com/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "library:10710440",
@@ -10989,7 +11112,9 @@
    "drive": "~75 min",
    "price": null,
    "tier": "little",
-   "hints": [],
+   "hints": [
+    "music"
+   ],
    "links": [
     {
      "source": "southtahoe",
