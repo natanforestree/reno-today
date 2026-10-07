@@ -1,6 +1,6 @@
 // Reno Today page: loads docs/data/*.json and renders the chosen day.
 // Every piece of text from the data goes through L.esc, and every link through L.safeUrl.
-import * as L from './lib.js?v=fef5b355';
+import * as L from './lib.js?v=5fbf11a6';
 
 const RAW = 'https://raw.githubusercontent.com/natanforestree/reno-today/main/docs/data/';
 const FILTERS_KEY = 'reno-today:filters';
@@ -15,8 +15,10 @@ const state = { data: null, day: null, today: null, loadedAt: 0, loading: false,
 const RELOAD_AFTER_MS = 3600e3;   // a tab that stays open fetches the data again after an hour
 const TICK_MS = 5 * 60e3;
 const COUNTED_KEY = 'reno-today:counted';
+const SEEN_MS = 5000;   // a visit counts once the page has been on screen this long (previews and scanners leave sooner)
 const VISIT_URL = 'https://ruby-radar.nathanforestlee.workers.dev/api/visit/reno-today';
 let countedInMemory = null;   // the day counted by this page load, in case localStorage is off
+let seenTimer = null;
 
 function loadFilters() {
   try {
@@ -53,10 +55,17 @@ async function loadJson(name, fallback) {
 
 // Daily visitor count: one body-less POST per Reno day per browser. The worker stores only
 // (site, date, count). "Already counted today" lives in this browser's localStorage only.
+// Counted only after SEEN_MS on screen, and never for browsers that say they're automated.
 // Skipped for fixtures (?data=) and the fake clock (?now=). Never blocks or breaks the page.
+function countWhenSeen() {
+  clearTimeout(seenTimer);
+  if (document.visibilityState === 'visible') seenTimer = setTimeout(countVisit, SEEN_MS);
+}
+
 function countVisit() {
   try {
     if (params.has('data') || params.has('now')) return;
+    if (L.looksAutomated(navigator.userAgent, navigator.webdriver)) return;
     const today = L.renoDate(now());
     let stored = null;
     try { stored = localStorage.getItem(COUNTED_KEY); } catch { /* storage off */ }
@@ -239,7 +248,6 @@ async function main() {
   state.loadedAt = now();
   state.today = state.day = L.renoDate(now());
   render();
-  countVisit();
 }
 
 // A tab left open overnight, or brought back from the back/forward cache, catches up:
@@ -262,7 +270,7 @@ async function catchUp(tick) {
     state.day = L.dayAfterRollover(state.day, state.today, today);
     state.today = today;
     render();
-    countVisit();   // a tab left open past midnight counts once for the new day
+    countWhenSeen();   // a tab left open past midnight counts once for the new day
   } finally {
     state.loading = false;
   }
@@ -280,6 +288,8 @@ $('chips').addEventListener('click', (ev) => {
   render();
 });
 renderSeason();   // before the data arrives
+countWhenSeen();
+document.addEventListener('visibilitychange', countWhenSeen);   // hiding the tab restarts the wait
 main().catch((err) => {
   console.error(err);
   $('notice').innerHTML = '<p>Something went wrong loading the list. Try reloading.</p>';

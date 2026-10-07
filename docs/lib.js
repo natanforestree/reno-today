@@ -202,3 +202,9 @@ export const COUNTED_HOSTS = ['natanforestree.github.io', 'renotoday.org', 'www.
  * countedDay is the day this browser last counted (its own localStorage); it never leaves the device. */
 export const shouldCountVisit = (hostname, countedDay, today) =>
   COUNTED_HOSTS.includes(hostname) && countedDay !== today;
+
+const ROBOT_UA = /bot[/;)-]|\bbot\b|crawl|spider|slurp|headless|lighthouse|pagerenderer|preview|externalhit/i;
+
+/** Browsers that say they're automated: the automation flag (navigator.webdriver) or a robot's
+ * name in the user agent (Googlebot, HeadlessChrome, link-preview fetchers). Checked on the device. */
+export const looksAutomated = (userAgent, webdriver) => Boolean(webdriver) || ROBOT_UA.test(userAgent || '');

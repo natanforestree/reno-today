@@ -47,6 +47,12 @@ with a line like `👀 Yesterday: 12 visitors`.
   its own localStorage (`reno-today:counted`); that never leaves the device.
 - Only the live hosts count (`natanforestree.github.io`, `renotoday.org`,
   `www.renotoday.org`), never localhost, `?data=` fixtures or `?now=` previews.
+- **Only people, as far as the page can tell:** a visit counts once the page has been
+  on screen for 5 seconds in one go (link previews and scanners leave sooner), and
+  never in a browser that says it's automated (`navigator.webdriver`, or a robot's
+  name such as Googlebot or HeadlessChrome in its user agent). Both checks run on
+  the device. Before 2026-10-07 these checks didn't exist, so the first two days'
+  counts include some robots.
 - The collector reads the count only when it is about to send the digest. If
   that fails, the line is simply left out.
 
