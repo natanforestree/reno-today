@@ -1,5 +1,5 @@
 {
- "at": "2026-10-07T02:31:18Z",
+ "at": "2026-10-07T05:31:55Z",
  "events": [
   {
    "id": "tm:1718v0G655XvsYy",
@@ -70,42 +70,6 @@
    "_tags": [
     "dance/electronic",
     "music"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
-  {
-   "id": "tm:Z7r9jZ1A70Vvw",
-   "title": "Madeon (18 and Over with Valid ID)",
-   "start": "2026-10-06T20:00:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Cargo",
-    "address": "255 North Virginia Street, Reno, NV",
-    "lat": 39.5263,
-    "lon": -119.8124
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Vvw"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "music",
-    "other"
    ],
    "_family": false,
    "_adult": false,
