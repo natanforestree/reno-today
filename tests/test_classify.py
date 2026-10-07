@@ -51,10 +51,20 @@ class HintsTest(unittest.TestCase):
         self.assertIn("21+", e["hints"])
         self.assertNotIn("21+", classify.classify(ev("Concert", hh=20, venue_name="Bartley Ranch"))["hints"])
 
+    def test_a_bar_named_in_the_title_is_21_plus(self):
+        for title in ("Live Music at Rush Lounge in the Golden Nugget", "Paint Night at The Loft Lounge",
+                      "Trivia at Shea's Tavern", "Jazz at Tessie's Cocktails & Chords"):
+            with self.subTest(title=title):
+                self.assertIn("21+", classify.classify(ev(title, hh=20))["hints"])
+        for title in ("Lounge Chair Yoga", "Storytime at the Library", "Pub Quiz Prep for Teens"):
+            with self.subTest(title=title):
+                self.assertNotIn("21+", classify.classify(ev(title, hh=10))["hints"])
+        self.assertIn("21+", classify.classify(ev("Live Music", hh=20, venue_name="Tessie's Cocktails & Chords"))["hints"])
+
     def test_daytime_and_outdoors(self):
         e = classify.classify(ev("Farmers Market", hh=9, venue_name="Idlewild Park"))
         self.assertEqual(e["hints"], ["outdoors", "daytime"])
-        self.assertEqual(classify.classify(ev("Concert", hh=19))["hints"], [])
+        self.assertEqual(classify.classify(ev("Lecture", hh=19))["hints"], [])
 
     def test_all_day_counts_as_daytime(self):
         e = model.make_event("x", "1", "Expo", la(2026, 10, 10).date(), all_day=True, city="Reno")
@@ -63,6 +73,35 @@ class HintsTest(unittest.TestCase):
     def test_all_ages_only_when_the_source_says_so_and_not_21(self):
         self.assertIn("all-ages", classify.classify(ev("Ballgame", all_ages=True))["hints"])
         self.assertNotIn("all-ages", classify.classify(ev("Ballgame", all_ages=True, adult=True))["hints"])
+
+    MUSIC = [
+        # (title, text, tags, live music?)
+        ("The Rasmus", "", ("Music", "Rock"), True),                       # Ticketmaster's segment
+        ("Live Music at McP's Taphouse Tahoe", "", ("Music & Dance",), True),
+        ("Symphony Orchestra", "", (), True),
+        ("Voice Area Grade Level Recital", "", (), True),
+        ("Mile High Jazz Band Presents Early Autumn Jazz", "", (), True),
+        ("Tuesday Night Blues at Harrah's Lake Tahoe", "", (), True),
+        ("Dueling Pianos at Caesars Republic", "", (), True),
+        ("Concerts in the Park", "", (), True),
+        ("Fall Festival", "Pumpkins, food trucks and live music all afternoon.", (), True),
+        ("Karaoke at Rojo's Tavern", "", ("Music & Dance",), False),      # the Tahoe tag is too broad
+        ("Trivia Night with DJ Trivia!", "", ("Music & Dance",), False),
+        ("Poetry Open Mic", "", (), False),
+        ("Beauty and the Beast: The Musical", "", ("Arts & Theatre",), False),
+        ("Baby Music & Movement", "", (), False),                          # a class, not a show
+        ("Resistance Band Class", "", (), False),
+    ]
+
+    def test_live_music(self):
+        for title, text, tags, music in self.MUSIC:
+            with self.subTest(title=title):
+                hints = classify.classify(ev(title, hh=19, text=text, tags=tags))["hints"]
+                self.assertEqual("music" in hints, music)
+
+    def test_live_music_at_a_bar_is_also_21_plus(self):
+        self.assertEqual(classify.classify(ev("Live Music", hh=21, venue_name="Shea's Tavern"))["hints"],
+                         ["music", "21+"])
 
     def test_classify_does_not_mutate_its_input(self):
         e = ev("Storytime")
@@ -76,11 +115,12 @@ class CuesTest(unittest.TestCase):
                          "toddlers 21+")
         self.assertEqual(classify.cues("Kids, kids, kids!"), "Kids kids")
         self.assertEqual(classify.cues("An evening of chamber music."), "")
+        self.assertEqual(classify.cues("Food trucks, live music and a concert for kids."), "kids live music concert")
         self.assertEqual(classify.cues(None), "")
 
     def test_classifying_from_cues_matches_classifying_from_the_text(self):
         for text in ("Songs and puppets for little ones", "Wine tasting, 21 and over", "Chamber music",
-                     "Kids eat free before the bar crawl"):
+                     "Kids eat free before the bar crawl", "Pumpkins, food trucks and live music"):
             full = classify.classify(ev("Event", text=text))
             short = classify.classify(ev("Event", text=classify.cues(text)))
             self.assertEqual((full["tier"], full["hints"]), (short["tier"], short["hints"]), text)

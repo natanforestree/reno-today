@@ -185,3 +185,13 @@ test('seasonOf: the header art follows the month on Reno\'s clock', () => {
   assert.equal(L.seasonOf(Date.UTC(2027, 0, 1, 8, 0)), '01');     // Jan 1, midnight PST
   assert.equal(L.seasonOf(Date.UTC(2027, 8, 15, 19, 0)), '09');
 });
+
+test('passes: the live music filter', () => {
+  const show = ev({ hints: ['music'] });
+  const show21 = ev({ hints: ['music', '21+'] });
+  const talk = ev();
+  assert.equal(L.passes(show, { music: true }), true);
+  assert.equal(L.passes(talk, { music: true }), false);
+  assert.equal(L.passes(talk, {}), true);
+  assert.equal(L.passes(show21, { music: true, hide21: true }), false);   // all-ages live music
+});

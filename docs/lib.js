@@ -86,7 +86,8 @@ export function passes(e, f) {
   return (!f.free || Boolean(e.price?.free))
     && (!f.outdoors || e.hints.includes('outdoors'))
     && (!f.little || e.tier === 'little')
-    && (!f.hide21 || !e.hints.includes('21+'));
+    && (!f.hide21 || !e.hints.includes('21+'))
+    && (!f.music || e.hints.includes('music'));
 }
 
 const byStart = (a, b) => a.start.localeCompare(b.start) || a.title.localeCompare(b.title);

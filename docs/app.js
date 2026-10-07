@@ -1,10 +1,11 @@
 // Reno Today page: loads docs/data/*.json and renders the chosen day.
 // Every piece of text from the data goes through L.esc, and every link through L.safeUrl.
-import * as L from './lib.js?v=8167dcf9';
+import * as L from './lib.js?v=fef5b355';
 
 const RAW = 'https://raw.githubusercontent.com/natanforestree/reno-today/main/docs/data/';
 const FILTERS_KEY = 'reno-today:filters';
-const FILTERS = [['free', 'Free'], ['outdoors', 'Outdoors'], ['little', 'Little ones only'], ['hide21', 'Hide 21+']];
+const FILTERS = [['free', 'Free'], ['outdoors', 'Outdoors'], ['little', 'Little ones only'], ['hide21', 'Hide 21+'],
+  ['music', 'Live music']];
 const HINT_LABEL = { 'all-ages': 'all ages', outdoors: 'outdoors', '21+': '21+' };
 const params = new URLSearchParams(location.search);
 const fakeNow = Date.parse(params.get('now') ?? '');

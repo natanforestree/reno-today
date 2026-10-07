@@ -16,17 +16,29 @@ LITTLE_TAGS = {"family", "children's theatre", "children's music", "story time",
 ADULT_WORDS = re.compile(
     r"(\b(21|18) ?\+|\b(21|18) (and|&) (over|older|up)\b|\b(bar|pub) crawls?\b|"
     r"\b(wine|beer) tastings?\b|\bburlesque\b)", re.I)
-ADULT_VENUES = re.compile(r"\b(lounge|bar|tavern|pub|saloon|nightclub)\b", re.I)
+ADULT_VENUES = re.compile(r"\b(lounge|bar|tavern|pub|saloon|nightclub|cocktails?)\b", re.I)
+# The same places named in a title ("Live Music at Rush Lounge"); "bar" is left out here
+# ("Storytime at the Snack Bar").
+ADULT_PLACE_IN_TITLE = re.compile(r"\bat\b.*\b(lounge|tavern|pub|saloon|nightclub|cocktails?)\b", re.I)
 OUTDOOR_WORDS = re.compile(
     r"\b(park|trails?|festival grounds|outdoors?|markets?|amphitheat(er|re)|beach)\b", re.I)
-HINTS = ("all-ages", "outdoors", "daytime", "21+")
+# Live music: Ticketmaster's "Music" segment, plain words in a title, or "live music" or a
+# concert in the description. Broad tags such as a tourism site's "Music & Dance" (karaoke,
+# nightclubs, DJ trivia) and a bare "music" (Baby Music & Movement) aren't enough.
+MUSIC_TAGS = {"music", "concert", "concerts", "live music"}
+MUSIC_TITLE = re.compile(
+    r"\b(symphon(y|ic|ies)|orchestras?|philharmonic|jazz|blues|bluegrass|recitals?|choirs?|"
+    r"chorales?|dueling pianos)\b", re.I)
+MUSIC_TEXT = re.compile(r"\b(live (music|bands?)|concerts?)\b", re.I)
+HINTS = ("all-ages", "outdoors", "daytime", "music", "21+")
 
 
 def classify(event):
     e = dict(event)
     venue_name = (e.get("venue") or {}).get("name") or ""
     text = f"{e['title']} {e.get('_text', '')}"
-    adult = bool(e.get("_adult") or ADULT_WORDS.search(text) or ADULT_VENUES.search(venue_name))
+    adult = bool(e.get("_adult") or ADULT_WORDS.search(text) or ADULT_VENUES.search(venue_name)
+                 or ADULT_PLACE_IN_TITLE.search(e["title"]))
     little = not adult and bool(e.get("_family") or LITTLE_WORDS.search(text)
                                 or set(e.get("_tags", [])) & LITTLE_TAGS)
     hints = []
@@ -36,6 +48,8 @@ def classify(event):
         hints.append("outdoors")
     if e["allDay"] or int(e["start"][11:13]) < 17:
         hints.append("daytime")
+    if set(e.get("_tags", [])) & MUSIC_TAGS or MUSIC_TITLE.search(e["title"]) or MUSIC_TEXT.search(text):
+        hints.append("music")
     if adult:
         hints.append("21+")
     e["tier"] = "little" if little else "general"
@@ -44,10 +58,10 @@ def classify(event):
 
 
 def cues(text):
-    """Only the words of a description that classify() looks for, e.g. "toddlers 21+".
+    """Only the words of a description that classify() looks for, e.g. "toddlers 21+ live music".
     Saved last-good results keep these instead of the description: write-ups aren't
     ours to store (spec: "Store and show only facts")."""
-    found = [m.group(0) for pattern in (LITTLE_WORDS, ADULT_WORDS) for m in pattern.finditer(text or "")]
+    found = [m.group(0) for pattern in (LITTLE_WORDS, ADULT_WORDS, MUSIC_TEXT) for m in pattern.finditer(text or "")]
     return " ".join(dict.fromkeys(found))
 
 

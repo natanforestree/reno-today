@@ -132,7 +132,7 @@ Phone first, in cozy pixel style. The header is the pixel Reno Arch (neon RENO, 
 
 1. **Day switcher:** Today · Tomorrow · the next 6 days.
 2. **Weather strip:** high/low, a summary, and the "nice outside" window note.
-3. **Filter chips:** Free · Outdoors · Little ones only · Hide 21+ (stored in localStorage; nothing is filtered by default).
+3. **Filter chips:** Free · Outdoors · Little ones only · Hide 21+ · Live music (stored in localStorage; nothing is filtered by default). Live music with Hide 21+ is the all-ages live music view.
 4. **👶 Great for little ones:** in time order.
 5. **Everything else,** grouped **Morning / Afternoon / Evening / Late**. Each card has time, name, place (+ area if not Reno), price or **Free**, hint badges, a **Loving Reno pick** badge, and links to the source page and directions (a Google Maps search link). Today's in-progress events are marked **"on now"**.
 6. **Ongoing:** collapsed exhibits and multi-day runs.
