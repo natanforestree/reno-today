@@ -1,117 +1,6 @@
 {
- "at": "2026-10-07T05:31:55Z",
+ "at": "2026-10-07T08:31:26Z",
  "events": [
-  {
-   "id": "tm:1718v0G655XvsYy",
-   "title": "Every Avenue, In Her Own Words, Felicity, Too Close for Comfort, Tarni",
-   "start": "2026-10-06T19:00:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Club Underground",
-    "address": "555 E 4th St, Reno, NV",
-    "lat": 39.53151,
-    "lon": -119.80658
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketweb.com/event/every-avenue-in-her-own-club-underground-tickets/14930883?REFERRAL_ID=tmfeed"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "music",
-    "pop",
-    "rock"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
-  {
-   "id": "tm:rZ7HnEZ1Af0Z4K",
-   "title": "Madeon presents Victory Live with MGNA Crrrta",
-   "start": "2026-10-06T20:00:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Cargo Concert Hall",
-    "address": "255 North Virginia Street, Reno, NV",
-    "lat": 39.5281,
-    "lon": -119.81377
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "min": 41.23,
-    "max": 44.03
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketweb.com/event/madeon-presents-victory-live-with-cargo-concert-hall-tickets/14900553"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "dance/electronic",
-    "music"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
-  {
-   "id": "tm:17C8v0G6G9ZtgQ0",
-   "title": "Get the Led Out",
-   "start": "2026-10-06T20:00:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "South Shore Room at Harrah's Lake Tahoe",
-    "address": "15 Hwy 50, Lake Tahoe, NV",
-    "lat": 38.96241,
-    "lon": -119.9399
-   },
-   "area": "other",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/get-the-led-out-lake-tahoe-nevada-10-06-2026/event/390064C5C0A756A4"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "music"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
   {
    "id": "tm:Z7r9jZ1A7J7f4",
    "title": "The Rasmus",
@@ -1341,6 +1230,116 @@
     {
      "source": "tm",
      "url": "https://www.ticketmaster.com/alex-ramon-magic-lake-tahoe-nevada-10-13-2026/event/390064A8D80D7092"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & theatre",
+    "magic",
+    "magic & illusion"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:1AvjZ_3Gknj8aEJ",
+   "title": "Pink Ribbon Bowl",
+   "start": "2026-10-14T18:00:00-07:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "National Bowling Stadium",
+    "address": "300 University Way, Reno, NV",
+    "lat": 39.52994,
+    "lon": -119.81321
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/pink-ribbon-bowl-reno-nevada-10-14-2026/event/1700652A9C4099E6"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "family",
+    "miscellaneous",
+    "other"
+   ],
+   "_family": true,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:rZ7HnEZ1AfG4r7",
+   "title": "Mt. Rose presents Teton Gravity \"Actually, It Is Rocket Science\" Fall Movie Nite",
+   "start": "2026-10-14T19:00:00-07:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Alpine",
+    "address": "324 E 4th St, Reno, NV",
+    "lat": 39.53091,
+    "lon": -119.80904
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 25.21,
+    "max": 30.36
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketweb.com/event/mt-rose-presents-teton-gravity-the-alpine-tickets/14315784"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:17C8v0G61Nb7Mef",
+   "title": "Alex Ramon \"Magic\"",
+   "start": "2026-10-14T19:30:00-07:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "South Shore Room at Harrah's Lake Tahoe",
+    "address": "15 Hwy 50, Lake Tahoe, NV",
+    "lat": 38.96241,
+    "lon": -119.9399
+   },
+   "area": "other",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/alex-ramon-magic-lake-tahoe-nevada-10-14-2026/event/390064A8D8137094"
     }
    ],
    "lovingReno": null,

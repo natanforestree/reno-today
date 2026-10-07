@@ -1,42 +1,6 @@
 {
- "at": "2026-10-07T05:31:55Z",
+ "at": "2026-10-07T08:31:26Z",
  "events": [
-  {
-   "id": "discovery:42326",
-   "title": "World Space Week: Rocket Revolution",
-   "start": "2026-10-06T10:00:00-07:00",
-   "end": "2026-10-06T17:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Discovery",
-    "address": "490 S. Center Street, Reno, NV, 89501",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "discovery",
-     "url": "https://nvdm.org/event/world-space-week-rocket-revolution-2026-10-06/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "hands-on activity",
-    "special event"
-   ],
-   "_family": true,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "discovery:42052",
    "title": "Small Wonder Wednesday",
@@ -280,6 +244,77 @@
    "_text": "",
    "_tags": [
     "special hours"
+   ],
+   "_family": true,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "discovery:42053",
+   "title": "Small Wonder Wednesday",
+   "start": "2026-10-14T09:00:00-07:00",
+   "end": "2026-10-14T10:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Discovery",
+    "address": "490 S. Center Street, Reno, NV, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "discovery",
+     "url": "https://nvdm.org/event/small-wonder-wednesday-2026-07-22/2026-10-14/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "families children",
+   "_tags": [
+    "special hours"
+   ],
+   "_family": true,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "discovery:42842",
+   "title": "Make a Lucha Libre Mask",
+   "start": "2026-10-14T16:30:00-07:00",
+   "end": "2026-10-14T19:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Discovery",
+    "address": "490 S. Center Street, Reno, NV, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "discovery",
+     "url": "https://nvdm.org/event/make-a-lucha-libre-mask__trashed/2026-10-14/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "hands-on activity",
+    "maker project"
    ],
    "_family": true,
    "_adult": false,
