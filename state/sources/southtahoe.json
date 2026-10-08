@@ -1,184 +1,6 @@
 {
- "at": "2026-10-08T05:31:37Z",
+ "at": "2026-10-08T08:31:47Z",
  "events": [
-  {
-   "id": "southtahoe:244482",
-   "title": "Tahoe Twilight Bites Wednesday Evening Food Market",
-   "start": "2026-10-07T15:00:00-07:00",
-   "end": "2026-10-07T19:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Tahoe Nugget Parking Lot",
-    "address": "177 Hwy 50, Stateline, Nevada, 89449",
-    "lat": null,
-    "lon": null
-   },
-   "area": "tahoe",
-   "drive": "~70 min",
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/tahoe-twilight-bites-wednesday-evening-food-market/2026-10-07/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "family Family",
-   "_tags": [],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "southtahoe:230300",
-   "title": "Magic Fusion at The Loft Theatre",
-   "start": "2026-10-07T19:00:00-07:00",
-   "end": "2026-10-07T20:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Loft Theatre & Lounge at the Heavenly Village",
-    "address": "1021 Heavenly Village Way, South Lake Tahoe, CA, 96150",
-    "lat": 38.95559,
-    "lon": -119.94234
-   },
-   "area": "tahoe",
-   "drive": "~75 min",
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/magic-fusion-at-the-loft-theatre/2026-10-07/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "KIDS kids Kids family",
-   "_tags": [
-    "attractions",
-    "kids & families"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "southtahoe:239322",
-   "title": "Alex Ramon Magic Show at Caesars Republic Lake Tahoe",
-   "start": "2026-10-07T19:30:00-07:00",
-   "end": "2026-10-07T21:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Cabaret at Caesars Republic Lake Tahoe",
-    "address": "18 US-50, Stateline, Nevada, 89449",
-    "lat": null,
-    "lon": null
-   },
-   "area": "tahoe",
-   "drive": "~70 min",
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/master-of-illusion-alex-ramon-magic-show-at-caesars-republic-lake-tahoe/2026-10-07/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "attractions",
-    "kids & families"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "southtahoe:245596",
-   "title": "Live Music at Tessie’s Cocktails & Chords inside Caesars Republic",
-   "start": "2026-10-07T19:30:00-07:00",
-   "end": "2026-10-08T02:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Tessie’s Cocktails & Chords inside Caesars Republic",
-    "address": "18 US-50, Stateline, Nevada, 89449",
-    "lat": null,
-    "lon": null
-   },
-   "area": "tahoe",
-   "drive": "~70 min",
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/live-music-at-tessies-cocktails-chords-inside-caesars-republic/2026-10-07/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "Live music live music Live Music live bands",
-   "_tags": [
-    "attractions",
-    "music & dance",
-    "nightlife"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "southtahoe:236032",
-   "title": "Live Music at McP's Taphouse Tahoe",
-   "start": "2026-10-07T20:00:00-07:00",
-   "end": "2026-10-07T23:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "McP’s Taphouse Grill",
-    "address": "4125 Lake Tahoe Blvd., South Lake Tahoe, CA, 96150",
-    "lat": 38.95887,
-    "lon": -119.94228
-   },
-   "area": "tahoe",
-   "drive": "~75 min",
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/live-music-at-mcps-tap-house-tahoe/2026-10-07/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "family Children live music",
-   "_tags": [
-    "free events",
-    "music & dance"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "southtahoe:225475",
    "title": "Tipsy Putt Events",
@@ -2778,6 +2600,43 @@
    "_kind": "organiser"
   },
   {
+   "id": "southtahoe:245603",
+   "title": "Live Music at Tessie’s Cocktails & Chords inside Caesars Republic",
+   "start": "2026-10-14T19:30:00-07:00",
+   "end": "2026-10-15T02:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Tessie’s Cocktails & Chords inside Caesars Republic",
+    "address": "18 US-50, Stateline, Nevada, 89449",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~70 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/live-music-at-tessies-cocktails-chords-inside-caesars-republic/2026-10-14/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "Live music live music Live Music live bands",
+   "_tags": [
+    "attractions",
+    "music & dance",
+    "nightlife"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
    "id": "southtahoe:236036",
    "title": "Live Music at McP's Taphouse Tahoe",
    "start": "2026-10-14T20:00:00-07:00",
@@ -2806,6 +2665,339 @@
    "_tags": [
     "free events",
     "music & dance"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "southtahoe:225479",
+   "title": "Tipsy Putt Events",
+   "start": "2026-10-15T10:00:00-07:00",
+   "end": "2026-10-15T23:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Tipsy Putt Tahoe",
+    "address": "4101 Lake Tahoe Blvd. #101, South Lake Tahoe, California, 96150",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/tipsy-putt-events/2026-10-15/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "family",
+   "_tags": [
+    "attractions",
+    "food & drink",
+    "kids & families"
+   ],
+   "_family": true,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "southtahoe:239425",
+   "title": "Live Music at the Edge Lounge at Edgewood",
+   "start": "2026-10-15T17:00:00-07:00",
+   "end": "2026-10-15T20:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Edge Lounge at Edgewood Tahoe",
+    "address": "180 Lake Parkway, Stateline, Nevada, 89449",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~70 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/live-music-at-the-edge-lounge-at-edgewood/2026-10-15/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "live music",
+   "_tags": [
+    "attractions",
+    "music & dance"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "southtahoe:244811",
+   "title": "Oktoberfest Revision Beer Tasting at the Riva Grill on the Lake",
+   "start": "2026-10-15T17:30:00-07:00",
+   "end": "2026-10-15T19:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Riva Grill on the Lake",
+    "address": "901 Ski Run Blvd., South Lake Tahoe, CA, 96150",
+    "lat": 38.94977,
+    "lon": -119.95704
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/oktoberfest-revision-beer-tasting-at-the-riva-grill-on-the-lake/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "attractions",
+    "food & drink"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "southtahoe:230328",
+   "title": "Magic Fusion at The Loft Theatre",
+   "start": "2026-10-15T19:00:00-07:00",
+   "end": "2026-10-15T20:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Loft Theatre & Lounge at the Heavenly Village",
+    "address": "1021 Heavenly Village Way, South Lake Tahoe, CA, 96150",
+    "lat": 38.95559,
+    "lon": -119.94234
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/magic-fusion-at-the-loft-theatre/2026-10-15/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "KIDS kids Kids family",
+   "_tags": [
+    "attractions",
+    "kids & families"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "southtahoe:230321",
+   "title": "Live Music at Rush Lounge in the Golden Nugget Lake Tahoe",
+   "start": "2026-10-15T19:00:00-07:00",
+   "end": "2026-10-15T23:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Golden Nugget Lake Tahoe",
+    "address": "50 Hwy 50, Stateline, Nevada, 89449",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~70 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/live-music-golden-nugget-lake-tahoe/2026-10-15/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "live music",
+   "_tags": [
+    "attractions",
+    "free events",
+    "music & dance",
+    "nightlife"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "southtahoe:241124",
+   "title": "Thirs-TEE Trivia Night with DJ Trivia! At Tipsy Putt Tahoe",
+   "start": "2026-10-15T19:00:00-07:00",
+   "end": "2026-10-15T21:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Tipsy Putt Tahoe",
+    "address": "4101 Lake Tahoe Blvd. #101, South Lake Tahoe, California, 96150",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/thirsty-thursday-trivia-at-tipsy-putt/2026-10-15/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "attractions",
+    "free events",
+    "music & dance"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "southtahoe:236037",
+   "title": "Live Music at McP's Taphouse Tahoe",
+   "start": "2026-10-15T20:00:00-07:00",
+   "end": "2026-10-15T23:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "McP’s Taphouse Grill",
+    "address": "4125 Lake Tahoe Blvd., South Lake Tahoe, CA, 96150",
+    "lat": 38.95887,
+    "lon": -119.94228
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/live-music-at-mcps-tap-house-tahoe/2026-10-15/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "family Children live music",
+   "_tags": [
+    "free events",
+    "music & dance"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "southtahoe:239015",
+   "title": "An Evening with moe. at Harrah’s Lake Tahoe",
+   "start": "2026-10-15T20:00:00-07:00",
+   "end": "2026-10-15T22:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Harrah’s Lake Tahoe South Shore Room",
+    "address": "15 Hwy 50, Stateline, NV, 89449",
+    "lat": 38.95938,
+    "lon": -119.94155
+   },
+   "area": "tahoe",
+   "drive": "~70 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/an-evening-with-moe-at-harrahs-lake-tahoe/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "concert concerts",
+   "_tags": [
+    "attractions",
+    "featured",
+    "kids & families",
+    "music & dance"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "southtahoe:245068",
+   "title": "Live Music at AleWorX Lake Tahoe",
+   "start": "2026-10-15T21:00:00-07:00",
+   "end": "2026-10-15T23:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Lake Tahoe AleWorX at the Y",
+    "address": "2050 Lake Tahoe Blvd., South Lake Tahoe, CA, 96150",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/lake-tahoe-aleworx-summer-music-series/2026-10-15/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "family",
+   "_tags": [
+    "attractions",
+    "food & drink",
+    "kids & families",
+    "music & dance",
+    "nightlife"
    ],
    "_family": false,
    "_adult": false,

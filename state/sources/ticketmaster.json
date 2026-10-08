@@ -1,119 +1,6 @@
 {
- "at": "2026-10-08T05:31:37Z",
+ "at": "2026-10-08T08:31:47Z",
  "events": [
-  {
-   "id": "tm:rZ7HnEZ1AfaZO0",
-   "title": "The Rasmus, Saint Agnes, Death Valley Dreams",
-   "start": "2026-10-07T19:30:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Alpine",
-    "address": "324 E 4th St, Reno, NV",
-    "lat": 39.53091,
-    "lon": -119.80904
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "min": 38.43,
-    "max": 38.43
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketweb.com/event/the-rasmus-saint-agnes-death-the-alpine-tickets/14240824"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "music",
-    "rock"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
-  {
-   "id": "tm:17C8v0G61N9X9vT",
-   "title": "Alex Ramon \"Magic\"",
-   "start": "2026-10-07T19:30:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "South Shore Room at Harrah's Lake Tahoe",
-    "address": "15 Hwy 50, Lake Tahoe, NV",
-    "lat": 38.96241,
-    "lon": -119.9399
-   },
-   "area": "other",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/alex-ramon-magic-lake-tahoe-nevada-10-07-2026/event/390064A8D7F9707F"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "arts & theatre",
-    "magic",
-    "magic & illusion"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
-  {
-   "id": "tm:1A9Zkf4Gkezh6wL",
-   "title": "The Used",
-   "start": "2026-10-07T20:00:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Grand Sierra Resort and Casino",
-    "address": "2500 East Second Street, Reno, NV",
-    "lat": 39.52331,
-    "lon": -119.78102
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/the-used-reno-nevada-10-07-2026/event/17006515B86C7C9F"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "Children",
-   "_tags": [
-    "alternative rock",
-    "music",
-    "rock"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
   {
    "id": "tm:1Ad0Z_FGkBI2eQE",
    "title": "Laugh Factory",
@@ -1312,6 +1199,116 @@
     "arts & theatre",
     "magic",
     "magic & illusion"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:1Ad0Z_FGkBI4whl",
+   "title": "Laugh Factory",
+   "start": "2026-10-15T19:30:00-07:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Laugh Factory at the Silver Legacy Casino",
+    "address": "407 N Virginia St, Reno, NV",
+    "lat": 39.53069,
+    "lon": -119.81531
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/laugh-factory-reno-nevada-10-15-2026/event/3900648EA85726EB"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "18 and over",
+   "_tags": [
+    "arts & theatre",
+    "comedy"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:1Ae0Z_8GkIMys3d",
+   "title": "Lioneer, Gavin Prophet, Overcxst, Lol, What",
+   "start": "2026-10-15T20:00:00-07:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Club Underground",
+    "address": "555 E 4th St, Reno, NV",
+    "lat": 39.53151,
+    "lon": -119.80658
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketweb.com/event/lioneer-gavin-prophet-overcxst-lol-club-underground-tickets/15026483?REFERRAL_ID=tmfeed"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "alternative rock",
+    "music",
+    "rock"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:17C8v0G65R-Hpca",
+   "title": "An Evening with moe.",
+   "start": "2026-10-15T20:00:00-07:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "South Shore Room at Harrah's Lake Tahoe",
+    "address": "15 Hwy 50, Lake Tahoe, NV",
+    "lat": 38.96241,
+    "lon": -119.9399
+   },
+   "area": "other",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/an-evening-with-moe-lake-tahoe-nevada-10-15-2026/event/390064BBE1F16B49"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "music",
+    "pop",
+    "rock"
    ],
    "_family": false,
    "_adult": false,
