@@ -1,0 +1,360 @@
+{
+ "at": "2026-10-08T20:31:39Z",
+ "events": [
+  {
+   "id": "downtown:126507",
+   "title": "CLUB SLAYYY: SLAYYYTER + HYPERPOP NIGHT",
+   "start": "2026-10-09T21:00:00-07:00",
+   "end": "2026-10-10T01:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Cargo Concert Hall",
+    "address": "255 N Virginia St, Reno, NV, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 20.0,
+    "max": 20.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/club-slayyy-slayyyter-hyperpop-night/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "18+ Concert CONCERT",
+   "_tags": [
+    "cargo",
+    "cargo concert hall",
+    "cargo reno",
+    "concert hall",
+    "concerts",
+    "dance",
+    "dance music",
+    "entertainment",
+    "event",
+    "nightlife",
+    "things to do"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "listing"
+  },
+  {
+   "id": "downtown:10005706",
+   "title": "Great Italian Festival: Virginia Street",
+   "start": "2026-10-10T10:00:00-07:00",
+   "end": "2026-10-10T19:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": null,
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/great-italian-festival-virginia-street/2026-10-10/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "family",
+   "_tags": [],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "listing"
+  },
+  {
+   "id": "downtown:126880",
+   "title": "Burning Man Decompression Event: Brewery District",
+   "start": "2026-10-10T18:00:00-07:00",
+   "end": "2026-10-10T22:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": null,
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/burning-man-decompression-event-brewery-district/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "family kids",
+   "_tags": [
+    "brewery district events"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "listing"
+  },
+  {
+   "id": "downtown:114710",
+   "title": "Strangelove at Cargo Concert Hall",
+   "start": "2026-10-10T19:00:00-07:00",
+   "end": "2026-10-11T00:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Cargo Concert Hall",
+    "address": "255 N Virginia St, Reno, NV, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/strangelove-at-cargo-concert-hall/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "21+ Concert concert CONCERT",
+   "_tags": [
+    "cargo concert hall",
+    "downtown events"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "listing"
+  },
+  {
+   "id": "downtown:114613",
+   "title": "Gabriel Iglesias: The 1976 Tour: Reno Events Center",
+   "start": "2026-10-10T20:00:00-07:00",
+   "end": "2026-10-10T23:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Reno Events Center",
+    "address": "400 University Way, Reno, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/gabriel-iglesias-the-1976-tour-reno-events-center/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "comedy",
+    "comedy show",
+    "entertainment",
+    "event",
+    "things to do",
+    "visit reno tahoe"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "listing"
+  },
+  {
+   "id": "downtown:126548",
+   "title": "Raiders Motor Fest: National Auto Museum",
+   "start": "2026-10-11T09:00:00-07:00",
+   "end": "2026-10-11T14:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "National Automobile Museum",
+    "address": "10 S. Lake Street, Reno, NV, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/raiders-motor-fest-national-auto-museum/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "family",
+   "_tags": [],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "listing"
+  },
+  {
+   "id": "downtown:10005707",
+   "title": "Great Italian Festival: Virginia Street",
+   "start": "2026-10-11T10:00:00-07:00",
+   "end": "2026-10-11T18:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": null,
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/great-italian-festival-virginia-street/2026-10-11/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "family",
+   "_tags": [],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "listing"
+  },
+  {
+   "id": "downtown:114655",
+   "title": "Nekrogoblikon at Cargo Concert Hall",
+   "start": "2026-10-11T18:00:00-07:00",
+   "end": "2026-10-11T23:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Cargo Concert Hall",
+    "address": "255 N Virginia St, Reno, NV, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 30.0,
+    "max": 30.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/nekrogoblikon-at-cargo-concert-hall/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "21+ Concert concert CONCERT",
+   "_tags": [
+    "cargo",
+    "cargo concert hall",
+    "cargo reno",
+    "concert",
+    "concert hall",
+    "dance",
+    "dancing",
+    "event",
+    "nightlife",
+    "things to do"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "listing"
+  },
+  {
+   "id": "downtown:126693",
+   "title": "Under The Arch Madness",
+   "start": "2026-10-15T17:30:00-07:00",
+   "end": "2026-10-15T21:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Reno Arch",
+    "address": "255 N Virginia St., Reno, NV, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/under-the-arch-madness/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "kids",
+   "_tags": [
+    "arch district events",
+    "basketball",
+    "cheerleaders",
+    "community spirit",
+    "djs",
+    "downtown events",
+    "downtown reno partnership",
+    "drink vendors",
+    "drp",
+    "drp events",
+    "entertainment",
+    "food",
+    "kids zone",
+    "locomotion plaza",
+    "mascots",
+    "nevada athletics",
+    "nevada athletics band",
+    "our events",
+    "president brian sandoval",
+    "reno arch",
+    "reno city mayor hillary schieve",
+    "sports",
+    "sports and active",
+    "stephanie rempe",
+    "team",
+    "university events",
+    "university of nevada reno",
+    "unr events",
+    "wolf pack gear"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "listing"
+  }
+ ]
+}

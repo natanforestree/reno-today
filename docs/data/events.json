@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-08T17:32:14Z",
+ "generatedAt": "2026-10-08T20:31:39Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -1642,7 +1642,7 @@
    "area": "tahoe",
    "drive": "~75 min",
    "price": null,
-   "tier": "little",
+   "tier": "general",
    "hints": [
     "music"
    ],
@@ -1670,7 +1670,7 @@
    "area": "tahoe",
    "drive": "~75 min",
    "price": null,
-   "tier": "little",
+   "tier": "general",
    "hints": [
     "music"
    ],
@@ -1737,10 +1737,7 @@
      "url": "https://www.biggestlittleultra.com/"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "library:17341582",
@@ -2569,7 +2566,7 @@
    "area": "tahoe",
    "drive": "~75 min",
    "price": null,
-   "tier": "little",
+   "tier": "general",
    "hints": [],
    "links": [
     {
@@ -2605,37 +2602,6 @@
     {
      "source": "tm",
      "url": "https://www.ticketmaster.com/alex-ramon-magic-lake-tahoe-nevada-10-09-2026/event/390064A8D8037084"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "tm:rZ7HnEZ1A4ZNeK",
-   "title": "Beauty School Dropout, Olive Vox",
-   "start": "2026-10-09T19:30:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Alpine",
-    "address": "324 E 4th St, Reno, NV",
-    "lat": 39.53091,
-    "lon": -119.80904
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "min": 31.25,
-    "max": 31.25
-   },
-   "tier": "general",
-   "hints": [
-    "music"
-   ],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketweb.com/event/beauty-school-dropout-olive-vox-the-alpine-tickets/15023093"
     }
    ],
    "lovingReno": null
@@ -2684,7 +2650,7 @@
    "area": "tahoe",
    "drive": "~45 min",
    "price": null,
-   "tier": "little",
+   "tier": "general",
    "hints": [
     "outdoors"
    ],
@@ -2754,6 +2720,37 @@
    "lovingReno": null
   },
   {
+   "id": "tm:rZ7HnEZ1A4ZNeK",
+   "title": "Beauty School Dropout, Olive Vox",
+   "start": "2026-10-09T20:00:00-07:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Alpine",
+    "address": "324 E 4th St, Reno, NV",
+    "lat": 39.53091,
+    "lon": -119.80904
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 31.25,
+    "max": 31.25
+   },
+   "tier": "general",
+   "hints": [
+    "music"
+   ],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketweb.com/event/beauty-school-dropout-olive-vox-the-alpine-tickets/15023093"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "southtahoe:226470",
    "title": "Live Music at McP's Taphouse Tahoe",
    "start": "2026-10-09T20:00:00-07:00",
@@ -2769,7 +2766,7 @@
    "area": "tahoe",
    "drive": "~75 min",
    "price": null,
-   "tier": "little",
+   "tier": "general",
    "hints": [
     "music"
    ],
@@ -2862,37 +2859,6 @@
    "lovingReno": null
   },
   {
-   "id": "tm:rZ7HnEZ1Af1b70",
-   "title": "CLUB SLAYYY: SLAYYYTER + HYPERPOP NIGHT",
-   "start": "2026-10-09T21:00:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Cargo Concert Hall",
-    "address": "255 North Virginia Street, Reno, NV",
-    "lat": 39.5281,
-    "lon": -119.81377
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "min": 22.91,
-    "max": 22.91
-   },
-   "tier": "general",
-   "hints": [
-    "21+"
-   ],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketweb.com/event/club-slayyy-slayyyter-hyperpop-cargo-concert-hall-tickets/14298124"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
    "id": "tm:Z7r9jZ1AAvsGA",
    "title": "Club Slayyy",
    "start": "2026-10-09T21:00:00-07:00",
@@ -2907,13 +2873,27 @@
    },
    "area": "reno",
    "drive": null,
-   "price": null,
+   "price": {
+    "min": 22.91,
+    "max": 22.91
+   },
    "tier": "general",
-   "hints": [],
+   "hints": [
+    "music",
+    "21+"
+   ],
    "links": [
     {
      "source": "tm",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvsGA"
+    },
+    {
+     "source": "tm",
+     "url": "https://www.ticketweb.com/event/club-slayyy-slayyyter-hyperpop-cargo-concert-hall-tickets/14298124"
+    },
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/club-slayyy-slayyyter-hyperpop-night/"
     }
    ],
    "lovingReno": null
@@ -2934,7 +2914,7 @@
    "area": "tahoe",
    "drive": "~75 min",
    "price": null,
-   "tier": "little",
+   "tier": "general",
    "hints": [
     "music"
    ],
@@ -3423,7 +3403,7 @@
    "area": "reno",
    "drive": null,
    "price": null,
-   "tier": "general",
+   "tier": "little",
    "hints": [
     "daytime"
    ],
@@ -3431,12 +3411,13 @@
     {
      "source": "reno",
      "url": "https://www.caesars.com/reno/events/great-italian-festival"
+    },
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/great-italian-festival-virginia-street/2026-10-10/"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "wcparks:711-1791651600000",
@@ -3552,10 +3533,7 @@
      "url": "https://visitvirginiacitynv.com/event/the-walking-seance-at-silver-terrace-cemetery/2026-10-10/1/"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "southtahoe:225476",
@@ -4086,10 +4064,7 @@
      "url": "https://visitvirginiacitynv.com/event/the-walking-seance-at-silver-terrace-cemetery/2026-10-10/3/"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "southtahoe:238139",
@@ -4342,7 +4317,7 @@
    "area": "reno",
    "drive": null,
    "price": null,
-   "tier": "little",
+   "tier": "general",
    "hints": [],
    "links": [
     {
@@ -4370,7 +4345,7 @@
    "price": {
     "free": true
    },
-   "tier": "little",
+   "tier": "general",
    "hints": [],
    "links": [
     {
@@ -4399,7 +4374,7 @@
     "min": 15.0,
     "max": 15.0
    },
-   "tier": "little",
+   "tier": "general",
    "hints": [],
    "links": [
     {
@@ -4407,10 +4382,7 @@
      "url": "https://visitcarsoncity.com/events/fright-at-the-museum/2026-10-10/"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "southtahoe:112289",
@@ -4569,7 +4541,7 @@
    "area": "tahoe",
    "drive": "~75 min",
    "price": null,
-   "tier": "little",
+   "tier": "general",
    "hints": [],
    "links": [
     {
@@ -4684,7 +4656,7 @@
    "area": "tahoe",
    "drive": "~70 min",
    "price": null,
-   "tier": "little",
+   "tier": "general",
    "hints": [],
    "links": [
     {
@@ -4716,6 +4688,10 @@
     {
      "source": "tm",
      "url": "https://www.ticketmaster.com/gabriel-iglesias-the-1976-tour-reno-nevada-10-10-2026/event/1700648EC7DF66C4"
+    },
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/gabriel-iglesias-the-1976-tour-reno-events-center/"
     }
    ],
    "lovingReno": null
@@ -4762,7 +4738,7 @@
    "area": "tahoe",
    "drive": "~75 min",
    "price": null,
-   "tier": "little",
+   "tier": "general",
    "hints": [
     "music"
    ],
@@ -4795,12 +4771,17 @@
    },
    "tier": "general",
    "hints": [
-    "music"
+    "music",
+    "21+"
    ],
    "links": [
     {
      "source": "tm",
      "url": "https://www.ticketweb.com/event/strangelove-the-depeche-mode-experience-cargo-concert-hall-tickets/14963953"
+    },
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/strangelove-at-cargo-concert-hall/"
     }
    ],
    "lovingReno": null
@@ -4960,7 +4941,7 @@
    "area": "tahoe",
    "drive": "~75 min",
    "price": null,
-   "tier": "little",
+   "tier": "general",
    "hints": [
     "music"
    ],
@@ -5175,6 +5156,34 @@
    "lovingReno": null
   },
   {
+   "id": "downtown:126548",
+   "title": "Raiders Motor Fest: National Auto Museum",
+   "start": "2026-10-11T09:00:00-07:00",
+   "end": "2026-10-11T14:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "National Automobile Museum",
+    "address": "10 S. Lake Street, Reno, NV, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/raiders-motor-fest-national-auto-museum/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "standing:riverside-farmers-market-2026-10-11",
    "title": "Riverside Farmers Market",
    "start": "2026-10-11T09:00:00-07:00",
@@ -5204,10 +5213,7 @@
      "url": "https://www.renofarmersmarket.com/"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "reno:285-202610111000",
@@ -5225,7 +5231,7 @@
    "area": "reno",
    "drive": null,
    "price": null,
-   "tier": "general",
+   "tier": "little",
    "hints": [
     "daytime"
    ],
@@ -5233,12 +5239,13 @@
     {
      "source": "reno",
      "url": "https://www.caesars.com/reno/events/great-italian-festival"
+    },
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/great-italian-festival-virginia-street/2026-10-11/"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "wcparks:639-1791738000000",
@@ -5355,10 +5362,7 @@
      "url": "https://visitvirginiacitynv.com/event/the-walking-seance-at-silver-terrace-cemetery/2026-10-11/1/"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "southtahoe:225477",
@@ -5676,10 +5680,7 @@
      "url": "https://visitvirginiacitynv.com/event/the-walking-seance-at-silver-terrace-cemetery/2026-10-11/3/"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "library:16303915",
@@ -5826,10 +5827,7 @@
      "url": "https://events.washoecountylibrary.us/event/17170303"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "tm:16yZkf3J9ZAGeFvv",
@@ -5905,15 +5903,27 @@
    },
    "area": "reno",
    "drive": null,
-   "price": null,
+   "price": {
+    "min": 38.43,
+    "max": 38.43
+   },
    "tier": "general",
    "hints": [
-    "music"
+    "music",
+    "21+"
    ],
    "links": [
     {
      "source": "tm",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pt7f"
+    },
+    {
+     "source": "tm",
+     "url": "https://www.ticketweb.com/event/nekrogoblikon-rivers-of-nihil-cyborg-cargo-concert-hall-tickets/14209504"
+    },
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/nekrogoblikon-at-cargo-concert-hall/"
     }
    ],
    "lovingReno": null
@@ -5947,37 +5957,6 @@
    "lovingReno": null
   },
   {
-   "id": "tm:rZ7HnEZ1AfFaf7",
-   "title": "Nekrogoblikon, Rivers of Nihil, Cyborg Octopus, Cyanate",
-   "start": "2026-10-11T19:00:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Cargo Concert Hall",
-    "address": "255 North Virginia Street, Reno, NV",
-    "lat": 39.5281,
-    "lon": -119.81377
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "min": 38.43,
-    "max": 38.43
-   },
-   "tier": "general",
-   "hints": [
-    "music"
-   ],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketweb.com/event/nekrogoblikon-rivers-of-nihil-cyborg-cargo-concert-hall-tickets/14209504"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
    "id": "southtahoe:244838",
    "title": "Tallac After Dark",
    "start": "2026-10-11T19:00:00-07:00",
@@ -5993,7 +5972,7 @@
    "area": "tahoe",
    "drive": "~75 min",
    "price": null,
-   "tier": "little",
+   "tier": "general",
    "hints": [],
    "links": [
     {
@@ -6076,7 +6055,7 @@
    "area": "tahoe",
    "drive": "~75 min",
    "price": null,
-   "tier": "little",
+   "tier": "general",
    "hints": [
     "music"
    ],
@@ -6104,7 +6083,7 @@
    "area": "tahoe",
    "drive": "~75 min",
    "price": null,
-   "tier": "little",
+   "tier": "general",
    "hints": [
     "music"
    ],
@@ -6657,7 +6636,7 @@
    "area": "reno",
    "drive": null,
    "price": null,
-   "tier": "little",
+   "tier": "general",
    "hints": [],
    "links": [
     {
@@ -6794,7 +6773,7 @@
    "area": "tahoe",
    "drive": "~75 min",
    "price": null,
-   "tier": "little",
+   "tier": "general",
    "hints": [
     "music"
    ],
@@ -8130,7 +8109,7 @@
    "area": "tahoe",
    "drive": "~75 min",
    "price": null,
-   "tier": "little",
+   "tier": "general",
    "hints": [
     "music"
    ],
@@ -9253,10 +9232,7 @@
      "url": "https://renofoodtruckevents.com/"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "library:10710440",
@@ -9395,7 +9371,7 @@
    "price": {
     "free": true
    },
-   "tier": "little",
+   "tier": "general",
    "hints": [],
    "links": [
     {
@@ -9648,7 +9624,7 @@
    "area": "tahoe",
    "drive": "~75 min",
    "price": null,
-   "tier": "little",
+   "tier": "general",
    "hints": [
     "music"
    ],
@@ -10606,6 +10582,34 @@
    "lovingReno": null
   },
   {
+   "id": "downtown:126693",
+   "title": "Under The Arch Madness",
+   "start": "2026-10-15T17:30:00-07:00",
+   "end": "2026-10-15T21:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Reno Arch",
+    "address": "255 N Virginia St., Reno, NV, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/under-the-arch-madness/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "reno:193-202610151800",
    "title": "Resilience for Families: Navigating Substance Use and Mental Health Conditions",
    "start": "2026-10-15T18:00:00-07:00",
@@ -10818,7 +10822,7 @@
    "area": "tahoe",
    "drive": "~75 min",
    "price": null,
-   "tier": "little",
+   "tier": "general",
    "hints": [
     "music"
    ],
@@ -10846,7 +10850,7 @@
    "area": "tahoe",
    "drive": "~75 min",
    "price": null,
-   "tier": "little",
+   "tier": "general",
    "hints": [
     "music"
    ],
