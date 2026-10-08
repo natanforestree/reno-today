@@ -1,42 +1,6 @@
 {
- "at": "2026-10-07T23:31:17Z",
+ "at": "2026-10-08T02:31:19Z",
  "events": [
-  {
-   "id": "tm:Z7r9jZ1A7J7f4",
-   "title": "The Rasmus",
-   "start": "2026-10-07T19:30:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Cargo",
-    "address": "255 North Virginia Street, Reno, NV",
-    "lat": 39.5263,
-    "lon": -119.8124
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J7f4"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "music",
-    "other"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
   {
    "id": "tm:rZ7HnEZ1AfaZO0",
    "title": "The Rasmus, Saint Agnes, Death Valley Dreams",

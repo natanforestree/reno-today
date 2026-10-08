@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-07T23:31:17Z",
+ "generatedAt": "2026-10-08T02:31:19Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -1656,34 +1656,6 @@
     {
      "source": "southtahoe",
      "url": "https://visitlaketahoe.com/event/live-music-at-tessies-cocktails-chords-inside-caesars-republic/2026-10-07/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "tm:Z7r9jZ1A7J7f4",
-   "title": "The Rasmus",
-   "start": "2026-10-07T19:30:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Cargo",
-    "address": "255 North Virginia Street, Reno, NV",
-    "lat": 39.5263,
-    "lon": -119.8124
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "music"
-   ],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J7f4"
     }
    ],
    "lovingReno": null
