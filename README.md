@@ -76,6 +76,8 @@ The arch (`art/arch.lua`) and a decoration layer for each month (`art/season-01.
 `art/season-12.lua`: pumpkins and ghosts in October, a turkey in November, and so on) are
 Aseprite scripts. The page picks the layer from Reno's date, so it changes by itself at
 midnight on the 1st. To preview a month on the page, add `?now=2026-12-05T12:00:00-08:00`.
+The page's small icons (section headings, weather, the drive badge) are one sheet drawn by
+`art/icons.lua`, in the order of `ICONS` in `docs/lib.js`.
 To redraw one:
 
     /Applications/Aseprite.app/Contents/MacOS/aseprite -b --script art/season-10.lua

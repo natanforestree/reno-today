@@ -219,3 +219,12 @@ test('looksAutomated: robots that say so are not counted, real browsers are', ()
   assert.equal(L.looksAutomated(people[0], true), true);        // automation flag (navigator.webdriver)
   assert.equal(L.looksAutomated(undefined, undefined), false);
 });
+
+test('weatherIcon: the same weather types as collector/weather.py CODES', () => {
+  const cases = [[0, 'clear'], [1, 'mostly-clear'], [2, 'partly-cloudy'], [3, 'cloudy'], [45, 'fog'], [48, 'fog'],
+    [51, 'showers'], [57, 'showers'], [61, 'rain'], [67, 'rain'], [71, 'snow'], [77, 'snow'], [80, 'showers'],
+    [82, 'showers'], [85, 'snow'], [86, 'snow'], [95, 'thunder'], [99, 'thunder']];
+  for (const [code, name] of cases) assert.equal(L.weatherIcon(code), name, String(code));
+  for (const bad of [null, undefined, 100, -1, 'x']) assert.equal(L.weatherIcon(bad), null, String(bad));
+  for (const [, name] of cases) assert.ok(L.ICONS.includes(name), name);
+});

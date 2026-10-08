@@ -1,6 +1,6 @@
 // Reno Today page: loads docs/data/*.json and renders the chosen day.
 // Every piece of text from the data goes through L.esc, and every link through L.safeUrl.
-import * as L from './lib.js?v=5fbf11a6';
+import * as L from './lib.js?v=8e1750e5';
 
 const RAW = 'https://raw.githubusercontent.com/natanforestree/reno-today/main/docs/data/';
 const FILTERS_KEY = 'reno-today:filters';
@@ -77,6 +77,7 @@ function countVisit() {
   } catch { /* counting must never break the page */ }
 }
 
+const icon = (name) => `<span class="ico ico-${name}" aria-hidden="true"></span>`;
 const link = (url, label) => `<a href="${L.esc(url)}" target="_blank" rel="noopener">${L.esc(label)}</a>`;
 
 function card(e, nowMs) {
@@ -88,7 +89,7 @@ function card(e, nowMs) {
   for (const h of e.hints) {
     if (HINT_LABEL[h]) badges.push(`<span class="b${h === '21+' ? ' b-adult' : ''}">${HINT_LABEL[h]}</span>`);
   }
-  if (e.drive) badges.push(`<span class="b">🚗 ${L.esc(e.drive)}</span>`);
+  if (e.drive) badges.push(`<span class="b">${icon('car')}${L.esc(e.drive)}</span>`);
   const lr = e.lovingReno && L.safeUrl(e.lovingReno.url);
   if (lr) badges.push(`<a class="b b-lr" href="${L.esc(lr)}" target="_blank" rel="noopener">Loving Reno pick</a>`);
   const links = (e.links || []).map((l) => [L.safeUrl(l.url), L.SOURCE_LABEL[l.source] || l.source]).filter(([u]) => u);
@@ -126,7 +127,7 @@ function placeCard(p, hours) {
 function renderNotice() {
   const gen = state.data.generatedAt;
   $('notice').innerHTML = L.isStale(gen, now())
-    ? `<p>⚠️ ${gen ? `Last updated ${L.esc(L.ago(gen, now()))}` : 'No data yet'}, so this list may be out of date.</p>`
+    ? `<p>${icon('warn')}${gen ? `Last updated ${L.esc(L.ago(gen, now()))}` : 'No data yet'}, so this list may be out of date.</p>`
     : '';
 }
 
@@ -144,10 +145,11 @@ function renderWeather() {
     return;
   }
   const nice = L.niceNote(day);
-  $('weather').innerHTML = `<span class="wx-emoji" aria-hidden="true">${L.esc(day.emoji)}</span>
+  const wx = L.weatherIcon(day.code);
+  $('weather').innerHTML = `${wx ? icon(wx) : `<span class="wx-emoji" aria-hidden="true">${L.esc(day.emoji)}</span>`}
     <span class="wx-temp">${L.esc(day.low)}° → ${L.esc(day.high)}°</span>
     <span>${L.esc(day.summary)}${day.rain ? ` · ${L.esc(day.rain)}% rain` : ''}</span>
-    ${nice ? `<span class="wx-nice">🌿 ${L.esc(nice)}</span>` : ''}`;
+    ${nice ? `<span class="wx-nice">${icon('leaf')}${L.esc(nice)}</span>` : ''}`;
 }
 
 function renderChips() {
@@ -161,7 +163,7 @@ function renderLists() {
   const list = (items) => items.map((e) => card(e, nowMs)).join('');
   const filtered = Object.values(state.filters).some(Boolean) ? ' with these filters' : '';
 
-  $('little').innerHTML = '<h2>👶 Great for little ones</h2>'
+  $('little').innerHTML = `<h2>${icon('baby')}Great for little ones</h2>`
     + (v.little.length ? list(v.little) : `<p class="empty">Nothing made for little ones${filtered} on this day.</p>`);
 
   const groups = L.PARTS.filter(([k]) => v.parts[k].length)
@@ -176,7 +178,7 @@ function renderLists() {
 
   const drive = $('drive');
   drive.hidden = !v.drive.length;
-  drive.innerHTML = `<h2>🚗 Worth the drive</h2>${list(v.drive)}`;
+  drive.innerHTML = `<h2>${icon('car')}Worth the drive</h2>${list(v.drive)}`;
 
   const open = L.placesOpen(state.data.places, state.day);
   const always = $('always');
@@ -185,7 +187,7 @@ function renderLists() {
     always.open = v.littleCount < 3;
     always.dataset.day = state.day;
   }
-  always.innerHTML = `<summary><h2>🏠 Always an option · <span class="n">${open.length}</span></h2></summary>`
+  always.innerHTML = `<summary><h2>${icon('house')}Always an option · <span class="n">${open.length}</span></h2></summary>`
     + open.map(([p, h]) => placeCard(p, h)).join('')
     + '<p class="muted small">Hours change with the seasons; check before you go.</p>';
 }
@@ -196,7 +198,7 @@ function renderGuide() {
   const el = $('guide');
   el.hidden = !url;
   if (!url) return;
-  el.innerHTML = `<h2>📖 From Loving Reno</h2>
+  el.innerHTML = `<h2>${icon('book')}From Loving Reno</h2>
     <a class="guide-card" href="${L.esc(url)}" target="_blank" rel="noopener">
       <span class="guide-title">${L.esc(g.shortTitle || g.title)}</span>
       <span class="muted">Their latest guide${g.published ? ` · ${L.esc(g.published)}` : ''} →</span>

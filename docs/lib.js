@@ -146,6 +146,18 @@ export function shortHours(h) {
 export const placesOpen = (places, day) =>
   places.map((p) => [p, hoursOn(p, day)]).filter(([, h]) => h);
 
+// The pixel icons in art/icons.png, in sheet order (docs/style.css .ico-<name>; art/icons.lua).
+export const ICONS = ['baby', 'car', 'house', 'book', 'music', 'leaf', 'warn', 'clear', 'mostly-clear',
+  'partly-cloudy', 'cloudy', 'fog', 'showers', 'rain', 'snow', 'thunder'];
+
+// The weather icon for a WMO weather code: the same groups as CODES in collector/weather.py.
+const WEATHER_ICONS = [[0, 'clear'], [1, 'mostly-clear'], [2, 'partly-cloudy'], [3, 'cloudy'], [48, 'fog'],
+  [57, 'showers'], [67, 'rain'], [77, 'snow'], [82, 'showers'], [86, 'snow'], [99, 'thunder']];
+export function weatherIcon(code) {
+  if (!Number.isInteger(code) || code < 0) return null;
+  return WEATHER_ICONS.find(([top]) => code <= top)?.[1] ?? null;
+}
+
 export function niceNote(wxDay) {
   if (!wxDay?.nice?.length) return '';
   return `Nice outside ${wxDay.nice.map((w) => `${fmtClock(w.from)}–${fmtClock(w.to)}`).join(', ')}`;

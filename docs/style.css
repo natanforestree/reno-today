@@ -111,11 +111,36 @@ details > summary h2::before { content: '▸ '; }
 details[open] > summary h2::before { content: '▾ '; }
 details[open] > summary { margin-bottom: 8px; }
 
+/* Pixel icons (art/icons.lua): 12x12 cells shown at 2x, in the order of ICONS in lib.js. */
+.ico {
+  display: inline-block; width: 24px; height: 24px; margin: -4px 6px -4px 0; vertical-align: -5px;
+  background-image: url(art/icons.png?v=e253b8ff); background-size: 384px 24px; background-repeat: no-repeat;
+  image-rendering: pixelated;
+}
+.b .ico { margin-right: 4px; }
+.ico-baby { background-position: 0 0; }
+.ico-car { background-position: -24px 0; }
+.ico-house { background-position: -48px 0; }
+.ico-book { background-position: -72px 0; }
+.ico-music { background-position: -96px 0; }
+.ico-leaf { background-position: -120px 0; }
+.ico-warn { background-position: -144px 0; }
+.ico-clear { background-position: -168px 0; }
+.ico-mostly-clear { background-position: -192px 0; }
+.ico-partly-cloudy { background-position: -216px 0; }
+.ico-cloudy { background-position: -240px 0; }
+.ico-fog { background-position: -264px 0; }
+.ico-showers { background-position: -288px 0; }
+.ico-rain { background-position: -312px 0; }
+.ico-snow { background-position: -336px 0; }
+.ico-thunder { background-position: -360px 0; }
+
 .guide-card {
   display: block; background: var(--panel); border: 2px solid var(--pink); padding: 12px;
   text-decoration: none; color: var(--ink); box-shadow: 3px 3px 0 var(--shadow);
 }
 .guide-title { display: block; font: 400 27px/1.1 var(--body); margin-bottom: 4px; }
+.scene-card { border-color: var(--sierra); }
 
 footer { max-width: 760px; margin: 0 auto; padding: 8px 16px 32px; border-top: 2px dashed var(--line); color: var(--muted); }
 footer p { margin: 6px 0; }

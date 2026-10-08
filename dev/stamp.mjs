@@ -18,6 +18,7 @@ const RULES = [
     const asset = `art/season-${String(i + 1).padStart(2, '0')}.png`;
     return { in: 'style.css', ref: `url(${asset}`, asset };
   }),
+  { in: 'style.css', ref: 'url(art/icons.png', asset: 'art/icons.png' },
   { in: 'index.html', ref: '"art/favicon.png', asset: 'art/favicon.png' },
   { in: 'index.html', ref: '"style.css', asset: 'style.css' },
   { in: 'index.html', ref: '"app.js', asset: 'app.js' },
