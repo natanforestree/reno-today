@@ -146,7 +146,7 @@ class SameShowTwoStylesTest(unittest.TestCase):
         self.assertEqual(len(m["links"]), 2)
 
     def test_different_shows_at_one_venue_stay_apart(self):
-        a = ev("kwnk", "1", "Buzz Kull + Kontravoid, Blood Rave", la(2026, 10, 13, 19), "The Holland Project",
+        a = ev("downtown", "11", "Buzz Kull + Kontravoid, Blood Rave", la(2026, 10, 13, 19), "The Holland Project",
                kind="listing")
         b = ev("tm", "Z3", "Dummy, Golomb", la(2026, 10, 13, 20), "The Holland Project", kind="ticketing")
         self.assertFalse(dedupe.is_duplicate(a, b))

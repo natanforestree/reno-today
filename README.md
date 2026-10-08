@@ -95,7 +95,7 @@ To redraw one:
 | Reno Aces | `sources/aces.py` | MLB Stats API; off-season Oct–Mar |
 | Washoe County Library | `sources/library.py` | LibCal; 10 s crawl delay, read twice a day |
 | The Discovery, Carson City, South Lake Tahoe, Virginia City | `sources/tribe.py` | The Events Calendar REST API |
-| Downtown Reno Partnership, KWNK (music only) | `sources/tribe.py` | listing calendars: a ticket seller's or organiser's copy wins; a copy too differently worded to merge is dropped when it shares an unusual title word with another event that day |
+| Downtown Reno Partnership, The Holland Project | `sources/tribe.py` | Downtown Reno is a listing calendar: a ticket seller's or organiser's copy wins, and a copy too differently worded to merge is dropped when it shares an unusual title word with another event that day. Every Holland event is all ages. |
 | City of Reno, City of Sparks | `sources/revize.py` + `rrule.py` | Revize JSON, read twice a day |
 | Washoe County Parks | `sources/tockify.py` | Tockify page data (its /api/ is off-limits by robots.txt) |
 | Weekly regulars | `sources/standing.py` + `standing.json` | hand-kept |

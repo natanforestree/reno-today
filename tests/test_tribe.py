@@ -22,13 +22,15 @@ def item(sid, title, cats):
 
 
 class ListingCalendarsTest(unittest.TestCase):
-    def test_only_categories_and_listing_kind(self):
-        src = TribeSource("kwnk", "KWNK", "https://kwnkradio.org", city="Reno", kind="listing",
-                          only_categories={"music"})
-        got = src.parse([item(1, "Buzz Kull + Kontravoid", ["Music"]), item(2, "Laundry to the People", ["Community"]),
-                         item(3, "Family Soup Mutual Aid", [])])
-        self.assertEqual([e["id"] for e in got], ["kwnk:1"])
-        self.assertEqual(got[0]["_kind"], "listing")
+    def test_listing_kind(self):
+        src = TribeSource("downtown", "Downtown Reno", "https://downtownreno.org", city="Reno", kind="listing")
+        self.assertEqual(src.parse([item(1, "Strangelove at Cargo Concert Hall", [])])[0]["_kind"], "listing")
+
+    def test_an_all_ages_venue_marks_every_event(self):
+        src = TribeSource("holland", "The Holland Project", "https://hollandreno.org", city="Reno", all_ages_all=True)
+        got = src.parse([item(1, "Buzz Kull + Kontravoid", ["Music"]), item(2, "October Photo Walk", ["Workshops"])])
+        self.assertTrue(all(e["_allAges"] for e in got))
+        self.assertFalse(DISCOVERY.parse(ITEMS)[0]["_allAges"])
 
     def test_ignored_categories_are_not_tags(self):
         src = TribeSource("downtown", "Downtown Reno", "https://downtownreno.org", city="Reno", kind="listing",
@@ -39,11 +41,13 @@ class ListingCalendarsTest(unittest.TestCase):
     def test_organiser_is_still_the_default(self):
         self.assertEqual(DISCOVERY.parse(ITEMS)[0]["_kind"], "organiser")
 
-    def test_the_two_listing_calendars_are_sources(self):
+    def test_downtown_reno_and_the_holland_project_are_sources(self):
         import sources
         by_name = {s.NAME: s for s in sources.ALL}
-        self.assertEqual(by_name["downtown"].base, "https://downtownreno.org")
-        self.assertEqual(by_name["kwnk"].only_categories, {"music"})
+        self.assertEqual((by_name["downtown"].base, by_name["downtown"].kind), ("https://downtownreno.org", "listing"))
+        self.assertEqual((by_name["holland"].base, by_name["holland"].kind), ("https://hollandreno.org", "organiser"))
+        self.assertTrue(by_name["holland"].all_ages_all)
+        self.assertNotIn("kwnk", by_name)
 
 
 class TribeTest(unittest.TestCase):
