@@ -109,12 +109,32 @@ def same_show(a, b):
             and (ha <= hb or hb <= ha))
 
 
+def same_address(a, b):
+    ka, kb = (tokens((e.get("venue") or {}).get("address")) for e in (a, b))
+    return bool(ka) and ka == kb
+
+
+def ticket_repeat(a, b):
+    """Ticketmaster lists some club shows twice, on ticketmaster.com and on TicketWeb: a shorter
+    title ("Nekrogoblikon" vs "Nekrogoblikon, Rivers of Nihil, ..."), doors vs show time and
+    another venue name ("Cargo" vs "Cargo Concert Hall"), at the same address. Identical titles at
+    different times are early and late shows, so one title must hold the other's words and more."""
+    if a.get("_kind") != "ticketing" or b.get("_kind") != "ticketing" or a["allDay"] or b["allDay"]:
+        return False
+    if a["start"][:10] != b["start"][:10] or not same_address(a, b):
+        return False
+    gap = datetime.fromisoformat(a["start"]) - datetime.fromisoformat(b["start"])
+    ha, hb = headline(a), headline(b)
+    return (abs(gap.total_seconds()) <= SAME_SHOW_MINUTES * 60 and bool(ha and hb)
+            and (ha < hb or hb < ha))
+
+
 def is_duplicate(a, b):
     ta, tb = tokens(a["title"]), tokens(b["title"])
     if _source(a) == _source(b):
         no_venues = not a.get("venue") and not b.get("venue")
-        return (same_time(a, b) and ta == tb and a["start"] == b["start"]
-                and (no_venues or same_place(a, b)))
+        return ((same_time(a, b) and ta == tb and a["start"] == b["start"]
+                 and (no_venues or same_place(a, b))) or ticket_repeat(a, b))
     if same_time(a, b):
         o = overlap(ta, tb)
         # Also compare the titles without either venue's words ("Great Italian Festival: Virginia
@@ -128,8 +148,15 @@ def is_duplicate(a, b):
     return same_show(a, b)
 
 
+def _detail(e):
+    """Between two ticket listings of one show, the one with a price and the fuller title wins."""
+    if e.get("_kind") != "ticketing":
+        return (False, 0)
+    return (not e.get("price"), -len(tokens(e["title"])))
+
+
 def merge(group):
-    ranked = sorted(group, key=lambda e: (KIND_RANK.get(e.get("_kind"), 0), e["id"]))
+    ranked = sorted(group, key=lambda e: (KIND_RANK.get(e.get("_kind"), 0), _detail(e), e["id"]))
     m = dict(ranked[0])
     timed = [e for e in ranked if not e["allDay"]]
     if m["allDay"] and timed:
@@ -139,10 +166,10 @@ def merge(group):
     by_price = sorted(ranked, key=lambda e: e.get("_kind") != "ticketing")
     m["price"] = next((e["price"] for e in by_price if e.get("price")), None)
     links, seen = [], set()
-    for e in ranked:
+    for e in ranked:   # one link per source: two copies from one source sell the same tickets
         for link in e["links"]:
-            if link["url"] not in seen:
-                seen.add(link["url"])
+            if link["source"] not in seen:
+                seen.add(link["source"])
                 links.append(link)
     m["links"] = links
     m["ongoing"] = all(e["ongoing"] for e in ranked)

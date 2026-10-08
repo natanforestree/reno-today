@@ -223,5 +223,59 @@ class ListingLookalikeTest(unittest.TestCase):
         self.assertEqual(sorted(l["source"] for l in got[0]["links"] + got[1]["links"]), ["downtown", "reno", "tm"])
 
 
+
+CARGO = "255 North Virginia Street, Reno, NV"
+
+
+def tm(sid, title, start, venue_name, address=CARGO, price=None, host="www.ticketmaster.com"):
+    return model.make_event("tm", sid, title, start, venue=model.venue(venue_name, address), city="Reno",
+                            kind="ticketing", price=price, url=f"https://{host}/event/{sid}")
+
+
+class TicketRepeatTest(unittest.TestCase):
+    """Ticketmaster lists some club shows twice, on ticketmaster.com and on TicketWeb, with a
+    shorter title, another start time (doors vs show) and another venue name. Real pairs from 2026-10-08."""
+
+    def test_ticketmaster_and_ticketweb_copies_merge_and_the_fuller_one_wins(self):
+        short = tm("Z7r9jZ1A7Pt7f", "Nekrogoblikon", la(2026, 10, 11, 18), "Cargo")
+        full = tm("rZ7HnEZ1AfFaf7", "Nekrogoblikon, Rivers of Nihil, Cyborg Octopus, Cyanate", la(2026, 10, 11, 19),
+                  "Cargo Concert Hall", price={"min": 38.43, "max": 38.43}, host="www.ticketweb.com")
+        [m] = dedupe.dedupe([short, full])
+        self.assertEqual(m["title"], full["title"])
+        self.assertEqual(m["start"], "2026-10-11T19:00:00-07:00")
+        self.assertEqual(m["price"], {"min": 38.43, "max": 38.43})
+        self.assertEqual([l["url"] for l in m["links"]], [full["links"][0]["url"]])   # one ticket link
+
+    def test_same_time_copies_merge(self):
+        a = tm("A1", "CLUB SLAYYY: SLAYYYTER + HYPERPOP NIGHT", la(2026, 10, 9, 21), "Cargo Concert Hall",
+               host="www.ticketweb.com")
+        b = tm("B1", "Club Slayyy", la(2026, 10, 9, 21), "Cargo")
+        self.assertEqual(len(dedupe.dedupe([a, b])), 1)
+
+    def test_early_and_late_shows_with_one_title_stay_apart(self):
+        a = tm("C1", "Laugh Factory", la(2026, 10, 10, 19), "Laugh Factory", "407 N Virginia St, Reno, NV")
+        b = tm("C2", "Laugh Factory", la(2026, 10, 10, 20, 30), "Laugh Factory", "407 N Virginia St, Reno, NV")
+        self.assertEqual(len(dedupe.dedupe([a, b])), 2)
+
+    def test_another_address_stays_apart(self):
+        a = tm("D1", "The Rasmus", la(2026, 10, 7, 19), "Cargo")
+        b = tm("D2", "The Rasmus, Saint Agnes, Death Valley Dreams", la(2026, 10, 7, 19), "The Alpine",
+               "324 E 4th St, Reno, NV")
+        self.assertEqual(len(dedupe.dedupe([a, b])), 2)
+
+    def test_sessions_more_than_90_minutes_apart_stay_apart(self):
+        a = tm("E1", "The Great Italian Festival VIP Tent Saturday", la(2026, 10, 10, 10), "Eldorado Casino Reno",
+               "345 N Virginia St, Reno, NV")
+        b = tm("E2", "The Great Italian Festival VIP Tent Saturday Afternoon", la(2026, 10, 10, 14, 30),
+               "Eldorado Casino Reno", "345 N Virginia St, Reno, NV")
+        self.assertEqual(len(dedupe.dedupe([a, b])), 2)
+
+    def test_only_ticketmaster(self):
+        def lib(sid, title, hh):
+            return model.make_event("library", sid, title, la(2026, 10, 10, hh), city="Reno",
+                                    venue=model.venue("Sparks Library", "1125 12th St, Sparks, NV"))
+        self.assertEqual(len(dedupe.dedupe([lib("1", "Storytime", 10), lib("2", "Storytime Sing-Along", 11)])), 2)
+
+
 if __name__ == "__main__":
     unittest.main()
