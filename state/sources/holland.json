@@ -1,0 +1,195 @@
+{
+ "at": "2026-10-08T23:31:25Z",
+ "events": [
+  {
+   "id": "holland:96772",
+   "title": "Howls Road, Rachael McElhiney, Pen",
+   "start": "2026-10-08T19:00:00-07:00",
+   "end": "2026-10-08T22:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Holland Project",
+    "address": "140 Vesta St, Reno, NV, 89502",
+    "lat": 39.50964,
+    "lon": -119.80367
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 10.0,
+    "max": 10.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "holland",
+     "url": "https://hollandreno.org/events/howls-road/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "music"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": true,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "holland:96671",
+   "title": "GU77ERBOY5: Yaykuhb, $undancekid, P-$antana, D_, DJ Discolazer, SlaughterSesh, CashMxneyy",
+   "start": "2026-10-10T19:00:00-07:00",
+   "end": "2026-10-10T20:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Holland Project",
+    "address": "140 Vesta St, Reno, NV, 89502",
+    "lat": 39.50964,
+    "lon": -119.80367
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 10.0,
+    "max": 12.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "holland",
+     "url": "https://hollandreno.org/events/gu77erboy5/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "music"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": true,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "holland:96638",
+   "title": "Balance and Composure, Midrift",
+   "start": "2026-10-11T19:00:00-07:00",
+   "end": "2026-10-11T22:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Holland Project",
+    "address": "140 Vesta St, Reno, NV, 89502",
+    "lat": 39.50964,
+    "lon": -119.80367
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 30.0,
+    "max": 30.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "holland",
+     "url": "https://hollandreno.org/events/balance-and-composure/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "music"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": true,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "holland:96181",
+   "title": "Buzz Kull + Kontravoid, Blood Rave",
+   "start": "2026-10-13T19:00:00-07:00",
+   "end": "2026-10-13T22:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Holland Project",
+    "address": "140 Vesta St, Reno, NV, 89502",
+    "lat": 39.50964,
+    "lon": -119.80367
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 25.0,
+    "max": 25.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "holland",
+     "url": "https://hollandreno.org/events/buzz-kull-kontravoid/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "music"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": true,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "holland:96348",
+   "title": "PROSTITUTE, Weir, sharps container",
+   "start": "2026-10-14T19:00:00-07:00",
+   "end": "2026-10-14T22:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Holland Project",
+    "address": "140 Vesta St, Reno, NV, 89502",
+    "lat": 39.50964,
+    "lon": -119.80367
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 18.0,
+    "max": 18.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "holland",
+     "url": "https://hollandreno.org/events/prostitute/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "music"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": true,
+   "_outdoor": false,
+   "_kind": "organiser"
+  }
+ ]
+}

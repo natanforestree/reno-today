@@ -1,5 +1,5 @@
 {
- "at": "2026-10-08T20:31:39Z",
+ "at": "2026-10-08T23:31:25Z",
  "events": [
   {
    "id": "unr:53543176633026",
@@ -73,6 +73,41 @@
     "exhibitions (recurring)",
     "school of the arts",
     "university galleries"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:54180849152836",
+   "title": "USAC Application Workshop",
+   "start": "2026-10-08T10:00:00-07:00",
+   "end": "2026-10-08T14:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Virginia Street Gym (VSG)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/usac-application-workshop-9963"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "university studies abroad consortium"
    ],
    "_family": false,
    "_adult": false,
@@ -1644,6 +1679,41 @@
     "exhibitions (recurring)",
     "school of the arts",
     "university galleries"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:54180863761980",
+   "title": "USAC Study Abroad Open House",
+   "start": "2026-10-13T13:00:00-07:00",
+   "end": "2026-10-13T15:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Virginia Street Gym (VSG)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/usac-study-abroad-open-house-1513"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "university studies abroad consortium"
    ],
    "_family": false,
    "_adult": false,

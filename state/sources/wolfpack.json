@@ -1,5 +1,5 @@
 {
- "at": "2026-10-08T20:31:39Z",
+ "at": "2026-10-08T23:31:25Z",
  "events": [
   {
    "id": "wolfpack:vcal_14197-nevadawolfpack.com",
@@ -1333,7 +1333,7 @@
   },
   {
    "id": "wolfpack:vcal_14140-nevadawolfpack.com",
-   "title": "Nevada Women's Volleyball vs San Jose State",
+   "title": "Nevada Women's Volleyball vs San José State",
    "start": "2026-11-12T18:00:00-08:00",
    "end": "2026-11-12T20:00:00-08:00",
    "allDay": false,
@@ -1403,7 +1403,7 @@
   },
   {
    "id": "wolfpack:vcal_14141-nevadawolfpack.com",
-   "title": "Nevada Women's Volleyball vs San Jose State",
+   "title": "Nevada Women's Volleyball vs San José State",
    "start": "2026-11-14T13:00:00-08:00",
    "end": "2026-11-14T15:00:00-08:00",
    "allDay": false,
@@ -2102,6 +2102,76 @@
    "_kind": "organiser"
   },
   {
+   "id": "wolfpack:vcal_14589-nevadawolfpack.com",
+   "title": "Nevada Women's Basketball vs Wyoming",
+   "start": "2027-01-02T00:00:00-08:00",
+   "end": null,
+   "allDay": true,
+   "ongoing": false,
+   "venue": {
+    "name": "Lawlor Events Center",
+    "address": "Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "wolfpack",
+     "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14589&sport_id=9"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "sports"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "wolfpack:vcal_14598-nevadawolfpack.com",
+   "title": "Nevada Women's Basketball vs Air Force",
+   "start": "2027-01-06T00:00:00-08:00",
+   "end": null,
+   "allDay": true,
+   "ongoing": false,
+   "venue": {
+    "name": "Lawlor Events Center",
+    "address": "Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "wolfpack",
+     "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14598&sport_id=9"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "sports"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
    "id": "wolfpack:vcal_14264-nevadawolfpack.com",
    "title": "Nevada Men's Basketball vs Hawai'i",
    "start": "2027-01-08T00:00:00-08:00",
@@ -2123,6 +2193,41 @@
     {
      "source": "wolfpack",
      "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14264&sport_id=4"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "sports"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "wolfpack:vcal_14599-nevadawolfpack.com",
+   "title": "Nevada Women's Basketball vs San José State",
+   "start": "2027-01-13T00:00:00-08:00",
+   "end": null,
+   "allDay": true,
+   "ongoing": false,
+   "venue": {
+    "name": "Lawlor Events Center",
+    "address": "Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "wolfpack",
+     "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14599&sport_id=9"
     }
    ],
    "lovingReno": null,
@@ -2382,6 +2487,41 @@
    "_kind": "organiser"
   },
   {
+   "id": "wolfpack:vcal_14600-nevadawolfpack.com",
+   "title": "Nevada Women's Basketball vs UNLV",
+   "start": "2027-01-23T00:00:00-08:00",
+   "end": null,
+   "allDay": true,
+   "ongoing": false,
+   "venue": {
+    "name": "Lawlor Events Center",
+    "address": "Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "wolfpack",
+     "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14600&sport_id=9"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "sports"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
    "id": "wolfpack:vcal_14269-nevadawolfpack.com",
    "title": "Nevada Men's Basketball vs UTEP",
    "start": "2027-01-26T00:00:00-08:00",
@@ -2417,6 +2557,41 @@
    "_kind": "organiser"
   },
   {
+   "id": "wolfpack:vcal_14601-nevadawolfpack.com",
+   "title": "Nevada Women's Basketball vs Grand Canyon",
+   "start": "2027-01-27T00:00:00-08:00",
+   "end": null,
+   "allDay": true,
+   "ongoing": false,
+   "venue": {
+    "name": "Lawlor Events Center",
+    "address": "Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "wolfpack",
+     "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14601&sport_id=9"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "sports"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
    "id": "wolfpack:vcal_14237-nevadawolfpack.com",
    "title": "Nevada Women's Track & Field vs Wolf Pack Invitational",
    "start": "2027-01-29T00:00:00-08:00",
@@ -2438,6 +2613,41 @@
     {
      "source": "wolfpack",
      "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14237&sport_id=16"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "sports"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "wolfpack:vcal_14602-nevadawolfpack.com",
+   "title": "Nevada Women's Basketball vs UTEP",
+   "start": "2027-01-30T00:00:00-08:00",
+   "end": null,
+   "allDay": true,
+   "ongoing": false,
+   "venue": {
+    "name": "Lawlor Events Center",
+    "address": "Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "wolfpack",
+     "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14602&sport_id=9"
     }
    ],
    "lovingReno": null,
@@ -2627,6 +2837,41 @@
    "_kind": "organiser"
   },
   {
+   "id": "wolfpack:vcal_14603-nevadawolfpack.com",
+   "title": "Nevada Women's Basketball vs UC Davis",
+   "start": "2027-02-13T00:00:00-08:00",
+   "end": null,
+   "allDay": true,
+   "ongoing": false,
+   "venue": {
+    "name": "Lawlor Events Center",
+    "address": "Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "wolfpack",
+     "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14603&sport_id=9"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "sports"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
    "id": "wolfpack:vcal_14274-nevadawolfpack.com",
    "title": "Nevada Men's Basketball vs UC Davis",
    "start": "2027-02-16T00:00:00-08:00",
@@ -2662,6 +2907,41 @@
    "_kind": "organiser"
   },
   {
+   "id": "wolfpack:vcal_14604-nevadawolfpack.com",
+   "title": "Nevada Women's Basketball vs Hawai'i",
+   "start": "2027-02-20T00:00:00-08:00",
+   "end": null,
+   "allDay": true,
+   "ongoing": false,
+   "venue": {
+    "name": "Lawlor Events Center",
+    "address": "Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "wolfpack",
+     "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14604&sport_id=9"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "sports"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
    "id": "wolfpack:vcal_14276-nevadawolfpack.com",
    "title": "Nevada Men's Basketball vs San José State",
    "start": "2027-02-23T00:00:00-08:00",
@@ -2683,6 +2963,41 @@
     {
      "source": "wolfpack",
      "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14276&sport_id=4"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "sports"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "wolfpack:vcal_14605-nevadawolfpack.com",
+   "title": "Nevada Women's Basketball vs New Mexico",
+   "start": "2027-02-24T00:00:00-08:00",
+   "end": null,
+   "allDay": true,
+   "ongoing": false,
+   "venue": {
+    "name": "Lawlor Events Center",
+    "address": "Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "wolfpack",
+     "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14605&sport_id=9"
     }
    ],
    "lovingReno": null,

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-08T20:31:39Z",
+ "generatedAt": "2026-10-08T23:31:25Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -201,6 +201,34 @@
     {
      "source": "southtahoe",
      "url": "https://visitlaketahoe.com/event/tipsy-putt-events/2026-10-08/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:54180849152836",
+   "title": "USAC Application Workshop",
+   "start": "2026-10-08T10:00:00-07:00",
+   "end": "2026-10-08T14:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Virginia Street Gym (VSG)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/usac-application-workshop-9963"
     }
    ],
    "lovingReno": null
@@ -1421,6 +1449,38 @@
     {
      "source": "wolfpack",
      "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14130&sport_id=17"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "holland:96772",
+   "title": "Howls Road, Rachael McElhiney, Pen",
+   "start": "2026-10-08T19:00:00-07:00",
+   "end": "2026-10-08T22:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Holland Project",
+    "address": "140 Vesta St, Reno, NV, 89502",
+    "lat": 39.50964,
+    "lon": -119.80367
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 10.0,
+    "max": 10.0
+   },
+   "tier": "general",
+   "hints": [
+    "all-ages",
+    "music"
+   ],
+   "links": [
+    {
+     "source": "holland",
+     "url": "https://hollandreno.org/events/howls-road/"
     }
    ],
    "lovingReno": null
@@ -2859,17 +2919,17 @@
    "lovingReno": null
   },
   {
-   "id": "tm:Z7r9jZ1AAvsGA",
-   "title": "Club Slayyy",
+   "id": "tm:rZ7HnEZ1Af1b70",
+   "title": "CLUB SLAYYY: SLAYYYTER + HYPERPOP NIGHT",
    "start": "2026-10-09T21:00:00-07:00",
    "end": null,
    "allDay": false,
    "ongoing": false,
    "venue": {
-    "name": "Cargo",
+    "name": "Cargo Concert Hall",
     "address": "255 North Virginia Street, Reno, NV",
-    "lat": 39.5263,
-    "lon": -119.8124
+    "lat": 39.5281,
+    "lon": -119.81377
    },
    "area": "reno",
    "drive": null,
@@ -2883,10 +2943,6 @@
     "21+"
    ],
    "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvsGA"
-    },
     {
      "source": "tm",
      "url": "https://www.ticketweb.com/event/club-slayyy-slayyyter-hyperpop-cargo-concert-hall-tickets/14298124"
@@ -4439,6 +4495,38 @@
    "lovingReno": null
   },
   {
+   "id": "holland:96671",
+   "title": "GU77ERBOY5: Yaykuhb, $undancekid, P-$antana, D_, DJ Discolazer, SlaughterSesh, CashMxneyy",
+   "start": "2026-10-10T19:00:00-07:00",
+   "end": "2026-10-10T20:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Holland Project",
+    "address": "140 Vesta St, Reno, NV, 89502",
+    "lat": 39.50964,
+    "lon": -119.80367
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 10.0,
+    "max": 12.0
+   },
+   "tier": "general",
+   "hints": [
+    "all-ages",
+    "music"
+   ],
+   "links": [
+    {
+     "source": "holland",
+     "url": "https://hollandreno.org/events/gu77erboy5/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "southtahoe:230313",
    "title": "Magic Fusion at The Loft Theatre",
    "start": "2026-10-10T19:00:00-07:00",
@@ -5558,10 +5646,6 @@
     {
      "source": "vcity",
      "url": "https://visitvirginiacitynv.com/event/arts-crafts-revival-at-st-marys-art-center-2/2026-10-11/"
-    },
-    {
-     "source": "vcity",
-     "url": "https://visitvirginiacitynv.com/event/arts-crafts-revival-at-st-marys-art-center-3/2026-10-11/"
     }
    ],
    "lovingReno": null
@@ -5889,41 +5973,33 @@
    "lovingReno": null
   },
   {
-   "id": "tm:Z7r9jZ1A7Pt7f",
-   "title": "Nekrogoblikon",
-   "start": "2026-10-11T18:00:00-07:00",
-   "end": null,
+   "id": "holland:96638",
+   "title": "Balance and Composure, Midrift",
+   "start": "2026-10-11T19:00:00-07:00",
+   "end": "2026-10-11T22:00:00-07:00",
    "allDay": false,
    "ongoing": false,
    "venue": {
-    "name": "Cargo",
-    "address": "255 North Virginia Street, Reno, NV",
-    "lat": 39.5263,
-    "lon": -119.8124
+    "name": "The Holland Project",
+    "address": "140 Vesta St, Reno, NV, 89502",
+    "lat": 39.50964,
+    "lon": -119.80367
    },
    "area": "reno",
    "drive": null,
    "price": {
-    "min": 38.43,
-    "max": 38.43
+    "min": 30.0,
+    "max": 30.0
    },
    "tier": "general",
    "hints": [
-    "music",
-    "21+"
+    "all-ages",
+    "music"
    ],
    "links": [
     {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pt7f"
-    },
-    {
-     "source": "tm",
-     "url": "https://www.ticketweb.com/event/nekrogoblikon-rivers-of-nihil-cyborg-cargo-concert-hall-tickets/14209504"
-    },
-    {
-     "source": "downtown",
-     "url": "https://downtownreno.org/event/nekrogoblikon-at-cargo-concert-hall/"
+     "source": "holland",
+     "url": "https://hollandreno.org/events/balance-and-composure/"
     }
    ],
    "lovingReno": null
@@ -5952,6 +6028,42 @@
     {
      "source": "southtahoe",
      "url": "https://visitlaketahoe.com/event/magic-fusion-at-the-loft-theatre/2026-10-11/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "tm:rZ7HnEZ1AfFaf7",
+   "title": "Nekrogoblikon, Rivers of Nihil, Cyborg Octopus, Cyanate",
+   "start": "2026-10-11T19:00:00-07:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Cargo Concert Hall",
+    "address": "255 North Virginia Street, Reno, NV",
+    "lat": 39.5281,
+    "lon": -119.81377
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 38.43,
+    "max": 38.43
+   },
+   "tier": "general",
+   "hints": [
+    "music",
+    "21+"
+   ],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketweb.com/event/nekrogoblikon-rivers-of-nihil-cyborg-cargo-concert-hall-tickets/14209504"
+    },
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/nekrogoblikon-at-cargo-concert-hall/"
     }
    ],
    "lovingReno": null
@@ -7486,6 +7598,34 @@
    "lovingReno": null
   },
   {
+   "id": "unr:54180863761980",
+   "title": "USAC Study Abroad Open House",
+   "start": "2026-10-13T13:00:00-07:00",
+   "end": "2026-10-13T15:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Virginia Street Gym (VSG)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/usac-study-abroad-open-house-1513"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "reno:367-202610131430",
    "title": "Rolling Receration (Barbara Bennett Park)",
    "start": "2026-10-13T14:30:00-07:00",
@@ -7919,6 +8059,38 @@
     {
      "source": "carson",
      "url": "https://visitcarsoncity.com/events/mark-twain-days-poetry-open-mic/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "holland:96181",
+   "title": "Buzz Kull + Kontravoid, Blood Rave",
+   "start": "2026-10-13T19:00:00-07:00",
+   "end": "2026-10-13T22:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Holland Project",
+    "address": "140 Vesta St, Reno, NV, 89502",
+    "lat": 39.50964,
+    "lon": -119.80367
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 25.0,
+    "max": 25.0
+   },
+   "tier": "general",
+   "hints": [
+    "all-ages",
+    "music"
+   ],
+   "links": [
+    {
+     "source": "holland",
+     "url": "https://hollandreno.org/events/buzz-kull-kontravoid/"
     }
    ],
    "lovingReno": null
@@ -9545,6 +9717,38 @@
     {
      "source": "tm",
      "url": "https://www.ticketweb.com/event/mt-rose-presents-teton-gravity-the-alpine-tickets/14315784"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "holland:96348",
+   "title": "PROSTITUTE, Weir, sharps container",
+   "start": "2026-10-14T19:00:00-07:00",
+   "end": "2026-10-14T22:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Holland Project",
+    "address": "140 Vesta St, Reno, NV, 89502",
+    "lat": 39.50964,
+    "lon": -119.80367
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 18.0,
+    "max": 18.0
+   },
+   "tier": "general",
+   "hints": [
+    "all-ages",
+    "music"
+   ],
+   "links": [
+    {
+     "source": "holland",
+     "url": "https://hollandreno.org/events/prostitute/"
     }
    ],
    "lovingReno": null
