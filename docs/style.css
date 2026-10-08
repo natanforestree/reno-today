@@ -104,7 +104,7 @@ h2 { font: 600 22px/1.2 var(--pixel); margin: 0 0 8px; color: var(--gold); }
 .small { font-size: 18px; }
 
 /* Collapsible sections */
-details > summary { cursor: pointer; list-style: none; }
+details > summary { cursor: pointer; list-style: none; padding: 8px 0; margin: -8px 0; }   /* a taller tap target, same spacing */
 details > summary::-webkit-details-marker { display: none; }
 details > summary h2 { display: inline; }
 details > summary h2::before { content: '▸ '; }

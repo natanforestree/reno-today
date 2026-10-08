@@ -1,9 +1,10 @@
 // Reno Today page: loads docs/data/*.json and renders the chosen day.
 // Every piece of text from the data goes through L.esc, and every link through L.safeUrl.
-import * as L from './lib.js?v=d79fb8a7';
+import * as L from './lib.js?v=c78c40c7';
 
 const RAW = 'https://raw.githubusercontent.com/natanforestree/reno-today/main/docs/data/';
 const FILTERS_KEY = 'reno-today:filters';
+const CLOSED_KEY = 'reno-today:closed';   // the sections this browser folded away
 const FILTERS = [['free', 'Free'], ['outdoors', 'Outdoors'], ['little', 'Little ones only'], ['hide21', 'Hide 21+'],
   ['music', 'Live music']];
 const HINT_LABEL = { 'all-ages': 'all ages', outdoors: 'outdoors', '21+': '21+' };
@@ -11,7 +12,9 @@ const params = new URLSearchParams(location.search);
 const fakeNow = Date.parse(params.get('now') ?? '');
 const now = () => (Number.isFinite(fakeNow) ? fakeNow : Date.now());
 const $ = (id) => document.getElementById(id);
-const state = { data: null, day: null, today: null, loadedAt: 0, loading: false, filters: loadFilters() };
+const state = {
+  data: null, day: null, today: null, loadedAt: 0, loading: false, filters: loadFilters(), closed: loadClosed(),
+};
 const RELOAD_AFTER_MS = 3600e3;   // a tab that stays open fetches the data again after an hour
 const TICK_MS = 5 * 60e3;
 const COUNTED_KEY = 'reno-today:counted';
@@ -27,6 +30,14 @@ function loadFilters() {
   } catch {
     return {};
   }
+}
+
+function loadClosed() {
+  try { return L.closedSections(localStorage.getItem(CLOSED_KEY)); } catch { return new Set(); }
+}
+
+function saveClosed() {
+  try { localStorage.setItem(CLOSED_KEY, JSON.stringify([...state.closed])); } catch { /* storage off */ }
 }
 
 function saveFilters() {
@@ -163,14 +174,18 @@ function renderLists() {
   const list = (items) => items.map((e) => card(e, nowMs)).join('');
   const filtered = Object.values(state.filters).some(Boolean) ? ' with these filters' : '';
 
-  $('little').innerHTML = `<h2>${icon('baby')}Great for little ones</h2>`
+  const heading = (body, n) => `<summary><h2>${body} · <span class="n">${n}</span></h2></summary>`;
+  for (const id of L.FOLDABLE) $(id).open = !state.closed.has(id);
+
+  $('little').innerHTML = heading(`${icon('baby')}Great for little ones`, v.little.length)
     + (v.little.length ? list(v.little) : `<p class="empty">Nothing made for little ones${filtered} on this day.</p>`);
 
   const groups = L.PARTS.filter(([k]) => v.parts[k].length)
     .map(([k, label]) => `<h3 class="part">${label}</h3>${list(v.parts[k])}`).join('');
   const rest = $('rest');
   rest.hidden = Boolean(state.filters.little);
-  rest.innerHTML = '<h2>Everything else</h2>' + (groups || `<p class="empty">Nothing else listed${filtered}.</p>`);
+  const restCount = L.PARTS.reduce((n, [k]) => n + v.parts[k].length, 0);
+  rest.innerHTML = heading('Everything else', restCount) + (groups || `<p class="empty">Nothing else listed${filtered}.</p>`);
 
   const ongoing = $('ongoing');
   ongoing.hidden = !v.ongoing.length;
@@ -178,7 +193,7 @@ function renderLists() {
 
   const drive = $('drive');
   drive.hidden = !v.drive.length;
-  drive.innerHTML = `<h2>${icon('car')}Worth the drive</h2>${list(v.drive)}`;
+  drive.innerHTML = heading(`${icon('car')}Worth the drive`, v.drive.length) + list(v.drive);
 
   const open = L.placesOpen(state.data.places, state.day);
   const always = $('always');
@@ -282,6 +297,12 @@ $('days').addEventListener('click', (ev) => {
   const b = ev.target.closest('button[data-day]');
   if (b && state.data) { state.day = b.dataset.day; render(); }
 });
+for (const id of L.FOLDABLE) {
+  $(id).addEventListener('toggle', () => {   // also fires when render sets .open; that saves the same state
+    if ($(id).open) state.closed.delete(id); else state.closed.add(id);
+    saveClosed();
+  });
+}
 $('chips').addEventListener('click', (ev) => {
   const b = ev.target.closest('button[data-filter]');
   if (!b || !state.data) return;

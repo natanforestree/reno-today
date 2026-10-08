@@ -209,6 +209,19 @@ export function sourceNotes(sources, nowMs) {
   return notes;
 }
 
+// Sections a visitor can fold away (index.html <details>). Each is open unless this browser
+// saved it closed; the saved list stays in the browser's localStorage.
+export const FOLDABLE = ['little', 'rest', 'drive'];
+
+export function closedSections(saved) {
+  try {
+    const list = JSON.parse(saved ?? '[]');
+    return new Set(Array.isArray(list) ? list.filter((id) => FOLDABLE.includes(id)) : []);
+  } catch {
+    return new Set();
+  }
+}
+
 export const COUNTED_HOSTS = ['natanforestree.github.io', 'renotoday.org', 'www.renotoday.org'];
 
 /** Count a visit once per Reno day, and only on the real site (not localhost or a preview).

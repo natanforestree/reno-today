@@ -228,3 +228,12 @@ test('weatherIcon: the same weather types as collector/weather.py CODES', () => 
   for (const bad of [null, undefined, 100, -1, 'x']) assert.equal(L.weatherIcon(bad), null, String(bad));
   for (const [, name] of cases) assert.ok(L.ICONS.includes(name), name);
 });
+
+test('closedSections: what this browser folded away, ignoring anything else stored', () => {
+  assert.deepEqual([...L.closedSections(null)], []);
+  assert.deepEqual([...L.closedSections('["little"]')], ['little']);
+  assert.deepEqual([...L.closedSections('["little","rest","drive","bogus",3]')], ['little', 'rest', 'drive']);
+  assert.deepEqual([...L.closedSections('not json')], []);
+  assert.deepEqual([...L.closedSections('{"little":true}')], []);
+  assert.deepEqual(L.FOLDABLE, ['little', 'rest', 'drive']);
+});
