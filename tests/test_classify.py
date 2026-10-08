@@ -26,12 +26,21 @@ class TierTest(unittest.TestCase):
         ("Fall Festival", "Fun for kids and families of all ages.", (), {}, "little"),
         ("Disney On Ice", "", ("Family",), {}, "little"),
         ("Sesame Street Live", "", (), {"family": True}, "little"),
+        ("Open Swim - Tot Pool 5-7 PM", "", (), {}, "little"),
         ("Kid Rock", "", (), {}, "general"),                       # "kid" alone isn't "kids"
         ("Babyface Live", "", (), {}, "general"),                  # word boundary
         ("Chamber Orchestra", "An evening of Brahms.", (), {}, "general"),
         ("Family Feud Trivia Night", "21+ with ID.", (), {}, "general"),   # 21+ wins
         ("Kids Comedy Hour", "", (), {"adult": True}, "general"),          # age-enforced wins
     ]
+
+    def test_a_description_mentioning_families_counts_only_in_the_daytime(self):
+        text = "A family-friendly evening with a kids zone."
+        self.assertEqual(classify.classify(ev("Decompression Party", hh=10, text=text))["tier"], "little")
+        self.assertEqual(classify.classify(ev("Decompression Party", hh=18, text=text))["tier"], "general")
+        self.assertEqual(classify.classify(ev("Family Movie Night", hh=19))["tier"], "little")       # the title says so
+        self.assertEqual(classify.classify(ev("Open Swim - Tot Pool 5-7 PM", hh=17))["tier"], "little")
+        self.assertEqual(classify.classify(ev("Disney On Ice", hh=19, tags=("Family",)))["tier"], "little")
 
     def test_cases(self):
         for title, text, tags, flags, tier in self.CASES:

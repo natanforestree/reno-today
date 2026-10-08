@@ -16,6 +16,7 @@ class TokensTest(unittest.TestCase):
     def test_tokens_drop_filler_and_years(self):
         self.assertEqual(dedupe.tokens("The 2026 Reno Aces vs. the Sacramento River Cats — Live!"),
                          {"reno", "aces", "sacramento", "river", "cats"})
+        self.assertEqual(dedupe.tokens("Virginia St"), dedupe.tokens("Virginia Street"))
 
     def test_overlap_uses_the_shorter_title(self):
         a, b = dedupe.tokens("Reno Aces vs Sacramento River Cats"), dedupe.tokens("Reno Aces vs Sacramento")
@@ -121,6 +122,105 @@ class MergeTest(unittest.TestCase):
         b = ev("tm", "2", "Evening Show", la(2026, 10, 10, 20), kind="ticketing")
         c = ev("aces", "3", "Ballgame", la(2026, 10, 11, 13))
         self.assertEqual([e["id"] for e in dedupe.dedupe([c, b, a])], ["unr:1", "tm:2", "aces:3"])
+
+
+
+class SameShowTwoStylesTest(unittest.TestCase):
+    """A district guide lists "Nekrogoblikon at Cargo Concert Hall" at doors time; Ticketmaster
+    lists the band (and the support acts) at show time. Real listings from 2026-10-08."""
+
+    def test_the_venue_in_a_title_still_matches(self):
+        guide = ev("downtown", "1", "Nekrogoblikon at Cargo Concert Hall", la(2026, 10, 11, 18), "Cargo Concert Hall",
+                   kind="listing")
+        tm = ev("tm", "Z1", "Nekrogoblikon", la(2026, 10, 11, 18), "Cargo", kind="ticketing")
+        self.assertTrue(dedupe.is_duplicate(guide, tm))
+
+    def test_doors_and_show_times_at_one_venue_merge_and_the_ticket_seller_wins(self):
+        guide = ev("downtown", "2", "Strangelove at Cargo Concert Hall", la(2026, 10, 10, 19), "Cargo Concert Hall",
+                   kind="listing")
+        tm = ev("tm", "Z2", "Strangelove: The Depeche Mode Experience with Asphalt Socialites and DJ Bobby G",
+                la(2026, 10, 10, 20), "Cargo Concert Hall", kind="ticketing")
+        [m] = dedupe.dedupe([guide, tm])
+        self.assertEqual(m["title"], tm["title"])
+        self.assertEqual(m["start"], "2026-10-10T20:00:00-07:00")
+        self.assertEqual(len(m["links"]), 2)
+
+    def test_different_shows_at_one_venue_stay_apart(self):
+        a = ev("kwnk", "1", "Buzz Kull + Kontravoid, Blood Rave", la(2026, 10, 13, 19), "The Holland Project",
+               kind="listing")
+        b = ev("tm", "Z3", "Dummy, Golomb", la(2026, 10, 13, 20), "The Holland Project", kind="ticketing")
+        self.assertFalse(dedupe.is_duplicate(a, b))
+
+    def test_more_than_90_minutes_apart_stays_apart(self):
+        a = ev("downtown", "3", "Nekrogoblikon at Cargo Concert Hall", la(2026, 10, 11, 18), "Cargo Concert Hall",
+               kind="listing")
+        b = ev("tm", "Z4", "Nekrogoblikon", la(2026, 10, 11, 19, 31), "Cargo", kind="ticketing")
+        self.assertFalse(dedupe.is_duplicate(a, b))
+
+    def test_a_different_venue_stays_apart(self):
+        a = ev("downtown", "4", "Strangelove at Cargo Concert Hall", la(2026, 10, 10, 19), "Cargo Concert Hall",
+               kind="listing")
+        b = ev("tm", "Z5", "Strangelove: The Depeche Mode Experience", la(2026, 10, 10, 20), "The Alpine",
+               kind="ticketing")
+        self.assertFalse(dedupe.is_duplicate(a, b))
+
+    def test_only_a_listing_calendar_gets_the_looser_match(self):
+        unr = ev("unr", "1", "Fall Concert", la(2026, 10, 10, 19), "Nightingale Concert Hall")
+        tm = ev("tm", "Z6", "Fall Choir Showcase", la(2026, 10, 10, 20), "Nightingale Concert Hall", kind="ticketing")
+        self.assertFalse(dedupe.is_duplicate(unr, tm))
+
+    def test_annual_and_a_street_in_the_title_still_match(self):
+        city = ev("reno", "1", "44th Annual Great Italian Festival", la(2026, 10, 10, 10), "Virginia St")
+        guide = ev("downtown", "5", "Great Italian Festival: Virginia Street", la(2026, 10, 10, 10), kind="listing")
+        self.assertTrue(dedupe.is_duplicate(city, guide))
+
+    def test_a_vip_tent_ticket_is_its_own_listing(self):
+        city = ev("reno", "1", "44th Annual Great Italian Festival", la(2026, 10, 10, 10), "Virginia St")
+        tm = ev("tm", "Z7", "The Great Italian Festival VIP Tent Saturday 10AM - 2PM", la(2026, 10, 10, 10),
+                "Eldorado Casino Reno", kind="ticketing")
+        self.assertFalse(dedupe.is_duplicate(city, tm))
+
+    def test_one_sources_own_listings_are_untouched(self):
+        a = ev("library", "1", "Storytime", la(2026, 10, 10, 10), "Sparks Library")
+        b = ev("library", "2", "Storytime", la(2026, 10, 10, 11), "Sparks Library")
+        self.assertFalse(dedupe.is_duplicate(a, b))
+
+
+
+class ListingLookalikeTest(unittest.TestCase):
+    """A listing calendar's copy that's worded too differently to merge is dropped when it shares
+    an unusual word with another calendar's event that day: a missing copy beats a duplicate."""
+
+    def test_a_listing_lookalike_is_dropped(self):
+        city = ev("reno", "1", "Reno Decompression 2026", la(2026, 10, 10, 17), "Venues in and around 4th Street")
+        guide = ev("downtown", "6", "Burning Man Decompression Event: Brewery District", la(2026, 10, 10, 18),
+                   kind="listing")
+        self.assertEqual([e["id"] for e in dedupe.dedupe([city, guide])], ["reno:1"])
+
+    def test_common_words_do_not_count(self):
+        city = ev("reno", "2", "Halloween Carnival", la(2026, 10, 31, 16), "Idlewild Park")
+        guide = ev("downtown", "7", "Halloween Pub Crawl", la(2026, 10, 31, 18), kind="listing")
+        self.assertEqual(len(dedupe.dedupe([city, guide])), 2)
+
+    def test_three_hours_apart_or_another_day_is_kept(self):
+        city = ev("reno", "3", "Reno Decompression 2026", la(2026, 10, 10, 12), "Brewery District")
+        late = ev("downtown", "8", "Decompression Afterparty", la(2026, 10, 10, 15, 1), kind="listing")
+        nextday = ev("downtown", "9", "Decompression Brunch", la(2026, 10, 11, 12), kind="listing")
+        self.assertEqual(len(dedupe.dedupe([city, late, nextday])), 3)
+
+    def test_only_listing_copies_are_dropped(self):
+        city = ev("reno", "4", "Reno Decompression 2026", la(2026, 10, 10, 17), "Brewery District")
+        tm = ev("tm", "Z8", "Decompression Afterparty", la(2026, 10, 10, 18), "Cargo", kind="ticketing")
+        self.assertEqual(len(dedupe.dedupe([city, tm])), 2)
+
+    def test_a_listing_event_that_merged_is_kept(self):
+        city = ev("reno", "5", "44th Annual Great Italian Festival", la(2026, 10, 10, 10), "Virginia St")
+        guide = ev("downtown", "10", "Great Italian Festival: Virginia Street", la(2026, 10, 10, 10), kind="listing")
+        tm = ev("tm", "Z9", "The Great Italian Festival VIP Tent Saturday 10AM - 2PM", la(2026, 10, 10, 10),
+                "Eldorado Casino Reno", kind="ticketing")
+        got = dedupe.dedupe([city, guide, tm])
+        self.assertEqual(len(got), 2)
+        self.assertEqual(sorted(l["source"] for l in got[0]["links"] + got[1]["links"]), ["downtown", "reno", "tm"])
 
 
 if __name__ == "__main__":

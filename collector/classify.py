@@ -6,7 +6,7 @@ import json
 import re
 
 LITTLE_WORDS = re.compile(
-    r"\b(story ?times?|bab(y|ies)|toddlers?|lap-?sits?|little ones|preschool(ers?)?|"
+    r"\b(story ?times?|bab(y|ies)|toddlers?|tots?|lap-?sits?|little ones|preschool(ers?)?|"
     r"famil(y|ies)|kids|children(['’]s)?|sensory|puppets?|play ?groups?)\b", re.I)
 # Exact (lower-cased) source categories that mean "made for little ones". Looser
 # categories such as a tourism site's "Kids & Families" are judged by the source
@@ -39,14 +39,18 @@ def classify(event):
     text = f"{e['title']} {e.get('_text', '')}"
     adult = bool(e.get("_adult") or ADULT_WORDS.search(text) or ADULT_VENUES.search(venue_name)
                  or ADULT_PLACE_IN_TITLE.search(e["title"]))
-    little = not adult and bool(e.get("_family") or LITTLE_WORDS.search(text)
-                                or set(e.get("_tags", [])) & LITTLE_TAGS)
+    daytime = e["allDay"] or int(e["start"][11:13]) < 17
+    # A description that only mentions families or kids counts in the daytime; an evening
+    # event needs it in the title, a family tag, or the source's say-so.
+    little = not adult and bool(e.get("_family") or LITTLE_WORDS.search(e["title"])
+                                or set(e.get("_tags", [])) & LITTLE_TAGS
+                                or (daytime and LITTLE_WORDS.search(e.get("_text", ""))))
     hints = []
     if e.get("_allAges") and not adult:
         hints.append("all-ages")
     if e.get("_outdoor") or OUTDOOR_WORDS.search(f"{e['title']} {venue_name}"):
         hints.append("outdoors")
-    if e["allDay"] or int(e["start"][11:13]) < 17:
+    if daytime:
         hints.append("daytime")
     if set(e.get("_tags", [])) & MUSIC_TAGS or MUSIC_TITLE.search(e["title"]) or MUSIC_TEXT.search(text):
         hints.append("music")

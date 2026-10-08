@@ -15,6 +15,37 @@ TAHOE = TribeSource("southtahoe", "Visit Lake Tahoe", "https://visitlaketahoe.co
                     family_categories={"kids & families"}, family_before=17)
 
 
+def item(sid, title, cats):
+    return {"id": sid, "title": title, "start_date": "2026-10-13 19:00:00", "end_date": "2026-10-13 22:00:00",
+            "categories": [{"name": c} for c in cats], "url": f"https://example.org/e/{sid}",
+            "venue": {"venue": "The Holland Project", "address": "140 Vesta St", "city": "Reno"}}
+
+
+class ListingCalendarsTest(unittest.TestCase):
+    def test_only_categories_and_listing_kind(self):
+        src = TribeSource("kwnk", "KWNK", "https://kwnkradio.org", city="Reno", kind="listing",
+                          only_categories={"music"})
+        got = src.parse([item(1, "Buzz Kull + Kontravoid", ["Music"]), item(2, "Laundry to the People", ["Community"]),
+                         item(3, "Family Soup Mutual Aid", [])])
+        self.assertEqual([e["id"] for e in got], ["kwnk:1"])
+        self.assertEqual(got[0]["_kind"], "listing")
+
+    def test_ignored_categories_are_not_tags(self):
+        src = TribeSource("downtown", "Downtown Reno", "https://downtownreno.org", city="Reno", kind="listing",
+                          ignore_categories={"live music", "music"})
+        [e] = src.parse([item(1, "Gabriel Iglesias: The 1976 Tour", ["Live music", "Things to do"])])
+        self.assertEqual(e["_tags"], ["things to do"])
+
+    def test_organiser_is_still_the_default(self):
+        self.assertEqual(DISCOVERY.parse(ITEMS)[0]["_kind"], "organiser")
+
+    def test_the_two_listing_calendars_are_sources(self):
+        import sources
+        by_name = {s.NAME: s for s in sources.ALL}
+        self.assertEqual(by_name["downtown"].base, "https://downtownreno.org")
+        self.assertEqual(by_name["kwnk"].only_categories, {"music"})
+
+
 class TribeTest(unittest.TestCase):
     def test_skips_members_only(self):
         ids = [e["id"] for e in DISCOVERY.parse(ITEMS)]

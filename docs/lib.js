@@ -11,6 +11,7 @@ export const SOURCE_LABEL = {
   tm: 'Ticketmaster', unr: 'UNR', wolfpack: 'Wolf Pack', aces: 'Aces', library: 'Library',
   discovery: 'The Discovery', reno: 'City of Reno', sparks: 'City of Sparks', wcparks: 'Washoe Parks',
   carson: 'Visit Carson City', southtahoe: 'Visit Lake Tahoe', vcity: 'Virginia City', standing: 'Info',
+  downtown: 'Downtown Reno', kwnk: 'KWNK',
 };
 export const PARTS = [
   ['allday', 'All day'], ['morning', 'Morning'], ['afternoon', 'Afternoon'], ['evening', 'Evening'], ['late', 'Late'],

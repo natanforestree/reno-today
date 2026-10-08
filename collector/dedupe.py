@@ -1,6 +1,8 @@
 """Merge the same event listed by more than one source (spec: "Merging
 duplicates"). Same local date, starts within 30 minutes, and titles that
-mostly match (or match less well at the same venue)."""
+mostly match (or match less well at the same venue). A listing calendar's
+copy of a show also merges at the same venue within 90 minutes (doors vs
+show time) when one title, without its venue words, holds the other's."""
 
 import re
 from datetime import datetime
@@ -16,12 +18,30 @@ GENERIC_VENUE = {
     "reno", "sparks", "carson", "city", "tahoe", "lake", "nevada", "nv", "downtown",
     "north", "south", "east", "west", "northwest", "northeast", "southwest", "southeast", "valley", "valleys",
 }
-KIND_RANK = {"organiser": 0, "ticketing": 1}   # organiser's own feed wins time and place
+# Which listing wins title, time and place: the organiser's own feed, then the ticket seller,
+# then a listing calendar (a district guide or radio station relisting other people's shows).
+ABBREVIATIONS = {"st": "street", "ave": "avenue", "blvd": "boulevard", "rd": "road", "pkwy": "parkway"}
+KIND_RANK = {"organiser": 0, "ticketing": 1, "listing": 2}
+SAME_SHOW_MINUTES = 90
+LOOKALIKE_HOURS = 3
+# Words too common to tie two events together on their own (with GENERIC_VENUE).
+COMMON_WORDS = {
+    "monday", "mondays", "tuesday", "tuesdays", "wednesday", "wednesdays", "thursday", "thursdays",
+    "friday", "fridays", "saturday", "saturdays", "sunday", "sundays", "weekend", "weekends",
+    "morning", "afternoon", "evening", "tonight", "january", "february", "august", "september",
+    "october", "november", "december", "halloween", "pumpkin", "pumpkins", "spooky", "harvest",
+    "thanksgiving", "christmas", "holiday", "holidays", "festival", "festivals", "concert", "concerts",
+    "market", "markets", "farmers", "series", "season", "special", "annual", "celebration", "carnival",
+    "parade", "tournament", "workshop", "presents", "featuring", "tickets", "edition", "opening",
+    "family", "families", "children", "district", "street", "avenue", "virginia", "brewery",
+    "breweries", "national", "american", "northern", "sierra", "truckee", "washoe", "trivia",
+    "karaoke", "comedy", "dancing", "country", "classic", "outdoor", "outdoors", "walking",
+}
 
 
 def tokens(text):
     text = (text or "").lower().replace("'", "").replace("’", "")
-    return {w for w in re.findall(r"[a-z0-9]+", text)
+    return {ABBREVIATIONS.get(w, w) for w in re.findall(r"[a-z0-9]+", text)
             if w not in FILLER and not re.fullmatch(r"(19|20)\d\d", w)}
 
 
@@ -67,15 +87,45 @@ def same_place(a, b):
     return False
 
 
-def is_duplicate(a, b):
-    if not same_time(a, b):
+def venue_words(e):
+    return tokens((e.get("venue") or {}).get("name"))
+
+
+def headline(e):
+    """Title words without the event's own venue: "Strangelove at Cargo Concert Hall" -> strangelove."""
+    return tokens(e["title"]) - venue_words(e)
+
+
+def same_show(a, b):
+    """A listing calendar's copy of a show: "Nekrogoblikon at Cargo Concert Hall" at 6pm (doors)
+    and Ticketmaster's "Nekrogoblikon, Rivers of Nihil, ..." at 7pm, both at Cargo."""
+    if "listing" not in (a.get("_kind"), b.get("_kind")) or a["allDay"] or b["allDay"]:
         return False
+    if a["start"][:10] != b["start"][:10] or not same_venue(a, b):
+        return False
+    gap = datetime.fromisoformat(a["start"]) - datetime.fromisoformat(b["start"])
+    ha, hb = headline(a), headline(b)
+    return (abs(gap.total_seconds()) <= SAME_SHOW_MINUTES * 60 and bool(ha and hb)
+            and (ha <= hb or hb <= ha))
+
+
+def is_duplicate(a, b):
     ta, tb = tokens(a["title"]), tokens(b["title"])
     if _source(a) == _source(b):
         no_venues = not a.get("venue") and not b.get("venue")
-        return ta == tb and a["start"] == b["start"] and (no_venues or same_place(a, b))
-    o = overlap(ta, tb)
-    return o >= 0.8 or (o >= 0.6 and same_venue(a, b))
+        return (same_time(a, b) and ta == tb and a["start"] == b["start"]
+                and (no_venues or same_place(a, b)))
+    if same_time(a, b):
+        o = overlap(ta, tb)
+        # Also compare the titles without either venue's words ("Great Italian Festival: Virginia
+        # Street" vs "44th Annual Great Italian Festival" at Virginia St), while two words are left.
+        places = venue_words(a) | venue_words(b)
+        sa, sb = ta - places, tb - places
+        if len(sa) >= 2 and len(sb) >= 2:
+            o = max(o, overlap(sa, sb))
+        if o >= 0.8 or (o >= 0.6 and same_venue(a, b)):
+            return True
+    return same_show(a, b)
 
 
 def merge(group):
@@ -103,6 +153,29 @@ def merge(group):
     return m
 
 
+def _unusual(e):
+    return {w for w in tokens(e["title"])
+            if len(w) >= 6 and not w.isdigit() and w not in COMMON_WORDS and w not in GENERIC_VENUE}
+
+
+def _lookalike(listing, other):
+    if listing["start"][:10] != other["start"][:10] or not (_unusual(listing) & _unusual(other)):
+        return False
+    if listing["allDay"] or other["allDay"]:
+        return True
+    gap = datetime.fromisoformat(listing["start"]) - datetime.fromisoformat(other["start"])
+    return abs(gap.total_seconds()) <= LOOKALIKE_HOURS * 3600
+
+
+def drop_listing_lookalikes(events):
+    """A listing calendar's event that didn't merge but shares an unusual title word with another
+    calendar's event the same day, within LOOKALIKE_HOURS ("Burning Man Decompression Event:
+    Brewery District" vs "Reno Decompression 2026"), is most likely the same event: drop the copy."""
+    others = [e for e in events if e.get("_kind") != "listing"]
+    return [e for e in events
+            if e.get("_kind") != "listing" or not any(_lookalike(e, o) for o in others)]
+
+
 def dedupe(events):
     by_day = {}
     for e in sorted(events, key=lambda e: (e["start"], e["id"])):
@@ -114,4 +187,4 @@ def dedupe(events):
         else:
             groups.append([e])
     merged = [merge(g) if len(g) > 1 else g[0] for groups in by_day.values() for g in groups]
-    return sorted(merged, key=lambda e: (e["start"], e["id"]))
+    return sorted(drop_listing_lookalikes(merged), key=lambda e: (e["start"], e["id"]))

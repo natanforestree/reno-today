@@ -30,12 +30,16 @@ def _names(items):
 
 class TribeSource:
     def __init__(self, name, label, base, *, city, place=None, family_all=False, family_categories=(),
-                 family_before=None, adult_categories=(), skip_categories=()):
+                 family_before=None, adult_categories=(), skip_categories=(), only_categories=(),
+                 ignore_categories=(), kind="organiser"):
         self.NAME, self.LABEL = name, label
         self.base, self.city, self.place = base.rstrip("/"), city, place
         self.family_all, self.family_categories = family_all, set(family_categories)
         self.family_before = family_before
         self.adult_categories, self.skip_categories = set(adult_categories), set(skip_categories)
+        self.only_categories = set(only_categories)          # when set, keep only events in one of these
+        self.ignore_categories = set(ignore_categories)      # categories too loose to use as tags
+        self.kind = kind                                     # "listing" for calendars of other people's events
 
     def fetch(self, ctx):
         first = ctx.start.date().isoformat()
@@ -54,7 +58,7 @@ class TribeSource:
         events = []
         for e in items:
             cats, tags = _names(e.get("categories")), _names(e.get("tags"))
-            if cats & self.skip_categories:
+            if cats & self.skip_categories or (self.only_categories and not cats & self.only_categories):
                 continue
             try:
                 start = datetime.strptime(e["start_date"], "%Y-%m-%d %H:%M:%S").replace(tzinfo=LA)
@@ -75,7 +79,7 @@ class TribeSource:
                 end=(end.date() if end else None) if all_day else end, all_day=all_day,
                 venue=venue(name, address, v.get("geo_lat"), v.get("geo_lng")),
                 city=v.get("city") or self.city, price=price_from(e.get("cost")), url=e.get("url"),
-                text=plain(e.get("description") or ""), tags=cats | tags,
+                text=plain(e.get("description") or ""), tags=(cats | tags) - self.ignore_categories,
                 family=self.family_all or bool(cats & self.family_categories and daytime),
-                adult=bool(cats & self.adult_categories), kind="organiser"))
+                adult=bool(cats & self.adult_categories), kind=self.kind))
         return events

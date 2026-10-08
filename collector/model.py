@@ -144,7 +144,8 @@ def make_event(source, source_id, title, start, *, end=None, all_day=False, ongo
                family=False, adult=False, all_ages=False, outdoor=False, kind="organiser"):
     """One normalised event. start/end are aware datetimes, or dates when all_day
     (end = the last day, inclusive). kind is "organiser" (the venue's or
-    organiser's own feed) or "ticketing" (decides which listing wins on merge)."""
+    organiser's own feed), "ticketing" or "listing" (a calendar of other people's
+    events); it decides which listing wins on merge."""
     if all_day:
         start = day_start(_as_date(start))
         end = day_start(_as_date(end)) if end else None

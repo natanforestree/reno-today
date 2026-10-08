@@ -14,6 +14,12 @@ CARSON = TribeSource("carson", "Visit Carson City", "https://visitcarsoncity.com
 SOUTH_TAHOE = TribeSource("southtahoe", "Visit Lake Tahoe", "https://visitlaketahoe.com", city="South Lake Tahoe",
                           family_categories={"kids & families"}, family_before=17)
 VIRGINIA_CITY = TribeSource("vcity", "Virginia City", "https://visitvirginiacitynv.com", city="Virginia City")
+# Listing calendars: other people's events, so a ticket seller's or organiser's copy wins on merge.
+# Downtown Reno files comedy under "Live music", so its music categories aren't used as tags.
+DOWNTOWN = TribeSource("downtown", "Downtown Reno", "https://downtownreno.org", city="Reno", kind="listing",
+                       ignore_categories={"live music", "music"})
+KWNK = TribeSource("kwnk", "KWNK", "https://kwnkradio.org", city="Reno", kind="listing",
+                   only_categories={"music"})   # its Holland Project shows; not its mutual-aid listings
 
 CITY_OF_RENO = RevizeSource("reno", "City of Reno", "www.reno.gov", "renonv", city="Reno",
                             page_url="https://www.reno.gov/calendar", skip_calendars={"3"}, kid_calendars={"8"},
@@ -23,4 +29,5 @@ CITY_OF_SPARKS = RevizeSource("sparks", "City of Sparks", "www.sparksnv.gov", "s
                               page_url="https://www.sparksnv.gov/calendar", skip_calendars={"2", "5"},
                               calendar_names={"1": "community events"})
 
-ALL = [ticketmaster, unr, wolfpack, aces, library, tockify, standing, DISCOVERY, CITY_OF_RENO, CITY_OF_SPARKS, CARSON, SOUTH_TAHOE, VIRGINIA_CITY]
+ALL = [ticketmaster, unr, wolfpack, aces, library, tockify, standing, DISCOVERY, CITY_OF_RENO, CITY_OF_SPARKS, CARSON,
+       SOUTH_TAHOE, VIRGINIA_CITY, DOWNTOWN, KWNK]
