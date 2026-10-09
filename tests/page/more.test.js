@@ -8,7 +8,7 @@ test('the More local calendars section links each calendar in a new tab', () => 
   const html = readFileSync(new URL('../../docs/index.html', import.meta.url), 'utf8');
   const section = html.slice(html.indexOf('<section id="more"'), html.indexOf('</section>', html.indexOf('<section id="more"')));
   for (const url of ['https://www.therenoscene.com/', 'https://www.nvbirds.org/event-calendar',
-    'https://www.renolittletheater.org/', 'https://www.bruka.org/']) {
+    'https://www.renolittletheater.org/', 'https://www.bruka.org/', 'https://www.villageatrancharrah.com/events']) {
     assert.ok(section.includes(`<a href="${url}" target="_blank" rel="noopener">`), url);
   }
   assert.ok(!html.includes('id="scene"'));
