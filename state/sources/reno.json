@@ -1,5 +1,5 @@
 {
- "at": "2026-10-09T05:32:20Z",
+ "at": "2026-10-09T20:31:44Z",
  "events": [
   {
    "id": "reno:4-202601100256",
@@ -4628,6 +4628,41 @@
    "_kind": "organiser"
   },
   {
+   "id": "reno:286-202610160700",
+   "title": "2026 King of the Hill Challenge",
+   "start": "2026-10-16T07:00:00-07:00",
+   "end": "2026-10-16T18:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Moana Springs Community Aquatics and Fitness Center",
+    "address": "Moana Springs Community Aquatics and Fitness Center",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "reno",
+     "url": "https://www.gomotionapp.com/team/reno/page/meets"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "special events"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
    "id": "reno:287-202610240900",
    "title": "2026 Dirty Wookie 10K and 5K",
    "start": "2026-10-24T09:00:00-07:00",
@@ -5603,43 +5638,6 @@
    "_kind": "organiser"
   },
   {
-   "id": "reno:367-202610081430",
-   "title": "Rolling Receration (Barbara Bennett Park)",
-   "start": "2026-10-08T14:30:00-07:00",
-   "end": "2026-10-08T17:30:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Barbara Bennett Park",
-    "address": "Barbara Bennett Park, 400 Island Ave., Reno, NV 89501",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "reno",
-     "url": "https://reno.gov/parks-and-recreation/recreation/rolling-recreation.php"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "events",
-    "parks & rec",
-    "youth"
-   ],
-   "_family": true,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
    "id": "reno:367-202610091430",
    "title": "Rolling Receration (Barbara Bennett Park)",
    "start": "2026-10-09T14:30:00-07:00",
@@ -5755,6 +5753,43 @@
    "title": "Rolling Receration (Barbara Bennett Park)",
    "start": "2026-10-15T14:30:00-07:00",
    "end": "2026-10-15T17:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Barbara Bennett Park",
+    "address": "Barbara Bennett Park, 400 Island Ave., Reno, NV 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "reno",
+     "url": "https://reno.gov/parks-and-recreation/recreation/rolling-recreation.php"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "events",
+    "parks & rec",
+    "youth"
+   ],
+   "_family": true,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "reno:367-202610161430",
+   "title": "Rolling Receration (Barbara Bennett Park)",
+   "start": "2026-10-16T14:30:00-07:00",
+   "end": "2026-10-16T17:30:00-07:00",
    "allDay": false,
    "ongoing": false,
    "venue": {
@@ -6047,43 +6082,6 @@
    "_kind": "organiser"
   },
   {
-   "id": "reno:375-202610081430",
-   "title": "Rolling Recreation (Idlewild Park)",
-   "start": "2026-10-08T14:30:00-07:00",
-   "end": "2026-10-08T17:30:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Idlewild Park",
-    "address": "Idlewild Park",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "reno",
-     "url": "https://reno.gov/parks-and-recreation/recreation/rolling-recreation.php"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "events",
-    "parks & rec",
-    "youth"
-   ],
-   "_family": true,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
    "id": "reno:375-202610151430",
    "title": "Rolling Recreation (Idlewild Park)",
    "start": "2026-10-15T14:30:00-07:00",
@@ -6125,6 +6123,43 @@
    "title": "Rolling Recreation (Reno City Plaza)",
    "start": "2026-10-09T14:30:00-07:00",
    "end": "2026-10-09T17:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Reno City Plaza",
+    "address": "Reno City Plaza",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "reno",
+     "url": "https://reno.gov/parks-and-recreation/recreation/rolling-recreation.php"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "events",
+    "parks & rec",
+    "youth"
+   ],
+   "_family": true,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "reno:377-202610161430",
+   "title": "Rolling Recreation (Reno City Plaza)",
+   "start": "2026-10-16T14:30:00-07:00",
+   "end": "2026-10-16T17:30:00-07:00",
    "allDay": false,
    "ongoing": false,
    "venue": {
