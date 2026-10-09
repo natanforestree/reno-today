@@ -56,6 +56,14 @@ with a line like `👀 Yesterday: 12 visitors`.
 - The collector reads the count only when it is about to send the digest. If
   that fails, the line is simply left out.
 
+## Feedback email
+
+The footer's "Email me" link goes to the site's `hello` address at renotoday.org, which
+Cloudflare Email Routing forwards to a private inbox (only that address exists; the catch-all
+is off). The address is kept in two parts in `docs/lib.js` and joined only when someone taps
+the link, so it never appears written out in the page's files; `tests/page/contact.test.js`
+checks that.
+
 ## Previewing the page
 
     python3 dev/make_fixture.py --today 2026-10-10

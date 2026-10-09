@@ -237,3 +237,8 @@ test('closedSections: what this browser folded away, ignoring anything else stor
   assert.deepEqual([...L.closedSections('{"little":true}')], []);
   assert.deepEqual(L.FOLDABLE, ['little', 'rest', 'drive']);
 });
+
+test('contact: the feedback address is put together only when asked for', () => {
+  assert.equal(L.contactAddress(), ['hello', 'renotoday.org'].join('@'));
+  assert.equal(L.contactHref(), `mailto:${L.contactAddress()}?subject=Reno%20Today%20feedback`);
+});

@@ -1,6 +1,6 @@
 // Reno Today page: loads docs/data/*.json and renders the chosen day.
 // Every piece of text from the data goes through L.esc, and every link through L.safeUrl.
-import * as L from './lib.js?v=c78c40c7';
+import * as L from './lib.js?v=873f2f46';
 
 const RAW = 'https://raw.githubusercontent.com/natanforestree/reno-today/main/docs/data/';
 const FILTERS_KEY = 'reno-today:filters';
@@ -228,7 +228,8 @@ function renderFooter() {
     ${L.sourceNotes(sources, nowMs).map((n) => `<p class="warn small">${L.esc(n)}</p>`).join('')}
     <p class="small">Updated ${gen ? L.esc(L.ago(gen, nowMs)) : 'never'} · Sources: ${sources.map((s) => L.esc(s.label)).join(', ') || 'none yet'}</p>
     <p class="small">Times, places and prices come from each source; check its link before you go.</p>
-    ${state.data.status?.sources?.ticketmaster ? '<p class="small">Concert and show listings from <a href="https://www.ticketmaster.com/" target="_blank" rel="noopener">Ticketmaster</a>.</p>' : ''}`;
+    ${state.data.status?.sources?.ticketmaster ? '<p class="small">Concert and show listings from <a href="https://www.ticketmaster.com/" target="_blank" rel="noopener">Ticketmaster</a>.</p>' : ''}
+    <p class="small">Feedback or found a bug? <a href="#contact" class="contact">Email me</a></p>`;
 }
 
 // This month's decorations over the arch (art/season-NN.lua); they change at midnight in Reno.
@@ -303,6 +304,16 @@ for (const id of L.FOLDABLE) {
     saveClosed();
   });
 }
+// "Email me": the address is joined only now (lib.js contactAddress) and also shown, for
+// visitors whose device has no mail app set up.
+$('footer').addEventListener('click', (ev) => {
+  const a = ev.target.closest('a.contact');
+  if (!a) return;
+  ev.preventDefault();
+  a.textContent = L.contactAddress();
+  a.href = L.contactHref();
+  location.href = a.href;
+});
 $('chips').addEventListener('click', (ev) => {
   const b = ev.target.closest('button[data-filter]');
   if (!b || !state.data) return;

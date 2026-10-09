@@ -222,6 +222,12 @@ export function closedSections(saved) {
   }
 }
 
+// The feedback address, kept in two parts so it never appears written out in the page's files,
+// where address-collecting bots look; the page joins them when someone taps "Email me".
+const CONTACT = ['hello', 'renotoday.org'];
+export const contactAddress = () => CONTACT.join('@');
+export const contactHref = () => `mailto:${contactAddress()}?subject=${encodeURIComponent('Reno Today feedback')}`;
+
 export const COUNTED_HOSTS = ['natanforestree.github.io', 'renotoday.org', 'www.renotoday.org'];
 
 /** Count a visit once per Reno day, and only on the real site (not localhost or a preview).
