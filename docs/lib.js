@@ -149,7 +149,7 @@ export const placesOpen = (places, day) =>
 
 // The pixel icons in art/icons.png, in sheet order (docs/style.css .ico-<name>; art/icons.lua).
 export const ICONS = ['baby', 'car', 'house', 'book', 'music', 'leaf', 'warn', 'clear', 'mostly-clear',
-  'partly-cloudy', 'cloudy', 'fog', 'showers', 'rain', 'snow', 'thunder'];
+  'partly-cloudy', 'cloudy', 'fog', 'showers', 'rain', 'snow', 'thunder', 'calendar'];
 
 // The weather icon for a WMO weather code: the same groups as CODES in collector/weather.py.
 const WEATHER_ICONS = [[0, 'clear'], [1, 'mostly-clear'], [2, 'partly-cloudy'], [3, 'cloudy'], [48, 'fog'],

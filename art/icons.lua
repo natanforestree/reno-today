@@ -1,7 +1,7 @@
--- icons.png: the page's little pixel icons, one row of 16 cells of 12x12 (192x12), shown at 2x.
+-- icons.png: the page's little pixel icons, one row of 17 cells of 12x12 (204x12), shown at 2x.
 -- The order is fixed: ICONS in docs/lib.js and the .ico-* rules in docs/style.css depend on it.
 --   0 baby  1 car  2 house  3 book  4 music  5 leaf  6 warn  7 clear  8 mostly-clear
---   9 partly-cloudy  10 cloudy  11 fog  12 showers  13 rain  14 snow  15 thunder
+--   9 partly-cloudy  10 cloudy  11 fog  12 showers  13 rain  14 snow  15 thunder  16 calendar
 -- The weather icons share one sun and one cloud. Light comes from the upper left.
 -- Run from the repo root:
 --   /Applications/Aseprite.app/Contents/MacOS/aseprite -b --script art/icons.lua
@@ -291,7 +291,23 @@ do
   add(b)
 end
 
-assert(#ICONS == 16, "expected 16 icons, got " .. #ICONS)
+-- 16 calendar ("More local calendars"): a page with ring tabs and one day picked out
+add(L.map({
+  "..s......s..",
+  "RRsRRRRRRsRR",
+  "rrrrrrrrrrrr",
+  "dddddddddddd",
+  "wwwwwwwwwwwW",
+  "wgwgwgwgwgwW",
+  "wwwwwwwwwwwW",
+  "wgwgwyywgwgW",
+  "wwwwwyywwwwW",
+  "wgwgwgwgwgwW",
+  "wwwwwwwwwwwW",
+  "WWWWWWWWWWWW",
+}, { s = P.silver, R = P.redLight, r = P.red, d = P.redDark, w = P.ink, W = C.wallShade, g = P.muted, y = P.gold }))
+
+assert(#ICONS == 17, "expected 17 icons, got " .. #ICONS)
 local strip = L.buffer(CELL * #ICONS, CELL)
 for i, b in ipairs(ICONS) do
   assert(b.w == CELL and b.h == CELL, "icon " .. (i - 1) .. " is not 12x12")
