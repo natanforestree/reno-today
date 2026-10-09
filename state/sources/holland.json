@@ -1,44 +1,6 @@
 {
- "at": "2026-10-09T05:32:20Z",
+ "at": "2026-10-09T08:31:48Z",
  "events": [
-  {
-   "id": "holland:96772",
-   "title": "Howls Road, Rachael McElhiney, Pen",
-   "start": "2026-10-08T19:00:00-07:00",
-   "end": "2026-10-08T22:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Holland Project",
-    "address": "140 Vesta St, Reno, NV, 89502",
-    "lat": 39.50964,
-    "lon": -119.80367
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "min": 10.0,
-    "max": 10.0
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "holland",
-     "url": "https://hollandreno.org/events/howls-road/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "music"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": true,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "holland:96671",
    "title": "GU77ERBOY5: Yaykuhb, $undancekid, P-$antana, D_, DJ Discolazer, SlaughterSesh, CashMxneyy",
@@ -178,6 +140,41 @@
     {
      "source": "holland",
      "url": "https://hollandreno.org/events/prostitute/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "music"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": true,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "holland:96483",
+   "title": "Dummy, Golomb, Squib",
+   "start": "2026-10-16T19:00:00-07:00",
+   "end": "2026-10-16T22:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Holland Project",
+    "address": "140 Vesta St, Reno, NV, 89502",
+    "lat": 39.50964,
+    "lon": -119.80367
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "holland",
+     "url": "https://hollandreno.org/events/dummy/"
     }
    ],
    "lovingReno": null,

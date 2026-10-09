@@ -1,5 +1,5 @@
 {
- "at": "2026-10-09T05:32:20Z",
+ "at": "2026-10-09T08:31:48Z",
  "events": [
   {
    "id": "carson:80820",
@@ -341,6 +341,129 @@
     "things to do",
     "visit carson city nevada",
     "what to do in carson city"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:80754",
+   "title": "Mark Twain Days | Twain Train",
+   "start": "2026-10-16T16:00:00-07:00",
+   "end": "2026-10-16T17:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Carson City Eastgate Depot",
+    "address": "4650 Eastgate Siding Rd., Carson City, NV, 89706",
+    "lat": 39.20273,
+    "lon": -119.684
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": {
+    "min": 70.0,
+    "max": 70.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/mark-twain-days-twain-train/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & culture",
+    "brewery arts center",
+    "carson city",
+    "carson city events",
+    "carson city nevada",
+    "history",
+    "literary festival",
+    "literary festival carson city",
+    "literary festival carson city nevada",
+    "literary festival northern nevada",
+    "mark twain days",
+    "mark twain days carson city",
+    "mark twain days carson city nevada",
+    "mark twain days literary festival",
+    "mark twain days literary festival carson city",
+    "mark twain days literary festival carson city nevada",
+    "mark twain days literary festival nevada",
+    "mark twain days nevada",
+    "mark twain days twain train",
+    "mark twain days twain train carson city",
+    "mark twain days twain train carson city nevada",
+    "things to do",
+    "things to do in carson city",
+    "twain train",
+    "twain train carson city",
+    "v&t railway twain train",
+    "v&t railway twain train carson city",
+    "v&t railway twain train carson city nevada",
+    "visit carson city",
+    "visit carson city nevada",
+    "what to do in carson city"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:80757",
+   "title": "Mark Twain Days | Concert: The Delta Wires",
+   "start": "2026-10-16T19:30:00-07:00",
+   "end": "2026-10-16T21:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Nashville Social Club",
+    "address": "1105 S Carson St, Carson City, Nevada, 89701",
+    "lat": 39.15725,
+    "lon": -119.76644
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": {
+    "min": 29.94,
+    "max": 29.94
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/mark-twain-days-concert-the-delta-wires/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "Live Band",
+   "_tags": [
+    "blues music carson city nv",
+    "california blues music",
+    "literary festival",
+    "literary festival carson city",
+    "literary festival carson city nevada",
+    "literary festival northern nevada",
+    "live music",
+    "live music carson city",
+    "mark twain days",
+    "mark twain days carson city",
+    "mark twain days carson city nevada",
+    "mark twain days literary festival",
+    "mark twain days literary festival carson city",
+    "mark twain days literary festival carson city nevada",
+    "mark twain days literary festival nevada",
+    "mark twain days nevada",
+    "nashville social club",
+    "the delta wires"
    ],
    "_family": false,
    "_adult": false,
