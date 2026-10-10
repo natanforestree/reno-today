@@ -1,5 +1,5 @@
 {
- "at": "2026-10-10T14:32:05Z",
+ "at": "2026-10-10T17:31:50Z",
  "events": [
   {
    "id": "tm:16yZkf3JpZAGe681",
@@ -328,43 +328,6 @@
    "_kind": "ticketing"
   },
   {
-   "id": "tm:1718v0G6uq1NOmq",
-   "title": "Girls Night Out the Show",
-   "start": "2026-10-10T20:00:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Club Underground",
-    "address": "555 E 4th St, Reno, NV",
-    "lat": 39.53151,
-    "lon": -119.80658
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketweb.com/event/girls-night-out-the-show-club-underground-tickets/14217284?REFERRAL_ID=tmfeed"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "arts & theatre",
-    "comedy",
-    "theatre"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
-  {
    "id": "tm:rZ7HnEZ1Afata7",
    "title": "PROJECTflow #28",
    "start": "2026-10-10T20:30:00-07:00",
@@ -397,6 +360,43 @@
     "hip-hop/rap",
     "music",
     "urban"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:1718v0G6uq1NOmq",
+   "title": "Girls Night Out the Show",
+   "start": "2026-10-10T21:00:00-07:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Club Underground",
+    "address": "555 E 4th St, Reno, NV",
+    "lat": 39.53151,
+    "lon": -119.80658
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketweb.com/event/girls-night-out-the-show-club-underground-tickets/14217284?REFERRAL_ID=tmfeed"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & theatre",
+    "comedy",
+    "theatre"
    ],
    "_family": false,
    "_adult": false,
