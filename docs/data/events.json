@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-10T08:31:16Z",
+ "generatedAt": "2026-10-10T11:31:45Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -10010,6 +10010,36 @@
    "lovingReno": null
   },
   {
+   "id": "library:15762784",
+   "title": "Game Day Saturday!",
+   "start": "2026-10-17T00:00:00-07:00",
+   "end": null,
+   "allDay": true,
+   "ongoing": true,
+   "venue": {
+    "name": "Sierra View Library",
+    "address": "4001 S Virginia St, Reno, NV 89502",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/15762784"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "southtahoe:245906",
    "title": "South Tahoe Classic & Old Car Giveaway at the Heavenly Village",
    "start": "2026-10-17T00:00:00-07:00",
@@ -10038,6 +10068,94 @@
    "lovingReno": null
   },
   {
+   "id": "library:17341590",
+   "title": "The Archivist's Warning: Digital Escape Room Experience",
+   "start": "2026-10-17T00:00:00-07:00",
+   "end": null,
+   "allDay": true,
+   "ongoing": true,
+   "venue": {
+    "name": "Downtown Reno Library",
+    "address": "301 S Center St, Reno, NV 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17341590"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17743722",
+   "title": "Up for Interpretation, Teen Art Challenge",
+   "start": "2026-10-17T00:00:00-07:00",
+   "end": null,
+   "allDay": true,
+   "ongoing": true,
+   "venue": {
+    "name": "South Valleys Library",
+    "address": "15650-A Wedge Pkwy, Reno, NV 89511",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17743722"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "reno:286-202610170700",
+   "title": "2026 King of the Hill Challenge",
+   "start": "2026-10-17T07:00:00-07:00",
+   "end": "2026-10-17T18:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Moana Springs Community Aquatics and Fitness Center",
+    "address": "Moana Springs Community Aquatics and Fitness Center",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "reno",
+     "url": "https://www.gomotionapp.com/team/reno/page/meets"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "reno:339-202610170900",
    "title": "Biggest Little Fall Refresh Cleaning - Ward 6",
    "start": "2026-10-17T09:00:00-07:00",
@@ -10061,6 +10179,94 @@
     {
      "source": "reno",
      "url": "https://www.reno.gov/calendar"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "reno:369-202610170900",
+   "title": "Rolling Receration (Barbara Bennett Park)",
+   "start": "2026-10-17T09:00:00-07:00",
+   "end": "2026-10-17T12:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Barbara Bennett Park",
+    "address": "Barbara Bennett Park, 400 Island Ave., Reno, NV 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "little",
+   "hints": [
+    "outdoors",
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "reno",
+     "url": "https://reno.gov/parks-and-recreation/recreation/rolling-recreation.php"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "reno:378-202610170900",
+   "title": "Rolling Recreation (Yori Park)",
+   "start": "2026-10-17T09:00:00-07:00",
+   "end": "2026-10-17T12:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Yori Park 2800 Yori Wy. Reno",
+    "address": "Yori Park 2800 Yori Wy. Reno, Nevada 89502",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "little",
+   "hints": [
+    "outdoors",
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "reno",
+     "url": "https://reno.gov/parks-and-recreation/recreation/rolling-recreation.php"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:16568058",
+   "title": "English Conversation Group/Grupo de conversación en inglés",
+   "start": "2026-10-17T09:30:00-07:00",
+   "end": "2026-10-17T10:15:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sierra View Library",
+    "address": "4001 S Virginia St, Reno, NV 89502",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/16568058"
     }
    ],
    "lovingReno": null
@@ -10210,6 +10416,36 @@
    "lovingReno": null
   },
   {
+   "id": "library:16413298",
+   "title": "Family Story Time",
+   "start": "2026-10-17T10:30:00-07:00",
+   "end": "2026-10-17T11:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sierra View Library",
+    "address": "4001 S Virginia St, Reno, NV 89502",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/16413298"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "discovery:42843",
    "title": "Make a Lucha Libre Mask",
    "start": "2026-10-17T10:30:00-07:00",
@@ -10261,6 +10497,36 @@
     {
      "source": "discovery",
      "url": "https://nvdm.org/event/stem-lab-girl-power/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17763428",
+   "title": "Habilidades de la computadora 102: Conceptos básicos de Internet (Internet Basics in Spanish)",
+   "start": "2026-10-17T11:00:00-07:00",
+   "end": "2026-10-17T12:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sparks Library",
+    "address": "1125 12th St, Sparks, NV 89431",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17763428"
     }
    ],
    "lovingReno": null
@@ -10435,6 +10701,36 @@
    "lovingReno": null
   },
   {
+   "id": "library:14216351",
+   "title": "SaturYay!",
+   "start": "2026-10-17T11:00:00-07:00",
+   "end": "2026-10-17T12:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Northwest Reno Library",
+    "address": "2325 Robb Dr, Reno, NV 89523",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/14216351"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "southtahoe:241385",
    "title": "South Shore Chili Cook Off at the Golden Nugget Lake Tahoe",
    "start": "2026-10-17T11:00:00-07:00",
@@ -10519,6 +10815,126 @@
     {
      "source": "southtahoe",
      "url": "https://visitlaketahoe.com/event/tea-with-an-edge-at-edge-restaurant-lounge/2026-10-17/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:16631139",
+   "title": "Teen Scene: Halloween Tealight Holder",
+   "start": "2026-10-17T13:30:00-07:00",
+   "end": "2026-10-17T15:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sierra View Library",
+    "address": "4001 S Virginia St, Reno, NV 89502",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/16631139"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:15396562",
+   "title": "Lego Club: Elements Build",
+   "start": "2026-10-17T14:00:00-07:00",
+   "end": "2026-10-17T15:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sierra View Library",
+    "address": "4001 S Virginia St, Reno, NV 89502",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/15396562"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:15438461",
+   "title": "Pardon the Pawn",
+   "start": "2026-10-17T14:00:00-07:00",
+   "end": "2026-10-17T15:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Northwest Reno Library",
+    "address": "2325 Robb Dr, Reno, NV 89523",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/15438461"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17067309",
+   "title": "Tabletop Tales - A Solo Role-Playing Journal Game Club",
+   "start": "2026-10-17T14:00:00-07:00",
+   "end": "2026-10-17T15:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "North Valleys Library",
+    "address": "1075 N Hills Blvd Ste 340, Reno, NV 89506",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17067309"
     }
    ],
    "lovingReno": null
