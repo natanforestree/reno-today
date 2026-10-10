@@ -1,42 +1,6 @@
 {
- "at": "2026-10-10T05:31:21Z",
+ "at": "2026-10-10T08:31:16Z",
  "events": [
-  {
-   "id": "discovery:42329",
-   "title": "World Space Week: Rocket Revolution",
-   "start": "2026-10-09T10:00:00-07:00",
-   "end": "2026-10-09T17:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Discovery",
-    "address": "490 S. Center Street, Reno, NV, 89501",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "discovery",
-     "url": "https://nvdm.org/event/world-space-week-rocket-revolution-2026-10-09/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "hands-on activity",
-    "special event"
-   ],
-   "_family": true,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "discovery:42330",
    "title": "World Space Week: Rocket Revolution",
@@ -201,6 +165,79 @@
     {
      "source": "discovery",
      "url": "https://nvdm.org/event/make-a-lucha-libre-mask__trashed/2026-10-14/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "hands-on activity",
+    "maker project"
+   ],
+   "_family": true,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "discovery:42756",
+   "title": "STEM Lab: Girl Power",
+   "start": "2026-10-17T10:30:00-07:00",
+   "end": "2026-10-17T15:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Discovery",
+    "address": "490 S. Center Street, Reno, NV, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "discovery",
+     "url": "https://nvdm.org/event/stem-lab-girl-power/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "empow[her]",
+    "hands-on activity",
+    "stem lab"
+   ],
+   "_family": true,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "discovery:42843",
+   "title": "Make a Lucha Libre Mask",
+   "start": "2026-10-17T10:30:00-07:00",
+   "end": "2026-10-17T16:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Discovery",
+    "address": "490 S. Center Street, Reno, NV, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "discovery",
+     "url": "https://nvdm.org/event/make-a-lucha-libre-mask-2026-10-17/"
     }
    ],
    "lovingReno": null,

@@ -1,5 +1,5 @@
 {
- "at": "2026-10-10T05:31:21Z",
+ "at": "2026-10-10T08:31:16Z",
  "events": [
   {
    "id": "carson:80820",
@@ -169,6 +169,46 @@
    "_tags": [
     "night life",
     "workshops/classes"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:62790",
+   "title": "Mark Twain Days Festival",
+   "start": "2026-10-13T00:00:00-07:00",
+   "end": "2026-10-17T00:00:00-07:00",
+   "allDay": true,
+   "ongoing": true,
+   "venue": {
+    "name": "Downtown Carson City",
+    "address": "101 N Carson St, Carson City, NV, 89701",
+    "lat": 39.16389,
+    "lon": -119.76611
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/mark-twain-days/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "capitol city festival",
+    "events in carson city",
+    "festival",
+    "history",
+    "mark twain",
+    "mark twain days"
    ],
    "_family": false,
    "_adult": false,
@@ -349,6 +389,64 @@
    "_kind": "organiser"
   },
   {
+   "id": "carson:67690",
+   "title": "Bronco Super Celebration",
+   "start": "2026-10-15T08:00:00-07:00",
+   "end": "2026-10-17T17:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Mills Park",
+    "address": "1111 East William Street, Carson City, NV, 89701",
+    "lat": 39.17073,
+    "lon": -119.75656
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": {
+    "min": 100.0,
+    "max": 100.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/bronco-super-celebration/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "family",
+   "_tags": [
+    "bronco",
+    "bronco driver magazine",
+    "bronco super celebration",
+    "car events",
+    "car shows",
+    "car shows in carson city",
+    "car shows in nevada",
+    "carson city activities",
+    "events in carson city",
+    "events in october",
+    "fall in carson city",
+    "fall in nevada",
+    "ford",
+    "ford bronco",
+    "ford bronco event",
+    "mills park",
+    "nevada car shows",
+    "october activities",
+    "off road eevents",
+    "outdoor",
+    "visit carson city"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
    "id": "carson:80754",
    "title": "Mark Twain Days | Twain Train",
    "start": "2026-10-16T16:00:00-07:00",
@@ -464,6 +562,471 @@
     "mark twain days nevada",
     "nashville social club",
     "the delta wires"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:80767",
+   "title": "Mark Twain Days | Treasure Hunt",
+   "start": "2026-10-17T10:00:00-07:00",
+   "end": "2026-10-17T16:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Downtown Carson City, 201 N. Carson Street Carson City, NV 89701",
+    "address": "201 N. Carson Street, Carson City, NV, 89701",
+    "lat": 39.16491,
+    "lon": -119.7666
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/mark-twain-days-treasure-hunt/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "family",
+   "_tags": [
+    "annual event",
+    "arts & culture",
+    "carson city events",
+    "literary festival",
+    "literary festival carson city",
+    "literary festival carson city nevada",
+    "literary festival northern nevada",
+    "mark twain days",
+    "mark twain days carson city",
+    "mark twain days carson city nevada",
+    "mark twain days literary festival",
+    "mark twain days literary festival carson city",
+    "mark twain days literary festival carson city nevada",
+    "mark twain days literary festival nevada",
+    "mark twain days nevada",
+    "mark twain days treasure hunt",
+    "what to do in carson city"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:80762",
+   "title": "Mark Twain Days | Vendor Fair & Author Talks",
+   "start": "2026-10-17T11:00:00-07:00",
+   "end": "2026-10-17T16:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Brewery Arts Center",
+    "address": "449 W King Street, Carson City, NV, 89703",
+    "lat": 39.16365,
+    "lon": -119.77007
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/mark-twain-days-vendor-fair-author-talks/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "family kids live music",
+   "_tags": [
+    "arts & culture",
+    "carson city",
+    "carson city nevada",
+    "literary festival",
+    "literary festival carson city",
+    "literary festival carson city nevada",
+    "literary festival northern nevada",
+    "mark twain days",
+    "mark twain days author talks",
+    "mark twain days carson city",
+    "mark twain days carson city nevada",
+    "mark twain days literary festival",
+    "mark twain days literary festival carson city",
+    "mark twain days literary festival carson city nevada",
+    "mark twain days literary festival nevada",
+    "mark twain days nevada",
+    "mark twain days vendor fair",
+    "things to do in carson city",
+    "vendor fair carson city",
+    "what to do in carson city"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:80766",
+   "title": "Mark Twain Days | Downtown Passport",
+   "start": "2026-10-17T11:00:00-07:00",
+   "end": "2026-10-17T14:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Downtown Carson City, 201 N. Carson Street Carson City, NV 89701",
+    "address": "201 N. Carson Street, Carson City, NV, 89701",
+    "lat": 39.16491,
+    "lon": -119.7666
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/mark-twain-days-downtown-passport/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "family",
+   "_tags": [
+    "annual event",
+    "arts & culture",
+    "literary festival",
+    "literary festival carson city",
+    "literary festival carson city nevada",
+    "literary festival northern nevada",
+    "mark twain days",
+    "mark twain days carson city",
+    "mark twain days carson city nevada",
+    "mark twain days downtown passport",
+    "mark twain days literary festival",
+    "mark twain days literary festival carson city",
+    "mark twain days literary festival carson city nevada",
+    "mark twain days literary festival nevada",
+    "mark twain days nevada",
+    "mark twain days treasure hunt"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:80774",
+   "title": "Mark Twain Days | Sculpt a Clay Frog: The Celebrated Jumping Frog of Calaveras County",
+   "start": "2026-10-17T11:00:00-07:00",
+   "end": "2026-10-17T16:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Brewery Arts Center",
+    "address": "449 W King Street, Carson City, NV, 89703",
+    "lat": 39.16365,
+    "lon": -119.77007
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/mark-twain-days-sculpt-a-clay-frog-the-celebrated-jumping-frog-of-calaveras-county/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "annual event",
+    "arts & culture",
+    "brewery arts center",
+    "carson city",
+    "events in carson city",
+    "literary festival",
+    "literary festival carson city",
+    "literary festival carson city nevada",
+    "literary festival northern nevada",
+    "mark twain days",
+    "mark twain days carson city",
+    "mark twain days carson city nevada",
+    "mark twain days carson city workshop",
+    "mark twain days free workshop",
+    "mark twain days frog workshop",
+    "mark twain days literary festival",
+    "mark twain days literary festival carson city",
+    "mark twain days literary festival carson city nevada",
+    "mark twain days literary festival nevada",
+    "mark twain days nevada",
+    "ogres holme pottery",
+    "sculpt a clay frog carson city",
+    "sculpt a clay frog: the celebrated jumping frog of calaveras county",
+    "the celebrated jumping frog of calaveras county carson city",
+    "the celebrated jumping frog of calaveras county carson city nevada",
+    "things to do in carson city",
+    "visit carson city nevada",
+    "what to do in carson city"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:80953",
+   "title": "Mark Twain Days | Pop-up Book Shop",
+   "start": "2026-10-17T11:00:00-07:00",
+   "end": "2026-10-17T16:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Bub’s Bookstore",
+    "address": "110 S Curry St, Carson City, NV, 89703",
+    "lat": 39.16346,
+    "lon": -119.76812
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/mark-twain-days-pop-up-book-shop/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & culture",
+    "events in carson city",
+    "literary festival",
+    "mark twain days",
+    "mark twain days carson city",
+    "mark twain days carson city nevada",
+    "mark twain days literary festival",
+    "mark twain days literary festival carson city nevada",
+    "mark twain days literary festival nevada",
+    "mark twain days nevada",
+    "what to do in carson city"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:80961",
+   "title": "Mark Twain Days | Have A Beer With Bulette",
+   "start": "2026-10-17T11:00:00-07:00",
+   "end": "2026-10-17T15:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Fox Brewpub",
+    "address": "310 S Carson St, Carson City, NV, 89701",
+    "lat": 39.16234,
+    "lon": -119.76732
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/mark-twain-days-have-a-beer-with-bulette/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & culture",
+    "brewery arts center",
+    "carson city",
+    "carson city events",
+    "entertainment",
+    "events in carson city",
+    "literary festival",
+    "literary festival carson city",
+    "literary festival carson city nevada",
+    "literary festival northern nevada",
+    "mark twain days carson city",
+    "mark twain days literary festival",
+    "mark twain days literary festival carson city nevada",
+    "mark twain days nevada"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:80964",
+   "title": "Mark Twain Days | Curry Street Wagon Rides",
+   "start": "2026-10-17T11:00:00-07:00",
+   "end": "2026-10-17T14:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Curry Street and McFadden Plaza (Downtown Curry Street), Carson City, NV 89701",
+    "address": null,
+    "lat": null,
+    "lon": null
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/mark-twain-days-curry-street-wagon-rides/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & culture",
+    "carson city",
+    "carson city events",
+    "carson city nevada",
+    "events in carson city",
+    "literary festival",
+    "literary festival carson city",
+    "literary festival northern nevada",
+    "mark twain days carson city nevada",
+    "mark twain days literary festival",
+    "mark twain days literary festival carson city"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:77881",
+   "title": "Sun & Dust Presents: Dust & Darkness",
+   "start": "2026-10-17T15:00:00-07:00",
+   "end": "2026-10-17T20:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Fuji Park",
+    "address": "601 Old Clear Creek Rd, Carson City, NV, 89705",
+    "lat": 39.11467,
+    "lon": -119.77709
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/sun-dust-market/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "family kids",
+   "_tags": [
+    "art",
+    "arts & culture",
+    "carson city",
+    "carson city events",
+    "carson city nevada",
+    "events in carson city",
+    "local artists",
+    "local vendors",
+    "market",
+    "night market",
+    "sun & dust market",
+    "sun & dust market carson city",
+    "sun & dust market carson city nv",
+    "things to do",
+    "vendors",
+    "visit carson city",
+    "what to do in carson city"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:80777",
+   "title": "Mark Twain Days | Loud As Folk: The Sugar Thieves & Kat Heart",
+   "start": "2026-10-17T19:00:00-07:00",
+   "end": "2026-10-17T22:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Brewery Arts Center Performance Hall",
+    "address": "511 W King STreet, Carson City, 89703",
+    "lat": 39.16388,
+    "lon": -119.77042
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": {
+    "min": 20.0,
+    "max": 20.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/mark-twain-days-loud-as-folk-the-sugar-thieves-kat-heart/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & culture",
+    "brewery arts center",
+    "kat heart",
+    "literary festival",
+    "literary festival carson city",
+    "literary festival carson city nevada",
+    "literary festival northern nevada",
+    "live music",
+    "loud as folk",
+    "loud as folk brewery arts center",
+    "loud as folk carson city",
+    "mark twain days",
+    "mark twain days carson city",
+    "mark twain days carson city nevada",
+    "mark twain days literary festival",
+    "mark twain days literary festival carson city",
+    "mark twain days literary festival carson city nevada",
+    "mark twain days literary festival nevada",
+    "mark twain days nevada",
+    "the sugar thieves",
+    "things to do",
+    "things to do in carson city"
    ],
    "_family": false,
    "_adult": false,

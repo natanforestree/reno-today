@@ -1,54 +1,6 @@
 {
- "at": "2026-10-10T05:31:21Z",
+ "at": "2026-10-10T08:31:16Z",
  "events": [
-  {
-   "id": "downtown:126507",
-   "title": "CLUB SLAYYY: SLAYYYTER + HYPERPOP NIGHT",
-   "start": "2026-10-09T21:00:00-07:00",
-   "end": "2026-10-10T01:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Cargo Concert Hall",
-    "address": "255 N Virginia St, Reno, NV, 89501",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "min": 20.0,
-    "max": 20.0
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "downtown",
-     "url": "https://downtownreno.org/event/club-slayyy-slayyyter-hyperpop-night/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "18+ Concert CONCERT",
-   "_tags": [
-    "cargo",
-    "cargo concert hall",
-    "cargo reno",
-    "concert hall",
-    "concerts",
-    "dance",
-    "dance music",
-    "entertainment",
-    "event",
-    "nightlife",
-    "things to do"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "listing"
-  },
   {
    "id": "downtown:10005706",
    "title": "Great Italian Festival: Virginia Street",
@@ -349,6 +301,56 @@
     "university of nevada reno",
     "unr events",
     "wolf pack gear"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "listing"
+  },
+  {
+   "id": "downtown:126396",
+   "title": "KPOP Afterdark at Cargo Concert Hall",
+   "start": "2026-10-16T20:00:00-07:00",
+   "end": "2026-10-17T00:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Cargo Concert Hall",
+    "address": "255 N Virginia St, Reno, NV, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 20.0,
+    "max": 20.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/kpop-afterdark-at-cargo-concert-hall/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "18 + 21+ Concert concert CONCERT",
+   "_tags": [
+    "cargo",
+    "cargo concert hall",
+    "cargo reno",
+    "concert",
+    "concert hall",
+    "dance",
+    "dance music",
+    "dancing",
+    "downtown reno",
+    "entertainment",
+    "event",
+    "nightlife",
+    "things to do"
    ],
    "_family": false,
    "_adult": false,
