@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-11T11:31:37Z",
+ "generatedAt": "2026-10-11T14:31:52Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -58,36 +58,10 @@
      "url": "https://www.biggestlittleultra.com/"
     }
    ],
-   "lovingReno": null
-  },
-  {
-   "id": "downtown:114710",
-   "title": "Strangelove at Cargo Concert Hall",
-   "start": "2026-10-10T19:00:00-07:00",
-   "end": "2026-10-11T00:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Cargo Concert Hall",
-    "address": "255 N Virginia St, Reno, NV, 89501",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "music",
-    "21+"
-   ],
-   "links": [
-    {
-     "source": "downtown",
-     "url": "https://downtownreno.org/event/strangelove-at-cargo-concert-hall/"
-    }
-   ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "library:10710982",
@@ -265,7 +239,10 @@
      "url": "https://www.renofarmersmarket.com/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "reno:285-202610111000",
@@ -297,7 +274,10 @@
      "url": "https://downtownreno.org/event/great-italian-festival-virginia-street/2026-10-11/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "wcparks:639-1791738000000",
@@ -443,7 +423,10 @@
      "url": "https://visitvirginiacitynv.com/event/the-walking-seance-at-silver-terrace-cemetery/2026-10-11/1/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "southtahoe:225477",
@@ -757,7 +740,10 @@
      "url": "https://visitvirginiacitynv.com/event/the-walking-seance-at-silver-terrace-cemetery/2026-10-11/3/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "library:16303915",
@@ -904,7 +890,10 @@
      "url": "https://events.washoecountylibrary.us/event/17170303"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "tm:16yZkf3J9ZAGeFvv",
@@ -1916,7 +1905,10 @@
      "url": "https://visitcarsoncity.com/events/mark-twain-days/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "library:17341586",
@@ -4425,7 +4417,10 @@
      "url": "https://renofoodtruckevents.com/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "library:10710440",
@@ -6567,7 +6562,10 @@
      "url": "https://visitlaketahoe.com/event/aviation-round-minden-tahoe-airport/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "southtahoe:113726",
@@ -8438,7 +8436,10 @@
      "url": "https://visitcarsoncity.com/events/harvest-train/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "carson:80767",
@@ -9690,13 +9691,23 @@
    },
    "area": "reno",
    "drive": null,
-   "price": null,
+   "price": {
+    "min": 25.0,
+    "max": 25.0
+   },
    "tier": "general",
-   "hints": [],
+   "hints": [
+    "music",
+    "21+"
+   ],
    "links": [
     {
      "source": "tm",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvvb4"
+    },
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/alyssa-jolee-at-cargo-concert-hall/"
     }
    ],
    "lovingReno": null
@@ -9894,6 +9905,36 @@
    "lovingReno": null
   },
   {
+   "id": "library:10710983",
+   "title": "Family Games Day",
+   "start": "2026-10-18T00:00:00-07:00",
+   "end": null,
+   "allDay": true,
+   "ongoing": true,
+   "venue": {
+    "name": "Spanish Springs Library",
+    "address": "7100A Pyramid Hwy, Sparks, NV 89436",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/10710983"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "southtahoe:238666",
    "title": "South Tahoe Classic and Old Car Giveaway at the Heavenly Village",
    "start": "2026-10-18T00:00:00-07:00",
@@ -9917,6 +9958,94 @@
     {
      "source": "southtahoe",
      "url": "https://visitlaketahoe.com/event/south-tahoe-classic-car-truck-mc-show-at-the-heavenly-village-2/2026-10-18/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17341591",
+   "title": "The Archivist's Warning: Digital Escape Room Experience",
+   "start": "2026-10-18T00:00:00-07:00",
+   "end": null,
+   "allDay": true,
+   "ongoing": true,
+   "venue": {
+    "name": "Downtown Reno Library",
+    "address": "301 S Center St, Reno, NV 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17341591"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17743723",
+   "title": "Up for Interpretation, Teen Art Challenge",
+   "start": "2026-10-18T00:00:00-07:00",
+   "end": null,
+   "allDay": true,
+   "ongoing": true,
+   "venue": {
+    "name": "South Valleys Library",
+    "address": "15650-A Wedge Pkwy, Reno, NV 89511",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17743723"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "reno:286-202610180700",
+   "title": "2026 King of the Hill Challenge",
+   "start": "2026-10-18T07:00:00-07:00",
+   "end": "2026-10-18T18:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Moana Springs Community Aquatics and Fitness Center",
+    "address": "Moana Springs Community Aquatics and Fitness Center",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "reno",
+     "url": "https://www.gomotionapp.com/team/reno/page/meets"
     }
    ],
    "lovingReno": null
@@ -9980,7 +10109,10 @@
      "url": "https://www.renofarmersmarket.com/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "reno:89-202610181000",
@@ -9997,7 +10129,9 @@
    },
    "area": "reno",
    "drive": null,
-   "price": null,
+   "price": {
+    "free": true
+   },
    "tier": "little",
    "hints": [
     "daytime"
@@ -10006,9 +10140,16 @@
     {
      "source": "reno",
      "url": "https://www.reno.gov/community/special-events/events.php"
+    },
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/reno-antique-faire-virginia-street/2026-10-18/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "southtahoe:234685",
@@ -10125,6 +10266,36 @@
    "lovingReno": null
   },
   {
+   "id": "library:14216295",
+   "title": "Sunday Funday",
+   "start": "2026-10-18T11:00:00-07:00",
+   "end": "2026-10-18T12:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Northwest Reno Library",
+    "address": "2325 Robb Dr, Reno, NV 89523",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/14216295"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "wcparks:701-1792350000000",
    "title": "Western Heritage Festival at Bartley Ranch",
    "start": "2026-10-18T12:00:00-07:00",
@@ -10154,6 +10325,36 @@
    "lovingReno": null
   },
   {
+   "id": "library:17173187",
+   "title": "Tiny Art Show Reception",
+   "start": "2026-10-18T13:00:00-07:00",
+   "end": "2026-10-18T15:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sparks Library",
+    "address": "1125 12th St, Sparks, NV 89431",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17173187"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "southtahoe:238142",
    "title": "Tea with an Edge at Edge Restaurant & Lounge",
    "start": "2026-10-18T13:30:00-07:00",
@@ -10178,6 +10379,66 @@
     {
      "source": "southtahoe",
      "url": "https://visitlaketahoe.com/event/tea-with-an-edge-at-edge-restaurant-lounge/2026-10-18/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:11811793",
+   "title": "Mystery Book Club - Murder Takes a Vacation by Laura Lippman",
+   "start": "2026-10-18T14:00:00-07:00",
+   "end": "2026-10-18T15:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Spanish Springs Library",
+    "address": "7100A Pyramid Hwy, Sparks, NV 89436",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/11811793"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17052112",
+   "title": "Libby App: Getting the Most Out of Your Libby Account",
+   "start": "2026-10-18T15:30:00-07:00",
+   "end": "2026-10-18T16:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Spanish Springs Library",
+    "address": "7100A Pyramid Hwy, Sparks, NV 89436",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17052112"
     }
    ],
    "lovingReno": null

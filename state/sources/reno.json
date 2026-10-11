@@ -1,5 +1,5 @@
 {
- "at": "2026-10-11T02:31:15Z",
+ "at": "2026-10-11T14:31:52Z",
  "events": [
   {
    "id": "reno:4-202601100256",
@@ -4558,41 +4558,6 @@
    "_kind": "organiser"
   },
   {
-   "id": "reno:285-202610101000",
-   "title": "44th Annual Great Italian Festival",
-   "start": "2026-10-10T10:00:00-07:00",
-   "end": "2026-10-10T20:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Virginia St",
-    "address": "Virginia St, between 2nd and 6th Downtown Reno",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "reno",
-     "url": "https://www.caesars.com/reno/events/great-italian-festival"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "special events"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
    "id": "reno:285-202610111000",
    "title": "44th Annual Great Italian Festival",
    "start": "2026-10-11T10:00:00-07:00",
@@ -4667,6 +4632,41 @@
    "title": "2026 King of the Hill Challenge",
    "start": "2026-10-17T07:00:00-07:00",
    "end": "2026-10-17T18:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Moana Springs Community Aquatics and Fitness Center",
+    "address": "Moana Springs Community Aquatics and Fitness Center",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "reno",
+     "url": "https://www.gomotionapp.com/team/reno/page/meets"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "special events"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "reno:286-202610180700",
+   "title": "2026 King of the Hill Challenge",
+   "start": "2026-10-18T07:00:00-07:00",
+   "end": "2026-10-18T18:00:00-07:00",
    "allDay": false,
    "ongoing": false,
    "venue": {
@@ -5013,43 +5013,6 @@
     "events",
     "parks & rec",
     "special events",
-    "youth"
-   ],
-   "_family": true,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "reno:330-202610100930",
-   "title": "Sierra Kids: Gymnastics",
-   "start": "2026-10-10T09:30:00-07:00",
-   "end": "2026-10-10T12:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Evelyn Mount Northeast Community Center",
-    "address": "Evelyn Mount Northeast Community Center, 1301 Valley Rd.",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "reno",
-     "url": "https://anc.apm.activecommunities.com/cityofrenoprcs/activity/search?locale=en-US&activity_select_param=2&drop_in=0&activity_keyword=Gymnastics&viewMode=list"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "Kids children Tots",
-   "_tags": [
-    "athletics",
-    "parks & rec",
     "youth"
    ],
    "_family": true,
@@ -5821,43 +5784,6 @@
    "_kind": "organiser"
   },
   {
-   "id": "reno:369-202610100900",
-   "title": "Rolling Receration (Barbara Bennett Park)",
-   "start": "2026-10-10T09:00:00-07:00",
-   "end": "2026-10-10T12:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Barbara Bennett Park",
-    "address": "Barbara Bennett Park, 400 Island Ave., Reno, NV 89501",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "reno",
-     "url": "https://reno.gov/parks-and-recreation/recreation/rolling-recreation.php"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "events",
-    "parks & rec",
-    "youth"
-   ],
-   "_family": true,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
    "id": "reno:369-202610170900",
    "title": "Rolling Receration (Barbara Bennett Park)",
    "start": "2026-10-17T09:00:00-07:00",
@@ -6163,43 +6089,6 @@
    "venue": {
     "name": "Reno City Plaza",
     "address": "Reno City Plaza",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "reno",
-     "url": "https://reno.gov/parks-and-recreation/recreation/rolling-recreation.php"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "events",
-    "parks & rec",
-    "youth"
-   ],
-   "_family": true,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "reno:378-202610100900",
-   "title": "Rolling Recreation (Yori Park)",
-   "start": "2026-10-10T09:00:00-07:00",
-   "end": "2026-10-10T12:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Yori Park 2800 Yori Wy. Reno",
-    "address": "Yori Park 2800 Yori Wy. Reno, Nevada 89502",
     "lat": null,
     "lon": null
    },
@@ -6683,43 +6572,6 @@
     "parks & rec"
    ],
    "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "reno:439-202610101300",
-   "title": "Rec Swim Movie at the Pool",
-   "start": "2026-10-10T13:00:00-07:00",
-   "end": "2026-10-10T15:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Moana Comp Pool",
-    "address": "Moana Comp Pool",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "reno",
-     "url": "https://www.reno.gov/calendar"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "aquatics",
-    "parks & rec",
-    "youth"
-   ],
-   "_family": true,
    "_adult": false,
    "_allAges": false,
    "_outdoor": false,

@@ -1,140 +1,6 @@
 {
- "at": "2026-10-11T05:31:13Z",
+ "at": "2026-10-11T14:31:52Z",
  "events": [
-  {
-   "id": "downtown:10005706",
-   "title": "Great Italian Festival: Virginia Street",
-   "start": "2026-10-10T10:00:00-07:00",
-   "end": "2026-10-10T19:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": null,
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "downtown",
-     "url": "https://downtownreno.org/event/great-italian-festival-virginia-street/2026-10-10/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "family",
-   "_tags": [],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "listing"
-  },
-  {
-   "id": "downtown:126880",
-   "title": "Burning Man Decompression Event: Brewery District",
-   "start": "2026-10-10T18:00:00-07:00",
-   "end": "2026-10-10T22:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": null,
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "downtown",
-     "url": "https://downtownreno.org/event/burning-man-decompression-event-brewery-district/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "family kids",
-   "_tags": [
-    "brewery district events"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "listing"
-  },
-  {
-   "id": "downtown:114710",
-   "title": "Strangelove at Cargo Concert Hall",
-   "start": "2026-10-10T19:00:00-07:00",
-   "end": "2026-10-11T00:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Cargo Concert Hall",
-    "address": "255 N Virginia St, Reno, NV, 89501",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "downtown",
-     "url": "https://downtownreno.org/event/strangelove-at-cargo-concert-hall/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "21+ Concert concert CONCERT",
-   "_tags": [
-    "cargo concert hall",
-    "downtown events"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "listing"
-  },
-  {
-   "id": "downtown:114613",
-   "title": "Gabriel Iglesias: The 1976 Tour: Reno Events Center",
-   "start": "2026-10-10T20:00:00-07:00",
-   "end": "2026-10-10T23:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Reno Events Center",
-    "address": "400 University Way, Reno, 89501",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "downtown",
-     "url": "https://downtownreno.org/event/gabriel-iglesias-the-1976-tour-reno-events-center/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "comedy",
-    "comedy show",
-    "entertainment",
-    "event",
-    "things to do",
-    "visit reno tahoe"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "listing"
-  },
   {
    "id": "downtown:126548",
    "title": "Raiders Motor Fest: National Auto Museum",
@@ -351,6 +217,91 @@
     "event",
     "nightlife",
     "things to do"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "listing"
+  },
+  {
+   "id": "downtown:126512",
+   "title": "Alyssa Jolee at Cargo Concert Hall",
+   "start": "2026-10-17T21:00:00-07:00",
+   "end": "2026-10-18T02:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Cargo Concert Hall",
+    "address": "255 N Virginia St, Reno, NV, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 25.0,
+    "max": 25.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/alyssa-jolee-at-cargo-concert-hall/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "18+ 21+ Concert",
+   "_tags": [
+    "cargo",
+    "cargo concert hall",
+    "cargo reno",
+    "concert",
+    "concert hall",
+    "dance",
+    "dance music",
+    "entertainment",
+    "nightlife",
+    "things to do"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "listing"
+  },
+  {
+   "id": "downtown:10005393",
+   "title": "Reno Antique Faire: Virginia Street",
+   "start": "2026-10-18T10:00:00-07:00",
+   "end": "2026-10-18T16:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Reno Arch",
+    "address": "255 N Virginia St., Reno, NV, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/reno-antique-faire-virginia-street/2026-10-18/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "antique",
+    "festivals and fairs"
    ],
    "_family": false,
    "_adult": false,
