@@ -9,7 +9,7 @@ test('the More local calendars section links each calendar in a new tab', () => 
   const section = html.slice(html.indexOf('<section id="more"'), html.indexOf('</section>', html.indexOf('<section id="more"')));
   for (const url of ['https://www.therenoscene.com/', 'https://www.nvbirds.org/event-calendar',
     'https://www.renolittletheater.org/', 'https://www.bruka.org/', 'https://www.villageatrancharrah.com/events',
-    'https://thisisreno.com/calendar/']) {
+    'https://thisisreno.com/calendar/', 'https://www.tahoesymphony.com/']) {
     assert.ok(section.includes(`<a href="${url}" target="_blank" rel="noopener">`), url);
   }
   assert.ok(!html.includes('id="scene"'));
