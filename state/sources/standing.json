@@ -1,5 +1,5 @@
 {
- "at": "2026-10-11T05:31:13Z",
+ "at": "2026-10-11T08:31:46Z",
  "events": [
   {
    "id": "standing:riverside-farmers-market-2026-10-11",
@@ -37,15 +37,15 @@
    "_kind": "organiser"
   },
   {
-   "id": "standing:nma-hands-on-2026-10-10",
-   "title": "Hands ON! Second Saturday (free museum day)",
-   "start": "2026-10-10T00:00:00-07:00",
-   "end": null,
-   "allDay": true,
+   "id": "standing:riverside-farmers-market-2026-10-18",
+   "title": "Riverside Farmers Market",
+   "start": "2026-10-18T09:00:00-07:00",
+   "end": "2026-10-18T13:00:00-07:00",
+   "allDay": false,
    "ongoing": false,
    "venue": {
-    "name": "Nevada Museum of Art",
-    "address": "160 W Liberty St, Reno, NV 89501",
+    "name": "Idlewild Park",
+    "address": "2055 Idlewild Dr, Reno, NV 89509",
     "lat": null,
     "lon": null
    },
@@ -59,16 +59,16 @@
    "links": [
     {
      "source": "standing",
-     "url": "https://www.nevadaart.org/"
+     "url": "https://www.renofarmersmarket.com/"
     }
    ],
    "lovingReno": null,
    "_text": "",
    "_tags": [],
-   "_family": true,
+   "_family": false,
    "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
+   "_allAges": true,
+   "_outdoor": true,
    "_kind": "organiser"
   }
  ]

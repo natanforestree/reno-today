@@ -1,156 +1,6 @@
 {
- "at": "2026-10-11T05:31:13Z",
+ "at": "2026-10-11T08:31:46Z",
  "events": [
-  {
-   "id": "unr:48862404367538",
-   "title": "Pack Tracks Travel: Romance of the Douro River",
-   "start": "2026-10-10T00:00:00-07:00",
-   "end": null,
-   "allDay": true,
-   "ongoing": false,
-   "venue": {
-    "name": "Portugal",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/pack-tracks-travel-romance-of-the-douro-river"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "nevada alumni"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "unr:53543176634052",
-   "title": "A Few of Our Favorite Things: 65 Years of Special Collections and University Archives",
-   "start": "2026-10-10T08:00:00-07:00",
-   "end": "2026-10-10T17:00:00-07:00",
-   "allDay": false,
-   "ongoing": true,
-   "venue": {
-    "name": "Mathewson-IGT Knowledge Center (MIKC)",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/a-few-of-our-favorite-things-65-years-of-special-collections-and-university-archives"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "arts & culture",
-    "community outreach",
-    "exhibitions (recurring)",
-    "social events",
-    "staff engagement",
-    "university libraries"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "unr:53943012409448",
-   "title": "General and Pediatric Clinic",
-   "start": "2026-10-10T08:00:00-07:00",
-   "end": "2026-10-10T12:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "University Health Building",
-    "address": "745 West Moana Lane",
-    "lat": 39.49155,
-    "lon": -119.80455
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/general_and_pediatric_clinc"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "som student outreach clinic: general and pediatric clinic",
-    "student outreach clinic"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "unr:53800076387715",
-   "title": "Nevada Women's Volleyball vs. UTEP",
-   "start": "2026-10-10T12:00:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Virginia Street Gym (VSG)",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "min": 10.0,
-    "max": 10.0
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/nevada-womens-volleyball-vs-utep-2236"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "athletics",
-    "nevada volleyball"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "unr:53543176635077",
    "title": "A Few of Our Favorite Things: 65 Years of Special Collections and University Archives",
@@ -1991,6 +1841,161 @@
    "id": "unr:53800441570306",
    "title": "The Outsiders",
    "start": "2026-10-16T19:30:00-07:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Church Fine Arts (CFA)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 25.0,
+    "max": 25.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/the-outsiders"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & culture",
+    "theatre and dance"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:53921844672586",
+   "title": "Reno Piano Day",
+   "start": "2026-10-17T00:00:00-07:00",
+   "end": null,
+   "allDay": true,
+   "ongoing": false,
+   "venue": {
+    "name": "University Foundation Arts (UFA)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/reno-piano-day"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & culture",
+    "college of liberal arts",
+    "school of music",
+    "school of the arts"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:53543176639179",
+   "title": "A Few of Our Favorite Things: 65 Years of Special Collections and University Archives",
+   "start": "2026-10-17T08:00:00-07:00",
+   "end": "2026-10-17T17:00:00-07:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "Mathewson-IGT Knowledge Center (MIKC)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/a-few-of-our-favorite-things-65-years-of-special-collections-and-university-archives"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & culture",
+    "community outreach",
+    "exhibitions (recurring)",
+    "social events",
+    "staff engagement",
+    "university libraries"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:53931803020044",
+   "title": "Day at the Museum",
+   "start": "2026-10-17T10:00:00-07:00",
+   "end": "2026-10-17T16:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "University Wide!",
+    "address": "1664 North Virginia Street",
+    "lat": 39.5459,
+    "lon": -119.81944
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/day-at-the-museum-6691"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & culture",
+    "college of science",
+    "community outreach",
+    "family engagement"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:53808472169541",
+   "title": "The Outsiders",
+   "start": "2026-10-17T19:30:00-07:00",
    "end": null,
    "allDay": false,
    "ongoing": false,

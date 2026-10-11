@@ -1,41 +1,6 @@
 {
- "at": "2026-10-11T05:31:13Z",
+ "at": "2026-10-11T08:31:46Z",
  "events": [
-  {
-   "id": "wolfpack:vcal_14197-nevadawolfpack.com",
-   "title": "Nevada Women's Volleyball vs Weber State",
-   "start": "2026-09-10T18:00:00-07:00",
-   "end": "2026-09-10T20:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Virginia Street Gym",
-    "address": "Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "wolfpack",
-     "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14197&sport_id=17"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "sports"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "wolfpack:vcal_14198-nevadawolfpack.com",
    "title": "Nevada Women's Volleyball vs Weber State vs Kansas State",

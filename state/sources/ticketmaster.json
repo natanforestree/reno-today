@@ -1,480 +1,6 @@
 {
- "at": "2026-10-11T05:31:13Z",
+ "at": "2026-10-11T08:31:46Z",
  "events": [
-  {
-   "id": "tm:16yZkf3JpZAGe681",
-   "title": "The Great Italian Festival VIP Tent Saturday 10AM - 2PM",
-   "start": "2026-10-10T10:00:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Eldorado Casino Reno",
-    "address": "345 N. Virginia St., Reno, NV",
-    "lat": 39.52934,
-    "lon": -119.81406
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/the-great-italian-festival-vip-tent-reno-nevada-10-10-2026/event/39006512996B16F9"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "21+",
-   "_tags": [
-    "miscellaneous"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
-  {
-   "id": "tm:1Ad0Z_8GkyB1ptm",
-   "title": "Wine Walk Saturday 12PM - 5PM",
-   "start": "2026-10-10T12:00:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Eldorado Casino Reno",
-    "address": "345 N. Virginia St., Reno, NV",
-    "lat": 39.52934,
-    "lon": -119.81406
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/wine-walk-saturday-12pm-5pm-reno-nevada-10-10-2026/event/3900650E7A296A6E"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "21 and older",
-   "_tags": [
-    "miscellaneous"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
-  {
-   "id": "tm:1ayZkf3J9ZpZe8G",
-   "title": "The Great Italian Festival VIP Tent Saturday 2:30PM - 6:30PM",
-   "start": "2026-10-10T14:30:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Eldorado Casino Reno",
-    "address": "345 N. Virginia St., Reno, NV",
-    "lat": 39.52934,
-    "lon": -119.81406
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/the-great-italian-festival-vip-tent-reno-nevada-10-10-2026/event/39006512997016FB"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "21+",
-   "_tags": [
-    "miscellaneous"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
-  {
-   "id": "tm:1Ae0ZbMGkzKbYB1",
-   "title": "Northern Nevada Night Skies 2026 featuring Enemies of Freedom Tour Sta",
-   "start": "2026-10-10T19:00:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Bartley Ranch - Hawkins Amphitheater",
-    "address": "6000 Bartley Ranch Rd, Reno, NV",
-    "lat": 39.47013,
-    "lon": -119.80789
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketweb.com/event/northern-nevada-night-skies-2026-bartley-ranch-hawkins-tickets/14728993?REFERRAL_ID=tmfeed"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "arts & theatre",
-    "comedy"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
-  {
-   "id": "tm:rZ7HnEZ1Af14xf",
-   "title": "Micro Mania Midget Wrestling",
-   "start": "2026-10-10T19:00:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Battleborn Harley Davidson",
-    "address": "2900 Research Way, Carson City, NV",
-    "lat": 39.18585,
-    "lon": -119.74747
-   },
-   "area": "carson",
-   "drive": "~35 min",
-   "price": {
-    "min": 33.3,
-    "max": 54.4
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketweb.com/event/micro-mania-midget-wrestling-battleborn-harley-davidson-tickets/14295894"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "21+",
-   "_tags": [
-    "sports",
-    "wrestling"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
-  {
-   "id": "tm:1Ad0Z_FGkBI3xhP",
-   "title": "Laugh Factory",
-   "start": "2026-10-10T19:30:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Laugh Factory at the Silver Legacy Casino",
-    "address": "407 N Virginia St, Reno, NV",
-    "lat": 39.53069,
-    "lon": -119.81531
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/laugh-factory-reno-nevada-10-10-2026/event/3900648EA84A26E5"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "18 and over",
-   "_tags": [
-    "arts & theatre",
-    "comedy"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
-  {
-   "id": "tm:17C8v0G6Glt1wyo",
-   "title": "Rumours of Fleetwood Mac",
-   "start": "2026-10-10T19:30:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "South Shore Room at Harrah's Lake Tahoe",
-    "address": "15 Hwy 50, Lake Tahoe, NV",
-    "lat": 38.96241,
-    "lon": -119.9399
-   },
-   "area": "other",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/rumours-of-fleetwood-mac-lake-tahoe-nevada-10-10-2026/event/390064CAE92B2E51"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "music"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
-  {
-   "id": "tm:1AvjZ_FGkD6MUh7",
-   "title": "Gabriel Iglesias: The 1976 Tour",
-   "start": "2026-10-10T20:00:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Reno Events Center",
-    "address": "400 University Way, Reno, NV",
-    "lat": 39.53017,
-    "lon": -119.81289
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/gabriel-iglesias-the-1976-tour-reno-nevada-10-10-2026/event/1700648EC7DF66C4"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "arts & theatre",
-    "comedy"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
-  {
-   "id": "tm:rZ7HnEZ1AfPNPK",
-   "title": "Strangelove: The Depeche Mode Experience with Asphalt Socialites and DJ Bobby G",
-   "start": "2026-10-10T20:00:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Cargo Concert Hall",
-    "address": "255 North Virginia Street, Reno, NV",
-    "lat": 39.5281,
-    "lon": -119.81377
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "min": 34.61,
-    "max": 34.61
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketweb.com/event/strangelove-the-depeche-mode-experience-cargo-concert-hall-tickets/14963953"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "music",
-    "other"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
-  {
-   "id": "tm:rZ7HnEZ1Afata7",
-   "title": "PROJECTflow #28",
-   "start": "2026-10-10T20:30:00-07:00",
-   "end": "2026-10-10T23:30:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Alpine",
-    "address": "324 E 4th St, Reno, NV",
-    "lat": 39.53091,
-    "lon": -119.80904
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "min": 13.35,
-    "max": 24.15
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketweb.com/event/projectflow-28-the-alpine-tickets/14269244"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "hip-hop/rap",
-    "music",
-    "urban"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
-  {
-   "id": "tm:1718v0G6uq1NOmq",
-   "title": "Girls Night Out the Show",
-   "start": "2026-10-10T21:00:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Club Underground",
-    "address": "555 E 4th St, Reno, NV",
-    "lat": 39.53151,
-    "lon": -119.80658
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketweb.com/event/girls-night-out-the-show-club-underground-tickets/14217284?REFERRAL_ID=tmfeed"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "arts & theatre",
-    "comedy",
-    "theatre"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
-  {
-   "id": "tm:1Ad0Z_FGkBIKxhE",
-   "title": "Laugh Factory",
-   "start": "2026-10-10T21:30:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Laugh Factory at the Silver Legacy Casino",
-    "address": "407 N Virginia St, Reno, NV",
-    "lat": 39.53069,
-    "lon": -119.81531
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/laugh-factory-reno-nevada-10-10-2026/event/3900648EA84E26E7"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "18 and over",
-   "_tags": [
-    "arts & theatre",
-    "comedy"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
-  {
-   "id": "tm:1Ad0Z_8GkyB5JtY",
-   "title": "Wine Walk Two Day Pass 12PM - 5PM",
-   "start": "2026-10-10T00:00:00-07:00",
-   "end": null,
-   "allDay": true,
-   "ongoing": false,
-   "venue": {
-    "name": "Eldorado Casino Reno",
-    "address": "345 N. Virginia St., Reno, NV",
-    "lat": 39.52934,
-    "lon": -119.81406
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/wine-walk-two-day-pass-12pm-reno-nevada-10-10-2026/event/3900650E7A2E6A70"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "21 and older",
-   "_tags": [
-    "miscellaneous"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
   {
    "id": "tm:1ayZkf3J9fpZe82",
    "title": "The Great Italian Festival VIP Tent Sunday 10AM - 2PM",
@@ -1483,6 +1009,114 @@
     {
      "source": "tm",
      "url": "https://www.ticketmaster.com/lakeside-laughs-comedy-club-lake-tahoe-nevada-10-17-2026/event/39006536D74A3DB6"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "21+",
+   "_tags": [
+    "arts & theatre",
+    "comedy"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:1718v0G650VZ-G6",
+   "title": "Gabriel Rutledge",
+   "start": "2026-10-18T19:00:00-07:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Club Underground",
+    "address": "555 E 4th St, Reno, NV",
+    "lat": 39.53151,
+    "lon": -119.80658
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketweb.com/event/gabriel-rutledge-club-underground-tickets/14947663?REFERRAL_ID=tmfeed"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & theatre",
+    "comedy"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:1Ad0Z_FGkBIhxhy",
+   "title": "Laugh Factory",
+   "start": "2026-10-18T19:30:00-07:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Laugh Factory at the Silver Legacy Casino",
+    "address": "407 N Virginia St, Reno, NV",
+    "lat": 39.53069,
+    "lon": -119.81531
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/laugh-factory-reno-nevada-10-18-2026/event/3900648EA86E26F9"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "18 and over",
+   "_tags": [
+    "arts & theatre",
+    "comedy"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:1AyZkfUGkd9KSMe",
+   "title": "Lakeside Laughs Comedy Club",
+   "start": "2026-10-18T20:00:00-07:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Cabaret at Caesars Republic Lake Tahoe",
+    "address": "18 Hwy 50, Lake Tahoe, NV",
+    "lat": 38.96031,
+    "lon": -119.9427
+   },
+   "area": "other",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/lakeside-laughs-comedy-club-lake-tahoe-nevada-10-18-2026/event/39006536D74F3DC2"
     }
    ],
    "lovingReno": null,
