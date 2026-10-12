@@ -1,123 +1,123 @@
 {
- "generatedAt": "2026-10-12T14:31:59Z",
+ "generatedAt": "2026-10-12T17:32:18Z",
  "sources": {
   "ticketmaster": {
    "label": "Ticketmaster",
    "ok": true,
    "count": 25,
-   "lastSuccess": "2026-10-12T14:31:59Z",
+   "lastSuccess": "2026-10-12T17:32:18Z",
    "error": null
   },
   "unr": {
    "label": "UNR events",
    "ok": true,
    "count": 56,
-   "lastSuccess": "2026-10-12T14:31:59Z",
+   "lastSuccess": "2026-10-12T17:32:18Z",
    "error": null
   },
   "wolfpack": {
    "label": "Nevada Wolf Pack",
    "ok": true,
    "count": 98,
-   "lastSuccess": "2026-10-12T14:31:59Z",
+   "lastSuccess": "2026-10-12T17:32:18Z",
    "error": null
   },
   "aces": {
    "label": "Reno Aces",
    "ok": true,
    "count": 0,
-   "lastSuccess": "2026-10-12T14:31:59Z",
+   "lastSuccess": "2026-10-12T17:32:18Z",
    "error": null
   },
   "library": {
    "label": "Washoe County Library",
    "ok": true,
-   "count": 126,
-   "lastSuccess": "2026-10-12T05:31:27Z",
+   "count": 123,
+   "lastSuccess": "2026-10-12T17:32:18Z",
    "error": null
   },
   "wcparks": {
    "label": "Washoe County Parks",
    "ok": true,
    "count": 17,
-   "lastSuccess": "2026-10-12T14:31:59Z",
+   "lastSuccess": "2026-10-12T17:32:18Z",
    "error": null
   },
   "standing": {
    "label": "Weekly regulars",
    "ok": true,
    "count": 1,
-   "lastSuccess": "2026-10-12T14:31:59Z",
+   "lastSuccess": "2026-10-12T17:32:18Z",
    "error": null
   },
   "discovery": {
    "label": "The Discovery",
    "ok": true,
    "count": 6,
-   "lastSuccess": "2026-10-12T14:31:59Z",
+   "lastSuccess": "2026-10-12T17:32:18Z",
    "error": null
   },
   "reno": {
    "label": "City of Reno",
    "ok": true,
-   "count": 197,
-   "lastSuccess": "2026-10-12T05:31:27Z",
+   "count": 195,
+   "lastSuccess": "2026-10-12T17:32:18Z",
    "error": null
   },
   "sparks": {
    "label": "City of Sparks",
    "ok": true,
    "count": 15,
-   "lastSuccess": "2026-10-12T05:31:27Z",
+   "lastSuccess": "2026-10-12T17:32:18Z",
    "error": null
   },
   "carson": {
    "label": "Visit Carson City",
    "ok": true,
    "count": 17,
-   "lastSuccess": "2026-10-12T14:31:59Z",
+   "lastSuccess": "2026-10-12T17:32:18Z",
    "error": null
   },
   "southtahoe": {
    "label": "Visit Lake Tahoe",
    "ok": true,
    "count": 88,
-   "lastSuccess": "2026-10-12T14:31:59Z",
+   "lastSuccess": "2026-10-12T17:32:18Z",
    "error": null
   },
   "vcity": {
    "label": "Virginia City",
-   "ok": false,
+   "ok": true,
    "count": 2,
-   "lastSuccess": "2026-10-12T11:31:51Z",
-   "error": "not JSON: a bot-check page (HTTP 202, text/html, 298 bytes) (https://visitvirginiacitynv.com/wp-json/tribe/events/v1/events)"
+   "lastSuccess": "2026-10-12T17:32:18Z",
+   "error": null
   },
   "downtown": {
    "label": "Downtown Reno",
    "ok": true,
    "count": 4,
-   "lastSuccess": "2026-10-12T14:31:59Z",
+   "lastSuccess": "2026-10-12T17:32:18Z",
    "error": null
   },
   "holland": {
    "label": "The Holland Project",
    "ok": true,
    "count": 5,
-   "lastSuccess": "2026-10-12T14:31:59Z",
+   "lastSuccess": "2026-10-12T17:32:18Z",
    "error": null
   },
   "lovingreno": {
    "label": "Loving Reno",
    "ok": true,
    "count": 1,
-   "lastSuccess": "2026-10-12T14:31:59Z",
+   "lastSuccess": "2026-10-12T17:32:18Z",
    "error": null
   },
   "weather": {
    "label": "Weather (Open-Meteo)",
    "ok": true,
    "count": 1,
-   "lastSuccess": "2026-10-12T14:31:59Z",
+   "lastSuccess": "2026-10-12T17:32:18Z",
    "error": null
   }
  }
