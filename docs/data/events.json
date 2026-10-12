@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-12T17:32:18Z",
+ "generatedAt": "2026-10-12T20:31:56Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -4806,6 +4806,34 @@
     {
      "source": "library",
      "url": "https://events.washoecountylibrary.us/event/16602274"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:54222822860665",
+   "title": "Costume Karaoke",
+   "start": "2026-10-15T17:00:00-07:00",
+   "end": "2026-10-15T20:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Joe Crowley Student Union (JCSU)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/costume-karaoke"
     }
    ],
    "lovingReno": null

@@ -1,5 +1,5 @@
 {
- "at": "2026-10-12T17:32:18Z",
+ "at": "2026-10-12T20:31:56Z",
  "events": [
   {
    "id": "unr:53543176635078",
@@ -1412,6 +1412,43 @@
     "lectures & seminars",
     "pediatrics",
     "som pediatrics - resident training"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:54222822860665",
+   "title": "Costume Karaoke",
+   "start": "2026-10-15T17:00:00-07:00",
+   "end": "2026-10-15T20:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Joe Crowley Student Union (JCSU)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/costume-karaoke"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "social events"
    ],
    "_family": false,
    "_adult": false,
