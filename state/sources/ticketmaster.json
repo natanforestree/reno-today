@@ -1,5 +1,5 @@
 {
- "at": "2026-10-11T23:31:30Z",
+ "at": "2026-10-12T02:31:24Z",
  "events": [
   {
    "id": "tm:1ayZkf3J9fpZe82",
@@ -99,42 +99,6 @@
    "_text": "21+",
    "_tags": [
     "miscellaneous"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
-  {
-   "id": "tm:Z7r9jZ1A7Pt7f",
-   "title": "Nekrogoblikon",
-   "start": "2026-10-11T18:00:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Cargo",
-    "address": "255 North Virginia Street, Reno, NV",
-    "lat": 39.5263,
-    "lon": -119.8124
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pt7f"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "music",
-    "other"
    ],
    "_family": false,
    "_adult": false,
