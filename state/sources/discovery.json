@@ -1,42 +1,6 @@
 {
- "at": "2026-10-12T05:31:27Z",
+ "at": "2026-10-12T08:31:30Z",
  "events": [
-  {
-   "id": "discovery:42841",
-   "title": "Make a Lucha Libre Mask",
-   "start": "2026-10-11T10:30:00-07:00",
-   "end": "2026-10-11T16:30:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Discovery",
-    "address": "490 S. Center Street, Reno, NV, 89501",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "discovery",
-     "url": "https://nvdm.org/event/make-a-lucha-libre-mask-2026-10-11/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "hands-on activity",
-    "maker project"
-   ],
-   "_family": true,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "discovery:42820",
    "title": "Fall Break: Open Monday",
