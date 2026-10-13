@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-13T02:31:37Z",
+ "generatedAt": "2026-10-13T05:31:42Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -350,7 +350,10 @@
      "url": "https://events.unr.edu/event/national-coming-out-day"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "library:17308795",
@@ -747,7 +750,10 @@
      "url": "https://visitcarsoncity.com/events/mark-twain-days/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "library:17341586",
@@ -3256,7 +3262,10 @@
      "url": "https://renofoodtruckevents.com/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "library:10710440",
@@ -3455,6 +3464,36 @@
     {
      "source": "reno",
      "url": "https://www.reno.gov/parks-and-recreation/recreation/aquatics/index.php?rz=catalogueDetails&id=451"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "holland:96965",
+   "title": "“Bring Your Own Camera” Artist Reception",
+   "start": "2026-10-14T17:00:00-07:00",
+   "end": "2026-10-14T19:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "McKinley Arts & Culture Center",
+    "address": "925 Riverside Dr, Reno, NV, 89503",
+    "lat": 39.52134,
+    "lon": -119.82388
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "all-ages"
+   ],
+   "links": [
+    {
+     "source": "holland",
+     "url": "https://hollandreno.org/events/byocamera/"
     }
    ],
    "lovingReno": null
@@ -4922,6 +4961,36 @@
    "lovingReno": null
   },
   {
+   "id": "holland:96967",
+   "title": "“Spawn Back” and “a soft place to land” Artist Receptions",
+   "start": "2026-10-15T17:00:00-07:00",
+   "end": "2026-10-15T19:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Holland Project",
+    "address": "140 Vesta St, Reno, NV, 89502",
+    "lat": 39.50964,
+    "lon": -119.80367
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "all-ages"
+   ],
+   "links": [
+    {
+     "source": "holland",
+     "url": "https://hollandreno.org/events/spawn-back-a-soft-place-to-land/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "southtahoe:244811",
    "title": "Oktoberfest Revision Beer Tasting at the Riva Grill on the Lake",
    "start": "2026-10-15T17:30:00-07:00",
@@ -5426,7 +5495,10 @@
      "url": "https://visitlaketahoe.com/event/aviation-round-minden-tahoe-airport/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "southtahoe:113726",
@@ -7297,7 +7369,10 @@
      "url": "https://visitcarsoncity.com/events/harvest-train/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "carson:80767",
@@ -8995,7 +9070,10 @@
      "url": "https://www.renofarmersmarket.com/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "reno:89-202610181000",
@@ -9029,7 +9107,10 @@
      "url": "https://downtownreno.org/event/reno-antique-faire-virginia-street/2026-10-18/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "southtahoe:234685",
