@@ -1,41 +1,6 @@
 {
- "at": "2026-10-14T06:30:55Z",
+ "at": "2026-10-14T12:30:47Z",
  "events": [
-  {
-   "id": "wolfpack:vcal_14199-nevadawolfpack.com",
-   "title": "Nevada Women's Volleyball vs Kansas State",
-   "start": "2026-09-13T13:00:00-07:00",
-   "end": "2026-09-13T15:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Virginia Street Gym",
-    "address": "Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "wolfpack",
-     "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14199&sport_id=17"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "sports"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "wolfpack:vcal_14212-nevadawolfpack.com",
    "title": "Nevada Women's Soccer vs Long Beach State",
