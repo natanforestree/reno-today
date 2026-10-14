@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-14T14:30:45Z",
+ "generatedAt": "2026-10-14T17:30:44Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -1028,10 +1028,7 @@
      "url": "https://renofoodtruckevents.com/"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "library:10710440",
@@ -3232,10 +3229,7 @@
      "url": "https://visitlaketahoe.com/event/aviation-round-minden-tahoe-airport/"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "southtahoe:113726",
@@ -4363,6 +4357,38 @@
    "lovingReno": null
   },
   {
+   "id": "downtown:126396",
+   "title": "KPOP Afterdark at Cargo Concert Hall",
+   "start": "2026-10-16T20:00:00-07:00",
+   "end": "2026-10-17T00:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Cargo Concert Hall",
+    "address": "255 N Virginia St, Reno, NV, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 20.0,
+    "max": 20.0
+   },
+   "tier": "general",
+   "hints": [
+    "music",
+    "21+"
+   ],
+   "links": [
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/kpop-afterdark-at-cargo-concert-hall/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "southtahoe:226473",
    "title": "Live Music at McP's Taphouse Tahoe",
    "start": "2026-10-16T20:00:00-07:00",
@@ -4495,42 +4521,6 @@
     {
      "source": "southtahoe",
      "url": "https://visitlaketahoe.com/event/arty-the-party-at-harrahs-lake-tahoe/2026-10-16/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "tm:rZ7HnEZ1AfGvF0",
-   "title": "KPOP Afterdark",
-   "start": "2026-10-16T21:00:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Cargo Concert Hall",
-    "address": "255 North Virginia Street, Reno, NV",
-    "lat": 39.5281,
-    "lon": -119.81377
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "min": 22.91,
-    "max": 25.15
-   },
-   "tier": "general",
-   "hints": [
-    "music",
-    "21+"
-   ],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketweb.com/event/kpop-afterdark-cargo-concert-hall-tickets/14301224"
-    },
-    {
-     "source": "downtown",
-     "url": "https://downtownreno.org/event/kpop-afterdark-at-cargo-concert-hall/"
     }
    ],
    "lovingReno": null
@@ -5078,10 +5068,7 @@
      "url": "https://visitcarsoncity.com/events/harvest-train/"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "carson:80767",
@@ -6835,10 +6822,7 @@
      "url": "https://www.renofarmersmarket.com/"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "reno:89-202610181000",
@@ -6872,10 +6856,7 @@
      "url": "https://downtownreno.org/event/reno-antique-faire-virginia-street/2026-10-18/"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "southtahoe:234685",
@@ -9963,10 +9944,7 @@
      "url": "https://renofoodtruckevents.com/"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "library:15997714",

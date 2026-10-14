@@ -1,5 +1,5 @@
 {
- "at": "2026-10-14T14:30:45Z",
+ "at": "2026-10-14T17:30:44Z",
  "events": [
   {
    "id": "tm:1AvjZ_3Gknj8aEJ",
@@ -327,44 +327,6 @@
     "alternative",
     "alternative rock",
     "music"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
-  {
-   "id": "tm:rZ7HnEZ1AfGvF0",
-   "title": "KPOP Afterdark",
-   "start": "2026-10-16T21:00:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Cargo Concert Hall",
-    "address": "255 North Virginia Street, Reno, NV",
-    "lat": 39.5281,
-    "lon": -119.81377
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "min": 22.91,
-    "max": 25.15
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketweb.com/event/kpop-afterdark-cargo-concert-hall-tickets/14301224"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "18 and over",
-   "_tags": [
-    "miscellaneous"
    ],
    "_family": false,
    "_adult": false,
