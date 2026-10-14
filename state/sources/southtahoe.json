@@ -1,5 +1,5 @@
 {
- "at": "2026-10-14T00:30:41Z",
+ "at": "2026-10-14T03:30:41Z",
  "events": [
   {
    "id": "southtahoe:240286",
@@ -1892,6 +1892,42 @@
     "attractions",
     "food & drink",
     "free events"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "southtahoe:199565",
+   "title": "Tahoe Knight Monsters Hockey Watch Party at Tipsy Putt.",
+   "start": "2026-10-17T16:00:00-07:00",
+   "end": "2026-10-17T18:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Tipsy Putt Tahoe",
+    "address": "4101 Lake Tahoe Blvd. #101, South Lake Tahoe, California, 96150",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/tipsy-putt-hockey-watch-party/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "attractions",
+    "sports"
    ],
    "_family": false,
    "_adult": false,
