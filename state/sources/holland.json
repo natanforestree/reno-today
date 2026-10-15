@@ -1,81 +1,6 @@
 {
- "at": "2026-10-15T05:30:42Z",
+ "at": "2026-10-15T08:30:51Z",
  "events": [
-  {
-   "id": "holland:96965",
-   "title": "“Bring Your Own Camera” Artist Reception",
-   "start": "2026-10-14T17:00:00-07:00",
-   "end": "2026-10-14T19:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "McKinley Arts & Culture Center",
-    "address": "925 Riverside Dr, Reno, NV, 89503",
-    "lat": 39.52134,
-    "lon": -119.82388
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "holland",
-     "url": "https://hollandreno.org/events/byocamera/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "art"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": true,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "holland:96348",
-   "title": "PROSTITUTE, Weir, sharps container",
-   "start": "2026-10-14T19:00:00-07:00",
-   "end": "2026-10-14T22:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Holland Project",
-    "address": "140 Vesta St, Reno, NV, 89502",
-    "lat": 39.50964,
-    "lon": -119.80367
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "min": 18.0,
-    "max": 18.0
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "holland",
-     "url": "https://hollandreno.org/events/prostitute/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "music"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": true,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "holland:96967",
    "title": "“Spawn Back” and “a soft place to land” Artist Receptions",
@@ -287,6 +212,82 @@
     {
      "source": "holland",
      "url": "https://hollandreno.org/events/cheekface/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "music"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": true,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "holland:96906",
+   "title": "October Photo Walk w/ Jonathan Gomez",
+   "start": "2026-10-22T17:00:00-07:00",
+   "end": "2026-10-22T18:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Coffeebar",
+    "address": "682 Mt Rose St., Reno, NV, 89509",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 8.0,
+    "max": 8.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "holland",
+     "url": "https://hollandreno.org/events/oct-photo-walk-2026/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "workshops"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": true,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "holland:96786",
+   "title": "Debrider, Resin Cough, Wretched Self, Night Prowler",
+   "start": "2026-10-22T19:00:00-07:00",
+   "end": "2026-10-22T22:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Holland Project",
+    "address": "140 Vesta St, Reno, NV, 89502",
+    "lat": 39.50964,
+    "lon": -119.80367
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 8.0,
+    "max": 12.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "holland",
+     "url": "https://hollandreno.org/events/debrider/"
     }
    ],
    "lovingReno": null,

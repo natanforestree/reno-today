@@ -1,69 +1,6 @@
 {
- "at": "2026-10-15T05:30:42Z",
+ "at": "2026-10-15T08:30:51Z",
  "events": [
-  {
-   "id": "carson:80749",
-   "title": "Mark Twain Days | Picon Punch Off",
-   "start": "2026-10-14T19:00:00-07:00",
-   "end": "2026-10-14T21:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Brewery Arts Center Ballroom",
-    "address": "Carson City",
-    "lat": 39.1638,
-    "lon": -119.7674
-   },
-   "area": "carson",
-   "drive": "~35 min",
-   "price": {
-    "min": 50.0,
-    "max": 50.0
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "carson",
-     "url": "https://visitcarsoncity.com/events/mark-twain-days-picon-punch-off/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "family 21+",
-   "_tags": [
-    "arts & culture",
-    "brewery arts center",
-    "brewery arts center picon punch off",
-    "carson city events",
-    "cocktail contest",
-    "cocktail contest carson city nv",
-    "cocktail contest northern nevada",
-    "events",
-    "events in carson city",
-    "literary festival",
-    "literary festival carson city",
-    "literary festival carson city nevada",
-    "literary festival northern nevada",
-    "mark twain days",
-    "mark twain days carson city",
-    "mark twain days carson city nevada",
-    "mark twain days literary festival",
-    "mark twain days literary festival carson city",
-    "mark twain days literary festival carson city nevada",
-    "mark twain days literary festival nevada",
-    "mark twain days nevada",
-    "picon punch off",
-    "picon punch off carson city nv",
-    "things to do",
-    "visit carson city nevada",
-    "what to do in carson city"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "carson:67690",
    "title": "Bronco Super Celebration",
@@ -752,6 +689,55 @@
     "the sugar thieves",
     "things to do",
     "things to do in carson city"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:80500",
+   "title": "Candlelight Concerts in Carson City | Halloween Classics",
+   "start": "2026-10-22T20:45:00-07:00",
+   "end": "2026-10-22T21:45:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Bob Boldrick Theater",
+    "address": "851 E. Williams, Carson City, NV, 89701",
+    "lat": 39.17026,
+    "lon": -119.756
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": {
+    "min": 34.0,
+    "max": 34.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/candlelight-concerts-in-carson-city-halloween-classics/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "sensory Family concerts concert",
+   "_tags": [
+    "candlelight concerts",
+    "candlelight concerts carson city",
+    "candlelight concerts carson city nv",
+    "candlelight concerts halloween classics",
+    "candlelight concerts halloween classics carson city",
+    "candlelight concerts nevada",
+    "carson city candlelight concerts",
+    "carson city community center",
+    "halloween candlelight concerts",
+    "halloween concerts",
+    "halloween concerts carson city nv",
+    "live music"
    ],
    "_family": false,
    "_adult": false,
