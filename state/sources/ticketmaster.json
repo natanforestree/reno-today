@@ -1,5 +1,5 @@
 {
- "at": "2026-10-15T17:22:24Z",
+ "at": "2026-10-15T20:30:42Z",
  "events": [
   {
    "id": "tm:1Ad0Z_FGkBI4whl",
@@ -326,6 +326,43 @@
     "basketball",
     "college",
     "sports"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:1AvjZ_fGkXH_wzn",
+   "title": "Beer and Chili",
+   "start": "2026-10-17T18:00:00-07:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Grand Sierra Resort and Casino",
+    "address": "2500 East Second Street, Reno, NV",
+    "lat": 39.52331,
+    "lon": -119.78102
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/beer-and-chili-reno-nevada-10-17-2026/event/1700654FBC672E2A"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & theatre",
+    "cabaret",
+    "variety"
    ],
    "_family": false,
    "_adult": false,
