@@ -1,5 +1,5 @@
 {
- "at": "2026-10-16T14:30:42Z",
+ "at": "2026-10-16T17:30:42Z",
  "events": [
   {
    "id": "unr:53543176638154",
@@ -1620,6 +1620,83 @@
     "extension: partners in parenting",
     "family engagement",
     "health, safety & wellness"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:54249319061106",
+   "title": "Backrooms Movie",
+   "start": "2026-10-21T19:00:00-07:00",
+   "end": "2026-10-21T21:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Joe Crowley Student Union Theatre",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/backrooms-movie"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "joe crowley student union",
+    "social events",
+    "student services"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:54253458708532",
+   "title": "Beyond the AI Ewcolurion: A conversation with NVIDIA Chief Scientist Bill Dally",
+   "start": "2026-10-21T19:00:00-07:00",
+   "end": "2026-10-21T20:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "University of Nevada, Reno",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/beyond-the-ai-ewcolurion-a-conversation-with-nvidia-chief-scientist-bill-dally"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & culture",
+    "unr med"
    ],
    "_family": false,
    "_adult": false,

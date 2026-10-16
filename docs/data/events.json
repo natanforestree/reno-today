@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-16T14:30:42Z",
+ "generatedAt": "2026-10-16T17:30:42Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -7527,6 +7527,62 @@
    "lovingReno": null
   },
   {
+   "id": "unr:54249319061106",
+   "title": "Backrooms Movie",
+   "start": "2026-10-21T19:00:00-07:00",
+   "end": "2026-10-21T21:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Joe Crowley Student Union Theatre",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/backrooms-movie"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:54253458708532",
+   "title": "Beyond the AI Ewcolurion: A conversation with NVIDIA Chief Scientist Bill Dally",
+   "start": "2026-10-21T19:00:00-07:00",
+   "end": "2026-10-21T20:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "University of Nevada, Reno",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/beyond-the-ai-ewcolurion-a-conversation-with-nvidia-chief-scientist-bill-dally"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "unr:53790801057548",
    "title": "Beyond the AI Revolution: A Conversation With NVIDIA Chief Scientist Bill Dally",
    "start": "2026-10-21T19:00:00-07:00",
@@ -9725,6 +9781,66 @@
    "lovingReno": null
   },
   {
+   "id": "library:17341596",
+   "title": "The Archivist's Warning: Digital Escape Room Experience",
+   "start": "2026-10-23T00:00:00-07:00",
+   "end": null,
+   "allDay": true,
+   "ongoing": true,
+   "venue": {
+    "name": "Downtown Reno Library",
+    "address": "301 S Center St, Reno, NV 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17341596"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17743728",
+   "title": "Up for Interpretation, Teen Art Challenge",
+   "start": "2026-10-23T00:00:00-07:00",
+   "end": null,
+   "allDay": true,
+   "ongoing": true,
+   "venue": {
+    "name": "South Valleys Library",
+    "address": "15650-A Wedge Pkwy, Reno, NV 89511",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17743728"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "southtahoe:246622",
    "title": "World Series of Poker Circuit Event at Caesars Republic Lake Tahoe",
    "start": "2026-10-23T00:00:00-07:00",
@@ -9777,6 +9893,274 @@
     {
      "source": "reno",
      "url": "https://www.reno.gov/calendar"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17308744",
+   "title": "Book a Librarian",
+   "start": "2026-10-23T10:00:00-07:00",
+   "end": "2026-10-23T11:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Senior Center Library",
+    "address": "1155 E 9th St, Reno, NV 89512",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17308744"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:10710773",
+   "title": "Toddler Time",
+   "start": "2026-10-23T10:30:00-07:00",
+   "end": "2026-10-23T11:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Spanish Springs Library",
+    "address": "7100A Pyramid Hwy, Sparks, NV 89436",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/10710773"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:16237471",
+   "title": "Book a Librarian",
+   "start": "2026-10-23T11:00:00-07:00",
+   "end": "2026-10-23T16:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Incline Village Library",
+    "address": "845 Alder Ave, Incline Village, NV 89451",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~45 min",
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/16237471"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:14767599",
+   "title": "Bridge Group - CANCELLED",
+   "start": "2026-10-23T13:00:00-07:00",
+   "end": "2026-10-23T16:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "South Valleys Library",
+    "address": "15650-A Wedge Pkwy, Reno, NV 89511",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/14767599"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "reno:377-202610231430",
+   "title": "Rolling Recreation (Reno City Plaza)",
+   "start": "2026-10-23T14:30:00-07:00",
+   "end": "2026-10-23T17:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Reno City Plaza",
+    "address": "Reno City Plaza",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "reno",
+     "url": "https://reno.gov/parks-and-recreation/recreation/rolling-recreation.php"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:16984817",
+   "title": "FIRST CHAPTER FRIDAY",
+   "start": "2026-10-23T15:00:00-07:00",
+   "end": "2026-10-23T16:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Downtown Reno Library",
+    "address": "301 S Center St, Reno, NV 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/16984817"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:15389207",
+   "title": "Crafternoon: Design your own Halloween Bag",
+   "start": "2026-10-23T15:30:00-07:00",
+   "end": "2026-10-23T16:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sierra View Library",
+    "address": "4001 S Virginia St, Reno, NV 89502",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/15389207"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:11958791",
+   "title": "Dungeons & Dragons",
+   "start": "2026-10-23T16:00:00-07:00",
+   "end": "2026-10-23T18:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Spanish Springs Library",
+    "address": "7100A Pyramid Hwy, Sparks, NV 89436",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/11958791"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17138682",
+   "title": "Fall Stories on Screen: 'Beetlejuice Beetlejuice'",
+   "start": "2026-10-23T16:00:00-07:00",
+   "end": "2026-10-23T18:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "North Valleys Library",
+    "address": "1075 N Hills Blvd Ste 340, Reno, NV 89506",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17138682"
     }
    ],
    "lovingReno": null
