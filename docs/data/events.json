@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-16T08:30:42Z",
+ "generatedAt": "2026-10-16T11:30:42Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -85,7 +85,10 @@
      "url": "https://visitlaketahoe.com/event/aviation-round-minden-tahoe-airport/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "southtahoe:113726",
@@ -843,7 +846,10 @@
      "url": "https://visitcarsoncity.com/events/mark-twain-days-twain-train/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "southtahoe:238377",
@@ -1952,7 +1958,10 @@
      "url": "https://visitcarsoncity.com/events/harvest-train/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "carson:80767",
@@ -3706,7 +3715,10 @@
      "url": "https://www.renofarmersmarket.com/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "reno:89-202610181000",
@@ -3740,7 +3752,10 @@
      "url": "https://downtownreno.org/event/reno-antique-faire-virginia-street/2026-10-18/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "southtahoe:234685",
@@ -7226,7 +7241,10 @@
      "url": "https://renofoodtruckevents.com/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "library:15997714",
@@ -9847,7 +9865,10 @@
      "url": "https://visitcarsoncity.com/events/annual-halloween-museum-block-party/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "southtahoe:238378",
@@ -9930,7 +9951,10 @@
      "url": "https://visitcarsoncity.com/events/fright-at-the-museum/2026-10-23/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "southtahoe:245144",
