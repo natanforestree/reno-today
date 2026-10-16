@@ -1,5 +1,5 @@
 {
- "at": "2026-10-16T20:30:43Z",
+ "at": "2026-10-16T23:30:42Z",
  "events": [
   {
    "id": "carson:80754",
@@ -529,6 +529,52 @@
    "_kind": "organiser"
   },
   {
+   "id": "carson:81014",
+   "title": "Things That Go Bump in Nevada",
+   "start": "2026-10-17T13:00:00-07:00",
+   "end": "2026-10-17T15:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Carson City Senior Center",
+    "address": "911 Beverly Drive, Carson City, NV, 89706",
+    "lat": 39.17488,
+    "lon": -119.75934
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": {
+    "min": 10.0,
+    "max": 10.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/things-that-go-bump-in-nevada/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "carson city",
+    "carson city nevada",
+    "entertainment",
+    "events",
+    "events in carson city",
+    "history",
+    "things to do",
+    "things to do in carson city",
+    "what to do in carson city"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
    "id": "carson:77881",
    "title": "Sun & Dust Presents: Dust & Darkness",
    "start": "2026-10-17T15:00:00-07:00",
@@ -631,6 +677,96 @@
     "the sugar thieves",
     "things to do",
     "things to do in carson city"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:81019",
+   "title": "DRACULA – The Ballet",
+   "start": "2026-10-17T19:30:00-07:00",
+   "end": "2026-10-17T21:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Carson City Community Center",
+    "address": "851 East William Street, Carson City, NV, 89701",
+    "lat": 39.17037,
+    "lon": -119.76075
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": {
+    "min": 25.0,
+    "max": 53.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/dracula-the-ballet/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & culture",
+    "carson city",
+    "carson city community center",
+    "carson city events",
+    "entertainment",
+    "events in carson city",
+    "shows",
+    "shows in carson city",
+    "what to do in carson city"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:81023",
+   "title": "Marie Ni Chathasaigh & Chris Newman | Harp & Guitar Performance",
+   "start": "2026-10-22T19:00:00-07:00",
+   "end": "2026-10-22T21:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Brewery Arts Center",
+    "address": "449 W King Street, Carson City, NV, 89703",
+    "lat": 39.16365,
+    "lon": -119.77007
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": {
+    "min": 20.0,
+    "max": 20.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/marie-ni-chathasaigh-chris-newman-harp-guitar-performance/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "brewery arts center",
+    "carson city",
+    "carson city events",
+    "carson city nevada",
+    "live music",
+    "shows in carson city",
+    "what to do in carson city"
    ],
    "_family": false,
    "_adult": false,
@@ -776,6 +912,52 @@
     "nevada state museum",
     "things to do in carson city",
     "visit carson city",
+    "what to do in carson city"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:81028",
+   "title": "Nevada Nightmares",
+   "start": "2026-10-23T18:30:00-07:00",
+   "end": "2026-10-23T20:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Foreman-Roberts Carriage House",
+    "address": "1207 North Carson Street, Carson City, Nevada",
+    "lat": 39.17184,
+    "lon": -119.76665
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": {
+    "min": 10.0,
+    "max": 10.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/nevada-nightmares/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "carson city",
+    "carson city events",
+    "carson city nevada",
+    "entertainment",
+    "events",
+    "events in carson city",
+    "history",
+    "things to do in carson city",
     "what to do in carson city"
    ],
    "_family": false,
