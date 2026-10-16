@@ -1,71 +1,6 @@
 {
- "at": "2026-10-16T05:30:42Z",
+ "at": "2026-10-16T08:30:42Z",
  "events": [
-  {
-   "id": "downtown:126693",
-   "title": "Under The Arch Madness",
-   "start": "2026-10-15T17:30:00-07:00",
-   "end": "2026-10-15T21:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Reno Arch",
-    "address": "255 N Virginia St., Reno, NV, 89501",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "downtown",
-     "url": "https://downtownreno.org/event/under-the-arch-madness/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "kids",
-   "_tags": [
-    "arch district events",
-    "basketball",
-    "cheerleaders",
-    "community spirit",
-    "djs",
-    "downtown events",
-    "downtown reno partnership",
-    "drink vendors",
-    "drp",
-    "drp events",
-    "entertainment",
-    "food",
-    "kids zone",
-    "locomotion plaza",
-    "mascots",
-    "nevada athletics",
-    "nevada athletics band",
-    "our events",
-    "president brian sandoval",
-    "reno arch",
-    "reno city mayor hillary schieve",
-    "sports",
-    "sports and active",
-    "stephanie rempe",
-    "team",
-    "university events",
-    "university of nevada reno",
-    "unr events",
-    "wolf pack gear"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "listing"
-  },
   {
    "id": "downtown:126396",
    "title": "KPOP Afterdark at Cargo Concert Hall",
@@ -333,6 +268,41 @@
    "lovingReno": null,
    "_text": "21+ Concert concert CONCERT",
    "_tags": [],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "listing"
+  },
+  {
+   "id": "downtown:10005685",
+   "title": "Water for Elephants: Pioneer Center for the Performing Arts",
+   "start": "2026-10-23T19:00:00-07:00",
+   "end": "2026-10-23T22:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Pioneer Center for the Performing Arts",
+    "address": "100 S. Virginia Street, Reno, NV, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/water-for-elephants-pioneer-center-for-the-performing-arts/2026-10-23/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "riverwalk events"
+   ],
    "_family": false,
    "_adult": false,
    "_allAges": false,

@@ -1,43 +1,6 @@
 {
- "at": "2026-10-16T05:30:42Z",
+ "at": "2026-10-16T08:30:42Z",
  "events": [
-  {
-   "id": "holland:96967",
-   "title": "“Spawn Back” and “a soft place to land” Artist Receptions",
-   "start": "2026-10-15T17:00:00-07:00",
-   "end": "2026-10-15T19:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Holland Project",
-    "address": "140 Vesta St, Reno, NV, 89502",
-    "lat": 39.50964,
-    "lon": -119.80367
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "holland",
-     "url": "https://hollandreno.org/events/spawn-back-a-soft-place-to-land/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "art"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": true,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "holland:96483",
    "title": "Dummy, Golomb, Squib",

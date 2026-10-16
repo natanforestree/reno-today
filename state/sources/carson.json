@@ -1,64 +1,6 @@
 {
- "at": "2026-10-16T05:30:42Z",
+ "at": "2026-10-16T08:30:42Z",
  "events": [
-  {
-   "id": "carson:67690",
-   "title": "Bronco Super Celebration",
-   "start": "2026-10-15T08:00:00-07:00",
-   "end": "2026-10-17T17:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Mills Park",
-    "address": "1111 East William Street, Carson City, NV, 89701",
-    "lat": 39.17073,
-    "lon": -119.75656
-   },
-   "area": "carson",
-   "drive": "~35 min",
-   "price": {
-    "min": 100.0,
-    "max": 100.0
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "carson",
-     "url": "https://visitcarsoncity.com/events/bronco-super-celebration/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "family",
-   "_tags": [
-    "bronco",
-    "bronco driver magazine",
-    "bronco super celebration",
-    "car events",
-    "car shows",
-    "car shows in carson city",
-    "car shows in nevada",
-    "carson city activities",
-    "events in carson city",
-    "events in october",
-    "fall in carson city",
-    "fall in nevada",
-    "ford",
-    "ford bronco",
-    "ford bronco event",
-    "mills park",
-    "nevada car shows",
-    "october activities",
-    "off road eevents",
-    "outdoor",
-    "visit carson city"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "carson:80754",
    "title": "Mark Twain Days | Twain Train",
@@ -738,6 +680,103 @@
     "halloween concerts",
     "halloween concerts carson city nv",
     "live music"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:73684",
+   "title": "Annual Halloween Museum Block Party",
+   "start": "2026-10-23T17:00:00-07:00",
+   "end": "2026-10-23T20:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Nevada State Museum",
+    "address": "600 North Carson Street, Carson City, NV, 89701",
+    "lat": 39.16773,
+    "lon": -119.76741
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/annual-halloween-museum-block-party/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "FAMILY family Families",
+   "_tags": [
+    "children’s museum of northern nevada",
+    "family",
+    "halloween museum block party",
+    "nevada state museum",
+    "trunk or treat"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:10006332",
+   "title": "Fright at the Museum",
+   "start": "2026-10-23T18:00:00-07:00",
+   "end": "2026-10-23T21:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Nevada State Museum",
+    "address": "600 North Carson Street, Carson City, NV, 89701",
+    "lat": 39.16773,
+    "lon": -119.76741
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": {
+    "min": 15.0,
+    "max": 15.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/fright-at-the-museum/2026-10-23/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "CHILDREN",
+   "_tags": [
+    "carson city",
+    "carson city events",
+    "carson city nevada",
+    "events in carson city",
+    "fright at the museum",
+    "halloween",
+    "halloween carson city",
+    "halloween carson city nv",
+    "halloween events",
+    "halloween events near reno nv",
+    "haunted house",
+    "haunted house carson city",
+    "haunted museum",
+    "haunted museum carson city",
+    "holiday",
+    "nevada state museum",
+    "things to do in carson city",
+    "visit carson city",
+    "what to do in carson city"
    ],
    "_family": false,
    "_adult": false,
