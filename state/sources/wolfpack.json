@@ -1,5 +1,5 @@
 {
- "at": "2026-10-15T23:30:40Z",
+ "at": "2026-10-16T02:30:42Z",
  "events": [
   {
    "id": "wolfpack:vcal_14212-nevadawolfpack.com",
@@ -1964,9 +1964,9 @@
   {
    "id": "wolfpack:vcal_14589-nevadawolfpack.com",
    "title": "Nevada Women's Basketball vs Wyoming",
-   "start": "2027-01-02T00:00:00-08:00",
-   "end": null,
-   "allDay": true,
+   "start": "2027-01-02T13:00:00-08:00",
+   "end": "2027-01-02T15:00:00-08:00",
+   "allDay": false,
    "ongoing": false,
    "venue": {
     "name": "Lawlor Events Center",
@@ -1999,9 +1999,9 @@
   {
    "id": "wolfpack:vcal_14598-nevadawolfpack.com",
    "title": "Nevada Women's Basketball vs Air Force",
-   "start": "2027-01-06T00:00:00-08:00",
-   "end": null,
-   "allDay": true,
+   "start": "2027-01-06T18:00:00-08:00",
+   "end": "2027-01-06T20:00:00-08:00",
+   "allDay": false,
    "ongoing": false,
    "venue": {
     "name": "Lawlor Events Center",
@@ -2069,9 +2069,9 @@
   {
    "id": "wolfpack:vcal_14599-nevadawolfpack.com",
    "title": "Nevada Women's Basketball vs San José State",
-   "start": "2027-01-13T00:00:00-08:00",
-   "end": null,
-   "allDay": true,
+   "start": "2027-01-13T18:00:00-08:00",
+   "end": "2027-01-13T20:00:00-08:00",
+   "allDay": false,
    "ongoing": false,
    "venue": {
     "name": "Lawlor Events Center",
@@ -2349,9 +2349,9 @@
   {
    "id": "wolfpack:vcal_14600-nevadawolfpack.com",
    "title": "Nevada Women's Basketball vs UNLV",
-   "start": "2027-01-23T00:00:00-08:00",
-   "end": null,
-   "allDay": true,
+   "start": "2027-01-24T13:00:00-08:00",
+   "end": "2027-01-24T15:00:00-08:00",
+   "allDay": false,
    "ongoing": false,
    "venue": {
     "name": "Lawlor Events Center",
@@ -2419,9 +2419,9 @@
   {
    "id": "wolfpack:vcal_14601-nevadawolfpack.com",
    "title": "Nevada Women's Basketball vs Grand Canyon",
-   "start": "2027-01-27T00:00:00-08:00",
-   "end": null,
-   "allDay": true,
+   "start": "2027-01-27T18:00:00-08:00",
+   "end": "2027-01-27T20:00:00-08:00",
+   "allDay": false,
    "ongoing": false,
    "venue": {
     "name": "Lawlor Events Center",
@@ -2487,41 +2487,6 @@
    "_kind": "organiser"
   },
   {
-   "id": "wolfpack:vcal_14602-nevadawolfpack.com",
-   "title": "Nevada Women's Basketball vs UTEP",
-   "start": "2027-01-30T00:00:00-08:00",
-   "end": null,
-   "allDay": true,
-   "ongoing": false,
-   "venue": {
-    "name": "Lawlor Events Center",
-    "address": "Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "wolfpack",
-     "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14602&sport_id=9"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "sports"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
    "id": "wolfpack:vcal_14332-nevadawolfpack.com",
    "title": "Nevada Women's Swimming & Diving vs Cal State East Bay - Senior Meet",
    "start": "2027-01-30T11:00:00-08:00",
@@ -2543,6 +2508,41 @@
     {
      "source": "wolfpack",
      "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14332&sport_id=14"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "sports"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "wolfpack:vcal_14602-nevadawolfpack.com",
+   "title": "Nevada Women's Basketball vs UTEP",
+   "start": "2027-01-30T13:00:00-08:00",
+   "end": "2027-01-30T15:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Lawlor Events Center",
+    "address": "Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "wolfpack",
+     "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14602&sport_id=9"
     }
    ],
    "lovingReno": null,
@@ -2699,9 +2699,9 @@
   {
    "id": "wolfpack:vcal_14603-nevadawolfpack.com",
    "title": "Nevada Women's Basketball vs UC Davis",
-   "start": "2027-02-13T00:00:00-08:00",
-   "end": null,
-   "allDay": true,
+   "start": "2027-02-13T13:00:00-08:00",
+   "end": "2027-02-13T15:00:00-08:00",
+   "allDay": false,
    "ongoing": false,
    "venue": {
     "name": "Lawlor Events Center",
@@ -2769,9 +2769,9 @@
   {
    "id": "wolfpack:vcal_14604-nevadawolfpack.com",
    "title": "Nevada Women's Basketball vs Hawai'i",
-   "start": "2027-02-20T00:00:00-08:00",
-   "end": null,
-   "allDay": true,
+   "start": "2027-02-20T13:00:00-08:00",
+   "end": "2027-02-20T15:00:00-08:00",
+   "allDay": false,
    "ongoing": false,
    "venue": {
     "name": "Lawlor Events Center",
@@ -2839,9 +2839,9 @@
   {
    "id": "wolfpack:vcal_14605-nevadawolfpack.com",
    "title": "Nevada Women's Basketball vs New Mexico",
-   "start": "2027-02-24T00:00:00-08:00",
-   "end": null,
-   "allDay": true,
+   "start": "2027-02-24T18:00:00-08:00",
+   "end": "2027-02-24T20:00:00-08:00",
+   "allDay": false,
    "ongoing": false,
    "venue": {
     "name": "Lawlor Events Center",
