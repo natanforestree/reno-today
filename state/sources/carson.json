@@ -1,129 +1,6 @@
 {
- "at": "2026-10-17T05:31:08Z",
+ "at": "2026-10-17T08:30:54Z",
  "events": [
-  {
-   "id": "carson:80754",
-   "title": "Mark Twain Days | Twain Train",
-   "start": "2026-10-16T16:00:00-07:00",
-   "end": "2026-10-16T17:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Carson City Eastgate Depot",
-    "address": "4650 Eastgate Siding Rd., Carson City, NV, 89706",
-    "lat": 39.20273,
-    "lon": -119.684
-   },
-   "area": "carson",
-   "drive": "~35 min",
-   "price": {
-    "min": 70.0,
-    "max": 70.0
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "carson",
-     "url": "https://visitcarsoncity.com/events/mark-twain-days-twain-train/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "arts & culture",
-    "brewery arts center",
-    "carson city",
-    "carson city events",
-    "carson city nevada",
-    "history",
-    "literary festival",
-    "literary festival carson city",
-    "literary festival carson city nevada",
-    "literary festival northern nevada",
-    "mark twain days",
-    "mark twain days carson city",
-    "mark twain days carson city nevada",
-    "mark twain days literary festival",
-    "mark twain days literary festival carson city",
-    "mark twain days literary festival carson city nevada",
-    "mark twain days literary festival nevada",
-    "mark twain days nevada",
-    "mark twain days twain train",
-    "mark twain days twain train carson city",
-    "mark twain days twain train carson city nevada",
-    "things to do",
-    "things to do in carson city",
-    "twain train",
-    "twain train carson city",
-    "v&t railway twain train",
-    "v&t railway twain train carson city",
-    "v&t railway twain train carson city nevada",
-    "visit carson city",
-    "visit carson city nevada",
-    "what to do in carson city"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "carson:80757",
-   "title": "Mark Twain Days | Concert: The Delta Wires",
-   "start": "2026-10-16T19:30:00-07:00",
-   "end": "2026-10-16T21:30:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Nashville Social Club",
-    "address": "1105 S Carson St, Carson City, Nevada, 89701",
-    "lat": 39.15725,
-    "lon": -119.76644
-   },
-   "area": "carson",
-   "drive": "~35 min",
-   "price": {
-    "min": 29.94,
-    "max": 29.94
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "carson",
-     "url": "https://visitcarsoncity.com/events/mark-twain-days-concert-the-delta-wires/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "Live Band",
-   "_tags": [
-    "blues music carson city nv",
-    "california blues music",
-    "literary festival",
-    "literary festival carson city",
-    "literary festival carson city nevada",
-    "literary festival northern nevada",
-    "live music",
-    "live music carson city",
-    "mark twain days",
-    "mark twain days carson city",
-    "mark twain days carson city nevada",
-    "mark twain days literary festival",
-    "mark twain days literary festival carson city",
-    "mark twain days literary festival carson city nevada",
-    "mark twain days literary festival nevada",
-    "mark twain days nevada",
-    "nashville social club",
-    "the delta wires"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "carson:63600",
    "title": "Harvest Train",
@@ -958,6 +835,105 @@
     "events in carson city",
     "history",
     "things to do in carson city",
+    "what to do in carson city"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:10006273",
+   "title": "Carson City Ghost Walk",
+   "start": "2026-10-24T10:00:00-07:00",
+   "end": "2026-10-24T14:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Bob McFadden Plaza (Third Street Stage)",
+    "address": "223 W Third St., Carson City, NV, 89703",
+    "lat": 39.16256,
+    "lon": -119.76784
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": {
+    "min": 25.0,
+    "max": 25.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/carson-city-ghost-walk/2026-10-24/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "annual event",
+    "arts & culture",
+    "carson city ghost walk",
+    "downtown carson city",
+    "history",
+    "madame curry"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:10006333",
+   "title": "Fright at the Museum",
+   "start": "2026-10-24T18:00:00-07:00",
+   "end": "2026-10-24T21:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Nevada State Museum",
+    "address": "600 North Carson Street, Carson City, NV, 89701",
+    "lat": 39.16773,
+    "lon": -119.76741
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": {
+    "min": 15.0,
+    "max": 15.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/fright-at-the-museum/2026-10-24/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "CHILDREN",
+   "_tags": [
+    "carson city",
+    "carson city events",
+    "carson city nevada",
+    "events in carson city",
+    "fright at the museum",
+    "halloween",
+    "halloween carson city",
+    "halloween carson city nv",
+    "halloween events",
+    "halloween events near reno nv",
+    "haunted house",
+    "haunted house carson city",
+    "haunted museum",
+    "haunted museum carson city",
+    "holiday",
+    "nevada state museum",
+    "things to do in carson city",
+    "visit carson city",
     "what to do in carson city"
    ],
    "_family": false,
