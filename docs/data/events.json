@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-17T17:30:53Z",
+ "generatedAt": "2026-10-17T20:30:54Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -434,7 +434,10 @@
      "url": "https://visitcarsoncity.com/events/harvest-train/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "carson:80767",
@@ -947,10 +950,6 @@
     {
      "source": "wolfpack",
      "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14246&sport_id=4"
-    },
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZz7M"
     }
    ],
    "lovingReno": null
@@ -2248,7 +2247,10 @@
      "url": "https://www.renofarmersmarket.com/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "reno:89-202610181000",
@@ -2282,7 +2284,10 @@
      "url": "https://downtownreno.org/event/reno-antique-faire-virginia-street/2026-10-18/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "southtahoe:234685",
@@ -5820,7 +5825,10 @@
      "url": "https://renofoodtruckevents.com/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "library:15997714",
@@ -9110,7 +9118,10 @@
      "url": "https://visitcarsoncity.com/events/annual-halloween-museum-block-party/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "unr:53357164181309",
@@ -9302,7 +9313,10 @@
      "url": "https://visitcarsoncity.com/events/fright-at-the-museum/2026-10-23/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "carson:81028",
@@ -10035,6 +10049,96 @@
    "lovingReno": null
   },
   {
+   "id": "library:15762785",
+   "title": "Game Day Saturday!",
+   "start": "2026-10-24T00:00:00-07:00",
+   "end": null,
+   "allDay": true,
+   "ongoing": true,
+   "venue": {
+    "name": "Sierra View Library",
+    "address": "4001 S Virginia St, Reno, NV 89502",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/15762785"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17341597",
+   "title": "The Archivist's Warning: Digital Escape Room Experience",
+   "start": "2026-10-24T00:00:00-07:00",
+   "end": null,
+   "allDay": true,
+   "ongoing": true,
+   "venue": {
+    "name": "Downtown Reno Library",
+    "address": "301 S Center St, Reno, NV 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17341597"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17743729",
+   "title": "Up for Interpretation, Teen Art Challenge",
+   "start": "2026-10-24T00:00:00-07:00",
+   "end": null,
+   "allDay": true,
+   "ongoing": true,
+   "venue": {
+    "name": "South Valleys Library",
+    "address": "15650-A Wedge Pkwy, Reno, NV 89511",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17743729"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "southtahoe:246623",
    "title": "World Series of Poker Circuit Event at Caesars Republic Lake Tahoe",
    "start": "2026-10-24T00:00:00-07:00",
@@ -10148,6 +10252,94 @@
    "lovingReno": null
   },
   {
+   "id": "reno:369-202610240900",
+   "title": "Rolling Receration (Barbara Bennett Park)",
+   "start": "2026-10-24T09:00:00-07:00",
+   "end": "2026-10-24T12:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Barbara Bennett Park",
+    "address": "Barbara Bennett Park, 400 Island Ave., Reno, NV 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "little",
+   "hints": [
+    "outdoors",
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "reno",
+     "url": "https://reno.gov/parks-and-recreation/recreation/rolling-recreation.php"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "reno:378-202610240900",
+   "title": "Rolling Recreation (Yori Park)",
+   "start": "2026-10-24T09:00:00-07:00",
+   "end": "2026-10-24T12:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Yori Park 2800 Yori Wy. Reno",
+    "address": "Yori Park 2800 Yori Wy. Reno, Nevada 89502",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "little",
+   "hints": [
+    "outdoors",
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "reno",
+     "url": "https://reno.gov/parks-and-recreation/recreation/rolling-recreation.php"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:16568059",
+   "title": "English Conversation Group/Grupo de conversación en inglés",
+   "start": "2026-10-24T09:30:00-07:00",
+   "end": "2026-10-24T10:15:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sierra View Library",
+    "address": "4001 S Virginia St, Reno, NV 89502",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/16568059"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "discovery:42267",
    "title": "15th Annual Halloween Trick or Treat",
    "start": "2026-10-24T10:00:00-07:00",
@@ -10173,7 +10365,10 @@
      "url": "https://nvdm.org/event/15th-annual-halloween-trick-or-treat/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "carson:10006273",
@@ -10266,6 +10461,66 @@
    "lovingReno": null
   },
   {
+   "id": "library:15267027",
+   "title": "Family Story Time",
+   "start": "2026-10-24T10:30:00-07:00",
+   "end": "2026-10-24T11:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "South Valleys Library",
+    "address": "15650-A Wedge Pkwy, Reno, NV 89511",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/15267027"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:16413299",
+   "title": "Family Story Time",
+   "start": "2026-10-24T10:30:00-07:00",
+   "end": "2026-10-24T11:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sierra View Library",
+    "address": "4001 S Virginia St, Reno, NV 89502",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/16413299"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "discovery:43108",
    "title": "Open Build: Last Minute Halloween",
    "start": "2026-10-24T10:30:00-07:00",
@@ -10322,6 +10577,66 @@
    "lovingReno": null
   },
   {
+   "id": "library:17763431",
+   "title": "Habilidades de la computadora 103: Uso del correo electrónico (Using Email in Spanish)",
+   "start": "2026-10-24T11:00:00-07:00",
+   "end": "2026-10-24T12:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sparks Library",
+    "address": "1125 12th St, Sparks, NV 89431",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17763431"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:14216352",
+   "title": "SaturYay!",
+   "start": "2026-10-24T11:00:00-07:00",
+   "end": "2026-10-24T12:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Northwest Reno Library",
+    "address": "2325 Robb Dr, Reno, NV 89523",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/14216352"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "southtahoe:57232",
    "title": "AleWorX Autumn Carnival",
    "start": "2026-10-24T12:00:00-07:00",
@@ -10351,6 +10666,64 @@
    "lovingReno": null
   },
   {
+   "id": "library:17524390",
+   "title": "Make & Mingle for Adults",
+   "start": "2026-10-24T13:00:00-07:00",
+   "end": "2026-10-24T14:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sparks Library",
+    "address": "1125 12th St, Sparks, NV 89431",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17524390"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "reno:439-202610241300",
+   "title": "Rec Swim Movie at the Pool",
+   "start": "2026-10-24T13:00:00-07:00",
+   "end": "2026-10-24T15:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Moana Comp Pool",
+    "address": "Moana Comp Pool",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "reno",
+     "url": "https://www.reno.gov/calendar"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "vcity:10645",
    "title": "The Spirits Made Me Do It Saloon Crawl",
    "start": "2026-10-24T13:00:00-07:00",
@@ -10371,7 +10744,10 @@
      "url": "https://visitvirginiacitynv.com/event/the-spirits-made-me-do-it-saloon-crawl/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "downtown:10005686",
@@ -10431,6 +10807,66 @@
    "lovingReno": null
   },
   {
+   "id": "library:16631140",
+   "title": "Teen Scene: Frankentoyz and Mini Pumpkin Decorating",
+   "start": "2026-10-24T13:30:00-07:00",
+   "end": "2026-10-24T15:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sierra View Library",
+    "address": "4001 S Virginia St, Reno, NV 89502",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/16631140"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:15396563",
+   "title": "Lego Club: Spaceships",
+   "start": "2026-10-24T14:00:00-07:00",
+   "end": "2026-10-24T15:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sierra View Library",
+    "address": "4001 S Virginia St, Reno, NV 89502",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/15396563"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "wolfpack:vcal_14076-nevadawolfpack.com",
    "title": "Nevada Football vs San José State",
    "start": "2026-10-24T14:00:00-07:00",
@@ -10458,6 +10894,36 @@
     {
      "source": "tm",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-tjE"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:15438462",
+   "title": "Pardon the Pawn",
+   "start": "2026-10-24T14:00:00-07:00",
+   "end": "2026-10-24T15:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Northwest Reno Library",
+    "address": "2325 Robb Dr, Reno, NV 89523",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/15438462"
     }
    ],
    "lovingReno": null
@@ -10521,7 +10987,10 @@
      "url": "https://hollandreno.org/events/halloween-show-2026/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "carson:10006333",
@@ -10550,7 +11019,10 @@
      "url": "https://visitcarsoncity.com/events/fright-at-the-museum/2026-10-24/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "reno:202-202610241800",

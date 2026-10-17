@@ -1,43 +1,6 @@
 {
- "at": "2026-10-17T17:30:53Z",
+ "at": "2026-10-17T20:30:54Z",
  "events": [
-  {
-   "id": "tm:Z7r9jZ1AAZz7M",
-   "title": "Nevada Wolfpack Mens Basketball vs. Utah Utes Mens Basketball",
-   "start": "2026-10-17T13:00:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Lawlor Events Center",
-    "address": "15th & N. Virginia St., Reno, NV",
-    "lat": 39.5386,
-    "lon": -119.8171
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZz7M"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "basketball",
-    "college",
-    "sports"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
   {
    "id": "tm:1Ad0Z_FGkBI_3hg",
    "title": "Laugh Factory",
