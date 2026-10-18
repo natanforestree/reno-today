@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-18T02:30:54Z",
+ "generatedAt": "2026-10-18T05:30:53Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -1784,17 +1784,17 @@
    "lovingReno": null
   },
   {
-   "id": "tm:Z7r9jZ1AAvvb4",
-   "title": "Alyssa Jolee",
+   "id": "downtown:126512",
+   "title": "Alyssa Jolee at Cargo Concert Hall",
    "start": "2026-10-17T21:00:00-07:00",
-   "end": null,
+   "end": "2026-10-18T02:00:00-07:00",
    "allDay": false,
    "ongoing": false,
    "venue": {
-    "name": "Cargo",
-    "address": "255 North Virginia Street, Reno, NV",
-    "lat": 39.5263,
-    "lon": -119.8124
+    "name": "Cargo Concert Hall",
+    "address": "255 N Virginia St, Reno, NV, 89501",
+    "lat": null,
+    "lon": null
    },
    "area": "reno",
    "drive": null,
@@ -1808,10 +1808,6 @@
     "21+"
    ],
    "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvvb4"
-    },
     {
      "source": "downtown",
      "url": "https://downtownreno.org/event/alyssa-jolee-at-cargo-concert-hall/"

@@ -1,5 +1,5 @@
 {
- "at": "2026-10-18T02:30:54Z",
+ "at": "2026-10-18T05:30:53Z",
  "events": [
   {
    "id": "tm:1Ad0Z_FGkBI_3hg",
@@ -105,39 +105,6 @@
     "music",
     "pop"
    ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
-  {
-   "id": "tm:Z7r9jZ1AAvvb4",
-   "title": "Alyssa Jolee",
-   "start": "2026-10-17T21:00:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Cargo",
-    "address": "255 North Virginia Street, Reno, NV",
-    "lat": 39.5263,
-    "lon": -119.8124
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvvb4"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [],
    "_family": false,
    "_adult": false,
    "_allAges": false,
