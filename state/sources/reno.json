@@ -1,5 +1,5 @@
 {
- "at": "2026-10-17T20:30:54Z",
+ "at": "2026-10-18T11:30:37Z",
  "events": [
   {
    "id": "reno:4-202601100256",
@@ -4558,41 +4558,6 @@
    "_kind": "organiser"
   },
   {
-   "id": "reno:286-202610170700",
-   "title": "2026 King of the Hill Challenge",
-   "start": "2026-10-17T07:00:00-07:00",
-   "end": "2026-10-17T18:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Moana Springs Community Aquatics and Fitness Center",
-    "address": "Moana Springs Community Aquatics and Fitness Center",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "reno",
-     "url": "https://www.gomotionapp.com/team/reno/page/meets"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "special events"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
    "id": "reno:286-202610180700",
    "title": "2026 King of the Hill Challenge",
    "start": "2026-10-18T07:00:00-07:00",
@@ -5566,43 +5531,6 @@
    "_kind": "organiser"
   },
   {
-   "id": "reno:369-202610170900",
-   "title": "Rolling Receration (Barbara Bennett Park)",
-   "start": "2026-10-17T09:00:00-07:00",
-   "end": "2026-10-17T12:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Barbara Bennett Park",
-    "address": "Barbara Bennett Park, 400 Island Ave., Reno, NV 89501",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "reno",
-     "url": "https://reno.gov/parks-and-recreation/recreation/rolling-recreation.php"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "events",
-    "parks & rec",
-    "youth"
-   ],
-   "_family": true,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
    "id": "reno:369-202610240900",
    "title": "Rolling Receration (Barbara Bennett Park)",
    "start": "2026-10-24T09:00:00-07:00",
@@ -5834,43 +5762,6 @@
    "venue": {
     "name": "Reno City Plaza",
     "address": "Reno City Plaza",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "reno",
-     "url": "https://reno.gov/parks-and-recreation/recreation/rolling-recreation.php"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "events",
-    "parks & rec",
-    "youth"
-   ],
-   "_family": true,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "reno:378-202610170900",
-   "title": "Rolling Recreation (Yori Park)",
-   "start": "2026-10-17T09:00:00-07:00",
-   "end": "2026-10-17T12:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Yori Park 2800 Yori Wy. Reno",
-    "address": "Yori Park 2800 Yori Wy. Reno, Nevada 89502",
     "lat": null,
     "lon": null
    },
@@ -6364,6 +6255,43 @@
    "title": "Rec Swim Movie at the Pool",
    "start": "2026-10-24T13:00:00-07:00",
    "end": "2026-10-24T15:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Moana Comp Pool",
+    "address": "Moana Comp Pool",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "reno",
+     "url": "https://www.reno.gov/calendar"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "aquatics",
+    "parks & rec",
+    "youth"
+   ],
+   "_family": true,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "reno:439-202610251300",
+   "title": "Rec Swim Movie at the Pool",
+   "start": "2026-10-25T13:00:00-07:00",
+   "end": "2026-10-25T15:00:00-07:00",
    "allDay": false,
    "ongoing": false,
    "venue": {
