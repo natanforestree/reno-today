@@ -1,79 +1,6 @@
 {
- "at": "2026-10-18T05:30:53Z",
+ "at": "2026-10-18T08:30:37Z",
  "events": [
-  {
-   "id": "discovery:42756",
-   "title": "STEM Lab: Girl Power",
-   "start": "2026-10-17T10:30:00-07:00",
-   "end": "2026-10-17T15:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Discovery",
-    "address": "490 S. Center Street, Reno, NV, 89501",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "discovery",
-     "url": "https://nvdm.org/event/stem-lab-girl-power/2026-10-17/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "empow[her]",
-    "hands-on activity",
-    "stem lab"
-   ],
-   "_family": true,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "discovery:42843",
-   "title": "Make a Lucha Libre Mask",
-   "start": "2026-10-17T10:30:00-07:00",
-   "end": "2026-10-17T16:30:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Discovery",
-    "address": "490 S. Center Street, Reno, NV, 89501",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "discovery",
-     "url": "https://nvdm.org/event/make-a-lucha-libre-mask-2026-10-17/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "hands-on activity",
-    "maker project"
-   ],
-   "_family": true,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "discovery:42844",
    "title": "Make a Lucha Libre Mask",
@@ -239,6 +166,42 @@
     {
      "source": "discovery",
      "url": "https://nvdm.org/event/open-build-last-minute-halloween-2026-10-24/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "hands-on activity",
+    "maker project"
+   ],
+   "_family": true,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "discovery:43109",
+   "title": "Open Build: Last Minute Halloween",
+   "start": "2026-10-25T10:30:00-07:00",
+   "end": "2026-10-25T16:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Discovery",
+    "address": "490 S. Center Street, Reno, NV, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "discovery",
+     "url": "https://nvdm.org/event/open-build-last-minute-halloween-2026-10-25/"
     }
    ],
    "lovingReno": null,

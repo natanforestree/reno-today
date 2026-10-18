@@ -1,39 +1,6 @@
 {
- "at": "2026-10-18T02:30:54Z",
+ "at": "2026-10-18T08:30:37Z",
  "events": [
-  {
-   "id": "vcity:10000519",
-   "title": "An Introduction to Letterpress Printing",
-   "start": "2026-10-17T11:00:00-07:00",
-   "end": "2026-10-17T15:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Historic Fourth Ward School Museum",
-    "address": "537 South C Street, Virginia City, NV, 89440",
-    "lat": null,
-    "lon": null
-   },
-   "area": "virginia-city",
-   "drive": "~40 min",
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "vcity",
-     "url": "https://visitvirginiacitynv.com/event/an-introduction-to-letterpress-printing/2026-10-17/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "family",
-   "_tags": [],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "vcity:10645",
    "title": "The Spirits Made Me Do It Saloon Crawl",
