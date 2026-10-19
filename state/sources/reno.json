@@ -1,5 +1,5 @@
 {
- "at": "2026-10-18T23:30:37Z",
+ "at": "2026-10-19T14:30:39Z",
  "events": [
   {
    "id": "reno:4-202601100256",
@@ -4548,41 +4548,6 @@
    ],
    "lovingReno": null,
    "_text": "family kids",
-   "_tags": [
-    "special events"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "reno:286-202610180700",
-   "title": "2026 King of the Hill Challenge",
-   "start": "2026-10-18T07:00:00-07:00",
-   "end": "2026-10-18T18:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Moana Springs Community Aquatics and Fitness Center",
-    "address": "Moana Springs Community Aquatics and Fitness Center",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "reno",
-     "url": "https://www.gomotionapp.com/team/reno/page/meets"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
    "_tags": [
     "special events"
    ],
