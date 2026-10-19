@@ -1,42 +1,6 @@
 {
- "at": "2026-10-19T05:30:37Z",
+ "at": "2026-10-19T08:30:38Z",
  "events": [
-  {
-   "id": "discovery:42844",
-   "title": "Make a Lucha Libre Mask",
-   "start": "2026-10-18T10:30:00-07:00",
-   "end": "2026-10-18T16:30:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Discovery",
-    "address": "490 S. Center Street, Reno, NV, 89501",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "discovery",
-     "url": "https://nvdm.org/event/make-a-lucha-libre-mask-2026-10-18/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "hands-on activity",
-    "maker project"
-   ],
-   "_family": true,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "discovery:42054",
    "title": "Small Wonder Wednesday",

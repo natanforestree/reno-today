@@ -1,44 +1,6 @@
 {
- "at": "2026-10-19T05:30:37Z",
+ "at": "2026-10-19T08:30:38Z",
  "events": [
-  {
-   "id": "downtown:10005393",
-   "title": "Reno Antique Faire: Virginia Street",
-   "start": "2026-10-18T10:00:00-07:00",
-   "end": "2026-10-18T16:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Reno Arch",
-    "address": "255 N Virginia St., Reno, NV, 89501",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "downtown",
-     "url": "https://downtownreno.org/event/reno-antique-faire-virginia-street/2026-10-18/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "antique",
-    "festivals and fairs"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "listing"
-  },
   {
    "id": "downtown:10005682",
    "title": "Water for Elephants: Pioneer Center for the Performing Arts",
