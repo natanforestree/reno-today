@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-19T14:30:39Z",
+ "generatedAt": "2026-10-19T17:30:36Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -203,6 +203,34 @@
     {
      "source": "library",
      "url": "https://events.washoecountylibrary.us/event/14984813"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:54284778857639",
+   "title": "Early Voting at the Joe",
+   "start": "2026-10-19T10:00:00-07:00",
+   "end": "2026-10-19T18:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Joe Crowley Student Union (JCSU)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/early-voting-at-the-joe"
     }
    ],
    "lovingReno": null
@@ -692,6 +720,34 @@
     {
      "source": "library",
      "url": "https://events.washoecountylibrary.us/event/17308741"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:54284778858664",
+   "title": "Early Voting at the Joe",
+   "start": "2026-10-20T10:00:00-07:00",
+   "end": "2026-10-20T18:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Joe Crowley Student Union (JCSU)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/early-voting-at-the-joe"
     }
    ],
    "lovingReno": null
@@ -1908,6 +1964,34 @@
    "lovingReno": null
   },
   {
+   "id": "unr:54284778858665",
+   "title": "Early Voting at the Joe",
+   "start": "2026-10-21T10:00:00-07:00",
+   "end": "2026-10-21T18:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Joe Crowley Student Union (JCSU)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/early-voting-at-the-joe"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "library:17017780",
    "title": "Family Story Time",
    "start": "2026-10-21T10:15:00-07:00",
@@ -2907,7 +2991,10 @@
      "url": "https://renofoodtruckevents.com/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "library:15997714",
@@ -3672,6 +3759,34 @@
     {
      "source": "library",
      "url": "https://events.washoecountylibrary.us/event/17308743"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:54284778859690",
+   "title": "Early Voting at the Joe",
+   "start": "2026-10-22T10:00:00-07:00",
+   "end": "2026-10-22T18:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Joe Crowley Student Union (JCSU)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/early-voting-at-the-joe"
     }
    ],
    "lovingReno": null
@@ -5764,6 +5879,34 @@
    "lovingReno": null
   },
   {
+   "id": "unr:54284778860715",
+   "title": "Early Voting at the Joe",
+   "start": "2026-10-23T10:00:00-07:00",
+   "end": "2026-10-23T18:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Joe Crowley Student Union (JCSU)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/early-voting-at-the-joe"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "library:10710773",
    "title": "Toddler Time",
    "start": "2026-10-23T10:30:00-07:00",
@@ -6197,7 +6340,10 @@
      "url": "https://visitcarsoncity.com/events/annual-halloween-museum-block-party/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "unr:53357164181309",
@@ -6389,7 +6535,10 @@
      "url": "https://visitcarsoncity.com/events/fright-at-the-museum/2026-10-23/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "carson:81028",
@@ -7553,7 +7702,10 @@
      "url": "https://nvdm.org/event/15th-annual-halloween-trick-or-treat/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "carson:10006273",
@@ -7582,6 +7734,34 @@
     {
      "source": "carson",
      "url": "https://visitcarsoncity.com/events/carson-city-ghost-walk/2026-10-24/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:54284778860716",
+   "title": "Early Voting at the Joe",
+   "start": "2026-10-24T10:00:00-07:00",
+   "end": "2026-10-24T18:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Joe Crowley Student Union (JCSU)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/early-voting-at-the-joe"
     }
    ],
    "lovingReno": null
@@ -7993,7 +8173,10 @@
      "url": "https://visitvirginiacitynv.com/event/the-spirits-made-me-do-it-saloon-crawl/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "downtown:10005686",
@@ -8263,7 +8446,10 @@
      "url": "https://hollandreno.org/events/halloween-show-2026/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "carson:10006333",
@@ -8292,7 +8478,10 @@
      "url": "https://visitcarsoncity.com/events/fright-at-the-museum/2026-10-24/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "reno:202-202610241800",
@@ -9214,6 +9403,37 @@
      "url": "https://www.renofarmersmarket.com/"
     }
    ],
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
+  },
+  {
+   "id": "unr:54284778861741",
+   "title": "Early Voting at the Joe",
+   "start": "2026-10-25T10:00:00-07:00",
+   "end": "2026-10-25T18:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Joe Crowley Student Union (JCSU)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/early-voting-at-the-joe"
+    }
+   ],
    "lovingReno": null
   },
   {
@@ -9561,7 +9781,10 @@
      "url": "https://events.unr.edu/event/dia-de-los-muertos"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "library:17246321",
@@ -9645,6 +9868,38 @@
     {
      "source": "tm",
      "url": "https://www.ticketmaster.com/tahoe-knight-monsters-vs-new-mexico-stateline-nevada-10-25-2026/event/17006514BFE9F5D3"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "carson:81053",
+   "title": "Dances and Meditations",
+   "start": "2026-10-25T16:00:00-07:00",
+   "end": "2026-10-25T18:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Carson City Community Center",
+    "address": "851 East William Street, Carson City, NV, 89701",
+    "lat": 39.17037,
+    "lon": -119.76075
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": {
+    "min": 18.0,
+    "max": 18.0
+   },
+   "tier": "general",
+   "hints": [
+    "daytime",
+    "music"
+   ],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/dances-and-meditations/"
     }
    ],
    "lovingReno": null
