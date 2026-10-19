@@ -1,5 +1,5 @@
 {
- "at": "2026-10-19T20:30:38Z",
+ "at": "2026-10-19T23:30:37Z",
  "events": [
   {
    "id": "downtown:10005682",
@@ -133,6 +133,41 @@
    "lovingReno": null,
    "_text": "21+ Concert concert CONCERT",
    "_tags": [],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "listing"
+  },
+  {
+   "id": "downtown:127829",
+   "title": "Reno Brewery District Presents UnderCurrent",
+   "start": "2026-10-23T17:00:00-07:00",
+   "end": "2026-10-23T21:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Brewery District",
+    "address": "4th Street, Reno, NV, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/reno-brewery-district-presents-undercurrent/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "brewery district events"
+   ],
    "_family": false,
    "_adult": false,
    "_allAges": false,
