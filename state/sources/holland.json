@@ -1,5 +1,5 @@
 {
- "at": "2026-10-20T05:20:53Z",
+ "at": "2026-10-20T08:30:39Z",
  "events": [
   {
    "id": "holland:96776",
@@ -222,6 +222,44 @@
    "_text": "",
    "_tags": [
     "music"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": true,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "holland:96834",
+   "title": "Writing Dread Workshop",
+   "start": "2026-10-27T18:00:00-07:00",
+   "end": "2026-10-27T19:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "ZOOM",
+    "address": null,
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 10.0,
+    "max": 10.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "holland",
+     "url": "https://hollandreno.org/events/writing-dread-workshop/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "workshops"
    ],
    "_family": false,
    "_adult": false,
