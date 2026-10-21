@@ -1,5 +1,5 @@
 {
- "at": "2026-10-21T14:30:37Z",
+ "at": "2026-10-21T17:30:36Z",
  "events": [
   {
    "id": "tm:17AYv0G65mMNoOp",
@@ -68,42 +68,6 @@
     "music",
     "pop",
     "rock"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
-  {
-   "id": "tm:1ae0Z_30-uOZd2e7",
-   "title": "BLVK H3ro, Ambassador Sound",
-   "start": "2026-10-22T19:00:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Club Underground",
-    "address": "555 E 4th St, Reno, NV",
-    "lat": 39.53151,
-    "lon": -119.80658
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketweb.com/event/blvk-h3ro-ambassador-sound-club-underground-tickets/14312404?REFERRAL_ID=tmfeed"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "music",
-    "reggae"
    ],
    "_family": false,
    "_adult": false,
@@ -565,9 +529,9 @@
   {
    "id": "tm:Z7r9jZ1A7-tjE",
    "title": "Nevada Wolfpack Football vs. San Jose State Spartans Football",
-   "start": "2026-10-24T00:00:00-07:00",
+   "start": "2026-10-24T14:00:00-07:00",
    "end": null,
-   "allDay": true,
+   "allDay": false,
    "ongoing": false,
    "venue": {
     "name": "Mackay Stadium",

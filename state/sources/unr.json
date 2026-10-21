@@ -1,5 +1,5 @@
 {
- "at": "2026-10-21T14:30:37Z",
+ "at": "2026-10-21T17:30:36Z",
  "events": [
   {
    "id": "unr:53543176641231",
@@ -185,6 +185,41 @@
     "joe crowley student union",
     "social events",
     "student services"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:54297230603427",
+   "title": "Towards Healthy Waters for People and Nature: lecture with Andrew J Tanentzap",
+   "start": "2026-10-21T11:00:00-07:00",
+   "end": "2026-10-21T12:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "EEL auditorium",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/towards-healthy-waters-for-people-and-nature-lecture-with-andrew-j-tanentzap"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "lectures & seminars"
    ],
    "_family": false,
    "_adult": false,
@@ -1855,6 +1890,42 @@
     "joe crowley student union",
     "social events",
     "student services"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:54301861837544",
+   "title": "Fulbright Information Seminar: October 23",
+   "start": "2026-10-23T11:00:00-07:00",
+   "end": "2026-10-23T12:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Earthquake Engineering Lab (EEL) Auditorium",
+    "address": "1664 North Virginia Street",
+    "lat": 39.5459,
+    "lon": -119.81944
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/fulbright-information-seminar-october-23"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "college of engineering",
+    "lectures & seminars"
    ],
    "_family": false,
    "_adult": false,
