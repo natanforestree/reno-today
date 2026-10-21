@@ -1,5 +1,5 @@
 {
- "at": "2026-10-21T05:30:38Z",
+ "at": "2026-10-21T08:30:38Z",
  "events": [
   {
    "id": "tm:17AYv0G65mMNoOp",
@@ -1072,6 +1072,43 @@
    "_tags": [
     "arts & theatre",
     "comedy"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:1A9ZkffGkeTBT90",
+   "title": "Tahoe Knight Monsters vs. Kansas City Mavericks",
+   "start": "2026-10-28T19:00:00-07:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Tahoe Blue Event Center",
+    "address": "75 US Highway 50, Stateline, NV",
+    "lat": 38.9631,
+    "lon": -119.94034
+   },
+   "area": "tahoe",
+   "drive": "~70 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/tahoe-knight-monsters-vs-kansas-city-stateline-nevada-10-28-2026/event/17006514BFEBF5E4"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "hockey",
+    "minor league",
+    "sports"
    ],
    "_family": false,
    "_adult": false,
