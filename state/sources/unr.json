@@ -1,5 +1,5 @@
 {
- "at": "2026-10-21T17:30:36Z",
+ "at": "2026-10-21T20:30:37Z",
  "events": [
   {
    "id": "unr:53543176641231",
@@ -2567,44 +2567,6 @@
     "athletics",
     "homecoming",
     "nevada football"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "unr:53506202529986",
-   "title": "Opera Scenes",
-   "start": "2026-10-24T14:00:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Harlan O. & Barbara R. Hall Recital Hall",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "min": 15.0,
-    "max": 15.0
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/opera-scenes-2363"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "school of music"
    ],
    "_family": false,
    "_adult": false,
