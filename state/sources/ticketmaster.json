@@ -1,5 +1,5 @@
 {
- "at": "2026-10-21T20:30:37Z",
+ "at": "2026-10-21T23:30:42Z",
  "events": [
   {
    "id": "tm:17AYv0G65mMNoOp",
@@ -580,7 +580,7 @@
    "drive": null,
    "price": {
     "min": 40.67,
-    "max": 158.27
+    "max": 40.67
    },
    "tier": "general",
    "hints": [],

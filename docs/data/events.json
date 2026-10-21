@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-21T20:30:37Z",
+ "generatedAt": "2026-10-21T23:30:42Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -6688,6 +6688,37 @@
    "lovingReno": null
   },
   {
+   "id": "unr:53506202529986",
+   "title": "Opera Scenes",
+   "start": "2026-10-24T14:00:00-07:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Harlan O. & Barbara R. Hall Recital Hall",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 15.0,
+    "max": 15.0
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/opera-scenes-2363"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "library:15438462",
    "title": "Pardon the Pawn",
    "start": "2026-10-24T14:00:00-07:00",
@@ -6936,7 +6967,7 @@
    "drive": null,
    "price": {
     "min": 40.67,
-    "max": 158.27
+    "max": 40.67
    },
    "tier": "general",
    "hints": [
