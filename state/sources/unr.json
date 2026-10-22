@@ -1,766 +1,6 @@
 {
- "at": "2026-10-22T05:23:51Z",
+ "at": "2026-10-22T08:30:37Z",
  "events": [
-  {
-   "id": "unr:53543176641231",
-   "title": "A Few of Our Favorite Things: 65 Years of Special Collections and University Archives",
-   "start": "2026-10-21T08:00:00-07:00",
-   "end": "2026-10-21T17:00:00-07:00",
-   "allDay": false,
-   "ongoing": true,
-   "venue": {
-    "name": "Mathewson-IGT Knowledge Center (MIKC)",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/a-few-of-our-favorite-things-65-years-of-special-collections-and-university-archives"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "arts & culture",
-    "community outreach",
-    "exhibitions (recurring)",
-    "social events",
-    "staff engagement",
-    "university libraries"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "unr:54116793918087",
-   "title": "On Location: Photographs from Robert Nuñez and Alejandra Rubio",
-   "start": "2026-10-21T08:00:00-07:00",
-   "end": "2026-10-21T20:00:00-07:00",
-   "allDay": false,
-   "ongoing": true,
-   "venue": {
-    "name": "McNamara Hallway Gallery",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/on-location-photographs-from-robert-nunez-and-alejandra-rubio"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "college of liberal arts",
-    "department of art, art history and design",
-    "exhibitions (recurring)",
-    "school of the arts",
-    "university galleries"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "unr:53939239814419",
-   "title": "Renown Health + University of Nevada, Reno School of Medicine",
-   "start": "2026-10-21T09:30:00-07:00",
-   "end": "2026-10-21T10:30:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Renown Regional",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/renown-health-university-of-nevada-reno-school-of-medicine"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "awards & recognition",
-    "unr med"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "unr:53886655150226",
-   "title": "Sugar Skulls Workshop",
-   "start": "2026-10-21T09:30:00-07:00",
-   "end": "2026-10-21T15:30:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Multicultural Center",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/sugar-skulls-workshop"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "arts & culture",
-    "social events",
-    "the multicultural center"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "unr:54284778858665",
-   "title": "Early Voting at the Joe",
-   "start": "2026-10-21T10:00:00-07:00",
-   "end": "2026-10-21T18:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Joe Crowley Student Union (JCSU)",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/early-voting-at-the-joe"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "joe crowley student union",
-    "social events",
-    "student services"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "unr:54297230603427",
-   "title": "Towards Healthy Waters for People and Nature: lecture with Andrew J Tanentzap",
-   "start": "2026-10-21T11:00:00-07:00",
-   "end": "2026-10-21T12:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "EEL auditorium",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/towards-healthy-waters-for-people-and-nature-lecture-with-andrew-j-tanentzap"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "lectures & seminars"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "unr:53743917464637",
-   "title": "92 Events: A Fluxus Show",
-   "start": "2026-10-21T12:00:00-07:00",
-   "end": "2026-10-21T16:00:00-07:00",
-   "allDay": false,
-   "ongoing": true,
-   "venue": {
-    "name": "Front Door Gallery",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/92-events-a-fluxus-show"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "arts & culture",
-    "college of liberal arts",
-    "exhibitions (recurring)",
-    "john and geraldine lilley museum of art"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "unr:53817273632179",
-   "title": "Beyond the Paper: Digital Projects for Student Learning",
-   "start": "2026-10-21T12:00:00-07:00",
-   "end": "2026-10-21T13:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Mathewson-IGT Knowledge Center (MIKC)",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/designing-digital-projects-for-your-courses"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "teaching & learning technologies",
-    "tlt: faculty development",
-    "tlt: instructional design"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "unr:52366152767419",
-   "title": "Dance With Me",
-   "start": "2026-10-21T12:00:00-07:00",
-   "end": "2026-10-22T01:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Ballroom of Reno",
-    "address": "2540 Sutro Street",
-    "lat": 39.55266,
-    "lon": -119.79787
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/dance-with-me"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "arts & culture",
-    "dementia engagement, education, and research (deer) program"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "unr:53743835880245",
-   "title": "Earth's Winding Sheet",
-   "start": "2026-10-21T12:00:00-07:00",
-   "end": "2026-10-21T16:00:00-07:00",
-   "allDay": false,
-   "ongoing": true,
-   "venue": {
-    "name": "John & Geraldine Lilley Museum of Art",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/earths-winding-sheet"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "arts & culture",
-    "college of liberal arts",
-    "exhibitions (recurring)",
-    "john and geraldine lilley museum of art"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "unr:53743884155152",
-   "title": "Gather-Carry-Keep: Basketry from the Great Basin",
-   "start": "2026-10-21T12:00:00-07:00",
-   "end": "2026-10-21T16:00:00-07:00",
-   "allDay": false,
-   "ongoing": true,
-   "venue": {
-    "name": "Front Door Gallery",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/gather-carry-keep-basketry-from-the-great-basin"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "arts & culture",
-    "college of liberal arts",
-    "exhibitions (recurring)",
-    "john and geraldine lilley museum of art"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "unr:53187943962678",
-   "title": "Pediatric Grand Rounds",
-   "start": "2026-10-21T12:00:00-07:00",
-   "end": "2026-10-21T13:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Mack Auditorium",
-    "address": "1155 Mill Street",
-    "lat": 39.52497,
-    "lon": -119.79609
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/pediatric-grand-rounds-4584"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "lectures & seminars",
-    "pediatrics"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "unr:54118397026730",
-   "title": "UNLV Exchange Show: Death to Decorum",
-   "start": "2026-10-21T12:00:00-07:00",
-   "end": "2026-10-21T16:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Student Galleries South",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/unlv-exchange-show-death-to-decorum-8299"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "arts & culture",
-    "college of liberal arts",
-    "department of art, art history and design",
-    "interdisciplinary arts",
-    "school of the arts",
-    "university galleries",
-    "university museum district"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "unr:53799519175258",
-   "title": "Without Mountains and Rivers Without End: Speculative Geographics on an Interior Northwest",
-   "start": "2026-10-21T12:00:00-07:00",
-   "end": "2026-10-21T16:00:00-07:00",
-   "allDay": false,
-   "ongoing": true,
-   "venue": {
-    "name": "Sheppard Contemporary Gallery",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/without-mountains-and-rivers-without-end-speculative-geographics-on-an-interior-northwest"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "arts & culture",
-    "college of liberal arts",
-    "department of art, art history and design",
-    "exhibitions (recurring)",
-    "school of the arts",
-    "university galleries"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "unr:53674734751428",
-   "title": "Career Network Headshots",
-   "start": "2026-10-21T12:30:00-07:00",
-   "end": "2026-10-21T16:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Mathewson-IGT Knowledge Center (MIKC)",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/career-network-headshots"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "nevada alumni"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "unr:53859916073501",
-   "title": "Everyday SEL and YOU",
-   "start": "2026-10-21T14:30:00-07:00",
-   "end": "2026-10-21T16:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Women and Children's Center of the Sierra  (WACCS)",
-    "address": "3905 Neil Road",
-    "lat": 39.48867,
-    "lon": -119.7811
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/everyday-sel-and-you-7622"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "family children's children families",
-   "_tags": [
-    "extension",
-    "extension office: washoe",
-    "extension: children, youth and family",
-    "extension: partners in parenting",
-    "family engagement",
-    "health, safety & wellness"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "unr:54249319061106",
-   "title": "Backrooms Movie",
-   "start": "2026-10-21T19:00:00-07:00",
-   "end": "2026-10-21T21:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Joe Crowley Student Union Theatre",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/backrooms-movie"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "joe crowley student union",
-    "social events",
-    "student services"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "unr:54253458708532",
-   "title": "Beyond the AI Ewcolurion: A conversation with NVIDIA Chief Scientist Bill Dally",
-   "start": "2026-10-21T19:00:00-07:00",
-   "end": "2026-10-21T20:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "University of Nevada, Reno",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/beyond-the-ai-ewcolurion-a-conversation-with-nvidia-chief-scientist-bill-dally"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "arts & culture",
-    "unr med"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "unr:53790801057548",
-   "title": "Beyond the AI Revolution: A Conversation With NVIDIA Chief Scientist Bill Dally",
-   "start": "2026-10-21T19:00:00-07:00",
-   "end": "2026-10-21T20:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Davidson Mathematics & Science Center (DMSC)",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/beyond-the-ai-revolution-a-conversation-with-nvidia-chief-scientist-bill-dally"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "college of engineering",
-    "lectures & seminars",
-    "pack ai"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "unr:54056259372939",
-   "title": "Brass Ensemble Concert",
-   "start": "2026-10-21T19:30:00-07:00",
-   "end": "2026-10-21T20:30:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Harlan O. & Barbara R. Hall Recital Hall",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/brass-ensemble-concert-5028"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "concert",
-   "_tags": [
-    "school of music"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "unr:53764010901314",
    "title": "\"Powering Connections\" 2026 All-Consortium Meeting",
@@ -3370,6 +2610,511 @@
    "_tags": [
     "arts & culture",
     "school of music"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:53543176646358",
+   "title": "A Few of Our Favorite Things: 65 Years of Special Collections and University Archives",
+   "start": "2026-10-28T08:00:00-07:00",
+   "end": "2026-10-28T17:00:00-07:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "Mathewson-IGT Knowledge Center (MIKC)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/a-few-of-our-favorite-things-65-years-of-special-collections-and-university-archives"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & culture",
+    "community outreach",
+    "exhibitions (recurring)",
+    "social events",
+    "staff engagement",
+    "university libraries"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:54116793923212",
+   "title": "On Location: Photographs from Robert Nuñez and Alejandra Rubio",
+   "start": "2026-10-28T08:00:00-07:00",
+   "end": "2026-10-28T20:00:00-07:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "McNamara Hallway Gallery",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/on-location-photographs-from-robert-nunez-and-alejandra-rubio"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "college of liberal arts",
+    "department of art, art history and design",
+    "exhibitions (recurring)",
+    "school of the arts",
+    "university galleries"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:54284778863792",
+   "title": "Early Voting at the Joe",
+   "start": "2026-10-28T10:00:00-07:00",
+   "end": "2026-10-28T18:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Joe Crowley Student Union (JCSU)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/early-voting-at-the-joe"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "joe crowley student union",
+    "social events",
+    "student services"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:53984081632856",
+   "title": "Law School Fair",
+   "start": "2026-10-28T10:00:00-07:00",
+   "end": "2026-10-28T13:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Joe Crowley Student Union (JCSU)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/law-school-fair-4202"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "conferences & symposiums",
+    "joe crowley student union",
+    "student services"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:53743917466689",
+   "title": "92 Events: A Fluxus Show",
+   "start": "2026-10-28T12:00:00-07:00",
+   "end": "2026-10-28T16:00:00-07:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "Front Door Gallery",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/92-events-a-fluxus-show"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & culture",
+    "college of liberal arts",
+    "exhibitions (recurring)",
+    "john and geraldine lilley museum of art"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:54118632158961",
+   "title": "Clothesline Fiber Exhibition",
+   "start": "2026-10-28T12:00:00-07:00",
+   "end": "2026-10-28T16:00:00-07:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "Student Galleries South",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/clothesline-fiber-exhibition"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "college of liberal arts",
+    "department of art, art history and design",
+    "exhibitions (recurring)",
+    "interdisciplinary arts",
+    "school of the arts",
+    "university galleries",
+    "university museum district"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:52366152768444",
+   "title": "Dance With Me",
+   "start": "2026-10-28T12:00:00-07:00",
+   "end": "2026-10-29T01:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Ballroom of Reno",
+    "address": "2540 Sutro Street",
+    "lat": 39.55266,
+    "lon": -119.79787
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/dance-with-me"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & culture",
+    "dementia engagement, education, and research (deer) program"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:53743835882297",
+   "title": "Earth's Winding Sheet",
+   "start": "2026-10-28T12:00:00-07:00",
+   "end": "2026-10-28T16:00:00-07:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "John & Geraldine Lilley Museum of Art",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/earths-winding-sheet"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & culture",
+    "college of liberal arts",
+    "exhibitions (recurring)",
+    "john and geraldine lilley museum of art"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:53743884157204",
+   "title": "Gather-Carry-Keep: Basketry from the Great Basin",
+   "start": "2026-10-28T12:00:00-07:00",
+   "end": "2026-10-28T16:00:00-07:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "Front Door Gallery",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/gather-carry-keep-basketry-from-the-great-basin"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & culture",
+    "college of liberal arts",
+    "exhibitions (recurring)",
+    "john and geraldine lilley museum of art"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:53799519177310",
+   "title": "Without Mountains and Rivers Without End: Speculative Geographics on an Interior Northwest",
+   "start": "2026-10-28T12:00:00-07:00",
+   "end": "2026-10-28T16:00:00-07:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "Sheppard Contemporary Gallery",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/without-mountains-and-rivers-without-end-speculative-geographics-on-an-interior-northwest"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & culture",
+    "college of liberal arts",
+    "department of art, art history and design",
+    "exhibitions (recurring)",
+    "school of the arts",
+    "university galleries"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:53859789644807",
+   "title": "Everyday SEL and YOU",
+   "start": "2026-10-28T12:30:00-07:00",
+   "end": "2026-10-28T14:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Smithridge Elementary School",
+    "address": "4801 Neil Road",
+    "lat": 39.48,
+    "lon": -119.78225
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/everyday-sel-and-you-102"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "family children's children families",
+   "_tags": [
+    "extension",
+    "extension office: washoe",
+    "extension: children, youth and family",
+    "extension: partners in parenting",
+    "family engagement",
+    "health, safety & wellness"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:53859916075550",
+   "title": "Everyday SEL and YOU",
+   "start": "2026-10-28T14:30:00-07:00",
+   "end": "2026-10-28T16:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Women and Children's Center of the Sierra  (WACCS)",
+    "address": "3905 Neil Road",
+    "lat": 39.48867,
+    "lon": -119.7811
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/everyday-sel-and-you-7622"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "family children's children families",
+   "_tags": [
+    "extension",
+    "extension office: washoe",
+    "extension: children, youth and family",
+    "extension: partners in parenting",
+    "family engagement",
+    "health, safety & wellness"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:53799846479750",
+   "title": "Nevada Women's Soccer vs. UTEP",
+   "start": "2026-10-28T18:00:00-07:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Mackay Stadium",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 10.0,
+    "max": 10.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/nevada-womens-soccer-vs-air-force-4913"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "athletics",
+    "nevada soccer"
    ],
    "_family": false,
    "_adult": false,

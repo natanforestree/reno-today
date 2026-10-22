@@ -1,5 +1,5 @@
 {
- "at": "2026-10-21T20:30:37Z",
+ "at": "2026-10-22T08:30:37Z",
  "events": [
   {
    "id": "reno:4-202601100256",
@@ -4103,41 +4103,6 @@
    "_kind": "organiser"
   },
   {
-   "id": "reno:264-202610211600",
-   "title": "Food Truck Wednesdays",
-   "start": "2026-10-21T16:00:00-07:00",
-   "end": "2026-10-21T20:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Cyan Park",
-    "address": "Cyan Park",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "reno",
-     "url": "https://renofoodtruckevents.com/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "family live music",
-   "_tags": [
-    "special events"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
    "id": "reno:264-202610281600",
    "title": "Food Truck Wednesdays",
    "start": "2026-10-28T16:00:00-07:00",
@@ -4831,42 +4796,6 @@
    ],
    "lovingReno": null,
    "_text": "",
-   "_tags": [
-    "aquatics",
-    "parks & rec"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "reno:302-202610211700",
-   "title": "Open Swim - Tot Pool 5-7 PM",
-   "start": "2026-10-21T17:00:00-07:00",
-   "end": "2026-10-21T19:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Northwest Pool",
-    "address": "Northwest Pool",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "reno",
-     "url": "https://www.reno.gov/parks-and-recreation/recreation/aquatics/index.php?rz=catalogueDetails&id=451"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "Tot kids",
    "_tags": [
     "aquatics",
     "parks & rec"
@@ -5756,6 +5685,43 @@
    "title": "Rolling Recreation (Idlewild Park)",
    "start": "2026-10-22T14:30:00-07:00",
    "end": "2026-10-22T17:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Idlewild Park",
+    "address": "Idlewild Park",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "reno",
+     "url": "https://reno.gov/parks-and-recreation/recreation/rolling-recreation.php"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "events",
+    "parks & rec",
+    "youth"
+   ],
+   "_family": true,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "reno:375-202610291430",
+   "title": "Rolling Recreation (Idlewild Park)",
+   "start": "2026-10-29T14:30:00-07:00",
+   "end": "2026-10-29T17:30:00-07:00",
    "allDay": false,
    "ongoing": false,
    "venue": {

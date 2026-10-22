@@ -1,5 +1,5 @@
 {
- "at": "2026-10-22T05:23:51Z",
+ "at": "2026-10-22T08:30:37Z",
  "events": [
   {
    "id": "tm:17AYv0G65mMNoOp",
@@ -1073,6 +1073,116 @@
     "hockey",
     "minor league",
     "sports"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:16tZkfJCdZAuekGC",
+   "title": "Outta Pocket, Companion of Fools, Deprave, Malice",
+   "start": "2026-10-29T19:00:00-07:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Club Underground",
+    "address": "555 E 4th St, Reno, NV",
+    "lat": 39.53151,
+    "lon": -119.80658
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketweb.com/event/outta-pocket-companion-of-fools-club-underground-tickets/14306214?REFERRAL_ID=tmfeed"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "music",
+    "pop",
+    "rock"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:1k18vPAZGA1CvFb",
+   "title": "Rittz, Matty Boy, Big Ferf, Slaughtersesh, Inferno X Arcturus",
+   "start": "2026-10-29T19:00:00-07:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Club Underground",
+    "address": "555 E 4th St, Reno, NV",
+    "lat": 39.53151,
+    "lon": -119.80658
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketweb.com/event/rittz-matty-boy-big-ferf-club-underground-tickets/14278194?REFERRAL_ID=tmfeed"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "hip-hop/rap",
+    "music",
+    "trap"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:1Ad0Z_FGkBINxjr",
+   "title": "Laugh Factory",
+   "start": "2026-10-29T19:30:00-07:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Laugh Factory at the Silver Legacy Casino",
+    "address": "407 N Virginia St, Reno, NV",
+    "lat": 39.53069,
+    "lon": -119.81531
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/laugh-factory-reno-nevada-10-29-2026/event/3900648EA88E271E"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "18 and over",
+   "_tags": [
+    "arts & theatre",
+    "comedy"
    ],
    "_family": false,
    "_adult": false,

@@ -1,41 +1,6 @@
 {
- "at": "2026-10-22T05:23:51Z",
+ "at": "2026-10-22T08:30:37Z",
  "events": [
-  {
-   "id": "downtown:10005683",
-   "title": "Water for Elephants: Pioneer Center for the Performing Arts",
-   "start": "2026-10-21T19:00:00-07:00",
-   "end": "2026-10-21T22:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Pioneer Center for the Performing Arts",
-    "address": "100 S. Virginia Street, Reno, NV, 89501",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "downtown",
-     "url": "https://downtownreno.org/event/water-for-elephants-pioneer-center-for-the-performing-arts/2026-10-21/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "riverwalk events"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "listing"
-  },
   {
    "id": "downtown:10005684",
    "title": "Water for Elephants: Pioneer Center for the Performing Arts",
@@ -446,6 +411,77 @@
    "_tags": [
     "children",
     "riverwalk events"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "listing"
+  },
+  {
+   "id": "downtown:10005691",
+   "title": "Bluey’s Big Play: Pioneer Center for the Performing Arts",
+   "start": "2026-10-29T18:00:00-07:00",
+   "end": "2026-10-29T21:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Pioneer Center for the Performing Arts",
+    "address": "100 S. Virginia Street, Reno, NV, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/blueys-big-play-pioneer-center-for-the-performing-arts/2026-10-29/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "children’s puppets family",
+   "_tags": [
+    "children",
+    "riverwalk events"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "listing"
+  },
+  {
+   "id": "downtown:126883",
+   "title": "Date My Mate: Black Rabbit Mead",
+   "start": "2026-10-29T18:00:00-07:00",
+   "end": "2026-10-29T21:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Black Rabbit Mead Co.",
+    "address": null,
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/date-my-mate-black-rabbit-mead/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "brewery district events"
    ],
    "_family": false,
    "_adult": false,
