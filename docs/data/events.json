@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-22T17:30:37Z",
+ "generatedAt": "2026-10-22T20:30:36Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -2792,6 +2792,32 @@
    "lovingReno": null
   },
   {
+   "id": "downtown:127883",
+   "title": "AFTERGLOW: Pitch Black Printing",
+   "start": "2026-10-23T17:00:00-07:00",
+   "end": "2026-10-23T21:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Pitch Black Printing",
+    "address": "700 East 4th Street #A, Reno, NV, 89512",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/afterglow-pitch-black-printing/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "carson:73684",
    "title": "Annual Halloween Museum Block Party",
    "start": "2026-10-23T17:00:00-07:00",
@@ -4237,6 +4263,10 @@
     {
      "source": "discovery",
      "url": "https://nvdm.org/event/15th-annual-halloween-trick-or-treat/"
+    },
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/15th-annual-halloween-trick-or-treat-the-discovery/"
     }
    ],
    "lovingReno": {
@@ -5964,6 +5994,34 @@
     {
      "source": "unr",
      "url": "https://events.unr.edu/event/a-few-of-our-favorite-things-65-years-of-special-collections-and-university-archives"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "downtown:127890",
+   "title": "First Responders Day at the National Automobile Museum",
+   "start": "2026-10-25T09:00:00-07:00",
+   "end": "2026-10-25T16:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "National Automobile Museum",
+    "address": "10 S. Lake Street, Reno, NV, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/first-responders-day-at-the-national-automobile-museum/"
     }
    ],
    "lovingReno": null
