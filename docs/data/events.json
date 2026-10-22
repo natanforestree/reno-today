@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-22T20:30:36Z",
+ "generatedAt": "2026-10-22T23:30:37Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -1932,7 +1932,7 @@
    "drive": null,
    "price": {
     "min": 34.61,
-    "max": 119.63
+    "max": 34.61
    },
    "tier": "general",
    "hints": [
