@@ -1,5 +1,5 @@
 {
- "at": "2026-10-22T23:30:37Z",
+ "at": "2026-10-23T11:30:38Z",
  "events": [
   {
    "id": "reno:4-202601100256",
@@ -5681,43 +5681,6 @@
    "_kind": "organiser"
   },
   {
-   "id": "reno:375-202610221430",
-   "title": "Rolling Recreation (Idlewild Park)",
-   "start": "2026-10-22T14:30:00-07:00",
-   "end": "2026-10-22T17:30:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Idlewild Park",
-    "address": "Idlewild Park",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "reno",
-     "url": "https://reno.gov/parks-and-recreation/recreation/rolling-recreation.php"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "events",
-    "parks & rec",
-    "youth"
-   ],
-   "_family": true,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
    "id": "reno:375-202610291430",
    "title": "Rolling Recreation (Idlewild Park)",
    "start": "2026-10-29T14:30:00-07:00",
@@ -5759,6 +5722,43 @@
    "title": "Rolling Recreation (Reno City Plaza)",
    "start": "2026-10-23T14:30:00-07:00",
    "end": "2026-10-23T17:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Reno City Plaza",
+    "address": "Reno City Plaza",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "reno",
+     "url": "https://reno.gov/parks-and-recreation/recreation/rolling-recreation.php"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "events",
+    "parks & rec",
+    "youth"
+   ],
+   "_family": true,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "reno:377-202610301430",
+   "title": "Rolling Recreation (Reno City Plaza)",
+   "start": "2026-10-30T14:30:00-07:00",
+   "end": "2026-10-30T17:30:00-07:00",
    "allDay": false,
    "ongoing": false,
    "venue": {
