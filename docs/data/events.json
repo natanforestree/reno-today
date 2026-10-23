@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-23T14:30:38Z",
+ "generatedAt": "2026-10-23T17:28:06Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -3729,6 +3729,34 @@
    "lovingReno": null
   },
   {
+   "id": "southtahoe:221463",
+   "title": "Zombie Ball at Whiskey Dick’s",
+   "start": "2026-10-24T21:00:00-07:00",
+   "end": "2026-10-24T23:59:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Whiskey Dick’s Saloon",
+    "address": "2660 Lake Tahoe Blvd., South Lake Tahoe, CA, 96150",
+    "lat": 38.92768,
+    "lon": -119.98214
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "21+"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/halloween-party-at-whiskey-dicks/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "southtahoe:247333",
    "title": "Lakeside Laughs Comedy Club at Caesars Republic Lake Tahoe",
    "start": "2026-10-24T21:30:00-07:00",
@@ -4796,34 +4824,6 @@
     {
      "source": "tm",
      "url": "https://www.ticketmaster.com/lakeside-laughs-comedy-club-lake-tahoe-nevada-10-25-2026/event/39006536D75E3E1F"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "southtahoe:236042",
-   "title": "Live Music at McP's Taphouse Tahoe",
-   "start": "2026-10-25T20:00:00-07:00",
-   "end": "2026-10-25T23:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "McP’s Taphouse Grill",
-    "address": "4125 Lake Tahoe Blvd., South Lake Tahoe, CA, 96150",
-    "lat": 38.95887,
-    "lon": -119.94228
-   },
-   "area": "tahoe",
-   "drive": "~75 min",
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "music"
-   ],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/live-music-at-mcps-tap-house-tahoe/2026-10-25/"
     }
    ],
    "lovingReno": null
