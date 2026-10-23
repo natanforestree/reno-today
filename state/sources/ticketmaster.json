@@ -1,5 +1,5 @@
 {
- "at": "2026-10-22T23:30:37Z",
+ "at": "2026-10-23T02:30:37Z",
  "events": [
   {
    "id": "tm:17AYv0G65mMNoOp",
@@ -27,43 +27,6 @@
    ],
    "lovingReno": null,
    "_text": "Children",
-   "_tags": [
-    "music",
-    "pop",
-    "rock"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
-  {
-   "id": "tm:Z7r9jZ1A7J7fp",
-   "title": "New Constellations: It Comes In Waves Tour - Ages 21+",
-   "start": "2026-10-22T19:00:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Cargo",
-    "address": "255 North Virginia Street, Reno, NV",
-    "lat": 39.5263,
-    "lon": -119.8124
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J7fp"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
    "_tags": [
     "music",
     "pop",
