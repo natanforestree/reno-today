@@ -1,99 +1,6 @@
 {
- "at": "2026-10-23T05:30:37Z",
+ "at": "2026-10-23T08:30:37Z",
  "events": [
-  {
-   "id": "carson:81023",
-   "title": "Marie Ni Chathasaigh & Chris Newman | Harp & Guitar Performance",
-   "start": "2026-10-22T19:00:00-07:00",
-   "end": "2026-10-22T21:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Brewery Arts Center",
-    "address": "449 W King Street, Carson City, NV, 89703",
-    "lat": 39.16365,
-    "lon": -119.77007
-   },
-   "area": "carson",
-   "drive": "~35 min",
-   "price": {
-    "min": 20.0,
-    "max": 20.0
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "carson",
-     "url": "https://visitcarsoncity.com/events/marie-ni-chathasaigh-chris-newman-harp-guitar-performance/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "brewery arts center",
-    "carson city",
-    "carson city events",
-    "carson city nevada",
-    "live music",
-    "shows in carson city",
-    "what to do in carson city"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "carson:80500",
-   "title": "Candlelight Concerts in Carson City | Halloween Classics",
-   "start": "2026-10-22T20:45:00-07:00",
-   "end": "2026-10-22T21:45:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Bob Boldrick Theater",
-    "address": "851 E. Williams, Carson City, NV, 89701",
-    "lat": 39.17026,
-    "lon": -119.756
-   },
-   "area": "carson",
-   "drive": "~35 min",
-   "price": {
-    "min": 34.0,
-    "max": 34.0
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "carson",
-     "url": "https://visitcarsoncity.com/events/candlelight-concerts-in-carson-city-halloween-classics/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "sensory Family concerts concert",
-   "_tags": [
-    "candlelight concerts",
-    "candlelight concerts carson city",
-    "candlelight concerts carson city nv",
-    "candlelight concerts halloween classics",
-    "candlelight concerts halloween classics carson city",
-    "candlelight concerts nevada",
-    "carson city candlelight concerts",
-    "carson city community center",
-    "halloween candlelight concerts",
-    "halloween concerts",
-    "halloween concerts carson city nv",
-    "live music"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "carson:73684",
    "title": "Annual Halloween Museum Block Party",
@@ -526,6 +433,44 @@
     "tami force",
     "things to do carson city nv",
     "what to do in carson city nv"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:74109",
+   "title": "Free Tethered Hot Air Balloon Rides!",
+   "start": "2026-10-30T08:00:00-07:00",
+   "end": "2026-10-30T11:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Brewery Arts Center",
+    "address": "449 W King Street, Carson City, NV, 89703",
+    "lat": 39.16365,
+    "lon": -119.77007
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/free-tethered-hot-air-balloon-rides/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "family",
+    "free tethered hot air balloon rides!"
    ],
    "_family": false,
    "_adult": false,
