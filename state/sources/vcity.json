@@ -1,5 +1,5 @@
 {
- "at": "2026-10-24T05:30:32Z",
+ "at": "2026-10-24T08:30:32Z",
  "events": [
   {
    "id": "vcity:10645",
@@ -87,6 +87,107 @@
     {
      "source": "vcity",
      "url": "https://visitvirginiacitynv.com/event/haunted-ghost-tour-at-the-gold-hill-hotel-3-2-2/2026-10-29/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "vcity:10880",
+   "title": "Hauntober Costume Contest and Safe Trick or Treating",
+   "start": "2026-10-31T16:30:00-07:00",
+   "end": "2026-10-31T20:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": null,
+   "area": "virginia-city",
+   "drive": "~40 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "vcity",
+     "url": "https://visitvirginiacitynv.com/event/hauntober-costume-contest-and-safe-trick-or-treating/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "kids",
+   "_tags": [
+    "hauntober"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "vcity:12978",
+   "title": "Virginia City Cemetery Halloween After Dark",
+   "start": "2026-10-31T18:00:00-07:00",
+   "end": "2026-10-31T22:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Virginia City Cemetery",
+    "address": "381 Cemetery Rd, Virginia City, NV, 89440",
+    "lat": null,
+    "lon": null
+   },
+   "area": "virginia-city",
+   "drive": "~40 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "vcity",
+     "url": "https://visitvirginiacitynv.com/event/virginia-city-cemetery-halloween-after-dark/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "children",
+   "_tags": [
+    "hauntober"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "vcity:10591",
+   "title": "Nevada Statehood Ball",
+   "start": "2026-10-31T19:00:00-07:00",
+   "end": "2026-10-31T22:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Piper’s Opera House",
+    "address": "12 B Street, Virginia City, NV, 89440",
+    "lat": null,
+    "lon": null
+   },
+   "area": "virginia-city",
+   "drive": "~40 min",
+   "price": {
+    "min": 60.0,
+    "max": 60.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "vcity",
+     "url": "https://visitvirginiacitynv.com/event/nevada-statehood-ball/"
     }
    ],
    "lovingReno": null,

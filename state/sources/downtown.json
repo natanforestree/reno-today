@@ -1,112 +1,6 @@
 {
- "at": "2026-10-24T05:30:32Z",
+ "at": "2026-10-24T08:30:32Z",
  "events": [
-  {
-   "id": "downtown:127829",
-   "title": "Reno Brewery District Presents UnderCurrent",
-   "start": "2026-10-23T17:00:00-07:00",
-   "end": "2026-10-23T21:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Brewery District",
-    "address": "4th Street, Reno, NV, 89501",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "downtown",
-     "url": "https://downtownreno.org/event/reno-brewery-district-presents-undercurrent/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "brewery district events"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "listing"
-  },
-  {
-   "id": "downtown:127883",
-   "title": "AFTERGLOW: Pitch Black Printing",
-   "start": "2026-10-23T17:00:00-07:00",
-   "end": "2026-10-23T21:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Pitch Black Printing",
-    "address": "700 East 4th Street #A, Reno, NV, 89512",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "downtown",
-     "url": "https://downtownreno.org/event/afterglow-pitch-black-printing/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "art",
-    "brewery district events"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "listing"
-  },
-  {
-   "id": "downtown:10005685",
-   "title": "Water for Elephants: Pioneer Center for the Performing Arts",
-   "start": "2026-10-23T19:00:00-07:00",
-   "end": "2026-10-23T22:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Pioneer Center for the Performing Arts",
-    "address": "100 S. Virginia Street, Reno, NV, 89501",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "downtown",
-     "url": "https://downtownreno.org/event/water-for-elephants-pioneer-center-for-the-performing-arts/2026-10-23/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "riverwalk events"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "listing"
-  },
   {
    "id": "downtown:127897",
    "title": "15th Annual Halloween Trick or Treat: The Discovery",
@@ -528,6 +422,39 @@
    "_kind": "listing"
   },
   {
+   "id": "downtown:127062",
+   "title": "Día de los Muertos: Believe Plaza",
+   "start": "2026-10-30T15:00:00-07:00",
+   "end": "2026-10-31T17:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Believe Plaza",
+    "address": "10 N Virginia Street, Reno, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/dia-de-los-muertos-believe-plaza/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "family children FAMILIES Kids live music Live music",
+   "_tags": [],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "listing"
+  },
+  {
    "id": "downtown:126438",
    "title": "The Rocky Horror Picture Show",
    "start": "2026-10-30T19:00:00-07:00",
@@ -577,6 +504,41 @@
     "the rocky horror picture show",
     "theater",
     "things to do"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "listing"
+  },
+  {
+   "id": "downtown:127072",
+   "title": "Hydra Halloween: Dead Ringer Analog Bar",
+   "start": "2026-10-30T21:00:00-07:00",
+   "end": "2026-10-31T00:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Dead Ringer Analog Bar",
+    "address": "432 E 4th St, Reno, NV, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/hydra-halloween-dead-ringer-analog-bar/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "21+",
+   "_tags": [
+    "brewery district events"
    ],
    "_family": false,
    "_adult": false,

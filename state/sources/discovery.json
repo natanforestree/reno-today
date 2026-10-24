@@ -1,5 +1,5 @@
 {
- "at": "2026-10-24T05:30:32Z",
+ "at": "2026-10-24T08:30:32Z",
  "events": [
   {
    "id": "discovery:42267",
@@ -166,6 +166,42 @@
     {
      "source": "discovery",
      "url": "https://nvdm.org/event/open-build-last-minute-halloween/2026-10-28/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "hands-on activity",
+    "maker project"
+   ],
+   "_family": true,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "discovery:43111",
+   "title": "Open Build: Last Minute Halloween",
+   "start": "2026-10-31T10:30:00-07:00",
+   "end": "2026-10-31T16:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Discovery",
+    "address": "490 S. Center Street, Reno, NV, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "discovery",
+     "url": "https://nvdm.org/event/open-build-last-minute-halloween-2026-10-31/"
     }
    ],
    "lovingReno": null,

@@ -1,149 +1,6 @@
 {
- "at": "2026-10-24T05:30:32Z",
+ "at": "2026-10-24T08:30:32Z",
  "events": [
-  {
-   "id": "carson:73684",
-   "title": "Annual Halloween Museum Block Party",
-   "start": "2026-10-23T17:00:00-07:00",
-   "end": "2026-10-23T20:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Nevada State Museum",
-    "address": "600 North Carson Street, Carson City, NV, 89701",
-    "lat": 39.16773,
-    "lon": -119.76741
-   },
-   "area": "carson",
-   "drive": "~35 min",
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "carson",
-     "url": "https://visitcarsoncity.com/events/annual-halloween-museum-block-party/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "FAMILY family Families",
-   "_tags": [
-    "children’s museum of northern nevada",
-    "family",
-    "halloween museum block party",
-    "nevada state museum",
-    "trunk or treat"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "carson:10006332",
-   "title": "Fright at the Museum",
-   "start": "2026-10-23T18:00:00-07:00",
-   "end": "2026-10-23T21:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Nevada State Museum",
-    "address": "600 North Carson Street, Carson City, NV, 89701",
-    "lat": 39.16773,
-    "lon": -119.76741
-   },
-   "area": "carson",
-   "drive": "~35 min",
-   "price": {
-    "min": 15.0,
-    "max": 15.0
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "carson",
-     "url": "https://visitcarsoncity.com/events/fright-at-the-museum/2026-10-23/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "CHILDREN",
-   "_tags": [
-    "carson city",
-    "carson city events",
-    "carson city nevada",
-    "events in carson city",
-    "fright at the museum",
-    "halloween",
-    "halloween carson city",
-    "halloween carson city nv",
-    "halloween events",
-    "halloween events near reno nv",
-    "haunted house",
-    "haunted house carson city",
-    "haunted museum",
-    "haunted museum carson city",
-    "holiday",
-    "nevada state museum",
-    "things to do in carson city",
-    "visit carson city",
-    "what to do in carson city"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "carson:81028",
-   "title": "Nevada Nightmares",
-   "start": "2026-10-23T18:30:00-07:00",
-   "end": "2026-10-23T20:30:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Foreman-Roberts Carriage House",
-    "address": "1207 North Carson Street, Carson City, Nevada",
-    "lat": 39.17184,
-    "lon": -119.76665
-   },
-   "area": "carson",
-   "drive": "~35 min",
-   "price": {
-    "min": 10.0,
-    "max": 10.0
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "carson",
-     "url": "https://visitcarsoncity.com/events/nevada-nightmares/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "carson city",
-    "carson city events",
-    "carson city nevada",
-    "entertainment",
-    "events",
-    "events in carson city",
-    "history",
-    "things to do in carson city",
-    "what to do in carson city"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "carson:80712",
    "title": "Fall Colors Wagon Ride",
@@ -471,6 +328,70 @@
    "_tags": [
     "family",
     "free tethered hot air balloon rides!"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:80233",
+   "title": "Nevada Day Powwow",
+   "start": "2026-10-31T00:00:00-07:00",
+   "end": "2026-10-31T00:00:00-07:00",
+   "allDay": true,
+   "ongoing": false,
+   "venue": {
+    "name": "MAC Facility",
+    "address": "1870 Russell Way, Carson City, NV, 89706",
+    "lat": 39.1786,
+    "lon": -119.74451
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/nevada-day-powwow/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "annual event",
+    "arts & culture",
+    "carson city",
+    "carson city events",
+    "carson city nevada",
+    "carson city pow wow",
+    "entertainment",
+    "events in carson city",
+    "family",
+    "first nations",
+    "holiday",
+    "native american",
+    "native american culture",
+    "native american culture nevada",
+    "native culture",
+    "nevada day",
+    "nevada day carson city",
+    "nevada day pow wow",
+    "nevada day powwow",
+    "nevada day weekend",
+    "nevada powwow",
+    "norther nevada powwow",
+    "nv powwow",
+    "powwow",
+    "powwow carson city",
+    "powwows in northern nevada",
+    "things to do",
+    "visit carson city",
+    "visit carson city nevada",
+    "what to do in carson city"
    ],
    "_family": false,
    "_adult": false,
