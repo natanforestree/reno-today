@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-23T23:30:32Z",
+ "generatedAt": "2026-10-24T02:30:33Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -836,10 +836,7 @@
      "url": "https://visitcarsoncity.com/events/annual-halloween-museum-block-party/"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "unr:53357164181309",
@@ -1057,10 +1054,7 @@
      "url": "https://visitcarsoncity.com/events/fright-at-the-museum/2026-10-23/"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "carson:81028",
@@ -2262,10 +2256,7 @@
      "url": "https://downtownreno.org/event/15th-annual-halloween-trick-or-treat-the-discovery/"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "carson:10006273",
@@ -2648,7 +2639,7 @@
   },
   {
    "id": "library:17524390",
-   "title": "Make & Mingle for Adults",
+   "title": "*CANCELED* Make & Mingle for Adults",
    "start": "2026-10-24T13:00:00-07:00",
    "end": "2026-10-24T14:30:00-07:00",
    "allDay": false,
@@ -2725,10 +2716,7 @@
      "url": "https://visitvirginiacitynv.com/event/the-spirits-made-me-do-it-saloon-crawl/"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "downtown:10005686",
@@ -3030,10 +3018,7 @@
      "url": "https://hollandreno.org/events/halloween-show-2026/"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "carson:10006333",
@@ -3062,10 +3047,7 @@
      "url": "https://visitcarsoncity.com/events/fright-at-the-museum/2026-10-24/"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "reno:202-202610241800",
@@ -4077,10 +4059,7 @@
      "url": "https://www.renofarmersmarket.com/"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "unr:54284778861741",
@@ -4455,10 +4434,7 @@
      "url": "https://events.unr.edu/event/dia-de-los-muertos"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "library:17246321",
@@ -7764,10 +7740,7 @@
      "url": "https://renofoodtruckevents.com/"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "library:10710442",
@@ -9063,10 +9036,7 @@
      "url": "https://www.reno.gov/calendar"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "carson:60403",
@@ -10150,10 +10120,7 @@
      "url": "https://tockify.com/wcparks/detail/715/1793379600000"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "reno:377-202610301430",
@@ -10493,10 +10460,7 @@
      "url": "https://downtownreno.org/event/the-rocky-horror-picture-show/"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "tm:1718v0G6CFOtZXy",
