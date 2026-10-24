@@ -1,43 +1,6 @@
 {
- "at": "2026-10-24T20:30:33Z",
+ "at": "2026-10-24T23:30:32Z",
  "events": [
-  {
-   "id": "tm:Z7r9jZ1A7-tjE",
-   "title": "Nevada Wolfpack Football vs. San Jose State Spartans Football",
-   "start": "2026-10-24T14:00:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Mackay Stadium",
-    "address": "1664 N Virginia St, Reno, NV",
-    "lat": 39.5386,
-    "lon": -119.8171
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-tjE"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "college",
-    "football",
-    "sports"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
   {
    "id": "tm:rZ7HnEZ1Afk_jV",
    "title": "Free Throw & Microwave: North America 2026",
