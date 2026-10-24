@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-24T08:30:32Z",
+ "generatedAt": "2026-10-24T11:30:33Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -57,120 +57,6 @@
     {
      "source": "wcparks",
      "url": "https://tockify.com/wcparks/detail/716/1792796400000"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "southtahoe:245612",
-   "title": "Live Music at Tessie’s Cocktails & Chords inside Caesars Republic",
-   "start": "2026-10-23T19:30:00-07:00",
-   "end": "2026-10-24T02:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Tessie’s Cocktails & Chords inside Caesars Republic",
-    "address": "18 US-50, Stateline, Nevada, 89449",
-    "lat": null,
-    "lon": null
-   },
-   "area": "tahoe",
-   "drive": "~70 min",
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "music",
-    "21+"
-   ],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/live-music-at-tessies-cocktails-chords-inside-caesars-republic/2026-10-23/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "southtahoe:182590",
-   "title": "Live Music at Rush Lounge in the Golden Nugget Lake Tahoe",
-   "start": "2026-10-23T21:00:00-07:00",
-   "end": "2026-10-24T01:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Golden Nugget Lake Tahoe",
-    "address": "50 Hwy 50, Stateline, Nevada, 89449",
-    "lat": null,
-    "lon": null
-   },
-   "area": "tahoe",
-   "drive": "~70 min",
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "music",
-    "21+"
-   ],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/live-music-golden-nugget-lake-tahoe/2026-10-23/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "southtahoe:229704",
-   "title": "Karaoke at Rojo’s Tavern",
-   "start": "2026-10-23T22:00:00-07:00",
-   "end": "2026-10-24T02:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Rojo’s Tavern",
-    "address": "3091 Harrison Ave, South Lake Tahoe, CA, 96150",
-    "lat": 38.94047,
-    "lon": -119.97736
-   },
-   "area": "tahoe",
-   "drive": "~75 min",
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "21+"
-   ],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/karaoke-at-rojos-tavern/2026-10-23/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "southtahoe:236570",
-   "title": "Peek Nightclub inside Harrah's Lake Tahoe",
-   "start": "2026-10-23T22:00:00-07:00",
-   "end": "2026-10-24T04:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Peek Nightclub inside Harrah’s Lake Tahoe",
-    "address": "15 Hwy 50, Stateline, NV, 89449",
-    "lat": null,
-    "lon": null
-   },
-   "area": "tahoe",
-   "drive": "~70 min",
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "21+"
-   ],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/peek-nightclub-inside-harrahs-lake-tahoe/2026-10-23/"
     }
    ],
    "lovingReno": null
@@ -611,7 +497,10 @@
      "url": "https://downtownreno.org/event/15th-annual-halloween-trick-or-treat-the-discovery/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "carson:10006273",
@@ -1071,7 +960,10 @@
      "url": "https://visitvirginiacitynv.com/event/the-spirits-made-me-do-it-saloon-crawl/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "downtown:10005686",
@@ -1373,7 +1265,10 @@
      "url": "https://hollandreno.org/events/halloween-show-2026/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "carson:10006333",
@@ -1402,7 +1297,10 @@
      "url": "https://visitcarsoncity.com/events/fright-at-the-museum/2026-10-24/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "reno:202-202610241800",
@@ -2066,6 +1964,34 @@
    "lovingReno": null
   },
   {
+   "id": "southtahoe:221463",
+   "title": "Zombie Ball at Whiskey Dick’s",
+   "start": "2026-10-24T21:00:00-07:00",
+   "end": "2026-10-24T23:59:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Whiskey Dick’s Saloon",
+    "address": "2660 Lake Tahoe Blvd., South Lake Tahoe, CA, 96150",
+    "lat": 38.92768,
+    "lon": -119.98214
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "21+"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/halloween-party-at-whiskey-dicks/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "southtahoe:247333",
    "title": "Lakeside Laughs Comedy Club at Caesars Republic Lake Tahoe",
    "start": "2026-10-24T21:30:00-07:00",
@@ -2386,7 +2312,10 @@
      "url": "https://www.renofarmersmarket.com/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "unr:54284778861741",
@@ -2761,7 +2690,10 @@
      "url": "https://events.unr.edu/event/dia-de-los-muertos"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "library:17246321",
@@ -6095,7 +6027,10 @@
      "url": "https://renofoodtruckevents.com/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "library:10710442",
@@ -7391,7 +7326,10 @@
      "url": "https://www.reno.gov/calendar"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "carson:60403",
@@ -8559,7 +8497,10 @@
      "url": "https://tockify.com/wcparks/detail/715/1793379600000"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "unr:53743917467715",
@@ -9042,7 +8983,10 @@
      "url": "https://downtownreno.org/event/the-rocky-horror-picture-show/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "tm:1718v0G6CFOtZXy",
@@ -9096,6 +9040,35 @@
     {
      "source": "tm",
      "url": "https://www.ticketmaster.com/laugh-factory-reno-nevada-10-30-2026/event/3900648EA8932724"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:245619",
+   "title": "Live Music at Tessie’s Cocktails & Chords inside Caesars Republic",
+   "start": "2026-10-30T19:30:00-07:00",
+   "end": "2026-10-31T02:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Tessie’s Cocktails & Chords inside Caesars Republic",
+    "address": "18 US-50, Stateline, Nevada, 89449",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~70 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "music",
+    "21+"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/live-music-at-tessies-cocktails-chords-inside-caesars-republic/2026-10-30/"
     }
    ],
    "lovingReno": null
@@ -9322,6 +9295,35 @@
    "lovingReno": null
   },
   {
+   "id": "southtahoe:247605",
+   "title": "Live Music at Rush Lounge in the Golden Nugget Lake Tahoe",
+   "start": "2026-10-30T21:00:00-07:00",
+   "end": "2026-10-31T01:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Golden Nugget Lake Tahoe",
+    "address": "50 Hwy 50, Stateline, Nevada, 89449",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~70 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "music",
+    "21+"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/live-music-golden-nugget-lake-tahoe/2026-10-30/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "tm:1AyZkfUGkd9_dzJ",
    "title": "Lakeside Laughs Comedy Club",
    "start": "2026-10-30T21:30:00-07:00",
@@ -9378,6 +9380,62 @@
    "lovingReno": null
   },
   {
+   "id": "southtahoe:229707",
+   "title": "Karaoke at Rojo’s Tavern",
+   "start": "2026-10-30T22:00:00-07:00",
+   "end": "2026-10-31T02:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Rojo’s Tavern",
+    "address": "3091 Harrison Ave, South Lake Tahoe, CA, 96150",
+    "lat": 38.94047,
+    "lon": -119.97736
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "21+"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/karaoke-at-rojos-tavern/2026-10-30/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:236571",
+   "title": "Peek Nightclub inside Harrah's Lake Tahoe",
+   "start": "2026-10-30T22:00:00-07:00",
+   "end": "2026-10-31T04:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Peek Nightclub inside Harrah’s Lake Tahoe",
+    "address": "15 Hwy 50, Stateline, NV, 89449",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~70 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "21+"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/peek-nightclub-inside-harrahs-lake-tahoe/2026-10-30/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "carson:80233",
    "title": "Nevada Day Powwow",
    "start": "2026-10-31T00:00:00-07:00",
@@ -9401,6 +9459,34 @@
     {
      "source": "carson",
      "url": "https://visitcarsoncity.com/events/nevada-day-powwow/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:246630",
+   "title": "World Series of Poker Circuit Event at Caesars Republic Lake Tahoe",
+   "start": "2026-10-31T00:00:00-07:00",
+   "end": "2026-10-31T00:00:00-07:00",
+   "allDay": true,
+   "ongoing": false,
+   "venue": {
+    "name": "Caesars Republic Lake Tahoe (formerly Harveys)",
+    "address": "18 Hwy 50, Stateline, Nevada, 89449",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~70 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/world-series-of-poker-circuit-event-at-caesars-republic-lake-tahoe/2026-10-31/"
     }
    ],
    "lovingReno": null
@@ -9493,6 +9579,34 @@
    "lovingReno": null
   },
   {
+   "id": "southtahoe:225488",
+   "title": "Tipsy Putt Events",
+   "start": "2026-10-31T10:00:00-07:00",
+   "end": "2026-10-31T23:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Tipsy Putt Tahoe",
+    "address": "4101 Lake Tahoe Blvd. #101, South Lake Tahoe, California, 96150",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/tipsy-putt-events/2026-10-31/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "discovery:43111",
    "title": "Open Build: Last Minute Halloween",
    "start": "2026-10-31T10:30:00-07:00",
@@ -9516,6 +9630,34 @@
     {
      "source": "discovery",
      "url": "https://nvdm.org/event/open-build-last-minute-halloween-2026-10-31/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:197385",
+   "title": "Halloween Costume Cruise aboard the M.S. Dixie II – Kids Cruise Free",
+   "start": "2026-10-31T12:00:00-07:00",
+   "end": "2026-10-31T14:15:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "M.S. Dixie II Paddlewheeler",
+    "address": "760 Hwy 50 Zephyr Cove Resort, Zephyr Cove, NV, 89448",
+    "lat": 39.00557,
+    "lon": -119.9458
+   },
+   "area": "tahoe",
+   "drive": "~65 min",
+   "price": null,
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/costume-dinner-cruise-aboard-the-m-s-dixie-ii/"
     }
    ],
    "lovingReno": null
@@ -9578,6 +9720,121 @@
    "lovingReno": null
   },
   {
+   "id": "southtahoe:238158",
+   "title": "Tea with an Edge at Edge Restaurant & Lounge",
+   "start": "2026-10-31T13:30:00-07:00",
+   "end": "2026-10-31T15:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Edge Restaurant & Lounge at Edgewood Tahoe",
+    "address": "180 Lake Parkway, Stateline, Nevada, 89449",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~70 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime",
+    "21+"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/tea-with-an-edge-at-edge-restaurant-lounge/2026-10-31/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:157777",
+   "title": "Halloween Celebration at the Heavenly Village",
+   "start": "2026-10-31T15:00:00-07:00",
+   "end": "2026-10-31T18:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Heavenly Village",
+    "address": "1001 Heavenly Village Way, South Lake Tahoe, CA, 96150",
+    "lat": 38.95553,
+    "lon": -119.94316
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "little",
+   "hints": [
+    "daytime",
+    "music"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/halloween-celebration-at-the-heavenly-village/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:245872",
+   "title": "Masquerade Murder Mystery Dinner & Wine Pairing at the Idle Hour",
+   "start": "2026-10-31T15:00:00-07:00",
+   "end": "2026-10-31T21:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Idle Hour Wine Bar on the Lake",
+    "address": "3351 Lake Tahoe Blvd, South Lake Tahoe, CA, 96150",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime",
+    "21+"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/masquerade-murder-mystery-dinner-wine-pairing-at-the-idle-hour/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:243721",
+   "title": "Tahoe Knight Monsters Hockey Games at the Tahoe Blue Event Center",
+   "start": "2026-10-31T15:00:00-07:00",
+   "end": "2026-10-31T17:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Tahoe Blue Event Center",
+    "address": "75 Hwy 50, Stateline, Nevada, 89449",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~70 min",
+   "price": null,
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/tahoe-knight-monsters-hockey/2026-10-31/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "tm:1A9ZkffGkeTH2b8",
    "title": "Tahoe Knight Monsters vs. Kansas City Mavericks",
    "start": "2026-10-31T15:00:00-07:00",
@@ -9606,6 +9863,34 @@
    "lovingReno": null
   },
   {
+   "id": "southtahoe:245260",
+   "title": "Freakers Carriage & Hayride Experience at Bally’s Lake Tahoe",
+   "start": "2026-10-31T16:00:00-07:00",
+   "end": "2026-10-31T21:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Bally’s Lake Tahoe",
+    "address": "55 Hwy 50, Stateline, Nevada, 89449",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~70 min",
+   "price": null,
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/freakers-carriage-hayride-experience/2026-10-31/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "vcity:10880",
    "title": "Hauntober Costume Contest and Safe Trick or Treating",
    "start": "2026-10-31T16:30:00-07:00",
@@ -9624,6 +9909,32 @@
     {
      "source": "vcity",
      "url": "https://visitvirginiacitynv.com/event/hauntober-costume-contest-and-safe-trick-or-treating/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:244797",
+   "title": "Halloween Costume Dinner Cruise on the M.S. Dixie II",
+   "start": "2026-10-31T17:00:00-07:00",
+   "end": "2026-10-31T20:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "M.S. Dixie II Paddlewheeler at Zephyr Cove Resort",
+    "address": "760 U.S. Hwy 50, Zephyr Cove, NV, 89449",
+    "lat": 38.98192,
+    "lon": -119.94651
+   },
+   "area": "tahoe",
+   "drive": "~65 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/halloween-costume-dinner-cruise-on-the-m-s-dixie-ii/"
     }
    ],
    "lovingReno": null
@@ -9655,6 +9966,34 @@
    "lovingReno": null
   },
   {
+   "id": "southtahoe:230345",
+   "title": "Magic Fusion at The Loft Theatre",
+   "start": "2026-10-31T19:00:00-07:00",
+   "end": "2026-10-31T20:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Loft Theatre & Lounge at the Heavenly Village",
+    "address": "1021 Heavenly Village Way, South Lake Tahoe, CA, 96150",
+    "lat": 38.95559,
+    "lon": -119.94234
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "21+"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/magic-fusion-at-the-loft-theatre/2026-10-31/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "vcity:10591",
    "title": "Nevada Statehood Ball",
    "start": "2026-10-31T19:00:00-07:00",
@@ -9681,29 +10020,36 @@
      "url": "https://visitvirginiacitynv.com/event/nevada-statehood-ball/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
-   "id": "tm:17C8v0G6uhJ27No",
-   "title": "Direct from Sweden: The Music of ABBA",
+   "id": "southtahoe:183486",
+   "title": "Direct From Sweden: The Music of ABBA at Harrah’s Lake Tahoe",
    "start": "2026-10-31T19:30:00-07:00",
-   "end": null,
+   "end": "2026-10-31T21:30:00-07:00",
    "allDay": false,
    "ongoing": false,
    "venue": {
-    "name": "South Shore Room at Harrah's Lake Tahoe",
-    "address": "15 Hwy 50, Lake Tahoe, NV",
-    "lat": 38.96241,
-    "lon": -119.9399
+    "name": "Harrah’s Lake Tahoe South Shore Room",
+    "address": "15 Hwy 50, Stateline, NV, 89449",
+    "lat": 38.95938,
+    "lon": -119.94155
    },
-   "area": "other",
-   "drive": null,
+   "area": "tahoe",
+   "drive": "~70 min",
    "price": null,
    "tier": "general",
    "hints": [
     "music"
    ],
    "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/direct-from-sweden-the-music-of-abba-at-harrahs-lake-tahoe/"
+    },
     {
      "source": "tm",
      "url": "https://www.ticketmaster.com/direct-from-sweden-the-music-of-lake-tahoe-nevada-10-31-2026/event/390064D6E63C48D1"
@@ -9740,6 +10086,140 @@
    "lovingReno": null
   },
   {
+   "id": "southtahoe:244034",
+   "title": "The Revolutionists Fall Play at Valhalla",
+   "start": "2026-10-31T19:30:00-07:00",
+   "end": "2026-10-31T21:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Boathouse Theatre at Valhalla",
+    "address": "1 Valhalla Rd., South Lake Tahoe, CA, 96150",
+    "lat": 38.93568,
+    "lon": -120.04362
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/the-revolutionists-fall-play-at-valhalla/2026-10-31/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:243631",
+   "title": "El Jefe’s Cantina Karaoke",
+   "start": "2026-10-31T20:00:00-07:00",
+   "end": "2026-10-31T23:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "El Jefe’s Cantina inside Caesars Republic",
+    "address": "18 US-50, Stateline, Nevada, 89449",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~70 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/el-jefes-cantina-skyy-high-fridays/2026-10-31/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:226480",
+   "title": "Live Music at McP's Taphouse Tahoe",
+   "start": "2026-10-31T20:00:00-07:00",
+   "end": "2026-10-31T23:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "McP’s Taphouse Grill",
+    "address": "4125 Lake Tahoe Blvd., South Lake Tahoe, CA, 96150",
+    "lat": 38.95887,
+    "lon": -119.94228
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "music"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/live-music-at-mcps-tap-house-tahoe/2026-10-31/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:228498",
+   "title": "Tahoe Club Crawl",
+   "start": "2026-10-31T20:00:00-07:00",
+   "end": "2026-10-31T23:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Lake Tahoe CA & NV",
+    "address": null,
+    "lat": 37.09024,
+    "lon": -95.71289
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "21+"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/lake-tahoe-club-crawl/2026-10-31/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:243794",
+   "title": "Tahoe Terror – Haunted House at Bally’s Lake Tahoe",
+   "start": "2026-10-31T20:00:00-07:00",
+   "end": "2026-10-31T23:59:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Bally’s Lake Tahoe",
+    "address": "55 Hwy 50, Stateline, Nevada, 89449",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~70 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/tahoe-terror-haunted-house-at-ballys-lake-tahoe/2026-10-31/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "tm:Z7r9jZ1AAvvbp",
    "title": "The Rocky Horror Picture Show",
    "start": "2026-10-31T20:00:00-07:00",
@@ -9763,29 +10243,119 @@
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvvbp"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
-   "id": "tm:1AyZkfUGkd9QKyd",
-   "title": "Lakeside Laughs Comedy Club",
-   "start": "2026-10-31T21:30:00-07:00",
-   "end": null,
+   "id": "southtahoe:246805",
+   "title": "Dueling Pianos at Caesars Republic Lake Tahoe",
+   "start": "2026-10-31T20:30:00-07:00",
+   "end": "2026-10-31T22:30:00-07:00",
    "allDay": false,
    "ongoing": false,
    "venue": {
-    "name": "The Cabaret at Caesars Republic Lake Tahoe",
-    "address": "18 Hwy 50, Lake Tahoe, NV",
-    "lat": 38.96031,
-    "lon": -119.9427
+    "name": "Caesars Republic Lake Tahoe (formerly Harveys)",
+    "address": "18 Hwy 50, Stateline, Nevada, 89449",
+    "lat": null,
+    "lon": null
    },
-   "area": "other",
-   "drive": null,
+   "area": "tahoe",
+   "drive": "~70 min",
    "price": null,
    "tier": "general",
    "hints": [
+    "music"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/dueling-pianos-at-caesars-republic-lake-tahoe/2026-10-31/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:245373",
+   "title": "Arty the Party at Harrah’s Lake Tahoe",
+   "start": "2026-10-31T21:00:00-07:00",
+   "end": "2026-10-31T23:59:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Harrah’s Center Stage",
+    "address": "15 Hwy 50, Stateline, NV, 89449",
+    "lat": 38.95938,
+    "lon": -119.94155
+   },
+   "area": "tahoe",
+   "drive": "~70 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/arty-the-party-at-harrahs-lake-tahoe/2026-10-31/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:245078",
+   "title": "Live Music at AleWorX Lake Tahoe",
+   "start": "2026-10-31T21:00:00-07:00",
+   "end": "2026-10-31T23:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Lake Tahoe AleWorX at the Y",
+    "address": "2050 Lake Tahoe Blvd., South Lake Tahoe, CA, 96150",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "music"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/lake-tahoe-aleworx-summer-music-series/2026-10-31/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:247335",
+   "title": "Lakeside Laughs Comedy Club at Caesars Republic Lake Tahoe",
+   "start": "2026-10-31T21:30:00-07:00",
+   "end": "2026-10-31T22:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Caesars Republic Lake Tahoe (formerly Harveys)",
+    "address": "18 Hwy 50, Stateline, Nevada, 89449",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~70 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "music",
     "21+"
    ],
    "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/lakeside-laughs-comedy-club-at-caesars-republic/2026-10-31/"
+    },
     {
      "source": "tm",
      "url": "https://www.ticketmaster.com/lakeside-laughs-comedy-club-lake-tahoe-nevada-10-31-2026/event/39006536D7693E43"
