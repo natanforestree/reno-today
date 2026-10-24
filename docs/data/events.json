@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-24T14:30:34Z",
+ "generatedAt": "2026-10-24T17:30:33Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -349,7 +349,10 @@
      "url": "https://www.google.com/maps/place/Northwest+Pool/@39.5364589,-119.8535652,872m/data=!3m2!1e3!4b1!4m6!3m5!1s0x809946e99446a55d:0x5ed4f5db7095ce9b!8m2!3d39.5364589!4d-119.8509903!16s%2Fg%2F1v_0j_mn?hl=en-US&entry=ttu&g_ep=EgoyMDI2MDkwOS4wIKXMDSoASAFQAw%3D%3D"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "reno:369-202610240900",
@@ -676,34 +679,6 @@
     {
      "source": "library",
      "url": "https://events.washoecountylibrary.us/event/16413299"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "discovery:43108",
-   "title": "Open Build: Last Minute Halloween",
-   "start": "2026-10-24T10:30:00-07:00",
-   "end": "2026-10-24T16:30:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Discovery",
-    "address": "490 S. Center Street, Reno, NV, 89501",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "little",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "discovery",
-     "url": "https://nvdm.org/event/open-build-last-minute-halloween-2026-10-24/"
     }
    ],
    "lovingReno": null
