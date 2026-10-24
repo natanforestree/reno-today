@@ -1,5 +1,5 @@
 {
- "at": "2026-10-24T02:30:33Z",
+ "at": "2026-10-24T05:30:32Z",
  "events": [
   {
    "id": "southtahoe:246622",
@@ -1360,43 +1360,6 @@
    "_kind": "organiser"
   },
   {
-   "id": "southtahoe:221463",
-   "title": "Zombie Ball at Whiskey Dick’s",
-   "start": "2026-10-24T21:00:00-07:00",
-   "end": "2026-10-24T23:59:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Whiskey Dick’s Saloon",
-    "address": "2660 Lake Tahoe Blvd., South Lake Tahoe, CA, 96150",
-    "lat": 38.92768,
-    "lon": -119.98214
-   },
-   "area": "tahoe",
-   "drive": "~75 min",
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/halloween-party-at-whiskey-dicks/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "21+",
-   "_tags": [
-    "attractions",
-    "music & dance",
-    "nightlife"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
    "id": "southtahoe:247333",
    "title": "Lakeside Laughs Comedy Club at Caesars Republic Lake Tahoe",
    "start": "2026-10-24T21:30:00-07:00",
@@ -1826,6 +1789,42 @@
    "_text": "",
    "_tags": [
     "attractions"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "southtahoe:236042",
+   "title": "Live Music at McP's Taphouse Tahoe",
+   "start": "2026-10-25T20:00:00-07:00",
+   "end": "2026-10-25T23:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "McP’s Taphouse Grill",
+    "address": "4125 Lake Tahoe Blvd., South Lake Tahoe, CA, 96150",
+    "lat": 38.95887,
+    "lon": -119.94228
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/live-music-at-mcps-tap-house-tahoe/2026-10-25/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "family Children live music",
+   "_tags": [
+    "free events",
+    "music & dance"
    ],
    "_family": false,
    "_adult": false,

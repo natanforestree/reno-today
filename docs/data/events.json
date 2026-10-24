@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-24T02:30:33Z",
+ "generatedAt": "2026-10-24T05:30:32Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -836,7 +836,10 @@
      "url": "https://visitcarsoncity.com/events/annual-halloween-museum-block-party/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "unr:53357164181309",
@@ -1054,7 +1057,10 @@
      "url": "https://visitcarsoncity.com/events/fright-at-the-museum/2026-10-23/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "carson:81028",
@@ -2256,7 +2262,10 @@
      "url": "https://downtownreno.org/event/15th-annual-halloween-trick-or-treat-the-discovery/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "carson:10006273",
@@ -2716,7 +2725,10 @@
      "url": "https://visitvirginiacitynv.com/event/the-spirits-made-me-do-it-saloon-crawl/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "downtown:10005686",
@@ -3018,7 +3030,10 @@
      "url": "https://hollandreno.org/events/halloween-show-2026/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "carson:10006333",
@@ -3047,7 +3062,10 @@
      "url": "https://visitcarsoncity.com/events/fright-at-the-museum/2026-10-24/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "reno:202-202610241800",
@@ -3711,34 +3729,6 @@
    "lovingReno": null
   },
   {
-   "id": "southtahoe:221463",
-   "title": "Zombie Ball at Whiskey Dick’s",
-   "start": "2026-10-24T21:00:00-07:00",
-   "end": "2026-10-24T23:59:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Whiskey Dick’s Saloon",
-    "address": "2660 Lake Tahoe Blvd., South Lake Tahoe, CA, 96150",
-    "lat": 38.92768,
-    "lon": -119.98214
-   },
-   "area": "tahoe",
-   "drive": "~75 min",
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "21+"
-   ],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/halloween-party-at-whiskey-dicks/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
    "id": "southtahoe:247333",
    "title": "Lakeside Laughs Comedy Club at Caesars Republic Lake Tahoe",
    "start": "2026-10-24T21:30:00-07:00",
@@ -4059,7 +4049,10 @@
      "url": "https://www.renofarmersmarket.com/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "unr:54284778861741",
@@ -4434,7 +4427,10 @@
      "url": "https://events.unr.edu/event/dia-de-los-muertos"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "library:17246321",
@@ -4800,6 +4796,34 @@
     {
      "source": "tm",
      "url": "https://www.ticketmaster.com/lakeside-laughs-comedy-club-lake-tahoe-nevada-10-25-2026/event/39006536D75E3E1F"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:236042",
+   "title": "Live Music at McP's Taphouse Tahoe",
+   "start": "2026-10-25T20:00:00-07:00",
+   "end": "2026-10-25T23:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "McP’s Taphouse Grill",
+    "address": "4125 Lake Tahoe Blvd., South Lake Tahoe, CA, 96150",
+    "lat": 38.95887,
+    "lon": -119.94228
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "music"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/live-music-at-mcps-tap-house-tahoe/2026-10-25/"
     }
    ],
    "lovingReno": null
@@ -7740,7 +7764,10 @@
      "url": "https://renofoodtruckevents.com/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "library:10710442",
@@ -9036,7 +9063,10 @@
      "url": "https://www.reno.gov/calendar"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "carson:60403",
@@ -10120,7 +10150,10 @@
      "url": "https://tockify.com/wcparks/detail/715/1793379600000"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "reno:377-202610301430",
@@ -10460,7 +10493,10 @@
      "url": "https://downtownreno.org/event/the-rocky-horror-picture-show/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "tm:1718v0G6CFOtZXy",
