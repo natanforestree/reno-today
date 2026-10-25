@@ -1,157 +1,6 @@
 {
- "at": "2026-10-25T05:20:43Z",
+ "at": "2026-10-25T08:30:31Z",
  "events": [
-  {
-   "id": "carson:80712",
-   "title": "Fall Colors Wagon Ride",
-   "start": "2026-10-24T00:00:00-07:00",
-   "end": "2026-10-25T00:00:00-07:00",
-   "allDay": true,
-   "ongoing": false,
-   "venue": {
-    "name": "Silver Saddle Ranch",
-    "address": "4901 Carson River Road, Carson City, NV, 89701",
-    "lat": 39.12973,
-    "lon": -119.67309
-   },
-   "area": "carson",
-   "drive": "~35 min",
-   "price": {
-    "min": 18.0,
-    "max": 18.0
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "carson",
-     "url": "https://visitcarsoncity.com/events/fall-color-wagon-ride/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "Children",
-   "_tags": [
-    "carson city",
-    "carson city fall color wagon rides",
-    "carson city fall wagon rides",
-    "carson city nevada",
-    "carson city wagon rides",
-    "friends of silver saddle ranch",
-    "friends of silver saddle ranch fall color wagon rides",
-    "friends of silver saddle ranch wagon rides",
-    "history",
-    "outdoor",
-    "silver saddle ranch fall color wagon rides",
-    "silver saddle ranch wagon rides carson city",
-    "visit carson city",
-    "visit carson city nevada",
-    "what to do in carson city"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "carson:10006273",
-   "title": "Carson City Ghost Walk",
-   "start": "2026-10-24T10:00:00-07:00",
-   "end": "2026-10-24T14:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Bob McFadden Plaza (Third Street Stage)",
-    "address": "223 W Third St., Carson City, NV, 89703",
-    "lat": 39.16256,
-    "lon": -119.76784
-   },
-   "area": "carson",
-   "drive": "~35 min",
-   "price": {
-    "min": 25.0,
-    "max": 25.0
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "carson",
-     "url": "https://visitcarsoncity.com/events/carson-city-ghost-walk/2026-10-24/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "annual event",
-    "arts & culture",
-    "carson city ghost walk",
-    "downtown carson city",
-    "history",
-    "madame curry"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "carson:10006333",
-   "title": "Fright at the Museum",
-   "start": "2026-10-24T18:00:00-07:00",
-   "end": "2026-10-24T21:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Nevada State Museum",
-    "address": "600 North Carson Street, Carson City, NV, 89701",
-    "lat": 39.16773,
-    "lon": -119.76741
-   },
-   "area": "carson",
-   "drive": "~35 min",
-   "price": {
-    "min": 15.0,
-    "max": 15.0
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "carson",
-     "url": "https://visitcarsoncity.com/events/fright-at-the-museum/2026-10-24/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "CHILDREN",
-   "_tags": [
-    "carson city",
-    "carson city events",
-    "carson city nevada",
-    "events in carson city",
-    "fright at the museum",
-    "halloween",
-    "halloween carson city",
-    "halloween carson city nv",
-    "halloween events",
-    "halloween events near reno nv",
-    "haunted house",
-    "haunted house carson city",
-    "haunted museum",
-    "haunted museum carson city",
-    "holiday",
-    "nevada state museum",
-    "things to do in carson city",
-    "visit carson city",
-    "what to do in carson city"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "carson:81053",
    "title": "Dances and Meditations",
@@ -290,6 +139,71 @@
     "tami force",
     "things to do carson city nv",
     "what to do in carson city nv"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:67706",
+   "title": "Nevada Day Weekend Schedule",
+   "start": "2026-10-30T00:00:00-07:00",
+   "end": "2026-11-01T00:00:00-07:00",
+   "allDay": true,
+   "ongoing": false,
+   "venue": {
+    "name": "Downtown, Carson City",
+    "address": "201 W. King St., Carson City, NV, 89701",
+    "lat": 39.16372,
+    "lon": -119.76803
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/nevada-day/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "live music",
+   "_tags": [
+    "annual event",
+    "annual nevada builders foundation nevada day breakfast buffet",
+    "battle born beer and lunch",
+    "carson city republican women’s club",
+    "carson mall",
+    "cipriani’s downtown barber shop",
+    "costumes",
+    "downtown carson city",
+    "events",
+    "friday events",
+    "great reno balloon race",
+    "historical east-side tour",
+    "hot air balloons",
+    "largest celebration of statehood",
+    "live music",
+    "nevada day",
+    "nevada day classic",
+    "nevada day powwow",
+    "nevada day tradition",
+    "nevada day weekend",
+    "nevada railroad museum",
+    "nevada state museum",
+    "nevada state railroad museum",
+    "northern nevada fall fest",
+    "pancake breakfast at the governor’s mansion",
+    "star spangled banner",
+    "stewart indian school cultural center & museum",
+    "the capital city community band",
+    "world championship single jack rock drilling contest"
    ],
    "_family": false,
    "_adult": false,
