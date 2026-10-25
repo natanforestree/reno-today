@@ -1,5 +1,5 @@
 {
- "at": "2026-10-25T05:20:43Z",
+ "at": "2026-10-25T17:30:31Z",
  "events": [
   {
    "id": "reno:4-202601100256",
@@ -4628,6 +4628,41 @@
    "_kind": "organiser"
   },
   {
+   "id": "reno:288-202611011400",
+   "title": "Dia de los Muertos",
+   "start": "2026-11-01T14:00:00-08:00",
+   "end": "2026-11-01T23:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Locomotion Plaza and Downtown Reno",
+    "address": "Locomotion Plaza and Downtown Reno",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "reno",
+     "url": "https://www.reno.gov/calendar"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "family families children’s",
+   "_tags": [
+    "special events"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
    "id": "reno:289-202610040800",
    "title": "2026 Rock Reno Half Marathon, Relay and 5K",
    "start": "2026-10-04T08:00:00-07:00",
@@ -5531,43 +5566,6 @@
    "_kind": "organiser"
   },
   {
-   "id": "reno:369-202610240900",
-   "title": "Rolling Receration (Barbara Bennett Park)",
-   "start": "2026-10-24T09:00:00-07:00",
-   "end": "2026-10-24T12:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Barbara Bennett Park",
-    "address": "Barbara Bennett Park, 400 Island Ave., Reno, NV 89501",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "reno",
-     "url": "https://reno.gov/parks-and-recreation/recreation/rolling-recreation.php"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "events",
-    "parks & rec",
-    "youth"
-   ],
-   "_family": true,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
    "id": "reno:369-202610310900",
    "title": "Rolling Receration (Barbara Bennett Park)",
    "start": "2026-10-31T09:00:00-07:00",
@@ -5799,43 +5797,6 @@
    "venue": {
     "name": "Reno City Plaza",
     "address": "Reno City Plaza",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "reno",
-     "url": "https://reno.gov/parks-and-recreation/recreation/rolling-recreation.php"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "events",
-    "parks & rec",
-    "youth"
-   ],
-   "_family": true,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "reno:378-202610240900",
-   "title": "Rolling Recreation (Yori Park)",
-   "start": "2026-10-24T09:00:00-07:00",
-   "end": "2026-10-24T12:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Yori Park 2800 Yori Wy. Reno",
-    "address": "Yori Park 2800 Yori Wy. Reno, Nevada 89502",
     "lat": null,
     "lon": null
    },
@@ -6325,43 +6286,6 @@
    "_kind": "organiser"
   },
   {
-   "id": "reno:439-202610241300",
-   "title": "Rec Swim Movie at the Pool",
-   "start": "2026-10-24T13:00:00-07:00",
-   "end": "2026-10-24T15:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Moana Comp Pool",
-    "address": "Moana Comp Pool",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "reno",
-     "url": "https://www.reno.gov/calendar"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "aquatics",
-    "parks & rec",
-    "youth"
-   ],
-   "_family": true,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
    "id": "reno:439-202610251300",
    "title": "Rec Swim Movie at the Pool",
    "start": "2026-10-25T13:00:00-07:00",
@@ -6403,6 +6327,43 @@
    "title": "Rec Swim Movie at the Pool",
    "start": "2026-10-31T13:00:00-07:00",
    "end": "2026-10-31T15:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Moana Comp Pool",
+    "address": "Moana Comp Pool",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "reno",
+     "url": "https://www.reno.gov/calendar"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "aquatics",
+    "parks & rec",
+    "youth"
+   ],
+   "_family": true,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "reno:439-202611011300",
+   "title": "Rec Swim Movie at the Pool",
+   "start": "2026-11-01T13:00:00-08:00",
+   "end": "2026-11-01T15:00:00-08:00",
    "allDay": false,
    "ongoing": false,
    "venue": {

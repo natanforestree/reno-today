@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-25T14:30:32Z",
+ "generatedAt": "2026-10-25T17:30:31Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -9079,6 +9079,36 @@
    "lovingReno": null
   },
   {
+   "id": "library:10710985",
+   "title": "Family Games Day",
+   "start": "2026-11-01T00:00:00-07:00",
+   "end": null,
+   "allDay": true,
+   "ongoing": true,
+   "venue": {
+    "name": "Spanish Springs Library",
+    "address": "7100A Pyramid Hwy, Sparks, NV 89436",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/10710985"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "southtahoe:246631",
    "title": "World Series of Poker Circuit Event at Caesars Republic Lake Tahoe",
    "start": "2026-11-01T00:00:00-07:00",
@@ -9283,6 +9313,64 @@
    "lovingReno": null
   },
   {
+   "id": "library:14216297",
+   "title": "Sunday Funday",
+   "start": "2026-11-01T11:00:00-08:00",
+   "end": "2026-11-01T12:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Northwest Reno Library",
+    "address": "2325 Robb Dr, Reno, NV 89523",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/14216297"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "reno:439-202611011300",
+   "title": "Rec Swim Movie at the Pool",
+   "start": "2026-11-01T13:00:00-08:00",
+   "end": "2026-11-01T15:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Moana Comp Pool",
+    "address": "Moana Comp Pool",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "reno",
+     "url": "https://www.reno.gov/calendar"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "southtahoe:238159",
    "title": "Tea with an Edge at Edge Restaurant & Lounge",
    "start": "2026-11-01T13:30:00-08:00",
@@ -9310,6 +9398,67 @@
     }
    ],
    "lovingReno": null
+  },
+  {
+   "id": "library:17050498",
+   "title": "Chats & Charlas",
+   "start": "2026-11-01T14:00:00-08:00",
+   "end": "2026-11-01T15:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Spanish Springs Library",
+    "address": "7100A Pyramid Hwy, Sparks, NV 89436",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17050498"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "reno:288-202611011400",
+   "title": "Dia de los Muertos",
+   "start": "2026-11-01T14:00:00-08:00",
+   "end": "2026-11-01T23:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Locomotion Plaza and Downtown Reno",
+    "address": "Locomotion Plaza and Downtown Reno",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "reno",
+     "url": "https://www.reno.gov/calendar"
+    }
+   ],
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "southtahoe:244035",
