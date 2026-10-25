@@ -1,43 +1,6 @@
 {
- "at": "2026-10-25T20:30:32Z",
+ "at": "2026-10-25T23:30:33Z",
  "events": [
-  {
-   "id": "tm:Z7r9jZ1AAZz7z",
-   "title": "Nevada Wolfpack Mens Basketball vs. Portland State Vikings Mens Basketball",
-   "start": "2026-10-25T13:30:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Lawlor Events Center",
-    "address": "15th & N. Virginia St., Reno, NV",
-    "lat": 39.5386,
-    "lon": -119.8171
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZz7z"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "basketball",
-    "college",
-    "sports"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
   {
    "id": "tm:1A9ZkffGkeTBL9K",
    "title": "Tahoe Knight Monsters vs. New Mexico Goatheads",

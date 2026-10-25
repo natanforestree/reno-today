@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-25T20:30:32Z",
+ "generatedAt": "2026-10-25T23:30:33Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -521,10 +521,6 @@
     {
      "source": "wolfpack",
      "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14247&sport_id=4"
-    },
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZz7z"
     }
    ],
    "lovingReno": null
