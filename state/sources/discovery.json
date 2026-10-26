@@ -1,5 +1,5 @@
 {
- "at": "2026-10-26T11:30:33Z",
+ "at": "2026-10-26T14:30:34Z",
  "events": [
   {
    "id": "discovery:43375",
@@ -65,6 +65,41 @@
    "_tags": [
     "hands-on activity",
     "maker project"
+   ],
+   "_family": true,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "discovery:7533",
+   "title": "Nevada Day: Museum Open",
+   "start": "2026-10-30T00:00:00-07:00",
+   "end": "2026-10-31T00:00:00-07:00",
+   "allDay": true,
+   "ongoing": false,
+   "venue": {
+    "name": "The Discovery",
+    "address": "490 S. Center Street, Reno, NV, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "discovery",
+     "url": "https://nvdm.org/event/nevada-day-museum-open/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "holiday hours"
    ],
    "_family": true,
    "_adult": false,
