@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-26T14:30:34Z",
+ "generatedAt": "2026-10-26T17:30:33Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -2941,10 +2941,7 @@
      "url": "https://renofoodtruckevents.com/"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "library:10710442",
@@ -3225,6 +3222,34 @@
     {
      "source": "southtahoe",
      "url": "https://visitlaketahoe.com/event/magic-fusion-at-the-loft-theatre/2026-10-28/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:54321356874090",
+   "title": "Obsession Movie",
+   "start": "2026-10-28T19:00:00-07:00",
+   "end": "2026-10-28T21:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Joe Crowley Student Union (JCSU)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/obsession-movie"
     }
    ],
    "lovingReno": null
@@ -4270,10 +4295,7 @@
      "url": "https://www.reno.gov/calendar"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "carson:60403",
@@ -5500,10 +5522,7 @@
      "url": "https://tockify.com/wcparks/detail/715/1793379600000"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "unr:53743917467715",
@@ -5986,10 +6005,7 @@
      "url": "https://downtownreno.org/event/the-rocky-horror-picture-show/"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "tm:1718v0G6CFOtZXy",
@@ -7139,10 +7155,7 @@
      "url": "https://www.reno.gov/calendar"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "library:15396564",
@@ -7476,10 +7489,7 @@
      "url": "https://visitvirginiacitynv.com/event/nevada-statehood-ball/"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "southtahoe:183486",
@@ -7728,10 +7738,7 @@
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvvbp"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "southtahoe:246805",
@@ -8241,10 +8248,7 @@
      "url": "https://www.renofarmersmarket.com/"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "downtown:127887",
@@ -8502,10 +8506,7 @@
      "url": "https://www.reno.gov/calendar"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "southtahoe:244035",
@@ -8871,6 +8872,36 @@
    "lovingReno": null
   },
   {
+   "id": "library:17141146",
+   "title": "Letters for Heroes",
+   "start": "2026-11-02T00:00:00-08:00",
+   "end": null,
+   "allDay": true,
+   "ongoing": true,
+   "venue": {
+    "name": "North Valleys Library",
+    "address": "1075 N Hills Blvd Ste 340, Reno, NV 89506",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17141146"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "southtahoe:246632",
    "title": "World Series of Poker Circuit Event at Caesars Republic Lake Tahoe",
    "start": "2026-11-02T00:00:00-08:00",
@@ -8894,6 +8925,216 @@
     {
      "source": "southtahoe",
      "url": "https://visitlaketahoe.com/event/world-series-of-poker-circuit-event-at-caesars-republic-lake-tahoe/2026-11-02/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17308750",
+   "title": "Book a Librarian",
+   "start": "2026-11-02T10:00:00-08:00",
+   "end": "2026-11-02T11:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Senior Center Library",
+    "address": "1155 E 9th St, Reno, NV 89512",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17308750"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:14984815",
+   "title": "Canceled - American Mahjong",
+   "start": "2026-11-02T10:00:00-08:00",
+   "end": "2026-11-02T12:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "South Valleys Library",
+    "address": "15650-A Wedge Pkwy, Reno, NV 89511",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/14984815"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17038697",
+   "title": "Baby Social",
+   "start": "2026-11-02T10:30:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Incline Village Library",
+    "address": "845 Alder Ave, Incline Village, NV 89451",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~45 min",
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17038697"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:14579397",
+   "title": "Family Story Time",
+   "start": "2026-11-02T10:30:00-08:00",
+   "end": "2026-11-02T11:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Spanish Springs Library",
+    "address": "7100A Pyramid Hwy, Sparks, NV 89436",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/14579397"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:16862511",
+   "title": "Baby Story Time",
+   "start": "2026-11-02T10:45:00-08:00",
+   "end": "2026-11-02T11:15:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sparks Library",
+    "address": "1125 12th St, Sparks, NV 89431",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/16862511"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17308801",
+   "title": "Book a Librarian",
+   "start": "2026-11-02T11:30:00-08:00",
+   "end": "2026-11-02T12:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Senior Center Library",
+    "address": "1155 E 9th St, Reno, NV 89512",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17308801"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17221574",
+   "title": "Día de los Muertos: Calaveras",
+   "start": "2026-11-02T15:00:00-08:00",
+   "end": "2026-11-02T16:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Downtown Reno Library",
+    "address": "301 S Center St, Reno, NV 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17221574"
     }
    ],
    "lovingReno": null

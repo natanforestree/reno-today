@@ -1,5 +1,5 @@
 {
- "at": "2026-10-26T05:30:33Z",
+ "at": "2026-10-26T17:30:33Z",
  "events": [
   {
    "id": "reno:4-202601100256",
@@ -6280,43 +6280,6 @@
     "parks & rec"
    ],
    "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "reno:439-202610251300",
-   "title": "Rec Swim Movie at the Pool",
-   "start": "2026-10-25T13:00:00-07:00",
-   "end": "2026-10-25T15:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Moana Comp Pool",
-    "address": "Moana Comp Pool",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "reno",
-     "url": "https://www.reno.gov/calendar"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "aquatics",
-    "parks & rec",
-    "youth"
-   ],
-   "_family": true,
    "_adult": false,
    "_allAges": false,
    "_outdoor": false,
