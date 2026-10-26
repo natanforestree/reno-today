@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-26T08:30:33Z",
+ "generatedAt": "2026-10-26T11:30:33Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -57,35 +57,6 @@
     {
      "source": "wcparks",
      "url": "https://tockify.com/wcparks/detail/716/1792796400000"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "southtahoe:245614",
-   "title": "Live Music at Tessie’s Cocktails & Chords inside Caesars Republic",
-   "start": "2026-10-25T19:30:00-07:00",
-   "end": "2026-10-26T02:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Tessie’s Cocktails & Chords inside Caesars Republic",
-    "address": "18 US-50, Stateline, Nevada, 89449",
-    "lat": null,
-    "lon": null
-   },
-   "area": "tahoe",
-   "drive": "~70 min",
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "music",
-    "21+"
-   ],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/live-music-at-tessies-cocktails-chords-inside-caesars-republic/2026-10-25/"
     }
    ],
    "lovingReno": null
@@ -8703,6 +8674,35 @@
    "lovingReno": null
   },
   {
+   "id": "southtahoe:245621",
+   "title": "Live Music at Tessie’s Cocktails & Chords inside Caesars Republic",
+   "start": "2026-11-01T19:30:00-08:00",
+   "end": "2026-11-02T02:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Tessie’s Cocktails & Chords inside Caesars Republic",
+    "address": "18 US-50, Stateline, Nevada, 89449",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~70 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "music",
+    "21+"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/live-music-at-tessies-cocktails-chords-inside-caesars-republic/2026-11-01/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "tm:17AYv0G6CJJS5zi",
    "title": "38 Special",
    "start": "2026-11-01T20:00:00-08:00",
@@ -8843,6 +8843,90 @@
    "lovingReno": null
   },
   {
+   "id": "southtahoe:246632",
+   "title": "World Series of Poker Circuit Event at Caesars Republic Lake Tahoe",
+   "start": "2026-11-02T00:00:00-08:00",
+   "end": "2026-11-02T00:00:00-08:00",
+   "allDay": true,
+   "ongoing": false,
+   "venue": {
+    "name": "Caesars Republic Lake Tahoe (formerly Harveys)",
+    "address": "18 Hwy 50, Stateline, Nevada, 89449",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~70 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/world-series-of-poker-circuit-event-at-caesars-republic-lake-tahoe/2026-11-02/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:220884",
+   "title": "Live Music at Casey's",
+   "start": "2026-11-02T17:00:00-08:00",
+   "end": "2026-11-02T20:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Casey’s",
+    "address": "212 Elks Point Rd #101, Zephyr Cove, NV, 89448",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~65 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "music"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/live-music-at-caseys/2026-11-02/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:230347",
+   "title": "Magic Fusion at The Loft Theatre",
+   "start": "2026-11-02T19:00:00-08:00",
+   "end": "2026-11-02T20:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Loft Theatre & Lounge at the Heavenly Village",
+    "address": "1021 Heavenly Village Way, South Lake Tahoe, CA, 96150",
+    "lat": 38.95559,
+    "lon": -119.94234
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "21+"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/magic-fusion-at-the-loft-theatre/2026-11-02/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "tm:1Ae0Z_fGklYx-u3",
    "title": "Missing Link",
    "start": "2026-11-02T19:00:00-08:00",
@@ -8866,6 +8950,32 @@
     {
      "source": "tm",
      "url": "https://www.ticketweb.com/event/missing-link-club-underground-tickets/14374244?REFERRAL_ID=tmfeed"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:244051",
+   "title": "Monday Night Putters at Tipsy Putt",
+   "start": "2026-11-02T19:00:00-08:00",
+   "end": "2026-11-02T21:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Tipsy Putt Tahoe",
+    "address": "4101 Lake Tahoe Blvd. #101, South Lake Tahoe, California, 96150",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/monday-night-football-buffet-at-tipsy-putt/2026-11-02/"
     }
    ],
    "lovingReno": null
@@ -8952,6 +9062,34 @@
     {
      "source": "tm",
      "url": "https://www.ticketweb.com/event/token-clark-d-delivery-boys-club-underground-tickets/14257064?REFERRAL_ID=tmfeed"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:236047",
+   "title": "Live Music at McP's Taphouse Tahoe",
+   "start": "2026-11-02T20:00:00-08:00",
+   "end": "2026-11-02T23:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "McP’s Taphouse Grill",
+    "address": "4125 Lake Tahoe Blvd., South Lake Tahoe, CA, 96150",
+    "lat": 38.95887,
+    "lon": -119.94228
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "music"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/live-music-at-mcps-tap-house-tahoe/2026-11-02/"
     }
    ],
    "lovingReno": null
