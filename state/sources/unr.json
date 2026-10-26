@@ -1,5 +1,5 @@
 {
- "at": "2026-10-26T20:30:33Z",
+ "at": "2026-10-26T23:30:32Z",
  "events": [
   {
    "id": "unr:53543176645332",
@@ -1033,6 +1033,43 @@
     "extension: partners in parenting",
     "family engagement",
     "health, safety & wellness"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:54348234243253",
+   "title": "Documentary screening: Lurdes Iriondo: Ez Gera Alferrik Pasako",
+   "start": "2026-10-28T17:00:00-07:00",
+   "end": "2026-10-28T19:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Wells Fargo Auditorium",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/documentary-screening-lurdes-iriondo-ez-gera-alferrik-pasako"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & culture",
+    "basque library",
+    "community outreach"
    ],
    "_family": false,
    "_adult": false,
