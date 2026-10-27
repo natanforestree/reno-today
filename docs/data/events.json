@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-27T14:30:33Z",
+ "generatedAt": "2026-10-27T17:30:35Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -57,35 +57,6 @@
     {
      "source": "wcparks",
      "url": "https://tockify.com/wcparks/detail/716/1792796400000"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "southtahoe:245615",
-   "title": "Live Music at Tessie’s Cocktails & Chords inside Caesars Republic",
-   "start": "2026-10-26T19:30:00-07:00",
-   "end": "2026-10-27T02:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Tessie’s Cocktails & Chords inside Caesars Republic",
-    "address": "18 US-50, Stateline, Nevada, 89449",
-    "lat": null,
-    "lon": null
-   },
-   "area": "tahoe",
-   "drive": "~70 min",
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "music",
-    "21+"
-   ],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/live-music-at-tessies-cocktails-chords-inside-caesars-republic/2026-10-26/"
     }
    ],
    "lovingReno": null
@@ -2594,6 +2565,34 @@
    "lovingReno": null
   },
   {
+   "id": "southtahoe:247906",
+   "title": "Ski Run Presents: Dillon Osleger and the Hidden History of Trails",
+   "start": "2026-10-28T17:30:00-07:00",
+   "end": "2026-10-28T18:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Black Bear Lodge",
+    "address": "1202 Ski Run Blvd, South Lake Tahoe, CA, 96150",
+    "lat": 38.94222,
+    "lon": -119.95344
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "outdoors"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/ski-run-presents-dillon-osleger-and-the-hidden-history-of-trails/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "downtown:10005690",
    "title": "Bluey’s Big Play: Pioneer Center for the Performing Arts",
    "start": "2026-10-28T18:00:00-07:00",
@@ -3462,6 +3461,34 @@
    "lovingReno": null
   },
   {
+   "id": "unr:54355580782716",
+   "title": "Dissertation Defense - Glenn Blessington",
+   "start": "2026-10-29T12:00:00-07:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Effie Mona Mack Building (EMM)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/dissertation-defense-glenn-blessington"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "unr:53743835882298",
    "title": "Earth's Winding Sheet",
    "start": "2026-10-29T12:00:00-07:00",
@@ -3571,6 +3598,34 @@
     {
      "source": "unr",
      "url": "https://events.unr.edu/event/without-mountains-and-rivers-without-end-speculative-geographics-on-an-interior-northwest"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:54355662525849",
+   "title": "Dissertation Defense - An Tran",
+   "start": "2026-10-29T13:00:00-07:00",
+   "end": "2026-10-29T14:30:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Joe Crowley Student Union (JCSU)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/dissertation-defense-an-tran"
     }
    ],
    "lovingReno": null
@@ -8900,6 +8955,35 @@
    "lovingReno": null
   },
   {
+   "id": "southtahoe:245622",
+   "title": "Live Music at Tessie’s Cocktails & Chords inside Caesars Republic",
+   "start": "2026-11-02T19:30:00-08:00",
+   "end": "2026-11-03T02:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Tessie’s Cocktails & Chords inside Caesars Republic",
+    "address": "18 US-50, Stateline, Nevada, 89449",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~70 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "music",
+    "21+"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/live-music-at-tessies-cocktails-chords-inside-caesars-republic/2026-11-02/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "southtahoe:236047",
    "title": "Live Music at McP's Taphouse Tahoe",
    "start": "2026-11-02T20:00:00-08:00",
@@ -9040,6 +9124,34 @@
     {
      "source": "reno",
      "url": "https://www.reno.gov/calendar"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:225490",
+   "title": "Tipsy Putt Events",
+   "start": "2026-11-03T10:00:00-08:00",
+   "end": "2026-11-03T23:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Tipsy Putt Tahoe",
+    "address": "4101 Lake Tahoe Blvd. #101, South Lake Tahoe, California, 96150",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/tipsy-putt-events/2026-11-03/"
     }
    ],
    "lovingReno": null
@@ -9525,6 +9637,58 @@
    "lovingReno": null
   },
   {
+   "id": "southtahoe:247652",
+   "title": "Lil’ Rockers Youth Curling Lessons at Lake Tahoe",
+   "start": "2026-11-03T17:00:00-08:00",
+   "end": "2026-11-03T18:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Lake Tahoe Epic Curling",
+    "address": "128 Market St #1A, Stateline, Nevada, 89449",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~70 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/lil-rockers-youth-curling-lessons-at-lake-tahoe/2026-11-03/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:228562",
+   "title": "Candle Making Workshop at South Lake Brewing Co",
+   "start": "2026-11-03T18:00:00-08:00",
+   "end": "2026-11-03T20:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "South Lake Brewing Co",
+    "address": "1920 Lake Tahoe Blvd., South Lake Tahoe, CA, 96150",
+    "lat": 38.9118,
+    "lon": -120.00736
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/candle-making-workshop-at-south-lake-brewing-co/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "library:17010555",
    "title": "Fireside Hush Hour",
    "start": "2026-11-03T18:00:00-08:00",
@@ -9585,6 +9749,88 @@
    "lovingReno": null
   },
   {
+   "id": "southtahoe:230348",
+   "title": "Magic Fusion at The Loft Theatre",
+   "start": "2026-11-03T19:00:00-08:00",
+   "end": "2026-11-03T20:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Loft Theatre & Lounge at the Heavenly Village",
+    "address": "1021 Heavenly Village Way, South Lake Tahoe, CA, 96150",
+    "lat": 38.95559,
+    "lon": -119.94234
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "21+"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/magic-fusion-at-the-loft-theatre/2026-11-03/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:241952",
+   "title": "Trivia Tuesdays at South of North Brewing Co.",
+   "start": "2026-11-03T19:00:00-08:00",
+   "end": "2026-11-03T21:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "South of North Brewing Company",
+    "address": "932 Stateline Ave, South Lake Tahoe, California, 96150",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/tuesday-trivia-at-south-of-north-brewing/2026-11-03/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:226481",
+   "title": "Live Music at McP's Taphouse Tahoe",
+   "start": "2026-11-03T20:00:00-08:00",
+   "end": "2026-11-03T23:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "McP’s Taphouse Grill",
+    "address": "4125 Lake Tahoe Blvd., South Lake Tahoe, CA, 96150",
+    "lat": 38.95887,
+    "lon": -119.94228
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "music"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/live-music-at-mcps-tap-house-tahoe/2026-11-03/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "tm:rZ7HnEZ1Afad-f",
    "title": "The Last Revel, Nathaniel Riley",
    "start": "2026-11-03T20:00:00-08:00",
@@ -9611,6 +9857,34 @@
     {
      "source": "tm",
      "url": "https://www.ticketweb.com/event/the-last-revel-nathaniel-riley-the-alpine-tickets/14243854"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:229946",
+   "title": "Tuesday Night Blues at Harrah’s Lake Tahoe",
+   "start": "2026-11-03T20:00:00-08:00",
+   "end": "2026-11-03T23:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Casino Center Stage inside Harrah’s Lake Tahoe",
+    "address": "15 Hwy 50, Stateline, NV, 89449",
+    "lat": 38.95938,
+    "lon": -119.94155
+   },
+   "area": "tahoe",
+   "drive": "~70 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "music"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/tuesday-night-blues-at-harrahs-lake-tahoe/2026-11-03/"
     }
    ],
    "lovingReno": null
