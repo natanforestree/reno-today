@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-27T17:30:35Z",
+ "generatedAt": "2026-10-27T20:30:33Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -995,37 +995,6 @@
     {
      "source": "southtahoe",
      "url": "https://visitlaketahoe.com/event/paint-sip-idle-hour-wine-bubbly-bar/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "holland:96834",
-   "title": "Writing Dread Workshop",
-   "start": "2026-10-27T18:00:00-07:00",
-   "end": "2026-10-27T19:30:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "ZOOM",
-    "address": null,
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "min": 10.0,
-    "max": 10.0
-   },
-   "tier": "general",
-   "hints": [
-    "all-ages"
-   ],
-   "links": [
-    {
-     "source": "holland",
-     "url": "https://hollandreno.org/events/writing-dread-workshop/"
     }
    ],
    "lovingReno": null
