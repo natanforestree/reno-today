@@ -1,32 +1,32 @@
 {
- "generatedAt": "2026-10-27T20:30:33Z",
+ "generatedAt": "2026-10-27T23:30:32Z",
  "sources": {
   "ticketmaster": {
    "label": "Ticketmaster",
    "ok": true,
    "count": 27,
-   "lastSuccess": "2026-10-27T20:30:33Z",
+   "lastSuccess": "2026-10-27T23:30:32Z",
    "error": null
   },
   "unr": {
    "label": "UNR events",
    "ok": true,
    "count": 57,
-   "lastSuccess": "2026-10-27T20:30:33Z",
+   "lastSuccess": "2026-10-27T23:30:32Z",
    "error": null
   },
   "wolfpack": {
    "label": "Nevada Wolf Pack",
    "ok": true,
    "count": 89,
-   "lastSuccess": "2026-10-27T20:30:33Z",
+   "lastSuccess": "2026-10-27T23:30:32Z",
    "error": null
   },
   "aces": {
    "label": "Reno Aces",
    "ok": true,
    "count": 0,
-   "lastSuccess": "2026-10-27T20:30:33Z",
+   "lastSuccess": "2026-10-27T23:30:32Z",
    "error": null
   },
   "library": {
@@ -40,21 +40,21 @@
    "label": "Washoe County Parks",
    "ok": true,
    "count": 19,
-   "lastSuccess": "2026-10-27T20:30:33Z",
+   "lastSuccess": "2026-10-27T23:30:32Z",
    "error": null
   },
   "standing": {
    "label": "Weekly regulars",
    "ok": true,
    "count": 1,
-   "lastSuccess": "2026-10-27T20:30:33Z",
+   "lastSuccess": "2026-10-27T23:30:32Z",
    "error": null
   },
   "discovery": {
    "label": "The Discovery",
    "ok": true,
    "count": 6,
-   "lastSuccess": "2026-10-27T20:30:33Z",
+   "lastSuccess": "2026-10-27T23:30:32Z",
    "error": null
   },
   "reno": {
@@ -75,49 +75,49 @@
    "label": "Visit Carson City",
    "ok": true,
    "count": 5,
-   "lastSuccess": "2026-10-27T20:30:33Z",
+   "lastSuccess": "2026-10-27T23:30:32Z",
    "error": null
   },
   "southtahoe": {
    "label": "Visit Lake Tahoe",
    "ok": true,
    "count": 96,
-   "lastSuccess": "2026-10-27T20:30:33Z",
+   "lastSuccess": "2026-10-27T23:30:32Z",
    "error": null
   },
   "vcity": {
    "label": "Virginia City",
-   "ok": true,
+   "ok": false,
    "count": 4,
    "lastSuccess": "2026-10-27T20:30:33Z",
-   "error": null
+   "error": "not JSON: a bot-check page (HTTP 202, text/html, 299 bytes) (https://visitvirginiacitynv.com/wp-json/tribe/events/v1/events)"
   },
   "downtown": {
    "label": "Downtown Reno",
    "ok": true,
    "count": 11,
-   "lastSuccess": "2026-10-27T20:30:33Z",
+   "lastSuccess": "2026-10-27T23:30:32Z",
    "error": null
   },
   "holland": {
    "label": "The Holland Project",
    "ok": true,
    "count": 6,
-   "lastSuccess": "2026-10-27T20:30:33Z",
+   "lastSuccess": "2026-10-27T23:30:32Z",
    "error": null
   },
   "lovingreno": {
    "label": "Loving Reno",
    "ok": true,
    "count": 1,
-   "lastSuccess": "2026-10-27T20:30:33Z",
+   "lastSuccess": "2026-10-27T23:30:32Z",
    "error": null
   },
   "weather": {
    "label": "Weather (Open-Meteo)",
    "ok": true,
    "count": 1,
-   "lastSuccess": "2026-10-27T20:30:33Z",
+   "lastSuccess": "2026-10-27T23:30:32Z",
    "error": null
   }
  }

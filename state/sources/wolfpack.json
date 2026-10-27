@@ -1,5 +1,5 @@
 {
- "at": "2026-10-27T20:30:33Z",
+ "at": "2026-10-27T23:30:32Z",
  "events": [
   {
    "id": "wolfpack:vcal_14517-nevadawolfpack.com",
@@ -669,8 +669,8 @@
   {
    "id": "wolfpack:vcal_14525-nevadawolfpack.com",
    "title": "Nevada Softball vs Folsom Lake College",
-   "start": "2026-10-30T17:00:00-07:00",
-   "end": "2026-10-30T19:00:00-07:00",
+   "start": "2026-10-30T13:00:00-07:00",
+   "end": "2026-10-30T15:00:00-07:00",
    "allDay": false,
    "ongoing": false,
    "venue": {

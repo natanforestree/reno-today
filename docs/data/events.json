@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-27T20:30:33Z",
+ "generatedAt": "2026-10-27T23:30:32Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -5123,6 +5123,35 @@
    "lovingReno": null
   },
   {
+   "id": "wolfpack:vcal_14525-nevadawolfpack.com",
+   "title": "Nevada Softball vs Folsom Lake College",
+   "start": "2026-10-30T13:00:00-07:00",
+   "end": "2026-10-30T15:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Christina M. Hixson Softball Park",
+    "address": "Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "outdoors",
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "wolfpack",
+     "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14525&sport_id=8"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "reno:377-202610301430",
    "title": "Rolling Recreation (Reno City Plaza)",
    "start": "2026-10-30T14:30:00-07:00",
@@ -5203,34 +5232,6 @@
     {
      "source": "southtahoe",
      "url": "https://visitlaketahoe.com/event/freakers-carriage-hayride-experience/2026-10-30/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "wolfpack:vcal_14525-nevadawolfpack.com",
-   "title": "Nevada Softball vs Folsom Lake College",
-   "start": "2026-10-30T17:00:00-07:00",
-   "end": "2026-10-30T19:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Christina M. Hixson Softball Park",
-    "address": "Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "outdoors"
-   ],
-   "links": [
-    {
-     "source": "wolfpack",
-     "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14525&sport_id=8"
     }
    ],
    "lovingReno": null
