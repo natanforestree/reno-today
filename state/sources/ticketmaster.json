@@ -1,5 +1,5 @@
 {
- "at": "2026-10-28T05:30:32Z",
+ "at": "2026-10-28T08:30:33Z",
  "events": [
   {
    "id": "tm:1A9ZkffGkeTBT90",
@@ -984,6 +984,43 @@
     "folk",
     "folk rock",
     "music"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:1AyZkoaGkdr4dBq",
+   "title": "Leonid & Friends",
+   "start": "2026-11-04T19:30:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "South Shore Room at Harrah's Lake Tahoe",
+    "address": "15 Hwy 50, Lake Tahoe, NV",
+    "lat": 38.96241,
+    "lon": -119.9399
+   },
+   "area": "other",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/leonid-friends-lake-tahoe-nevada-11-04-2026/event/39006449DE543E9D"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "music",
+    "pop",
+    "rock"
    ],
    "_family": false,
    "_adult": false,

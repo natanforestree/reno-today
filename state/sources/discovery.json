@@ -1,5 +1,5 @@
 {
- "at": "2026-10-28T05:30:32Z",
+ "at": "2026-10-28T08:30:33Z",
  "events": [
   {
    "id": "discovery:43375",
@@ -207,6 +207,77 @@
    "_text": "family",
    "_tags": [
     "special hours"
+   ],
+   "_family": true,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "discovery:43376",
+   "title": "Small Wonder Wednesday",
+   "start": "2026-11-04T09:00:00-08:00",
+   "end": "2026-11-04T10:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Discovery",
+    "address": "490 S. Center Street, Reno, NV, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "discovery",
+     "url": "https://nvdm.org/event/small-wonder-wednesday-2026-07-22/2026-11-04/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "families children",
+   "_tags": [
+    "special hours"
+   ],
+   "_family": true,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "discovery:43064",
+   "title": "Topographic Maps",
+   "start": "2026-11-04T16:30:00-08:00",
+   "end": "2026-11-04T19:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Discovery",
+    "address": "490 S. Center Street, Reno, NV, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "discovery",
+     "url": "https://nvdm.org/event/topographic-maps/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "hands-on activity",
+    "maker project"
    ],
    "_family": true,
    "_adult": false,

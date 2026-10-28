@@ -1,44 +1,6 @@
 {
- "at": "2026-10-28T05:30:32Z",
+ "at": "2026-10-28T08:30:33Z",
  "events": [
-  {
-   "id": "holland:97059",
-   "title": "Four Terrifying Tales: A Horror Anthology",
-   "start": "2026-10-27T19:00:00-07:00",
-   "end": "2026-10-27T21:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Holland Project",
-    "address": "140 Vesta St, Reno, NV, 89502",
-    "lat": 39.50964,
-    "lon": -119.80367
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "min": 5.0,
-    "max": 5.0
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "holland",
-     "url": "https://hollandreno.org/events/cryptid-film-fest/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "film"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": true,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "holland:96829",
    "title": "MFA Reading Series",
