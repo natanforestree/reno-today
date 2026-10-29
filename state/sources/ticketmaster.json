@@ -1,5 +1,5 @@
 {
- "at": "2026-10-29T14:30:34Z",
+ "at": "2026-10-29T17:30:32Z",
  "events": [
   {
    "id": "tm:16tZkfJCdZAuekGC",
@@ -68,6 +68,42 @@
     "hip-hop/rap",
     "music",
     "trap"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:Z7r9jZ1AAZz-s",
+   "title": "Rittz",
+   "start": "2026-10-29T19:00:00-07:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Club Underground",
+    "address": "555 E 4th St, Reno, NV",
+    "lat": 39.5534,
+    "lon": -119.8014
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZz-s"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "hip-hop/rap",
+    "music"
    ],
    "_family": false,
    "_adult": false,

@@ -1,5 +1,5 @@
 {
- "at": "2026-10-29T14:30:34Z",
+ "at": "2026-10-29T17:30:32Z",
  "events": [
   {
    "id": "wolfpack:vcal_14517-nevadawolfpack.com",
@@ -2454,8 +2454,8 @@
   {
    "id": "wolfpack:vcal_14603-nevadawolfpack.com",
    "title": "Nevada Women's Basketball vs UC Davis",
-   "start": "2027-02-13T13:00:00-08:00",
-   "end": "2027-02-13T15:00:00-08:00",
+   "start": "2027-02-13T14:00:00-08:00",
+   "end": "2027-02-13T16:00:00-08:00",
    "allDay": false,
    "ongoing": false,
    "venue": {
