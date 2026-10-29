@@ -1,5 +1,5 @@
 {
- "at": "2026-10-29T20:30:32Z",
+ "at": "2026-10-29T23:30:33Z",
  "events": [
   {
    "id": "unr:53543176647383",
@@ -2128,42 +2128,6 @@
     "awards & recognition",
     "lectures & seminars",
     "reynolds school of journalism"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "unr:54287041534480",
-   "title": "Academy Insights: Claudia Mowery | Stepping Out of Your Comfort Zone",
-   "start": "2026-11-04T18:00:00-08:00",
-   "end": "2026-11-04T19:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "John Tulloch Business Building (TULL)",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/academy-insights-claudia-mowery-stepping-out-of-your-comfort-zone"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "asun",
-    "lectures & seminars"
    ],
    "_family": false,
    "_adult": false,

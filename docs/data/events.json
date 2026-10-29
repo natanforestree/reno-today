@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-29T20:30:32Z",
+ "generatedAt": "2026-10-29T23:30:33Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -4707,6 +4707,34 @@
    "lovingReno": null
   },
   {
+   "id": "southtahoe:112496",
+   "title": "Halloween After Party at the American Legion",
+   "start": "2026-10-31T21:30:00-07:00",
+   "end": "2026-11-01T01:00:00-07:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "American Legion",
+    "address": "2748 Lake Tahoe Blvd., South Lake Tahoe, CA, 96150",
+    "lat": 38.92979,
+    "lon": -119.98
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "music"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/halloween-party-at-the-american-legion/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "southtahoe:247335",
    "title": "Lakeside Laughs Comedy Club at Caesars Republic Lake Tahoe",
    "start": "2026-10-31T21:30:00-07:00",
@@ -8668,32 +8696,6 @@
     {
      "source": "unr",
      "url": "https://events.unr.edu/event/2026-laxalt-distinguished-writer-sierra-crane-murdoch"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "unr:54287041534480",
-   "title": "Academy Insights: Claudia Mowery | Stepping Out of Your Comfort Zone",
-   "start": "2026-11-04T18:00:00-08:00",
-   "end": "2026-11-04T19:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "John Tulloch Business Building (TULL)",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/academy-insights-claudia-mowery-stepping-out-of-your-comfort-zone"
     }
    ],
    "lovingReno": null
