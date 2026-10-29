@@ -1,5 +1,5 @@
 {
- "at": "2026-10-29T05:30:32Z",
+ "at": "2026-10-29T08:30:33Z",
  "events": [
   {
    "id": "holland:96829",
@@ -178,6 +178,44 @@
     {
      "source": "holland",
      "url": "https://hollandreno.org/events/lucy/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "music"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": true,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "holland:96950",
+   "title": "Roman Candle, postdrome, Brusher",
+   "start": "2026-11-05T19:00:00-08:00",
+   "end": "2026-11-05T22:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Holland Project",
+    "address": "140 Vesta St, Reno, NV, 89502",
+    "lat": 39.50964,
+    "lon": -119.80367
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 15.0,
+    "max": 18.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "holland",
+     "url": "https://hollandreno.org/events/roman-candle/"
     }
    ],
    "lovingReno": null,
