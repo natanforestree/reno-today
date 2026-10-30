@@ -1,44 +1,6 @@
 {
- "at": "2026-10-30T05:30:32Z",
+ "at": "2026-10-30T08:30:32Z",
  "events": [
-  {
-   "id": "holland:96829",
-   "title": "MFA Reading Series",
-   "start": "2026-10-29T18:00:00-07:00",
-   "end": "2026-10-29T20:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Holland Project",
-    "address": "140 Vesta St, Reno, NV, 89502",
-    "lat": 39.50964,
-    "lon": -119.80367
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "holland",
-     "url": "https://hollandreno.org/events/mfa-reading-series/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "community",
-    "poetry"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": true,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "holland:96901",
    "title": "Devil’s Night",
@@ -222,6 +184,43 @@
    "_text": "",
    "_tags": [
     "music"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": true,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "holland:97070",
+   "title": "Local Comedy Showcase",
+   "start": "2026-11-06T19:00:00-08:00",
+   "end": "2026-11-06T21:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Holland Project",
+    "address": "140 Vesta St, Reno, NV, 89502",
+    "lat": 39.50964,
+    "lon": -119.80367
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "holland",
+     "url": "https://hollandreno.org/events/comedy-local-showcase/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "comedy"
    ],
    "_family": false,
    "_adult": false,

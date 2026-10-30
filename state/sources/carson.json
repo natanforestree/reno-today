@@ -1,106 +1,6 @@
 {
- "at": "2026-10-30T05:30:32Z",
+ "at": "2026-10-30T08:30:32Z",
  "events": [
-  {
-   "id": "carson:60403",
-   "title": "Carson City BOOnanza",
-   "start": "2026-10-29T16:00:00-07:00",
-   "end": "2026-10-29T19:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Mills Park",
-    "address": "1111 East William Street, Carson City, NV, 89701",
-    "lat": 39.17073,
-    "lon": -119.75656
-   },
-   "area": "carson",
-   "drive": "~35 min",
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "carson",
-     "url": "https://visitcarsoncity.com/events/carson-city-boonanza/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "annual event",
-    "boonanza",
-    "family",
-    "halloween",
-    "trick or treat",
-    "trick or treat in carson city"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "carson:81002",
-   "title": "History Hot Takes: An Evening for the Chronically Curious",
-   "start": "2026-10-29T17:00:00-07:00",
-   "end": "2026-10-29T19:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Nevada State Museum",
-    "address": "600 North Carson Street, Carson City, NV, 89701",
-    "lat": 39.16773,
-    "lon": -119.76741
-   },
-   "area": "carson",
-   "drive": "~35 min",
-   "price": {
-    "min": 15.0,
-    "max": 15.0
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "carson",
-     "url": "https://visitcarsoncity.com/events/history-hot-takes-an-evening-for-the-chronically-curious/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "18 and up",
-   "_tags": [
-    "carson city events",
-    "educational events carson city",
-    "educational events carson city nv",
-    "events in carson city",
-    "forum series carson city nv",
-    "forum series northern nevada",
-    "history hot takes",
-    "history hot takes: dust to dust in the desert",
-    "lecture series carson city nv",
-    "lecture series northern nevada",
-    "nevada state museum",
-    "nevada state museum carson city",
-    "nevada state museum carson city nv",
-    "nevada state museum history hot takes",
-    "nevada state museum history hot takes carson city",
-    "nevada state museum history hot takes october",
-    "story telling event carson city nv",
-    "storytelling event northern nevada",
-    "tami force",
-    "things to do carson city nv",
-    "what to do in carson city nv"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "carson:67706",
    "title": "Nevada Day Weekend Schedule",
@@ -261,6 +161,107 @@
     "visit carson city",
     "visit carson city nevada",
     "what to do in carson city"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:80845",
+   "title": "Dine’ Tah Navajo Cultural Program",
+   "start": "2026-11-06T11:00:00-08:00",
+   "end": "2026-11-06T15:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Nevada State Museum",
+    "address": "600 North Carson Street, Carson City, NV, 89701",
+    "lat": 39.16773,
+    "lon": -119.76741
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/dine-tah-navajo-cultural-program/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & culture",
+    "carson city",
+    "carson city events",
+    "carson city nevada",
+    "events in carson city",
+    "history",
+    "things to do",
+    "visit carson city nevada"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:10006346",
+   "title": "Dia de los Muertos Celebration",
+   "start": "2026-11-06T17:00:00-08:00",
+   "end": "2026-11-06T19:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Nevada State Museum",
+    "address": "600 North Carson Street, Carson City, NV, 89701",
+    "lat": 39.16773,
+    "lon": -119.76741
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/dia-de-los-muertos-at-the-nevada-state-mueseum/2026-11-06/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "family",
+   "_tags": [
+    "annual event",
+    "art and culture carson city",
+    "arts & culture",
+    "bilingual celebrations",
+    "carson city events",
+    "carson city nevada",
+    "cultural celebrations",
+    "day of the dead",
+    "dia de los muertos",
+    "dia de los muertos nevada",
+    "fall events carson city",
+    "family events carson city",
+    "hispanic heritage",
+    "history",
+    "mexican traditions",
+    "nevada culture",
+    "nevada events",
+    "nevada festivals",
+    "nevada museum events",
+    "nevada state museum",
+    "nevada state museum carson city",
+    "nevada tourism",
+    "visit carson city"
    ],
    "_family": false,
    "_adult": false,
