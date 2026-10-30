@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-30T14:30:34Z",
+ "generatedAt": "2026-10-30T17:30:38Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -636,7 +636,10 @@
      "url": "https://hollandreno.org/events/devils-night-2026/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "southtahoe:100418",
