@@ -1,5 +1,5 @@
 {
- "at": "2026-10-30T02:30:33Z",
+ "at": "2026-10-30T05:30:32Z",
  "events": [
   {
    "id": "southtahoe:246628",
@@ -1835,45 +1835,6 @@
    "_kind": "organiser"
   },
   {
-   "id": "southtahoe:245078",
-   "title": "Live Music at AleWorX Lake Tahoe",
-   "start": "2026-10-31T21:00:00-07:00",
-   "end": "2026-10-31T23:30:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Lake Tahoe AleWorX at the Y",
-    "address": "2050 Lake Tahoe Blvd., South Lake Tahoe, CA, 96150",
-    "lat": null,
-    "lon": null
-   },
-   "area": "tahoe",
-   "drive": "~75 min",
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/lake-tahoe-aleworx-summer-music-series/2026-10-31/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "family",
-   "_tags": [
-    "attractions",
-    "food & drink",
-    "kids & families",
-    "music & dance",
-    "nightlife"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
    "id": "southtahoe:247606",
    "title": "Live Music at Rush Lounge in the Golden Nugget Lake Tahoe",
    "start": "2026-10-31T21:00:00-07:00",
@@ -1984,43 +1945,6 @@
     "music & dance",
     "nightlife",
     "october"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "southtahoe:112496",
-   "title": "Halloween After Party at the American Legion",
-   "start": "2026-10-31T21:30:00-07:00",
-   "end": "2026-11-01T01:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "American Legion",
-    "address": "2748 Lake Tahoe Blvd., South Lake Tahoe, CA, 96150",
-    "lat": 38.92979,
-    "lon": -119.98
-   },
-   "area": "tahoe",
-   "drive": "~75 min",
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/halloween-party-at-the-american-legion/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "Live Music",
-   "_tags": [
-    "local events",
-    "music & dance",
-    "nightlife"
    ],
    "_family": false,
    "_adult": false,
@@ -2416,7 +2340,7 @@
     }
    ],
    "lovingReno": null,
-   "_text": "live music concert Live Music live bands",
+   "_text": "Live music live music Live Music live bands",
    "_tags": [
     "attractions",
     "music & dance",
@@ -2707,7 +2631,7 @@
     }
    ],
    "lovingReno": null,
-   "_text": "live music concert Live Music live bands",
+   "_text": "Live music live music Live Music live bands",
    "_tags": [
     "attractions",
     "music & dance",
@@ -2960,7 +2884,7 @@
     }
    ],
    "lovingReno": null,
-   "_text": "live music concert Live Music live bands",
+   "_text": "Live music live music Live Music live bands",
    "_tags": [
     "attractions",
     "music & dance",
@@ -3144,7 +3068,7 @@
     }
    ],
    "lovingReno": null,
-   "_text": "live music concert Live Music live bands",
+   "_text": "Live music live music Live Music live bands",
    "_tags": [
     "attractions",
     "music & dance",

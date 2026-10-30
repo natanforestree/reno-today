@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-30T02:30:33Z",
+ "generatedAt": "2026-10-30T05:30:32Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -4702,34 +4702,6 @@
     {
      "source": "southtahoe",
      "url": "https://visitlaketahoe.com/event/live-music-golden-nugget-lake-tahoe/2026-10-31/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "southtahoe:112496",
-   "title": "Halloween After Party at the American Legion",
-   "start": "2026-10-31T21:30:00-07:00",
-   "end": "2026-11-01T01:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "American Legion",
-    "address": "2748 Lake Tahoe Blvd., South Lake Tahoe, CA, 96150",
-    "lat": 38.92979,
-    "lon": -119.98
-   },
-   "area": "tahoe",
-   "drive": "~75 min",
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "music"
-   ],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/halloween-party-at-the-american-legion/"
     }
    ],
    "lovingReno": null
