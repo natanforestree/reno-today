@@ -1,5 +1,5 @@
 {
- "at": "2026-10-30T11:30:34Z",
+ "at": "2026-10-30T14:30:34Z",
  "events": [
   {
    "id": "tm:1718v0G6CFOtZXy",
@@ -502,42 +502,6 @@
    ],
    "lovingReno": null,
    "_text": "21+",
-   "_tags": [
-    "arts & theatre",
-    "comedy"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
-  {
-   "id": "tm:1AyZk3vGkdxlNB0",
-   "title": "Gary Owen: No Hard Feelings Tour",
-   "start": "2026-11-01T18:00:00-08:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Silver Legacy Casino Reno",
-    "address": "407 N. Virginia St, Reno, NV",
-    "lat": 39.53069,
-    "lon": -119.81531
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/gary-owen-no-hard-feelings-tour-reno-nevada-11-01-2026/event/39006481E2AE3EA4"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
    "_tags": [
     "arts & theatre",
     "comedy"
