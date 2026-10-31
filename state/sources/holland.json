@@ -1,44 +1,6 @@
 {
- "at": "2026-10-31T05:30:32Z",
+ "at": "2026-10-31T08:30:31Z",
  "events": [
-  {
-   "id": "holland:96901",
-   "title": "Devil’s Night",
-   "start": "2026-10-30T18:00:00-07:00",
-   "end": "2026-10-30T22:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Holland Project",
-    "address": "140 Vesta St, Reno, NV, 89502",
-    "lat": 39.50964,
-    "lon": -119.80367
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "min": 10.0,
-    "max": 10.0
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "holland",
-     "url": "https://hollandreno.org/events/devils-night-2026/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "music"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": true,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "holland:96451",
    "title": "SUPERHEAVEN, WORLD PEACE, Frank Futility",
@@ -221,6 +183,81 @@
    "_text": "",
    "_tags": [
     "comedy"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": true,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "holland:97037",
+   "title": "Photo Gear Swap",
+   "start": "2026-11-07T11:00:00-08:00",
+   "end": "2026-11-07T14:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Holland Project",
+    "address": "140 Vesta St, Reno, NV, 89502",
+    "lat": 39.50964,
+    "lon": -119.80367
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "holland",
+     "url": "https://hollandreno.org/events/photo-gear-swap/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "community"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": true,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "holland:96524",
+   "title": "Couch Dog, Evening Spirits, Church Ladies",
+   "start": "2026-11-07T19:00:00-08:00",
+   "end": "2026-11-07T22:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Holland Project",
+    "address": "140 Vesta St, Reno, NV, 89502",
+    "lat": 39.50964,
+    "lon": -119.80367
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 15.0,
+    "max": 18.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "holland",
+     "url": "https://hollandreno.org/events/couch-dog/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "music"
    ],
    "_family": false,
    "_adult": false,

@@ -1,5 +1,5 @@
 {
- "at": "2026-10-31T05:30:32Z",
+ "at": "2026-10-31T08:30:31Z",
  "events": [
   {
    "id": "vcity:10880",
@@ -123,6 +123,34 @@
    ],
    "lovingReno": null,
    "_text": "21+",
+   "_tags": [],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "vcity:10000633",
+   "title": "St. Mary’s Art Center Paranormal Investigations",
+   "start": "2026-11-07T20:00:00-08:00",
+   "end": "2026-11-07T22:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": null,
+   "area": "virginia-city",
+   "drive": "~40 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "vcity",
+     "url": "https://visitvirginiacitynv.com/event/st-marys-art-center-paranormal-investigations/2026-11-07/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
    "_tags": [],
    "_family": false,
    "_adult": false,

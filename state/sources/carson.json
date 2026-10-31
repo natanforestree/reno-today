@@ -1,109 +1,6 @@
 {
- "at": "2026-10-31T05:30:32Z",
+ "at": "2026-10-31T08:30:31Z",
  "events": [
-  {
-   "id": "carson:67706",
-   "title": "Nevada Day Weekend Schedule",
-   "start": "2026-10-30T00:00:00-07:00",
-   "end": "2026-11-01T00:00:00-07:00",
-   "allDay": true,
-   "ongoing": false,
-   "venue": {
-    "name": "Downtown, Carson City",
-    "address": "201 W. King St., Carson City, NV, 89701",
-    "lat": 39.16372,
-    "lon": -119.76803
-   },
-   "area": "carson",
-   "drive": "~35 min",
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "carson",
-     "url": "https://visitcarsoncity.com/events/nevada-day/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "live music",
-   "_tags": [
-    "annual event",
-    "annual nevada builders foundation nevada day breakfast buffet",
-    "battle born beer and lunch",
-    "carson city republican women’s club",
-    "carson mall",
-    "cipriani’s downtown barber shop",
-    "costumes",
-    "downtown carson city",
-    "events",
-    "friday events",
-    "great reno balloon race",
-    "historical east-side tour",
-    "hot air balloons",
-    "largest celebration of statehood",
-    "live music",
-    "nevada day",
-    "nevada day classic",
-    "nevada day powwow",
-    "nevada day tradition",
-    "nevada day weekend",
-    "nevada railroad museum",
-    "nevada state museum",
-    "nevada state railroad museum",
-    "northern nevada fall fest",
-    "pancake breakfast at the governor’s mansion",
-    "star spangled banner",
-    "stewart indian school cultural center & museum",
-    "the capital city community band",
-    "world championship single jack rock drilling contest"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "carson:74109",
-   "title": "Free Tethered Hot Air Balloon Rides!",
-   "start": "2026-10-30T08:00:00-07:00",
-   "end": "2026-10-30T11:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Brewery Arts Center",
-    "address": "449 W King Street, Carson City, NV, 89703",
-    "lat": 39.16365,
-    "lon": -119.77007
-   },
-   "area": "carson",
-   "drive": "~35 min",
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "carson",
-     "url": "https://visitcarsoncity.com/events/free-tethered-hot-air-balloon-rides/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "family",
-    "free tethered hot air balloon rides!"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "carson:80233",
    "title": "Nevada Day Powwow",
@@ -262,6 +159,226 @@
     "nevada state museum carson city",
     "nevada tourism",
     "visit carson city"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:10006348",
+   "title": "Dia de los Muertos Celebration",
+   "start": "2026-11-07T10:00:00-08:00",
+   "end": "2026-11-07T15:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Nevada State Museum",
+    "address": "600 North Carson Street, Carson City, NV, 89701",
+    "lat": 39.16773,
+    "lon": -119.76741
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/dia-de-los-muertos-at-the-nevada-state-mueseum/2026-11-07/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "family",
+   "_tags": [
+    "annual event",
+    "art and culture carson city",
+    "arts & culture",
+    "bilingual celebrations",
+    "carson city events",
+    "carson city nevada",
+    "cultural celebrations",
+    "day of the dead",
+    "dia de los muertos",
+    "dia de los muertos nevada",
+    "fall events carson city",
+    "family events carson city",
+    "hispanic heritage",
+    "history",
+    "mexican traditions",
+    "nevada culture",
+    "nevada events",
+    "nevada festivals",
+    "nevada museum events",
+    "nevada state museum",
+    "nevada state museum carson city",
+    "nevada tourism",
+    "visit carson city"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:80825",
+   "title": "Carson City Wine Walk: Gobble Til You Wobble: Holiday Training Camp",
+   "start": "2026-11-07T13:00:00-08:00",
+   "end": "2026-11-07T17:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Downtown Carson City, 201 N. Carson Street Carson City, NV 89701",
+    "address": "201 N. Carson Street, Carson City, NV, 89701",
+    "lat": 39.16491,
+    "lon": -119.7666
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": {
+    "min": 25.0,
+    "max": 25.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/hallo-wine-walk-spirits-shenanigans/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "carson city",
+    "carson city events",
+    "carson city nevada",
+    "downtown carson city",
+    "entertainment",
+    "events in carson city",
+    "things to do in carson city",
+    "what to do in carson city"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:80512",
+   "title": "A Celebration of Carl Sagan",
+   "start": "2026-11-07T18:30:00-08:00",
+   "end": "2026-11-07T23:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Jack C. Davis Observatory",
+    "address": "2699 Vanpatten Ave, NV, 89703",
+    "lat": 39.18627,
+    "lon": -119.79616
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/a-celebration-of-carl-sagan/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "a celebration of carl sagan",
+    "a celebration of carl sagan carson city nv",
+    "a celebration of carl sagan jack c davis observatory",
+    "a celebration of carl sagan western nevada college",
+    "carl sagan celebration",
+    "carl sagan celebration carson city nv",
+    "carl sagan celebration jack c davis observatory",
+    "carl sagan celebration western nevada college",
+    "dark skies",
+    "dark skies carson city nevada",
+    "dark skies carson city nv",
+    "dark skies nevada",
+    "educational events",
+    "educational events carson city nv",
+    "family",
+    "jack c davis observatory carson city",
+    "jack c davis observatory carson city nevada",
+    "jack c davis observatory carson city nv",
+    "jack c davis observatory events",
+    "jack c davis observatory events carson city nevada",
+    "jack c. davis observatory",
+    "observatory carson city nv",
+    "outdoor",
+    "science events",
+    "space events",
+    "space events carson city nv",
+    "western nevada college carson city events",
+    "western nevada college events",
+    "wnc events carson city nv"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:10006230",
+   "title": "Nevada State Prison Preservation Society | 2026 Ghost Walks",
+   "start": "2026-11-07T19:00:00-08:00",
+   "end": "2026-11-07T21:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Nevada State Prison",
+    "address": "3301 E 5th St, Carson City, NV, 89701",
+    "lat": 39.16028,
+    "lon": -119.73677
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": {
+    "min": 50.0,
+    "max": 50.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/nevada-state-prison-preservation-society-2026-ghost-walks/2026-11-07/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "carson city",
+    "carson city events",
+    "carson city nevada",
+    "entertainment",
+    "events",
+    "events in carson city",
+    "nevada state prison",
+    "nevada state prison ghost walk",
+    "nevada state prison paranormal tour",
+    "nevada state prison preservation society",
+    "paranormal carson city",
+    "paranormal nevada",
+    "things to do",
+    "things to do in carson city",
+    "visit carson city",
+    "visit carson city nevada"
    ],
    "_family": false,
    "_adult": false,

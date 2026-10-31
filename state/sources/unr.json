@@ -1,279 +1,6 @@
 {
- "at": "2026-10-31T05:30:32Z",
+ "at": "2026-10-31T08:30:31Z",
  "events": [
-  {
-   "id": "unr:53543176647384",
-   "title": "A Few of Our Favorite Things: 65 Years of Special Collections and University Archives",
-   "start": "2026-10-30T08:00:00-07:00",
-   "end": "2026-10-30T17:00:00-07:00",
-   "allDay": false,
-   "ongoing": true,
-   "venue": {
-    "name": "Mathewson-IGT Knowledge Center (MIKC)",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/a-few-of-our-favorite-things-65-years-of-special-collections-and-university-archives"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "arts & culture",
-    "community outreach",
-    "exhibitions (recurring)",
-    "social events",
-    "staff engagement",
-    "university libraries"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "unr:54116793924238",
-   "title": "On Location: Photographs from Robert Nuñez and Alejandra Rubio",
-   "start": "2026-10-30T08:00:00-07:00",
-   "end": "2026-10-30T20:00:00-07:00",
-   "allDay": false,
-   "ongoing": true,
-   "venue": {
-    "name": "McNamara Hallway Gallery",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/on-location-photographs-from-robert-nunez-and-alejandra-rubio"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "college of liberal arts",
-    "department of art, art history and design",
-    "exhibitions (recurring)",
-    "school of the arts",
-    "university galleries"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "unr:54284778864818",
-   "title": "Early Voting at the Joe",
-   "start": "2026-10-30T10:00:00-07:00",
-   "end": "2026-10-30T18:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Joe Crowley Student Union (JCSU)",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/early-voting-at-the-joe"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "joe crowley student union",
-    "social events",
-    "student services"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "unr:53743917467715",
-   "title": "92 Events: A Fluxus Show",
-   "start": "2026-10-30T12:00:00-07:00",
-   "end": "2026-10-30T16:00:00-07:00",
-   "allDay": false,
-   "ongoing": true,
-   "venue": {
-    "name": "Front Door Gallery",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/92-events-a-fluxus-show"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "arts & culture",
-    "college of liberal arts",
-    "exhibitions (recurring)",
-    "john and geraldine lilley museum of art"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "unr:54118632161011",
-   "title": "Clothesline Fiber Exhibition",
-   "start": "2026-10-30T12:00:00-07:00",
-   "end": "2026-10-30T16:00:00-07:00",
-   "allDay": false,
-   "ongoing": true,
-   "venue": {
-    "name": "Student Galleries South",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/clothesline-fiber-exhibition"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "college of liberal arts",
-    "department of art, art history and design",
-    "exhibitions (recurring)",
-    "interdisciplinary arts",
-    "school of the arts",
-    "university galleries",
-    "university museum district"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "unr:53743835883323",
-   "title": "Earth's Winding Sheet",
-   "start": "2026-10-30T12:00:00-07:00",
-   "end": "2026-10-30T16:00:00-07:00",
-   "allDay": false,
-   "ongoing": true,
-   "venue": {
-    "name": "John & Geraldine Lilley Museum of Art",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/earths-winding-sheet"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "arts & culture",
-    "college of liberal arts",
-    "exhibitions (recurring)",
-    "john and geraldine lilley museum of art"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "unr:53743884158230",
-   "title": "Gather-Carry-Keep: Basketry from the Great Basin",
-   "start": "2026-10-30T12:00:00-07:00",
-   "end": "2026-10-30T16:00:00-07:00",
-   "allDay": false,
-   "ongoing": true,
-   "venue": {
-    "name": "Front Door Gallery",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/gather-carry-keep-basketry-from-the-great-basin"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "arts & culture",
-    "college of liberal arts",
-    "exhibitions (recurring)",
-    "john and geraldine lilley museum of art"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "unr:53543176648409",
    "title": "A Few of Our Favorite Things: 65 Years of Special Collections and University Archives",
@@ -1815,6 +1542,440 @@
     "school of the arts",
     "university galleries",
     "university museum district"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:54170525939932",
+   "title": "Art with an Accent: The Cultural Geography of Creative Expression",
+   "start": "2026-11-06T00:00:00-08:00",
+   "end": null,
+   "allDay": true,
+   "ongoing": false,
+   "venue": {
+    "name": "University of Nevada, Reno",
+    "address": "1664 North Virginia Street",
+    "lat": 39.5459,
+    "lon": -119.81944
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/art-with-an-accent"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "conferences & symposiums",
+    "department of sociology",
+    "department of sociology and cultural analysis",
+    "william a. douglass center for basque studies"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:54116793929363",
+   "title": "On Location: Photographs from Robert Nuñez and Alejandra Rubio",
+   "start": "2026-11-06T08:00:00-08:00",
+   "end": "2026-11-06T20:00:00-08:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "McNamara Hallway Gallery",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/on-location-photographs-from-robert-nunez-and-alejandra-rubio"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "college of liberal arts",
+    "department of art, art history and design",
+    "exhibitions (recurring)",
+    "school of the arts",
+    "university galleries"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:54127115023473",
+   "title": "OLLI Craft Fair",
+   "start": "2026-11-06T10:00:00-08:00",
+   "end": "2026-11-06T14:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Osher Lifelong Learning Institute",
+    "address": "604 West Moana Lane",
+    "lat": 39.49085,
+    "lon": -119.80374
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/olli-craft-fair"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "family",
+   "_tags": [
+    "arts & culture",
+    "community outreach",
+    "sanford center for aging",
+    "social events"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:53743917468743",
+   "title": "92 Events: A Fluxus Show",
+   "start": "2026-11-06T12:00:00-08:00",
+   "end": "2026-11-06T16:00:00-08:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "Front Door Gallery",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/92-events-a-fluxus-show"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & culture",
+    "college of liberal arts",
+    "exhibitions (recurring)",
+    "john and geraldine lilley museum of art"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:54118632165112",
+   "title": "Clothesline Fiber Exhibition",
+   "start": "2026-11-06T12:00:00-08:00",
+   "end": "2026-11-06T16:00:00-08:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "Student Galleries South",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/clothesline-fiber-exhibition"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "college of liberal arts",
+    "department of art, art history and design",
+    "exhibitions (recurring)",
+    "interdisciplinary arts",
+    "school of the arts",
+    "university galleries",
+    "university museum district"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:53743835885375",
+   "title": "Earth's Winding Sheet",
+   "start": "2026-11-06T12:00:00-08:00",
+   "end": "2026-11-06T16:00:00-08:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "John & Geraldine Lilley Museum of Art",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/earths-winding-sheet"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & culture",
+    "college of liberal arts",
+    "exhibitions (recurring)",
+    "john and geraldine lilley museum of art"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:53743884161306",
+   "title": "Gather-Carry-Keep: Basketry from the Great Basin",
+   "start": "2026-11-06T12:00:00-08:00",
+   "end": "2026-11-06T16:00:00-08:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "Front Door Gallery",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/gather-carry-keep-basketry-from-the-great-basin"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & culture",
+    "college of liberal arts",
+    "exhibitions (recurring)",
+    "john and geraldine lilley museum of art"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:53869525908632",
+   "title": "39th Nevada Writers Hall of Fame induction and reception",
+   "start": "2026-11-06T18:00:00-08:00",
+   "end": "2026-11-06T21:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Mathewson-IGT Knowledge Center (MIKC)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/39th-nevada-writers-hall-of-fame-induction-and-reception"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & culture",
+    "awards & recognition",
+    "community outreach",
+    "lectures & seminars",
+    "social events",
+    "university libraries"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:53799934504134",
+   "title": "Nevada Football vs. New Mexico",
+   "start": "2026-11-06T18:00:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Mackay Stadium",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 35.0,
+    "max": 35.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/nevada-football-vs-new-mexico"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "athletics",
+    "nevada football"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:54039749155215",
+   "title": "Visiting Artist Lecture: Rene Henery and Lawrence LaBianca",
+   "start": "2026-11-06T18:00:00-08:00",
+   "end": "2026-11-06T19:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Schulich Lecture Hall (SLH)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/keynote-artist-lecture-rene-henery-and-lawrence-labianca"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & culture",
+    "college of liberal arts",
+    "department of art, art history and design",
+    "interdisciplinary arts",
+    "lectures & seminars",
+    "school of the arts",
+    "university galleries",
+    "university museum district"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:53798956061113",
+   "title": "HOPE! A Musical Theatre Fall Cabaret",
+   "start": "2026-11-06T19:30:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Church Fine Arts (CFA)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 25.0,
+    "max": 25.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/hope-a-musical-theatre-fall-cabaret"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & culture",
+    "theatre and dance"
    ],
    "_family": false,
    "_adult": false,

@@ -1,262 +1,6 @@
 {
- "at": "2026-10-31T05:30:32Z",
+ "at": "2026-10-31T08:30:31Z",
  "events": [
-  {
-   "id": "tm:1718v0G6CFOtZXy",
-   "title": "Thrashmob, Ow Tubbz, Kellz, Chi Shi, Traphousebabynemo, Breezy Fofo",
-   "start": "2026-10-30T19:00:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Club Underground",
-    "address": "555 E 4th St, Reno, NV",
-    "lat": 39.53151,
-    "lon": -119.80658
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketweb.com/event/thrashmob-ow-tubbz-kellz-chi-club-underground-tickets/14236574?REFERRAL_ID=tmfeed"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "hip-hop/rap",
-    "music",
-    "trap"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
-  {
-   "id": "tm:17AYv0G6GnHf8SR",
-   "title": "Harry Potter & The Prisoner Of Azkaban In Concert W/ The Reno Phil",
-   "start": "2026-10-30T19:00:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Grand Sierra Resort and Casino",
-    "address": "2500 East Second Street, Reno, NV",
-    "lat": 39.52331,
-    "lon": -119.78102
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/harry-potter-the-prisoner-of-azkaban-reno-nevada-10-30-2026/event/170064CABC510CEF"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "music",
-    "other"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
-  {
-   "id": "tm:1A9ZkffGkeTDR9M",
-   "title": "Tahoe Knight Monsters vs. Kansas City Mavericks",
-   "start": "2026-10-30T19:00:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Tahoe Blue Event Center",
-    "address": "75 US Highway 50, Stateline, NV",
-    "lat": 38.9631,
-    "lon": -119.94034
-   },
-   "area": "tahoe",
-   "drive": "~70 min",
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/tahoe-knight-monsters-vs-kansas-city-stateline-nevada-10-30-2026/event/17006514BFEEF5F7"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "hockey",
-    "minor league",
-    "sports"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
-  {
-   "id": "tm:1Ad0Z_FGkBI0wj0",
-   "title": "Laugh Factory",
-   "start": "2026-10-30T19:30:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Laugh Factory at the Silver Legacy Casino",
-    "address": "407 N Virginia St, Reno, NV",
-    "lat": 39.53069,
-    "lon": -119.81531
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/laugh-factory-reno-nevada-10-30-2026/event/3900648EA8932724"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "18 and over",
-   "_tags": [
-    "arts & theatre",
-    "comedy"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
-  {
-   "id": "tm:rZ7HnEZ1AfGvGf",
-   "title": "It's A 2000’s (Halloween) Party: Reno",
-   "start": "2026-10-30T21:00:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Alpine",
-    "address": "324 E 4th St, Reno, NV",
-    "lat": 39.53091,
-    "lon": -119.80904
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "min": 34.61,
-    "max": 52.43
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketweb.com/event/its-a-2000s-halloween-party-the-alpine-tickets/14301314"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "18 and over",
-   "_tags": [
-    "miscellaneous"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
-  {
-   "id": "tm:1Ad0Z_FGkBIPwji",
-   "title": "Laugh Factory",
-   "start": "2026-10-30T21:30:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Laugh Factory at the Silver Legacy Casino",
-    "address": "407 N Virginia St, Reno, NV",
-    "lat": 39.53069,
-    "lon": -119.81531
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/laugh-factory-reno-nevada-10-30-2026/event/3900648EA897272C"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "18 and over",
-   "_tags": [
-    "arts & theatre",
-    "comedy"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
-  {
-   "id": "tm:1AyZkfUGkd9_dzJ",
-   "title": "Lakeside Laughs Comedy Club",
-   "start": "2026-10-30T21:30:00-07:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Cabaret at Caesars Republic Lake Tahoe",
-    "address": "18 Hwy 50, Lake Tahoe, NV",
-    "lat": 38.96031,
-    "lon": -119.9427
-   },
-   "area": "other",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/lakeside-laughs-comedy-club-lake-tahoe-nevada-10-30-2026/event/39006536D7643E26"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "21+",
-   "_tags": [
-    "arts & theatre",
-    "comedy"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
   {
    "id": "tm:17AYv0G6GnH4OVv",
    "title": "Harry Potter And The Prisoner Of Azkaban In Concert W/ The Reno Phil",
@@ -1166,6 +910,303 @@
     {
      "source": "tm",
      "url": "https://www.ticketmaster.com/lakeside-laughs-comedy-club-lake-tahoe-nevada-11-06-2026/event/39006536D7743E8F"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "21+",
+   "_tags": [
+    "arts & theatre",
+    "comedy"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:Z7r9jZ1A7-tjI",
+   "title": "Nevada Wolfpack Football vs. New Mexico Lobos Football",
+   "start": "2026-11-07T00:00:00-08:00",
+   "end": null,
+   "allDay": true,
+   "ongoing": false,
+   "venue": {
+    "name": "Mackay Stadium",
+    "address": "1664 N Virginia St, Reno, NV",
+    "lat": 39.5386,
+    "lon": -119.8171
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-tjI"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "college",
+    "football",
+    "sports"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:1AyZkf-Gkew2SGw",
+   "title": "King Of The Cage: Future Legends 69",
+   "start": "2026-11-07T18:00:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Silver Legacy Casino Reno",
+    "address": "407 N. Virginia St, Reno, NV",
+    "lat": 39.53069,
+    "lon": -119.81531
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/king-of-the-cage-future-legends-reno-nevada-11-07-2026/event/39006521B23F3332"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "martial arts",
+    "mixed martial arts",
+    "sports"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:1Ad0Z_FGkBIcwqp",
+   "title": "Laugh Factory",
+   "start": "2026-11-07T18:30:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Laugh Factory at the Silver Legacy Casino",
+    "address": "407 N Virginia St, Reno, NV",
+    "lat": 39.53069,
+    "lon": -119.81531
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/laugh-factory-reno-nevada-11-07-2026/event/3900648EA8B72756"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "18 and over",
+   "_tags": [
+    "arts & theatre",
+    "comedy"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:rZ7HnEZ1AfJooS",
+   "title": "Rolling Together Revue: Donavon Frankenreiter + The Band Of Heathens",
+   "start": "2026-11-07T20:00:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Cargo Concert Hall",
+    "address": "255 North Virginia Street, Reno, NV",
+    "lat": 39.5281,
+    "lon": -119.81377
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 41.23,
+    "max": 41.23
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketweb.com/event/rolling-together-revue-donavon-frankenreiter-cargo-concert-hall-tickets/14991473"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "music",
+    "rock",
+    "soft rock"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:rZ7HnEZ1AfuOjV",
+   "title": "Everglade w/ Shared Scars, Memoire, Sun Collider & Caelum",
+   "start": "2026-11-07T20:00:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Alpine",
+    "address": "324 E 4th St, Reno, NV",
+    "lat": 39.53091,
+    "lon": -119.80904
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 19.05,
+    "max": 19.05
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketweb.com/event/everglade-w-shared-scars-memoire-the-alpine-tickets/14360734"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "metal",
+    "music"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:1AvjZ_FGkVcinHL",
+   "title": "Michael Blaustein",
+   "start": "2026-11-07T20:00:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Grand Sierra Resort and Casino",
+    "address": "2500 East Second Street, Reno, NV",
+    "lat": 39.52331,
+    "lon": -119.78102
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/michael-blaustein-reno-nevada-11-07-2026/event/1700648D2DB2AF1F"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "Children",
+   "_tags": [
+    "arts & theatre",
+    "comedy"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:1Ad0Z_FGkBIReq_",
+   "title": "Laugh Factory",
+   "start": "2026-11-07T20:30:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Laugh Factory at the Silver Legacy Casino",
+    "address": "407 N Virginia St, Reno, NV",
+    "lat": 39.53069,
+    "lon": -119.81531
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/laugh-factory-reno-nevada-11-07-2026/event/3900648EA8BC2759"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "18 and over",
+   "_tags": [
+    "arts & theatre",
+    "comedy"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:1AyZkfUGkd9rdW2",
+   "title": "Lakeside Laughs Comedy Club",
+   "start": "2026-11-07T21:30:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Cabaret at Caesars Republic Lake Tahoe",
+    "address": "18 Hwy 50, Lake Tahoe, NV",
+    "lat": 38.96031,
+    "lon": -119.9427
+   },
+   "area": "other",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/lakeside-laughs-comedy-club-lake-tahoe-nevada-11-07-2026/event/39006536D7783F4F"
     }
    ],
    "lovingReno": null,
