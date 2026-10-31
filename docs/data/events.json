@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-31T11:30:31Z",
+ "generatedAt": "2026-10-31T14:30:33Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -8513,6 +8513,66 @@
    }
   },
   {
+   "id": "library:15762787",
+   "title": "Game Day Saturday!",
+   "start": "2026-11-07T00:00:00-08:00",
+   "end": null,
+   "allDay": true,
+   "ongoing": true,
+   "venue": {
+    "name": "Sierra View Library",
+    "address": "4001 S Virginia St, Reno, NV 89502",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/15762787"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17141151",
+   "title": "Letters for Heroes",
+   "start": "2026-11-07T00:00:00-08:00",
+   "end": null,
+   "allDay": true,
+   "ongoing": true,
+   "venue": {
+    "name": "North Valleys Library",
+    "address": "1075 N Hills Blvd Ste 340, Reno, NV 89506",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17141151"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "tm:Z7r9jZ1A7-tjI",
    "title": "Nevada Wolfpack Football vs. New Mexico Lobos Football",
    "start": "2026-11-07T00:00:00-08:00",
@@ -8626,6 +8686,94 @@
    "lovingReno": null
   },
   {
+   "id": "reno:369-202611070900",
+   "title": "Rolling Receration (Barbara Bennett Park)",
+   "start": "2026-11-07T09:00:00-08:00",
+   "end": "2026-11-07T12:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Barbara Bennett Park",
+    "address": "Barbara Bennett Park, 400 Island Ave., Reno, NV 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "little",
+   "hints": [
+    "outdoors",
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "reno",
+     "url": "https://reno.gov/parks-and-recreation/recreation/rolling-recreation.php"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "reno:378-202611070900",
+   "title": "Rolling Recreation (Yori Park)",
+   "start": "2026-11-07T09:00:00-08:00",
+   "end": "2026-11-07T12:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Yori Park 2800 Yori Wy. Reno",
+    "address": "Yori Park 2800 Yori Wy. Reno, Nevada 89502",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "little",
+   "hints": [
+    "outdoors",
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "reno",
+     "url": "https://reno.gov/parks-and-recreation/recreation/rolling-recreation.php"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:16568061",
+   "title": "English Conversation Group/Grupo de conversación en inglés",
+   "start": "2026-11-07T09:30:00-08:00",
+   "end": "2026-11-07T10:15:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sierra View Library",
+    "address": "4001 S Virginia St, Reno, NV 89502",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/16568061"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "carson:10006348",
    "title": "Dia de los Muertos Celebration",
    "start": "2026-11-07T10:00:00-08:00",
@@ -8679,6 +8827,36 @@
     {
      "source": "southtahoe",
      "url": "https://visitlaketahoe.com/event/tipsy-putt-events/2026-11-07/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:16413301",
+   "title": "Family Story Time",
+   "start": "2026-11-07T10:30:00-08:00",
+   "end": "2026-11-07T11:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sierra View Library",
+    "address": "4001 S Virginia St, Reno, NV 89502",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/16413301"
     }
    ],
    "lovingReno": null
@@ -8743,6 +8921,36 @@
    "lovingReno": null
   },
   {
+   "id": "library:14216354",
+   "title": "SaturYay!",
+   "start": "2026-11-07T11:00:00-08:00",
+   "end": "2026-11-07T12:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Northwest Reno Library",
+    "address": "2325 Robb Dr, Reno, NV 89523",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/14216354"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "carson:80825",
    "title": "Carson City Wine Walk: Gobble Til You Wobble: Holiday Training Camp",
    "start": "2026-11-07T13:00:00-08:00",
@@ -8769,6 +8977,66 @@
     {
      "source": "carson",
      "url": "https://visitcarsoncity.com/events/hallo-wine-walk-spirits-shenanigans/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17169910",
+   "title": "Four Seasons Book Club",
+   "start": "2026-11-07T13:00:00-08:00",
+   "end": "2026-11-07T15:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sparks Library",
+    "address": "1125 12th St, Sparks, NV 89431",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17169910"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17020458",
+   "title": "Nevada Historical Society's History on the Go: Josie Reed Pearl - The Remarkable Story of an Early Woman Miner",
+   "start": "2026-11-07T13:00:00-08:00",
+   "end": "2026-11-07T14:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sierra View Library",
+    "address": "4001 S Virginia St, Reno, NV 89502",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17020458"
     }
    ],
    "lovingReno": null
@@ -8803,6 +9071,66 @@
    "lovingReno": null
   },
   {
+   "id": "library:16631143",
+   "title": "Teen Scene: Sublimation Mugs and Cookies",
+   "start": "2026-11-07T13:30:00-08:00",
+   "end": "2026-11-07T14:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sierra View Library",
+    "address": "4001 S Virginia St, Reno, NV 89502",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/16631143"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:15396565",
+   "title": "Lego Club: Spin the Wheel or Draw from a Hat",
+   "start": "2026-11-07T14:00:00-08:00",
+   "end": "2026-11-07T15:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sierra View Library",
+    "address": "4001 S Virginia St, Reno, NV 89502",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/15396565"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "wolfpack:vcal_14186-nevadawolfpack.com",
    "title": "Nevada Women's Soccer vs UC Davis - Senior Day",
    "start": "2026-11-07T14:00:00-08:00",
@@ -8826,6 +9154,36 @@
     {
      "source": "wolfpack",
      "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14186&sport_id=13"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:15438464",
+   "title": "Pardon the Pawn",
+   "start": "2026-11-07T14:00:00-08:00",
+   "end": "2026-11-07T15:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Northwest Reno Library",
+    "address": "2325 Robb Dr, Reno, NV 89523",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/15438464"
     }
    ],
    "lovingReno": null
