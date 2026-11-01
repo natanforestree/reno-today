@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-01T11:30:32Z",
+ "generatedAt": "2026-11-01T14:30:33Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -8218,6 +8218,36 @@
    "lovingReno": null
   },
   {
+   "id": "library:10710986",
+   "title": "Family Games Day",
+   "start": "2026-11-08T00:00:00-08:00",
+   "end": null,
+   "allDay": true,
+   "ongoing": true,
+   "venue": {
+    "name": "Spanish Springs Library",
+    "address": "7100A Pyramid Hwy, Sparks, NV 89436",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/10710986"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "southtahoe:245935",
    "title": "South Lake Tahoe Restaurant Week",
    "start": "2026-11-08T00:00:00-08:00",
@@ -8428,6 +8458,66 @@
    "lovingReno": null
   },
   {
+   "id": "library:14216298",
+   "title": "Sunday Funday",
+   "start": "2026-11-08T11:00:00-08:00",
+   "end": "2026-11-08T12:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Northwest Reno Library",
+    "address": "2325 Robb Dr, Reno, NV 89523",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/14216298"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17225260",
+   "title": "History and Architecture of W.M. Keck Museum",
+   "start": "2026-11-08T12:00:00-08:00",
+   "end": "2026-11-08T13:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "South Valleys Library",
+    "address": "15650-A Wedge Pkwy, Reno, NV 89511",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17225260"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "vcity:10000536",
    "title": "Arts & Crafts Revival at St. Mary’s Art Center",
    "start": "2026-11-08T13:00:00-08:00",
@@ -8446,6 +8536,66 @@
     {
      "source": "vcity",
      "url": "https://visitvirginiacitynv.com/event/arts-crafts-revival-at-st-marys-art-center-2/2026-11-08/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:16303941",
+   "title": "Master Gardener Help Desk",
+   "start": "2026-11-08T13:00:00-08:00",
+   "end": "2026-11-08T16:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Spanish Springs Library",
+    "address": "7100A Pyramid Hwy, Sparks, NV 89436",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/16303941"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:16303916",
+   "title": "Gardening Talks by Washoe County Master Gardeners",
+   "start": "2026-11-08T13:30:00-08:00",
+   "end": "2026-11-08T15:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Spanish Springs Library",
+    "address": "7100A Pyramid Hwy, Sparks, NV 89436",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/16303916"
     }
    ],
    "lovingReno": null
@@ -8479,6 +8629,36 @@
    "lovingReno": null
   },
   {
+   "id": "library:10710850",
+   "title": "Paws 2 Read",
+   "start": "2026-11-08T13:30:00-08:00",
+   "end": "2026-11-08T14:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Spanish Springs Library",
+    "address": "7100A Pyramid Hwy, Sparks, NV 89436",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/10710850"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "southtahoe:238161",
    "title": "Tea with an Edge at Edge Restaurant & Lounge",
    "start": "2026-11-08T13:30:00-08:00",
@@ -8503,6 +8683,66 @@
     {
      "source": "southtahoe",
      "url": "https://visitlaketahoe.com/event/tea-with-an-edge-at-edge-restaurant-lounge/2026-11-08/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17173189",
+   "title": "Sparks Puzzle Swap",
+   "start": "2026-11-08T14:00:00-08:00",
+   "end": "2026-11-08T16:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sparks Library",
+    "address": "1125 12th St, Sparks, NV 89431",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17173189"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:16651097",
+   "title": "Yarn Crew Knitting & Crochet",
+   "start": "2026-11-08T15:00:00-08:00",
+   "end": "2026-11-08T16:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "South Valleys Library",
+    "address": "15650-A Wedge Pkwy, Reno, NV 89511",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/16651097"
     }
    ],
    "lovingReno": null
