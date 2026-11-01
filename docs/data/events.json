@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-01T08:30:32Z",
+ "generatedAt": "2026-11-01T11:30:32Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -8559,6 +8559,38 @@
     {
      "source": "southtahoe",
      "url": "https://visitlaketahoe.com/event/magic-fusion-at-the-loft-theatre/2026-11-08/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "holland:95589",
+   "title": "Sassy 009, 88STRAIT, Pitch Fate",
+   "start": "2026-11-08T19:00:00-08:00",
+   "end": "2026-11-08T22:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Holland Project",
+    "address": "140 Vesta St, Reno, NV, 89502",
+    "lat": 39.50964,
+    "lon": -119.80367
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 18.0,
+    "max": 20.0
+   },
+   "tier": "general",
+   "hints": [
+    "all-ages",
+    "music"
+   ],
+   "links": [
+    {
+     "source": "holland",
+     "url": "https://hollandreno.org/events/sassy-009/"
     }
    ],
    "lovingReno": null
