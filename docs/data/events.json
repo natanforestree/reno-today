@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-02T12:30:34Z",
+ "generatedAt": "2026-11-02T15:30:38Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -8221,6 +8221,36 @@
    "lovingReno": null
   },
   {
+   "id": "library:17141153",
+   "title": "Letters for Heroes",
+   "start": "2026-11-09T00:00:00-08:00",
+   "end": null,
+   "allDay": true,
+   "ongoing": true,
+   "venue": {
+    "name": "North Valleys Library",
+    "address": "1075 N Hills Blvd Ste 340, Reno, NV 89506",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17141153"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "southtahoe:245936",
    "title": "South Lake Tahoe Restaurant Week",
    "start": "2026-11-09T00:00:00-08:00",
@@ -8244,6 +8274,216 @@
     {
      "source": "southtahoe",
      "url": "https://visitlaketahoe.com/event/south-lake-tahoe-restaurant-week/2026-11-09/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:14984816",
+   "title": "American Mahjong",
+   "start": "2026-11-09T10:00:00-08:00",
+   "end": "2026-11-09T12:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "South Valleys Library",
+    "address": "15650-A Wedge Pkwy, Reno, NV 89511",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/14984816"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17308755",
+   "title": "Book a Librarian",
+   "start": "2026-11-09T10:00:00-08:00",
+   "end": "2026-11-09T11:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Senior Center Library",
+    "address": "1155 E 9th St, Reno, NV 89512",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17308755"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:14579398",
+   "title": "Family Story Time",
+   "start": "2026-11-09T10:30:00-08:00",
+   "end": "2026-11-09T11:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Spanish Springs Library",
+    "address": "7100A Pyramid Hwy, Sparks, NV 89436",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/14579398"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:16862512",
+   "title": "Baby Story Time",
+   "start": "2026-11-09T10:45:00-08:00",
+   "end": "2026-11-09T11:15:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sparks Library",
+    "address": "1125 12th St, Sparks, NV 89431",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/16862512"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17308803",
+   "title": "Book a Librarian",
+   "start": "2026-11-09T11:30:00-08:00",
+   "end": "2026-11-09T12:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Senior Center Library",
+    "address": "1155 E 9th St, Reno, NV 89512",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17308803"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17085497",
+   "title": "Unwind With Art: Paint by Number",
+   "start": "2026-11-09T15:00:00-08:00",
+   "end": "2026-11-09T16:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Downtown Reno Library",
+    "address": "301 S Center St, Reno, NV 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17085497"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:11811859",
+   "title": "STEAM",
+   "start": "2026-11-09T16:00:00-08:00",
+   "end": "2026-11-09T17:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Spanish Springs Library",
+    "address": "7100A Pyramid Hwy, Sparks, NV 89436",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/11811859"
     }
    ],
    "lovingReno": null

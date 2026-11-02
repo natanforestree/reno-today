@@ -1,5 +1,5 @@
 {
- "at": "2026-11-02T03:30:33Z",
+ "at": "2026-11-02T15:30:38Z",
  "events": [
   {
    "id": "reno:4-202601100256",
@@ -4593,41 +4593,6 @@
    "_kind": "organiser"
   },
   {
-   "id": "reno:288-202611011400",
-   "title": "Dia de los Muertos",
-   "start": "2026-11-01T14:00:00-08:00",
-   "end": "2026-11-01T23:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Locomotion Plaza and Downtown Reno",
-    "address": "Locomotion Plaza and Downtown Reno",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "reno",
-     "url": "https://www.reno.gov/calendar"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "family families children’s",
-   "_tags": [
-    "special events"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
    "id": "reno:289-202610040800",
    "title": "2026 Rock Reno Half Marathon, Relay and 5K",
    "start": "2026-10-04T08:00:00-07:00",
@@ -6245,43 +6210,6 @@
     "parks & rec"
    ],
    "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "reno:439-202611011300",
-   "title": "Rec Swim Movie at the Pool",
-   "start": "2026-11-01T13:00:00-08:00",
-   "end": "2026-11-01T15:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Moana Comp Pool",
-    "address": "Moana Comp Pool",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "reno",
-     "url": "https://www.reno.gov/calendar"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "aquatics",
-    "parks & rec",
-    "youth"
-   ],
-   "_family": true,
    "_adult": false,
    "_allAges": false,
    "_outdoor": false,
