@@ -1,5 +1,5 @@
 {
- "at": "2026-11-02T18:30:34Z",
+ "at": "2026-11-02T21:30:32Z",
  "events": [
   {
    "id": "southtahoe:246632",
@@ -210,6 +210,41 @@
    "_tags": [
     "free events",
     "music & dance"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "southtahoe:194639",
+   "title": "Tahoe Chamber Mixer",
+   "start": "2026-11-03T08:30:00-08:00",
+   "end": "2026-11-03T09:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Heavenly California Base Lodge",
+    "address": "3860 Saddle Rd, South Lake Tahoe, California, 96150",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/tahoe-chamber-mixer-2/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "local events"
    ],
    "_family": false,
    "_adult": false,
@@ -1311,10 +1346,10 @@
    "_kind": "organiser"
   },
   {
-   "id": "southtahoe:246806",
+   "id": "southtahoe:248220",
    "title": "Dueling Pianos at Caesars Republic Lake Tahoe",
    "start": "2026-11-06T20:30:00-08:00",
-   "end": "2026-11-06T22:30:00-08:00",
+   "end": "2026-11-07T00:30:00-08:00",
    "allDay": false,
    "ongoing": false,
    "venue": {
@@ -1861,10 +1896,10 @@
    "_kind": "organiser"
   },
   {
-   "id": "southtahoe:246807",
+   "id": "southtahoe:248221",
    "title": "Dueling Pianos at Caesars Republic Lake Tahoe",
    "start": "2026-11-07T20:30:00-08:00",
-   "end": "2026-11-07T22:30:00-08:00",
+   "end": "2026-11-08T00:30:00-08:00",
    "allDay": false,
    "ongoing": false,
    "venue": {
@@ -2478,6 +2513,44 @@
    "_tags": [
     "kids & families",
     "sports"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "southtahoe:198707",
+   "title": "A Veterans Musical Tribute – South Tahoe Middle School",
+   "start": "2026-11-09T18:30:00-08:00",
+   "end": "2026-11-09T20:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "South Tahoe Middle School",
+    "address": "2940 Lake Tahoe Blvd, South Lake Tahoe, California, 96150",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/a-veterans-musical-tribute-south-tahoe-middle-school/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "families concert",
+   "_tags": [
+    "attractions",
+    "kids & families",
+    "local events",
+    "music & dance"
    ],
    "_family": false,
    "_adult": false,

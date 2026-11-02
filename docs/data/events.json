@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-02T18:30:34Z",
+ "generatedAt": "2026-11-02T21:30:32Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -747,6 +747,34 @@
     {
      "source": "unr",
      "url": "https://events.unr.edu/event/on-location-photographs-from-robert-nunez-and-alejandra-rubio"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:194639",
+   "title": "Tahoe Chamber Mixer",
+   "start": "2026-11-03T08:30:00-08:00",
+   "end": "2026-11-03T09:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Heavenly California Base Lodge",
+    "address": "3860 Saddle Rd, South Lake Tahoe, California, 96150",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/tahoe-chamber-mixer-2/"
     }
    ],
    "lovingReno": null
@@ -2795,10 +2823,7 @@
      "url": "https://renofoodtruckevents.com/"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "library:17186400",
@@ -3020,6 +3045,32 @@
     {
      "source": "unr",
      "url": "https://events.unr.edu/event/2026-laxalt-distinguished-writer-sierra-crane-murdoch"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:54287041534480",
+   "title": "Academy Insights: Claudia Mowery | Stepping Out of Your Comfort Zone",
+   "start": "2026-11-04T18:00:00-08:00",
+   "end": "2026-11-04T19:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "John Tulloch Business Building (TULL)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/academy-insights-claudia-mowery-stepping-out-of-your-comfort-zone"
     }
    ],
    "lovingReno": null
@@ -5507,10 +5558,7 @@
      "url": "https://hollandreno.org/events/comedy-local-showcase/"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "southtahoe:230351",
@@ -5738,10 +5786,10 @@
    "lovingReno": null
   },
   {
-   "id": "southtahoe:246806",
+   "id": "southtahoe:248220",
    "title": "Dueling Pianos at Caesars Republic Lake Tahoe",
    "start": "2026-11-06T20:30:00-08:00",
-   "end": "2026-11-06T22:30:00-08:00",
+   "end": "2026-11-07T00:30:00-08:00",
    "allDay": false,
    "ongoing": false,
    "venue": {
@@ -5989,10 +6037,7 @@
      "url": "https://visitlaketahoe.com/event/ferris-fifty-endurance-run/"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "library:15762787",
@@ -7274,10 +7319,10 @@
    "lovingReno": null
   },
   {
-   "id": "southtahoe:246807",
+   "id": "southtahoe:248221",
    "title": "Dueling Pianos at Caesars Republic Lake Tahoe",
    "start": "2026-11-07T20:30:00-08:00",
-   "end": "2026-11-07T22:30:00-08:00",
+   "end": "2026-11-08T00:30:00-08:00",
    "allDay": false,
    "ongoing": false,
    "venue": {
@@ -7590,10 +7635,7 @@
      "url": "https://www.renofarmersmarket.com/"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "wcparks:717-1794160800000",
@@ -8550,6 +8592,34 @@
     {
      "source": "southtahoe",
      "url": "https://visitlaketahoe.com/event/learn-curling-at-lake-tahoe-epic-curling/2026-11-09/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:198707",
+   "title": "A Veterans Musical Tribute – South Tahoe Middle School",
+   "start": "2026-11-09T18:30:00-08:00",
+   "end": "2026-11-09T20:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "South Tahoe Middle School",
+    "address": "2940 Lake Tahoe Blvd, South Lake Tahoe, California, 96150",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "music"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/a-veterans-musical-tribute-south-tahoe-middle-school/"
     }
    ],
    "lovingReno": null
