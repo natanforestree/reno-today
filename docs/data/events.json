@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T15:28:37Z",
+ "generatedAt": "2026-11-03T18:30:51Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -2216,7 +2216,10 @@
      "url": "https://renofoodtruckevents.com/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "library:17186400",
@@ -4920,7 +4923,10 @@
      "url": "https://hollandreno.org/events/comedy-local-showcase/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "southtahoe:230351",
@@ -5399,7 +5405,10 @@
      "url": "https://visitlaketahoe.com/event/ferris-fifty-endurance-run/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "library:15762787",
@@ -6480,6 +6489,37 @@
    "lovingReno": null
   },
   {
+   "id": "unr:53921369220858",
+   "title": "Stravinsky's The Soldier's Tale",
+   "start": "2026-11-07T19:30:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Harlan O. & Barbara R. Hall Recital Hall",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 17.0,
+    "max": 17.0
+   },
+   "tier": "general",
+   "hints": [
+    "music"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/stravinskys-the-soldiers-tale"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "tm:rZ7HnEZ1AfuOjV",
    "title": "Everglade w/ Shared Scars, Memoire, Sun Collider & Caelum",
    "start": "2026-11-07T20:00:00-08:00",
@@ -6966,7 +7006,10 @@
      "url": "https://www.renofarmersmarket.com/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "wcparks:717-1794160800000",
@@ -8240,6 +8283,36 @@
    "lovingReno": null
   },
   {
+   "id": "library:17141154",
+   "title": "Letters for Heroes",
+   "start": "2026-11-10T00:00:00-08:00",
+   "end": null,
+   "allDay": true,
+   "ongoing": true,
+   "venue": {
+    "name": "North Valleys Library",
+    "address": "1075 N Hills Blvd Ste 340, Reno, NV 89506",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17141154"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "southtahoe:245937",
    "title": "South Lake Tahoe Restaurant Week",
    "start": "2026-11-10T00:00:00-08:00",
@@ -8268,6 +8341,66 @@
    "lovingReno": null
   },
   {
+   "id": "library:17308756",
+   "title": "Book a Librarian",
+   "start": "2026-11-10T10:00:00-08:00",
+   "end": "2026-11-10T11:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Senior Center Library",
+    "address": "1155 E 9th St, Reno, NV 89512",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17308756"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17170614",
+   "title": "Chinese Mahjong",
+   "start": "2026-11-10T10:00:00-08:00",
+   "end": "2026-11-10T12:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sparks Library",
+    "address": "1125 12th St, Sparks, NV 89431",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17170614"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "southtahoe:225494",
    "title": "Tipsy Putt Events",
    "start": "2026-11-10T10:00:00-08:00",
@@ -8291,6 +8424,516 @@
     {
      "source": "southtahoe",
      "url": "https://visitlaketahoe.com/event/tipsy-putt-events/2026-11-10/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:15892541",
+   "title": "Family Story Time",
+   "start": "2026-11-10T10:15:00-08:00",
+   "end": "2026-11-10T10:45:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Downtown Reno Library",
+    "address": "301 S Center St, Reno, NV 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/15892541"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17017762",
+   "title": "Toddler Time",
+   "start": "2026-11-10T10:15:00-08:00",
+   "end": "2026-11-10T11:15:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sparks Library",
+    "address": "1125 12th St, Sparks, NV 89431",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17017762"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:14216408",
+   "title": "Baby Social",
+   "start": "2026-11-10T10:30:00-08:00",
+   "end": "2026-11-10T11:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Northwest Reno Library",
+    "address": "2325 Robb Dr, Reno, NV 89523",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/14216408"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:15330250",
+   "title": "Family Story Time",
+   "start": "2026-11-10T10:30:00-08:00",
+   "end": "2026-11-10T11:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Incline Village Library",
+    "address": "845 Alder Ave, Incline Village, NV 89451",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~45 min",
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/15330250"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:15228970",
+   "title": "Preschool Story Time",
+   "start": "2026-11-10T10:30:00-08:00",
+   "end": "2026-11-10T11:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "South Valleys Library",
+    "address": "15650-A Wedge Pkwy, Reno, NV 89511",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/15228970"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17603119",
+   "title": "Family Engagement Activities Presented by The Children's Cabinet",
+   "start": "2026-11-10T10:45:00-08:00",
+   "end": "2026-11-10T11:45:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Downtown Reno Library",
+    "address": "301 S Center St, Reno, NV 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17603119"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:16237476",
+   "title": "Book a Librarian",
+   "start": "2026-11-10T11:00:00-08:00",
+   "end": "2026-11-10T16:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Incline Village Library",
+    "address": "845 Alder Ave, Incline Village, NV 89451",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~45 min",
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/16237476"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17308657",
+   "title": "Book a Librarian",
+   "start": "2026-11-10T11:00:00-08:00",
+   "end": "2026-11-10T12:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sparks Library",
+    "address": "1125 12th St, Sparks, NV 89431",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17308657"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:15762671",
+   "title": "Book A Librarian",
+   "start": "2026-11-10T11:30:00-08:00",
+   "end": "2026-11-10T12:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sierra View Library",
+    "address": "4001 S Virginia St, Reno, NV 89502",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/15762671"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:11811827",
+   "title": "Tuesday Book Group",
+   "start": "2026-11-10T13:00:00-08:00",
+   "end": "2026-11-10T14:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Spanish Springs Library",
+    "address": "7100A Pyramid Hwy, Sparks, NV 89436",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/11811827"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:16955312",
+   "title": "Everyday Computer Skills: Navigating the Internet",
+   "start": "2026-11-10T15:00:00-08:00",
+   "end": "2026-11-10T16:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Downtown Reno Library",
+    "address": "301 S Center St, Reno, NV 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/16955312"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17052536",
+   "title": "Scam Prevention From the Better Business Bureau",
+   "start": "2026-11-10T15:00:00-08:00",
+   "end": "2026-11-10T16:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Spanish Springs Library",
+    "address": "7100A Pyramid Hwy, Sparks, NV 89436",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17052536"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17141186",
+   "title": "STEAM: Microscope Explorers - Discover the Invisible World",
+   "start": "2026-11-10T15:30:00-08:00",
+   "end": "2026-11-10T17:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "North Valleys Library",
+    "address": "1075 N Hills Blvd Ste 340, Reno, NV 89506",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17141186"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17056210",
+   "title": "Tutoring and Homework Help",
+   "start": "2026-11-10T15:30:00-08:00",
+   "end": "2026-11-10T17:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sierra View Library",
+    "address": "4001 S Virginia St, Reno, NV 89502",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17056210"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:10710179",
+   "title": "LEGO Robotics Club",
+   "start": "2026-11-10T16:00:00-08:00",
+   "end": "2026-11-10T18:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Spanish Springs Library",
+    "address": "7100A Pyramid Hwy, Sparks, NV 89436",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/10710179"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17018002",
+   "title": "Spanish/English Fun & Games",
+   "start": "2026-11-10T16:00:00-08:00",
+   "end": "2026-11-10T17:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sparks Library",
+    "address": "1125 12th St, Sparks, NV 89431",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17018002"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:15229023",
+   "title": "Time-out Tuesday for Adults - Pinecone Turkey",
+   "start": "2026-11-10T16:00:00-08:00",
+   "end": "2026-11-10T17:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "South Valleys Library",
+    "address": "15650-A Wedge Pkwy, Reno, NV 89511",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/15229023"
     }
    ],
    "lovingReno": null
@@ -8343,6 +8986,34 @@
     {
      "source": "reno",
      "url": "https://www.reno.gov/calendar"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17010556",
+   "title": "Fireside Hush Hour",
+   "start": "2026-11-10T18:00:00-08:00",
+   "end": "2026-11-10T19:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Incline Village Library",
+    "address": "845 Alder Ave, Incline Village, NV 89451",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~45 min",
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17010556"
     }
    ],
    "lovingReno": null
