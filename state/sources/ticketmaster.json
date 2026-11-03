@@ -1,80 +1,6 @@
 {
- "at": "2026-11-03T06:30:33Z",
+ "at": "2026-11-03T09:30:32Z",
  "events": [
-  {
-   "id": "tm:1718v0G6CVqioql",
-   "title": "Token, Clark D, Delivery Boys, Jdyzzy, Doc Gruesome",
-   "start": "2026-11-02T19:00:00-08:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Club Underground",
-    "address": "555 E 4th St, Reno, NV",
-    "lat": 39.53151,
-    "lon": -119.80658
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketweb.com/event/token-clark-d-delivery-boys-club-underground-tickets/14257064?REFERRAL_ID=tmfeed"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "hip-hop/rap",
-    "music",
-    "trap"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
-  {
-   "id": "tm:1Ae0Z_fGklYx-u3",
-   "title": "Missing Link",
-   "start": "2026-11-02T19:00:00-08:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Club Underground",
-    "address": "555 E 4th St, Reno, NV",
-    "lat": 39.53151,
-    "lon": -119.80658
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketweb.com/event/missing-link-club-underground-tickets/14374244?REFERRAL_ID=tmfeed"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "music",
-    "pop",
-    "rock"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
   {
    "id": "tm:rZ7HnEZ1Afad-f",
    "title": "The Last Revel, Nathaniel Riley",
@@ -921,6 +847,82 @@
    "_tags": [
     "arts & theatre",
     "comedy"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:1A9Zk4FGkdpS0oa",
+   "title": "Veterans Bowl",
+   "start": "2026-11-10T18:00:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "National Bowling Stadium",
+    "address": "300 University Way, Reno, NV",
+    "lat": 39.52994,
+    "lon": -119.81321
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/veterans-bowl-reno-nevada-11-10-2026/event/17006548D6CE4449"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "family",
+    "miscellaneous",
+    "other"
+   ],
+   "_family": true,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:rZ7HnEZ1Afugaf",
+   "title": "deathtape, No One Good, FoolZDen, Fall Is In Flames",
+   "start": "2026-11-10T19:00:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Alpine",
+    "address": "324 E 4th St, Reno, NV",
+    "lat": 39.53091,
+    "lon": -119.80904
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 22.91,
+    "max": 22.91
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketweb.com/event/deathtape-no-one-good-foolzden-the-alpine-tickets/14375254"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "metal",
+    "music"
    ],
    "_family": false,
    "_adult": false,

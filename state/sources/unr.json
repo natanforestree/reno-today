@@ -1,128 +1,6 @@
 {
- "at": "2026-11-03T06:30:33Z",
+ "at": "2026-11-03T09:30:32Z",
  "events": [
-  {
-   "id": "unr:54116793925263",
-   "title": "On Location: Photographs from Robert Nuñez and Alejandra Rubio",
-   "start": "2026-11-02T08:00:00-08:00",
-   "end": "2026-11-02T20:00:00-08:00",
-   "allDay": false,
-   "ongoing": true,
-   "venue": {
-    "name": "McNamara Hallway Gallery",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/on-location-photographs-from-robert-nunez-and-alejandra-rubio"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "college of liberal arts",
-    "department of art, art history and design",
-    "exhibitions (recurring)",
-    "school of the arts",
-    "university galleries"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "unr:54118632161012",
-   "title": "Clothesline Fiber Exhibition",
-   "start": "2026-11-02T12:00:00-08:00",
-   "end": "2026-11-02T16:00:00-08:00",
-   "allDay": false,
-   "ongoing": true,
-   "venue": {
-    "name": "Student Galleries South",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/clothesline-fiber-exhibition"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "college of liberal arts",
-    "department of art, art history and design",
-    "exhibitions (recurring)",
-    "interdisciplinary arts",
-    "school of the arts",
-    "university galleries",
-    "university museum district"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "unr:53799519178336",
-   "title": "Without Mountains and Rivers Without End: Speculative Geographics on an Interior Northwest",
-   "start": "2026-11-02T12:00:00-08:00",
-   "end": "2026-11-02T16:00:00-08:00",
-   "allDay": false,
-   "ongoing": true,
-   "venue": {
-    "name": "Sheppard Contemporary Gallery",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/without-mountains-and-rivers-without-end-speculative-geographics-on-an-interior-northwest"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "arts & culture",
-    "college of liberal arts",
-    "department of art, art history and design",
-    "exhibitions (recurring)",
-    "school of the arts",
-    "university galleries"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "unr:54284778865843",
    "title": "Early Voting at the Joe",
@@ -2084,6 +1962,195 @@
     "extension",
     "extension office: washoe",
     "extension: master gardeners"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:54116793930388",
+   "title": "On Location: Photographs from Robert Nuñez and Alejandra Rubio",
+   "start": "2026-11-09T08:00:00-08:00",
+   "end": "2026-11-09T20:00:00-08:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "McNamara Hallway Gallery",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/on-location-photographs-from-robert-nunez-and-alejandra-rubio"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "college of liberal arts",
+    "department of art, art history and design",
+    "exhibitions (recurring)",
+    "school of the arts",
+    "university galleries"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:53799519180388",
+   "title": "Without Mountains and Rivers Without End: Speculative Geographics on an Interior Northwest",
+   "start": "2026-11-09T12:00:00-08:00",
+   "end": "2026-11-09T16:00:00-08:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "Sheppard Contemporary Gallery",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/without-mountains-and-rivers-without-end-speculative-geographics-on-an-interior-northwest"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & culture",
+    "college of liberal arts",
+    "department of art, art history and design",
+    "exhibitions (recurring)",
+    "school of the arts",
+    "university galleries"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:54355598064843",
+   "title": "Dissertation Defense - Harini Wimalasekera",
+   "start": "2026-11-09T13:00:00-08:00",
+   "end": "2026-11-09T14:45:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Scrugham Engineering Mines (SEM)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/dissertation-defense-harini-wimalasekera"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "college of science",
+    "department of chemistry",
+    "lectures & seminars",
+    "the graduate school"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:54108982980194",
+   "title": "Voice Area Recital - Juniors and Sophomores",
+   "start": "2026-11-09T13:00:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "University Foundation Arts (UFA)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/voice-area-recital-juniors-and-sophomores"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & culture",
+    "school of music"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:54010158772632",
+   "title": "Liang Jun Li - Doctor of Musical Arts Clarinet Recital",
+   "start": "2026-11-09T17:00:00-08:00",
+   "end": "2026-11-09T18:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Harlan O. & Barbara R. Hall Recital Hall",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/liang-jun-li-doctor-of-musical-arts-clarinet-recital"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & culture",
+    "school of music"
    ],
    "_family": false,
    "_adult": false,
