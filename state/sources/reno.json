@@ -1,5 +1,5 @@
 {
- "at": "2026-11-02T15:30:38Z",
+ "at": "2026-11-03T06:30:33Z",
  "events": [
   {
    "id": "reno:4-202601100256",
@@ -6651,6 +6651,41 @@
    "_text": "",
    "_tags": [
     "events"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "reno:485-202611111110",
+   "title": "2026 Veterans Day Parade",
+   "start": "2026-11-11T11:10:00-08:00",
+   "end": "2026-11-11T13:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Downtown Reno",
+    "address": "Downtown Reno",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "reno",
+     "url": "https://www.reno.gov/community/special-events/veterans-day-participant-signup.php"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "special events"
    ],
    "_family": false,
    "_adult": false,

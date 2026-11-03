@@ -1,5 +1,5 @@
 {
- "at": "2026-11-02T15:30:38Z",
+ "at": "2026-11-03T06:30:33Z",
  "events": [
   {
    "id": "sparks:15-202607021330",
@@ -447,10 +447,10 @@
    "_kind": "organiser"
   },
   {
-   "id": "sparks:40-202612041800",
+   "id": "sparks:40-202612041830",
    "title": "Sparks Hometowne Christmas Tree Lighting",
-   "start": "2026-12-04T18:00:00-08:00",
-   "end": "2026-12-04T18:30:00-08:00",
+   "start": "2026-12-04T18:30:00-08:00",
+   "end": "2026-12-04T19:00:00-08:00",
    "allDay": false,
    "ongoing": false,
    "venue": {
@@ -503,6 +503,41 @@
     {
      "source": "sparks",
      "url": "https://builder1.revize.com/revize/sparksnv/recreation/special_events/sparks_special_events.php?rz=catalogueDetails&id=205"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "community events"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "sparks:80-202611260830",
+   "title": "Scheels Turkey Trot",
+   "start": "2026-11-26T08:30:00-08:00",
+   "end": "2026-11-26T09:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sparks Marina Gazebo",
+    "address": "Sparks Marina Gazebo",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "sparks",
+     "url": "https://builder1.revize.com/revize/sparksnv/recreation/special_events/scheels_turkey_trot.php"
     }
    ],
    "lovingReno": null,
