@@ -1,5 +1,5 @@
 {
- "at": "2026-11-03T18:30:51Z",
+ "at": "2026-11-03T21:30:49Z",
  "events": [
   {
    "id": "unr:54284778865843",
@@ -1035,6 +1035,43 @@
    "_kind": "organiser"
   },
   {
+   "id": "unr:54418820270734",
+   "title": "Alumni/Grad Student Panel",
+   "start": "2026-11-05T12:00:00-08:00",
+   "end": "2026-11-05T14:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Multicultural Center",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/alumnigrad-student-panel"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "indigenous relations",
+    "observances & celebrations",
+    "the multicultural center"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
    "id": "unr:54118632164087",
    "title": "Clothesline Fiber Exhibition",
    "start": "2026-11-05T12:00:00-08:00",
@@ -1651,6 +1688,43 @@
     "lectures & seminars",
     "social events",
     "university libraries"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:54418872047555",
+   "title": "Native American Heritage Night, Tribal Flag Run-Out, Nevada Football VS New Mexico",
+   "start": "2026-11-06T18:00:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Mackay Stadium",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/native-american-heritage-night-tribal-flag-run-out-nevada-football-vs-new-mexico"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "indigenous relations",
+    "observances & celebrations",
+    "the multicultural center"
    ],
    "_family": false,
    "_adult": false,

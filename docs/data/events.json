@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T18:30:51Z",
+ "generatedAt": "2026-11-03T21:30:49Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -2216,10 +2216,7 @@
      "url": "https://renofoodtruckevents.com/"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "library:17186400",
@@ -3052,6 +3049,34 @@
     {
      "source": "unr",
      "url": "https://events.unr.edu/event/92-events-a-fluxus-show"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:54418820270734",
+   "title": "Alumni/Grad Student Panel",
+   "start": "2026-11-05T12:00:00-08:00",
+   "end": "2026-11-05T14:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Multicultural Center",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/alumnigrad-student-panel"
     }
    ],
    "lovingReno": null
@@ -4783,6 +4808,32 @@
    "lovingReno": null
   },
   {
+   "id": "unr:54418872047555",
+   "title": "Native American Heritage Night, Tribal Flag Run-Out, Nevada Football VS New Mexico",
+   "start": "2026-11-06T18:00:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Mackay Stadium",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/native-american-heritage-night-tribal-flag-run-out-nevada-football-vs-new-mexico"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "unr:53799934504134",
    "title": "Nevada Football vs. New Mexico",
    "start": "2026-11-06T18:00:00-08:00",
@@ -4923,10 +4974,7 @@
      "url": "https://hollandreno.org/events/comedy-local-showcase/"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "southtahoe:230351",
@@ -5405,10 +5453,7 @@
      "url": "https://visitlaketahoe.com/event/ferris-fifty-endurance-run/"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "library:15762787",
@@ -7006,10 +7051,7 @@
      "url": "https://www.renofarmersmarket.com/"
     }
    ],
-   "lovingReno": {
-    "title": "2026 Ultimate Reno Halloween & Fall Guide",
-    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
-   }
+   "lovingReno": null
   },
   {
    "id": "wcparks:717-1794160800000",
