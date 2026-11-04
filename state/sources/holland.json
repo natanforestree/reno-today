@@ -1,44 +1,6 @@
 {
- "at": "2026-11-04T06:30:32Z",
+ "at": "2026-11-04T09:30:34Z",
  "events": [
-  {
-   "id": "holland:96527",
-   "title": "LUCY (Cooper B. Handy), F.G.S, Walmart 2",
-   "start": "2026-11-03T19:00:00-08:00",
-   "end": "2026-11-03T22:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Holland Project",
-    "address": "140 Vesta St, Reno, NV, 89502",
-    "lat": 39.50964,
-    "lon": -119.80367
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "min": 20.0,
-    "max": 20.0
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "holland",
-     "url": "https://hollandreno.org/events/lucy/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "music"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": true,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "holland:96950",
    "title": "Roman Candle, postdrome, Brusher",
@@ -296,6 +258,44 @@
    "_text": "",
    "_tags": [
     "workshops"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": true,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "holland:96429",
+   "title": "past self, Witicca, tightwire.",
+   "start": "2026-11-11T19:00:00-08:00",
+   "end": "2026-11-11T22:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Holland Project",
+    "address": "140 Vesta St, Reno, NV, 89502",
+    "lat": 39.50964,
+    "lon": -119.80367
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 20.0,
+    "max": 20.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "holland",
+     "url": "https://hollandreno.org/events/past-self/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "music"
    ],
    "_family": false,
    "_adult": false,

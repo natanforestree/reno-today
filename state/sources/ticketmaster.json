@@ -1,46 +1,6 @@
 {
- "at": "2026-11-04T06:30:32Z",
+ "at": "2026-11-04T09:30:34Z",
  "events": [
-  {
-   "id": "tm:rZ7HnEZ1Afad-f",
-   "title": "The Last Revel, Nathaniel Riley",
-   "start": "2026-11-03T20:00:00-08:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Alpine",
-    "address": "324 E 4th St, Reno, NV",
-    "lat": 39.53091,
-    "lon": -119.80904
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "min": 29.01,
-    "max": 29.01
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketweb.com/event/the-last-revel-nathaniel-riley-the-alpine-tickets/14243854"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "folk",
-    "folk rock",
-    "music"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
   {
    "id": "tm:1AyZkoaGkdr4dBq",
    "title": "Leonid & Friends",
@@ -923,6 +883,42 @@
    "_tags": [
     "metal",
     "music"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:1A9Zk3KGkddZbhW",
+   "title": "Outlander In Concert",
+   "start": "2026-11-11T20:00:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Grand Sierra Resort and Casino",
+    "address": "2500 East Second Street, Reno, NV",
+    "lat": 39.52331,
+    "lon": -119.78102
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/outlander-in-concert-reno-nevada-11-11-2026/event/17006493C30186FD"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "Children",
+   "_tags": [
+    "drama",
+    "film"
    ],
    "_family": false,
    "_adult": false,
