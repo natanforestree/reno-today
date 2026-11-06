@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T15:23:48Z",
+ "generatedAt": "2026-11-06T18:30:32Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -700,7 +700,10 @@
      "url": "https://visitcarsoncity.com/events/dia-de-los-muertos-at-the-nevada-state-mueseum/2026-11-06/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "southtahoe:248415",
@@ -778,6 +781,32 @@
     {
      "source": "unr",
      "url": "https://events.unr.edu/event/39th-nevada-writers-hall-of-fame-induction-and-reception"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:54418872047555",
+   "title": "Native American Heritage Night, Tribal Flag Run-Out, Nevada Football VS New Mexico",
+   "start": "2026-11-06T18:00:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Mackay Stadium",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/native-american-heritage-night-tribal-flag-run-out-nevada-football-vs-new-mexico"
     }
    ],
    "lovingReno": null
@@ -953,7 +982,10 @@
      "url": "https://hollandreno.org/events/comedy-local-showcase/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "southtahoe:230351",
@@ -1458,7 +1490,10 @@
      "url": "https://visitlaketahoe.com/event/ferris-fifty-endurance-run/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "library:15762787",
@@ -1777,7 +1812,10 @@
      "url": "https://visitcarsoncity.com/events/dia-de-los-muertos-at-the-nevada-state-mueseum/2026-11-07/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "southtahoe:225492",
@@ -3110,7 +3148,10 @@
      "url": "https://www.renofarmersmarket.com/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "wcparks:717-1794160800000",
@@ -5853,7 +5894,10 @@
      "url": "https://visitvirginiacitynv.com/event/veterans-day-parade/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "unr:53743917469769",
@@ -6051,7 +6095,10 @@
      "url": "https://renofoodtruckevents.com/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "discovery:43067",
@@ -7933,6 +7980,36 @@
    "lovingReno": null
   },
   {
+   "id": "library:17141157",
+   "title": "Letters for Heroes",
+   "start": "2026-11-13T00:00:00-08:00",
+   "end": null,
+   "allDay": true,
+   "ongoing": true,
+   "venue": {
+    "name": "North Valleys Library",
+    "address": "1075 N Hills Blvd Ste 340, Reno, NV 89506",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17141157"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "southtahoe:245940",
    "title": "South Lake Tahoe Restaurant Week",
    "start": "2026-11-13T00:00:00-08:00",
@@ -7956,6 +8033,334 @@
     {
      "source": "southtahoe",
      "url": "https://visitlaketahoe.com/event/south-lake-tahoe-restaurant-week/2026-11-13/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17308759",
+   "title": "Book a Librarian",
+   "start": "2026-11-13T10:00:00-08:00",
+   "end": "2026-11-13T11:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Senior Center Library",
+    "address": "1155 E 9th St, Reno, NV 89512",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17308759"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17224357",
+   "title": "Bilingual Story Time",
+   "start": "2026-11-13T10:30:00-08:00",
+   "end": "2026-11-13T11:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "North Valleys Library",
+    "address": "1075 N Hills Blvd Ste 340, Reno, NV 89506",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17224357"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:10710776",
+   "title": "Toddler Time",
+   "start": "2026-11-13T10:30:00-08:00",
+   "end": "2026-11-13T11:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Spanish Springs Library",
+    "address": "7100A Pyramid Hwy, Sparks, NV 89436",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/10710776"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:16237477",
+   "title": "Book a Librarian",
+   "start": "2026-11-13T11:00:00-08:00",
+   "end": "2026-11-13T16:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Incline Village Library",
+    "address": "845 Alder Ave, Incline Village, NV 89451",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~45 min",
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/16237477"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:14767602",
+   "title": "Bridge Group",
+   "start": "2026-11-13T13:00:00-08:00",
+   "end": "2026-11-13T16:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "South Valleys Library",
+    "address": "15650-A Wedge Pkwy, Reno, NV 89511",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/14767602"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "reno:377-202611131430",
+   "title": "Rolling Recreation (Reno City Plaza)",
+   "start": "2026-11-13T14:30:00-08:00",
+   "end": "2026-11-13T17:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Reno City Plaza",
+    "address": "Reno City Plaza",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "reno",
+     "url": "https://reno.gov/parks-and-recreation/recreation/rolling-recreation.php"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17019805",
+   "title": "Picture Book Putt-Putt",
+   "start": "2026-11-13T15:00:00-08:00",
+   "end": "2026-11-13T16:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Incline Village Library",
+    "address": "845 Alder Ave, Incline Village, NV 89451",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~45 min",
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17019805"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17141247",
+   "title": "Retro Video Game Night",
+   "start": "2026-11-13T15:00:00-08:00",
+   "end": "2026-11-13T18:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "North Valleys Library",
+    "address": "1075 N Hills Blvd Ste 340, Reno, NV 89506",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17141247"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:15389211",
+   "title": "Crafternoon: CD Spinners",
+   "start": "2026-11-13T15:30:00-08:00",
+   "end": "2026-11-13T16:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sierra View Library",
+    "address": "4001 S Virginia St, Reno, NV 89502",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/15389211"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:11958794",
+   "title": "Dungeons & Dragons",
+   "start": "2026-11-13T16:00:00-08:00",
+   "end": "2026-11-13T18:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Spanish Springs Library",
+    "address": "7100A Pyramid Hwy, Sparks, NV 89436",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/11958794"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17295034",
+   "title": "Nobody in the Library: Agatha Christie Escape Room",
+   "start": "2026-11-13T16:30:00-08:00",
+   "end": "2026-11-13T17:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Northwest Reno Library",
+    "address": "2325 Robb Dr, Reno, NV 89523",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17295034"
     }
    ],
    "lovingReno": null
