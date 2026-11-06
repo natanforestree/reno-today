@@ -1,44 +1,6 @@
 {
- "at": "2026-11-06T06:30:31Z",
+ "at": "2026-11-06T09:30:33Z",
  "events": [
-  {
-   "id": "holland:96950",
-   "title": "Roman Candle, postdrome, Brusher",
-   "start": "2026-11-05T19:00:00-08:00",
-   "end": "2026-11-05T22:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Holland Project",
-    "address": "140 Vesta St, Reno, NV, 89502",
-    "lat": 39.50964,
-    "lon": -119.80367
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "min": 15.0,
-    "max": 18.0
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "holland",
-     "url": "https://hollandreno.org/events/roman-candle/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "music"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": true,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "holland:97070",
    "title": "Local Comedy Showcase",
@@ -290,6 +252,44 @@
     {
      "source": "holland",
      "url": "https://hollandreno.org/events/past-self/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "music"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": true,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "holland:96913",
+   "title": "Next Question Album Release w/ Roy Mustang, Rat Patrol, Zaine Lee Jackson",
+   "start": "2026-11-13T19:00:00-08:00",
+   "end": "2026-11-13T22:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Holland Project",
+    "address": "140 Vesta St, Reno, NV, 89502",
+    "lat": 39.50964,
+    "lon": -119.80367
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 5.0,
+    "max": 10.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "holland",
+     "url": "https://hollandreno.org/events/next-question/"
     }
    ],
    "lovingReno": null,

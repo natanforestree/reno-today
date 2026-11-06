@@ -1,34 +1,6 @@
 {
- "at": "2026-11-06T06:30:31Z",
+ "at": "2026-11-06T09:30:33Z",
  "events": [
-  {
-   "id": "vcity:10000544",
-   "title": "Art and Cocktails at St. Mary’s Art Center",
-   "start": "2026-11-05T18:00:00-08:00",
-   "end": "2026-11-05T20:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": null,
-   "area": "virginia-city",
-   "drive": "~40 min",
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "vcity",
-     "url": "https://visitvirginiacitynv.com/event/art-and-cocktails-at-st-marys-art-center/2026-11-05/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "21+",
-   "_tags": [],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "vcity:10000633",
    "title": "St. Mary’s Art Center Paranormal Investigations",
