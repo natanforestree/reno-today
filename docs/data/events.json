@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T00:30:32Z",
+ "generatedAt": "2026-11-06T03:30:31Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -2202,32 +2202,6 @@
    "lovingReno": null
   },
   {
-   "id": "unr:54418872047555",
-   "title": "Native American Heritage Night, Tribal Flag Run-Out, Nevada Football VS New Mexico",
-   "start": "2026-11-06T18:00:00-08:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Mackay Stadium",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/native-american-heritage-night-tribal-flag-run-out-nevada-football-vs-new-mexico"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
    "id": "unr:53799934504134",
    "title": "Nevada Football vs. New Mexico",
    "start": "2026-11-06T18:00:00-08:00",
@@ -2256,6 +2230,10 @@
     {
      "source": "wolfpack",
      "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14077&sport_id=2"
+    },
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-tjI"
     }
    ],
    "lovingReno": null
@@ -2937,34 +2915,6 @@
     {
      "source": "library",
      "url": "https://events.washoecountylibrary.us/event/17141151"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "tm:Z7r9jZ1A7-tjI",
-   "title": "Nevada Wolfpack Football vs. New Mexico Lobos Football",
-   "start": "2026-11-07T00:00:00-08:00",
-   "end": null,
-   "allDay": true,
-   "ongoing": false,
-   "venue": {
-    "name": "Mackay Stadium",
-    "address": "1664 N Virginia St, Reno, NV",
-    "lat": 39.5386,
-    "lon": -119.8171
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-tjI"
     }
    ],
    "lovingReno": null
