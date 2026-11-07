@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T21:30:31Z",
+ "generatedAt": "2026-11-07T00:30:32Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -4185,6 +4185,34 @@
    "lovingReno": null
   },
   {
+   "id": "downtown:10005766",
+   "title": "Boozy Book Hour @Karajillo Cafe (every Monday)",
+   "start": "2026-11-09T17:00:00-08:00",
+   "end": "2026-11-09T20:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Karajillo & Co",
+    "address": "50 N. Sierra st. suite102A, Reno, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/boozy-book-hour-karajillo-cafe-every-monday/2026-11-09/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "unr:54010158772632",
    "title": "Liang Jun Li - Doctor of Musical Arts Clarinet Recital",
    "start": "2026-11-09T17:00:00-08:00",
@@ -6274,6 +6302,38 @@
     {
      "source": "tm",
      "url": "https://www.ticketmaster.com/outlander-in-concert-reno-nevada-11-11-2026/event/17006493C30186FD"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "holland:97175",
+   "title": "SERVA POOL: HOMEGROWN, PIG SPLITTER, Bruce Lee, Analguts, Abrupt",
+   "start": "2026-11-11T20:00:00-08:00",
+   "end": "2026-11-11T23:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Holland Project",
+    "address": "140 Vesta St, Reno, NV, 89502",
+    "lat": 39.50964,
+    "lon": -119.80367
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 10.0,
+    "max": 10.0
+   },
+   "tier": "general",
+   "hints": [
+    "all-ages",
+    "music"
+   ],
+   "links": [
+    {
+     "source": "holland",
+     "url": "https://hollandreno.org/events/homegrown/"
     }
    ],
    "lovingReno": null
