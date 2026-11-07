@@ -1,107 +1,6 @@
 {
- "at": "2026-11-07T06:30:32Z",
+ "at": "2026-11-07T09:30:31Z",
  "events": [
-  {
-   "id": "carson:80845",
-   "title": "Dine’ Tah Navajo Cultural Program",
-   "start": "2026-11-06T11:00:00-08:00",
-   "end": "2026-11-06T15:30:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Nevada State Museum",
-    "address": "600 North Carson Street, Carson City, NV, 89701",
-    "lat": 39.16773,
-    "lon": -119.76741
-   },
-   "area": "carson",
-   "drive": "~35 min",
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "carson",
-     "url": "https://visitcarsoncity.com/events/dine-tah-navajo-cultural-program/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "arts & culture",
-    "carson city",
-    "carson city events",
-    "carson city nevada",
-    "events in carson city",
-    "history",
-    "things to do",
-    "visit carson city nevada"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "carson:10006346",
-   "title": "Dia de los Muertos Celebration",
-   "start": "2026-11-06T17:00:00-08:00",
-   "end": "2026-11-06T19:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Nevada State Museum",
-    "address": "600 North Carson Street, Carson City, NV, 89701",
-    "lat": 39.16773,
-    "lon": -119.76741
-   },
-   "area": "carson",
-   "drive": "~35 min",
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "carson",
-     "url": "https://visitcarsoncity.com/events/dia-de-los-muertos-at-the-nevada-state-mueseum/2026-11-06/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "family",
-   "_tags": [
-    "annual event",
-    "art and culture carson city",
-    "arts & culture",
-    "bilingual celebrations",
-    "carson city events",
-    "carson city nevada",
-    "cultural celebrations",
-    "day of the dead",
-    "dia de los muertos",
-    "dia de los muertos nevada",
-    "fall events carson city",
-    "family events carson city",
-    "hispanic heritage",
-    "history",
-    "mexican traditions",
-    "nevada culture",
-    "nevada events",
-    "nevada festivals",
-    "nevada museum events",
-    "nevada state museum",
-    "nevada state museum carson city",
-    "nevada tourism",
-    "visit carson city"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "carson:80599",
    "title": "Carson City Card Con",
@@ -472,6 +371,207 @@
     "things to do in carson city",
     "visit carson city",
     "visit carson city nevada",
+    "what to do in carson city"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:10006288",
+   "title": "Saturday Night Star Parties",
+   "start": "2026-11-14T18:30:00-08:00",
+   "end": "2026-11-14T23:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Jack C. Davis Observatory",
+    "address": "2699 Vanpatten Ave, NV, 89703",
+    "lat": 39.18627,
+    "lon": -119.79616
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/saturday-night-star-parties/2026-11-14/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "night life",
+    "workshops/classes"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:10006231",
+   "title": "Nevada State Prison Preservation Society | 2026 Ghost Walks",
+   "start": "2026-11-14T19:00:00-08:00",
+   "end": "2026-11-14T21:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Nevada State Prison",
+    "address": "3301 E 5th St, Carson City, NV, 89701",
+    "lat": 39.16028,
+    "lon": -119.73677
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": {
+    "min": 50.0,
+    "max": 50.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/nevada-state-prison-preservation-society-2026-ghost-walks/2026-11-14/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "carson city",
+    "carson city events",
+    "carson city nevada",
+    "entertainment",
+    "events",
+    "events in carson city",
+    "nevada state prison",
+    "nevada state prison ghost walk",
+    "nevada state prison paranormal tour",
+    "nevada state prison preservation society",
+    "paranormal carson city",
+    "paranormal nevada",
+    "things to do",
+    "things to do in carson city",
+    "visit carson city",
+    "visit carson city nevada"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:80574",
+   "title": "Loud As Folk & The Holland Project Present: An Evening with Craig Finn & the Band of Forgiveness | Saturday | November 14th 2026",
+   "start": "2026-11-14T19:00:00-08:00",
+   "end": "2026-11-14T22:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Brewery Arts Center Performance Hall",
+    "address": "511 W King STreet, Carson City, 89703",
+    "lat": 39.16388,
+    "lon": -119.77042
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": {
+    "min": 35.0,
+    "max": 35.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/loud-as-folk-the-holland-project-present-an-evening-with-craig-finn-the-band-of-forgiveness-saturday-november-14th-2026/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "brewery arts center",
+    "carson city events",
+    "carson city nevada",
+    "craig finn & the band of forgiveness carson city nv",
+    "craig finn & the band of forgiveness tour",
+    "craig finn & the band of forgiveness tour carson city nv",
+    "craig finn carson city nv",
+    "craig finn tour",
+    "craig finn tour carson city nv",
+    "events",
+    "events in carson city",
+    "live music",
+    "loud as folk",
+    "loud as folk carson city nv",
+    "music",
+    "shows in carson city",
+    "the man i've always been tour",
+    "the man i've always been tour carson city nv",
+    "the man i've always been tour nevada",
+    "things to do",
+    "things to do in carson city",
+    "visit carson city",
+    "visit carson city nevada",
+    "what to do in carson city"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:81207",
+   "title": "Greg Koch & The Koch Marshall Trio",
+   "start": "2026-11-14T19:30:00-08:00",
+   "end": "2026-11-14T21:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Nashville Social Club",
+    "address": "1105 S Carson St, Carson City, Nevada, 89701",
+    "lat": 39.15725,
+    "lon": -119.76644
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": {
+    "min": 36.26,
+    "max": 36.26
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/greg-koch-the-koch-marshall-trio/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "carson city",
+    "carson city events",
+    "carson city nevada",
+    "greg koch & the koch marshall trio",
+    "live music",
+    "live music carson city",
+    "live music northern nevada",
+    "nashville social club",
+    "the swan hall carson city",
+    "things to do",
+    "things to do in carson city",
     "what to do in carson city"
    ],
    "_family": false,
