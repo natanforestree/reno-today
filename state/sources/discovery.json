@@ -1,42 +1,6 @@
 {
- "at": "2026-11-09T06:30:33Z",
+ "at": "2026-11-09T09:30:33Z",
  "events": [
-  {
-   "id": "discovery:43066",
-   "title": "Topographic Maps",
-   "start": "2026-11-08T10:30:00-08:00",
-   "end": "2026-11-08T16:30:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Discovery",
-    "address": "490 S. Center Street, Reno, NV, 89501",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "discovery",
-     "url": "https://nvdm.org/event/topographic-maps-2026-11-08/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "hands-on activity",
-    "maker project"
-   ],
-   "_family": true,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "discovery:43377",
    "title": "Small Wonder Wednesday",

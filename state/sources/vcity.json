@@ -1,62 +1,6 @@
 {
- "at": "2026-11-09T06:30:33Z",
+ "at": "2026-11-09T09:30:33Z",
  "events": [
-  {
-   "id": "vcity:10000536",
-   "title": "Arts & Crafts Revival at St. Mary’s Art Center",
-   "start": "2026-11-08T13:00:00-08:00",
-   "end": "2026-11-08T15:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": null,
-   "area": "virginia-city",
-   "drive": "~40 min",
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "vcity",
-     "url": "https://visitvirginiacitynv.com/event/arts-crafts-revival-at-st-marys-art-center-2/2026-11-08/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "vcity:10000588",
-   "title": "Arts & Crafts Revival at St. Mary’s Art Center",
-   "start": "2026-11-08T13:00:00-08:00",
-   "end": "2026-11-08T15:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": null,
-   "area": "virginia-city",
-   "drive": "~40 min",
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "vcity",
-     "url": "https://visitvirginiacitynv.com/event/arts-crafts-revival-at-st-marys-art-center-3/2026-11-08/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "vcity:10785",
    "title": "Veterans Day Parade",
@@ -118,6 +62,34 @@
    ],
    "lovingReno": null,
    "_text": "",
+   "_tags": [],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "vcity:10000546",
+   "title": "Edible Art with Chef Pete at St. Mary’s Art Center",
+   "start": "2026-11-16T13:00:00-08:00",
+   "end": "2026-11-16T15:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": null,
+   "area": "virginia-city",
+   "drive": "~40 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "vcity",
+     "url": "https://visitvirginiacitynv.com/event/edible-art-with-chef-pete/2026-11-16/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "21+",
    "_tags": [],
    "_family": false,
    "_adult": false,
