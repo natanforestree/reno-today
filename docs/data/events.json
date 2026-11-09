@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T15:30:36Z",
+ "generatedAt": "2026-11-09T18:30:40Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -56,6 +56,36 @@
     {
      "source": "southtahoe",
      "url": "https://visitlaketahoe.com/event/south-lake-tahoe-restaurant-week/2026-11-09/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:54445171597385",
+   "title": "Giving Tree",
+   "start": "2026-11-09T08:00:00-08:00",
+   "end": "2026-11-09T19:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Joe Crowley Student Union (JCSU)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/giving-tree"
     }
    ],
    "lovingReno": null
@@ -718,6 +748,36 @@
     {
      "source": "southtahoe",
      "url": "https://visitlaketahoe.com/event/south-lake-tahoe-restaurant-week/2026-11-10/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:54445171598410",
+   "title": "Giving Tree",
+   "start": "2026-11-10T08:00:00-08:00",
+   "end": "2026-11-10T19:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Joe Crowley Student Union (JCSU)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/giving-tree"
     }
    ],
    "lovingReno": null
@@ -1961,6 +2021,36 @@
    "lovingReno": null
   },
   {
+   "id": "unr:54445171599435",
+   "title": "Giving Tree",
+   "start": "2026-11-11T08:00:00-08:00",
+   "end": "2026-11-11T19:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Joe Crowley Student Union (JCSU)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/giving-tree"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "unr:54116793932438",
    "title": "On Location: Photographs from Robert Nuñez and Alejandra Rubio",
    "start": "2026-11-11T08:00:00-08:00",
@@ -2596,6 +2686,36 @@
    "lovingReno": null
   },
   {
+   "id": "unr:54445171600460",
+   "title": "Giving Tree",
+   "start": "2026-11-12T08:00:00-08:00",
+   "end": "2026-11-12T19:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Joe Crowley Student Union (JCSU)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/giving-tree"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "unr:54242262294239",
    "title": "Nevada Radon Education Program tabling at RSIC Health Clinic with Nevada Cancer Coalition and Larry the Lung",
    "start": "2026-11-12T08:00:00-08:00",
@@ -2679,6 +2799,34 @@
     {
      "source": "library",
      "url": "https://events.washoecountylibrary.us/event/17308758"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:54470416326656",
+   "title": "Staff Employees' Council Open House",
+   "start": "2026-11-12T10:00:00-08:00",
+   "end": "2026-11-12T13:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Joe Crowley Student Union (JCSU)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/staff-employees-council-open-house"
     }
    ],
    "lovingReno": null
@@ -4299,6 +4447,36 @@
     {
      "source": "southtahoe",
      "url": "https://visitlaketahoe.com/event/south-lake-tahoe-restaurant-week/2026-11-13/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:54445171601485",
+   "title": "Giving Tree",
+   "start": "2026-11-13T08:00:00-08:00",
+   "end": "2026-11-13T19:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Joe Crowley Student Union (JCSU)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/giving-tree"
     }
    ],
    "lovingReno": null
