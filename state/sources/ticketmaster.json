@@ -1,5 +1,5 @@
 {
- "at": "2026-11-09T21:30:34Z",
+ "at": "2026-11-10T00:30:33Z",
  "events": [
   {
    "id": "tm:1A9Zk4FGkdpS0oa",
@@ -46,23 +46,20 @@
    "allDay": false,
    "ongoing": false,
    "venue": {
-    "name": "The Alpine",
-    "address": "324 E 4th St, Reno, NV",
-    "lat": 39.53091,
-    "lon": -119.80904
+    "name": "The Holland Project",
+    "address": "140 Vesta Street, Reno, NV",
+    "lat": 39.50963,
+    "lon": -119.80365
    },
    "area": "reno",
    "drive": null,
-   "price": {
-    "min": 22.91,
-    "max": 22.91
-   },
+   "price": null,
    "tier": "general",
    "hints": [],
    "links": [
     {
      "source": "tm",
-     "url": "https://www.ticketweb.com/event/deathtape-no-one-good-foolzden-the-alpine-tickets/14375254"
+     "url": "https://www.ticketweb.com/event/deathtape-no-one-good-foolzden-the-holland-project-tickets/14375254"
     }
    ],
    "lovingReno": null,

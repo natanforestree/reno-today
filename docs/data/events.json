@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T21:30:34Z",
+ "generatedAt": "2026-11-10T00:30:33Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -292,34 +292,6 @@
     {
      "source": "unr",
      "url": "https://events.unr.edu/event/without-mountains-and-rivers-without-end-speculative-geographics-on-an-interior-northwest"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "unr:54355598064843",
-   "title": "Dissertation Defense - Harini Wimalasekera",
-   "start": "2026-11-09T13:00:00-08:00",
-   "end": "2026-11-09T14:45:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Scrugham Engineering Mines (SEM)",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/dissertation-defense-harini-wimalasekera"
     }
    ],
    "lovingReno": null
@@ -1795,6 +1767,42 @@
    "lovingReno": null
   },
   {
+   "id": "holland:97189",
+   "title": "Deathtape, No One Good, Falls is in Flames, FoolZDen",
+   "start": "2026-11-10T18:30:00-08:00",
+   "end": "2026-11-10T22:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Holland Project",
+    "address": "140 Vesta St, Reno, NV, 89502",
+    "lat": 39.50964,
+    "lon": -119.80367
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 15.0,
+    "max": 20.0
+   },
+   "tier": "general",
+   "hints": [
+    "all-ages",
+    "music"
+   ],
+   "links": [
+    {
+     "source": "holland",
+     "url": "https://hollandreno.org/events/deathtape/"
+    },
+    {
+     "source": "tm",
+     "url": "https://www.ticketweb.com/event/deathtape-no-one-good-foolzden-the-holland-project-tickets/14375254"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "southtahoe:230355",
    "title": "Magic Fusion at The Loft Theatre",
    "start": "2026-11-10T19:00:00-08:00",
@@ -1844,37 +1852,6 @@
     {
      "source": "southtahoe",
      "url": "https://visitlaketahoe.com/event/tuesday-trivia-at-south-of-north-brewing/2026-11-10/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "tm:rZ7HnEZ1Afugaf",
-   "title": "deathtape, No One Good, FoolZDen, Fall Is In Flames",
-   "start": "2026-11-10T19:00:00-08:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Alpine",
-    "address": "324 E 4th St, Reno, NV",
-    "lat": 39.53091,
-    "lon": -119.80904
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "min": 22.91,
-    "max": 22.91
-   },
-   "tier": "general",
-   "hints": [
-    "music"
-   ],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketweb.com/event/deathtape-no-one-good-foolzden-the-alpine-tickets/14375254"
     }
    ],
    "lovingReno": null
@@ -2196,7 +2173,10 @@
      "url": "https://visitvirginiacitynv.com/event/veterans-day-parade/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "unr:53743917469769",
@@ -2394,7 +2374,10 @@
      "url": "https://renofoodtruckevents.com/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "discovery:43067",
@@ -6263,7 +6246,10 @@
      "url": "https://hollandreno.org/events/kids-watercolor-workshop/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "unr:53800101551611",
@@ -7375,7 +7361,10 @@
      "url": "https://www.renofarmersmarket.com/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "wcparks:640-1794765600000",
@@ -7440,7 +7429,10 @@
      "url": "https://downtownreno.org/event/reno-antique-faire-virginia-street/2026-11-15/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "2026 Ultimate Reno Halloween & Fall Guide",
+    "url": "https://www.lovingreno.com/2026/09/2026-reno-halloween-fall-guide-haunted.html"
+   }
   },
   {
    "id": "southtahoe:225497",
