@@ -103,7 +103,7 @@ Cloudflare cron (hourly) ─▶ GitHub workflow_dispatch ─▶ collector/collec
 Other files:
 - `docs/data/status.json`: per-source `{ ok, count, lastSuccess, error }`, used by the page's small "unreachable" notes.
 - `docs/data/weather.json`: daily high, low and summary, hourly temperature and rain chance for 8 days, and "nice outside" windows (55–85°F, rain chance < 30 %, daylight).
-- `docs/data/guide.json`: the current Loving Reno guide `{ title, url, published }`. No excerpt.
+- `docs/data/guide.json`: the current Loving Reno guide `{ title, url, published }`, or `null` once it's 6 weeks old. No excerpt.
 - `places.json` (repo root, hand-kept, copied to `docs/data/`): the Always an option list. Each entry has `name`, `area`, `goodFor` (e.g. "toddler play area"), `indoor`/`outdoor`, `hours` by weekday, `months` (for seasonal places such as splash pads), `url` and `notes`. About 12 places to start, with hours checked against official sites at build time. The page always shows a "check hours" link.
 - `overrides.json` (repo root): corrections by id or title pattern, e.g. `{ "match": "…", "tier": "general" }`, `{ "match": "…", "hide": true }`, `{ "match": "…", "addHint": "21+" }`.
 - `state/`: last-good events per source (kept up to 24 h when a source fails), `digest.json` (date last sent) and `refresh.json` (time of last full refresh).
@@ -166,10 +166,12 @@ Full list → https://natanforestree.github.io/reno-today/
 ## Loving Reno
 
 - The **guide card** shows the newest feed post whose title contains "Guide" (or the newest post): its title, date and link only.
+- **Seasonal guides go stale:** once that post is 6 weeks old (a Halloween guide in November), the card, the badges and the digest line are left out until they publish a newer one.
 - **Badges:**
-  - Fetch the current guide post's HTML (one request per full refresh; their robots.txt allows it).
+  - Fetch the current guide post's HTML at most every 12 hours (their robots.txt allows it; more often, their blog answers HTTP 429). A new guide is fetched right away.
   - For each event with a distinctive title (≥ 3 significant words, or a title plus venue match), set `lovingReno` when the guide's text contains it.
-  - Only the guide's title and URL are stored.
+  - Between fetches, and when a fetch fails, the last result is reused: `state/guide.json` keeps the guide's URL and the title + venue of each of our events it mentioned. Events new since then wait for the next fetch.
+  - Only the guide's title and URL are stored, never its text.
 
 ## Arcadipelago island (phase 3)
 

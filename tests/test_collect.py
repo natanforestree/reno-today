@@ -45,6 +45,7 @@ WX = {"generatedAt": "x", "days": [{"date": "2026-10-10", "high": 70, "low": 50,
                                     "nice": [], "hours": []}]}
 GUIDE = {"title": "Fall Guide", "shortTitle": "Fall Guide", "url": "https://www.lovingreno.com/g.html",
          "published": "2026-09-24"}
+PAGE = "<p>Join the Baby Storytime at Sparks Library every week.</p>"
 
 
 class CollectTest(unittest.TestCase):
@@ -235,6 +236,72 @@ class CollectTest(unittest.TestCase):
         with mock.patch.object(net, "get_text", mock.Mock(side_effect=net.FetchError("x", "HTTP 500", 500))):
             collect.run(self.root, NOW, {}, srcs=[fake_source("lib", [storytime()])])
         self.assertIsNone(self.read("docs/data/events.json")["events"][0]["lovingReno"])
+
+    def run_at(self, when, **kw):
+        """A refresh with one storytime event; returns that event's Loving Reno badge."""
+        collect.run(self.root, when, {}, srcs=[fake_source("lib", [storytime()])], **kw)
+        return self.read("docs/data/events.json")["events"][0]["lovingReno"]
+
+    def test_stale_guide_is_left_out(self):
+        old = dict(GUIDE, published="2026-08-29")       # exactly 6 weeks before NOW
+        page = mock.Mock(return_value=PAGE)
+        env = {"DISCORD_WEBHOOK_URL": "https://discord.example/hook"}
+        with mock.patch.object(guide, "fetch", lambda: old), mock.patch.object(net, "get_text", page):
+            collect.run(self.root, NOW, env, srcs=[fake_source("lib", [storytime()])], post=self.post_ok)
+        self.assertIsNone(self.read("docs/data/guide.json"))
+        self.assertIsNone(self.read("docs/data/events.json")["events"][0]["lovingReno"])
+        page.assert_not_called()
+        self.assertNotIn("Loving Reno", self.sent[0])
+        self.assertTrue(self.read("docs/data/status.json")["sources"]["lovingreno"]["ok"], "the feed itself was read")
+
+    def test_kept_guide_goes_stale_while_the_feed_is_down(self):
+        self.run_at(NOW)
+        self.assertEqual(self.read("docs/data/guide.json"), GUIDE)
+        down = mock.Mock(side_effect=net.FetchError("lovingreno feed", "HTTP 429", 429))
+        with mock.patch.object(guide, "fetch", down):
+            self.run_at(NOW + timedelta(hours=3))
+            self.assertEqual(self.read("docs/data/guide.json"), GUIDE, "still fresh: kept")
+            collect.run(self.root, NOW + timedelta(weeks=6), {}, srcs=[fake_source("lib", [])])
+        self.assertIsNone(self.read("docs/data/guide.json"))
+
+    def test_guide_page_is_read_at_most_every_12_hours(self):
+        page = mock.Mock(return_value=PAGE)
+        with mock.patch.object(net, "get_text", page):
+            badges = [self.run_at(NOW + timedelta(hours=h)) for h in (0, 3, 6, 9, 12)]
+        self.assertEqual(page.call_count, 2)            # at 0 h and 12 h
+        self.assertEqual(badges, [{"title": "Fall Guide", "url": GUIDE["url"]}] * 5)
+        self.assertEqual(self.read("state/guide.json"), {"url": GUIDE["url"], "at": "2026-10-11T02:31:00Z",
+                                                         "keys": ["baby storytime @ sparks library"]})
+
+    def test_failed_page_read_reuses_the_last_result(self):
+        with mock.patch.object(net, "get_text", lambda url, **kw: PAGE):
+            self.run_at(NOW)
+        busy = mock.Mock(side_effect=net.FetchError("lovingreno", "HTTP 429", 429))
+        out = io.StringIO()
+        with mock.patch.object(net, "get_text", busy), redirect_stdout(out):
+            badges = [self.run_at(NOW + timedelta(hours=h)) for h in (12, 15)]
+        self.assertEqual(badges, [{"title": "Fall Guide", "url": GUIDE["url"]}] * 2)
+        self.assertEqual(busy.call_count, 2, "a failed read is tried again on the next refresh")
+        self.assertIn("guide page not read (HTTP 429 (lovingreno)); reusing the read from 2026-10-10T14:31:00Z",
+                      out.getvalue())
+
+    def test_a_new_guide_is_read_right_away(self):
+        new = dict(GUIDE, url="https://www.lovingreno.com/holiday.html", published="2026-10-09")
+        page = mock.Mock(return_value=PAGE)
+        with mock.patch.object(net, "get_text", page):
+            self.run_at(NOW)
+            with mock.patch.object(guide, "fetch", lambda: new):
+                badge = self.run_at(NOW + timedelta(hours=3))
+        self.assertEqual([c.args[0] for c in page.call_args_list], [GUIDE["url"], new["url"]])
+        self.assertEqual(badge["url"], new["url"])
+
+    def test_a_new_guide_that_cannot_be_read_gets_no_badges(self):
+        with mock.patch.object(net, "get_text", lambda url, **kw: PAGE):
+            self.run_at(NOW)
+        new = dict(GUIDE, url="https://www.lovingreno.com/holiday.html", published="2026-10-09")
+        busy = mock.Mock(side_effect=net.FetchError("lovingreno", "HTTP 429", 429))
+        with mock.patch.object(guide, "fetch", lambda: new), mock.patch.object(net, "get_text", busy):
+            self.assertIsNone(self.run_at(NOW + timedelta(hours=3)), "the old guide's result is not reused")
 
     def assert_data_written(self):
         self.assertEqual([e["title"] for e in self.read("docs/data/events.json")["events"]], ["Baby Storytime"])

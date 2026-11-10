@@ -21,10 +21,11 @@ import schedule  # noqa: E402
 import sources  # noqa: E402
 import weather  # noqa: E402
 from sources.base import Context, SourceError  # noqa: E402
-from store import Store  # noqa: E402
+from store import Store, parse_time  # noqa: E402
 
 ROOT = os.path.dirname(HERE)
 VISITS_URL = "https://ruby-radar.nathanforestlee.workers.dev/api/visits/reno-today?days=2"
+GUIDE_STATE = "state/guide.json"
 
 
 def _error_text(err):
@@ -90,6 +91,27 @@ def _optional(name, label, fn, status, previous, now):
     return value
 
 
+def guide_mentions(store, card, events, now):
+    """Keys of the events the guide mentions (guide.key). The page is read at most every
+    guide.PAGE_EVERY; in between, and when a read fails, the last result for the same
+    guide is reused, so events that are new since then wait for the next read. Only
+    those keys are kept, never the guide's text: it's linked, not copied."""
+    saved = store.read(GUIDE_STATE) or {}
+    same = saved.get("url") == card["url"] and isinstance(saved.get("keys"), list)
+    at = parse_time(saved.get("at"))
+    if same and at is not None and now - at < guide.PAGE_EVERY:
+        return set(saved["keys"])
+    try:
+        keys = guide.mentions(events, guide.page_text(net.get_text(card["url"])))
+    except Exception as err:  # noqa: BLE001 - the caller logs a failure with nothing to fall back on
+        if not same:
+            raise
+        print(f"lovingreno: guide page not read ({_brief(err)}); reusing the read from {saved.get('at')}")
+        return set(saved["keys"])
+    store.write(GUIDE_STATE, {"url": card["url"], "at": model.utc(now), "keys": sorted(keys)})
+    return keys
+
+
 def yesterday_visitors(today):
     """Yesterday's page-visit count (a bare number, kept by the Ruby Radar worker), or None
     when it can't be had. Only the exception type is logged; this never stops the digest."""
@@ -122,13 +144,13 @@ def run(root, now, env, srcs=None, post=None):
     events = build_events(raw, ctx, classify.load_overrides(store.path("overrides.json")))
 
     card = _optional("lovingreno", "Loving Reno", guide.fetch, status, previous, now)
-    if card is not None:
-        store.write("docs/data/guide.json", card)
-    else:
+    if card is None:
         card = store.read("docs/data/guide.json")
+    card = guide.current(card, now.date())        # None hides the card on the page and in the digest
+    store.write("docs/data/guide.json", card)
     if card and events:
         try:
-            picks = guide.badges(events, card, guide.page_text(net.get_text(card["url"])))
+            picks = guide.mark(events, card, guide_mentions(store, card, events, now))
             print(f"lovingreno: {picks} events are in the current guide")
         except Exception as err:  # noqa: BLE001 - decorative; must never cost the refresh
             print(f"lovingreno: badges skipped ({_brief(err)})")

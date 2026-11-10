@@ -1,4 +1,5 @@
 import unittest
+from datetime import date
 
 from helpers import fixture_text, la
 import guide
@@ -26,6 +27,20 @@ class GuideTest(unittest.TestCase):
     def test_broken_xml_is_a_fetch_error(self):
         with self.assertRaises(net.FetchError):
             guide.parse("<html>oops")
+
+    def test_current_until_six_weeks_old(self):
+        card = {"title": "Fall Guide", "url": "https://www.lovingreno.com/g.html", "published": "2026-09-24"}
+        self.assertIs(guide.current(card, date(2026, 9, 24)), card)
+        self.assertIs(guide.current(card, date(2026, 11, 4)), card)       # 41 days
+        self.assertIsNone(guide.current(card, date(2026, 11, 5)))         # 6 weeks: Halloween is over
+        self.assertIsNone(guide.current(card, date(2026, 11, 10)))
+
+    def test_undated_or_missing_card_is_not_current(self):
+        today = date(2026, 10, 1)
+        self.assertIsNone(guide.current(None, today))
+        self.assertIsNone(guide.current({"title": "G", "url": "https://x.org/"}, today))
+        self.assertIsNone(guide.current({"title": "G", "url": "https://x.org/", "published": ""}, today))
+        self.assertIsNone(guide.current({"title": "G", "url": "https://x.org/", "published": "soon"}, today))
 
 
 def fin(title, venue_name=None):
@@ -65,6 +80,20 @@ class BadgesTest(unittest.TestCase):
         self.assertEqual(n, 3)
         self.assertEqual(events[0]["lovingReno"], {"title": "2026 Ultimate Reno Halloween & Fall Guide",
                                                    "url": "https://www.lovingreno.com/2026/09/guide.html"})
+
+    def test_mentions_are_keyed_by_title_and_venue(self):
+        events = [fin("Great Italian Festival"), fin("Pumpkin Patch", "Andelin Family Farm"),
+                  fin("Pumpkin Patch", "Lattin Farms"), fin("Wind Ensemble Concert")]
+        keys = guide.mentions(events, guide.page_text(GUIDE_HTML))
+        self.assertEqual(keys, {"great italian festival @ ", "pumpkin patch @ andelin family farm"})
+        self.assertNotIn("Fall Guide", repr(keys), "only our own events' names, never the guide's text")
+
+    def test_mark_applies_saved_keys_to_later_occurrences(self):
+        later = [fin("The 45th Annual Great Italian Festival"), fin("Pumpkin Patch", "Andelin Family Farm"),
+                 fin("Pumpkin Patch", "Lattin Farms")]
+        n = guide.mark(later, CARD, {"great italian festival @ ", "pumpkin patch @ andelin family farm"})
+        self.assertEqual([bool(e["lovingReno"]) for e in later], [True, True, False])
+        self.assertEqual(n, 2)
 
 
 if __name__ == "__main__":
