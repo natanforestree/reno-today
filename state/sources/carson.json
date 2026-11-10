@@ -1,5 +1,5 @@
 {
- "at": "2026-11-10T18:30:32Z",
+ "at": "2026-11-10T21:30:33Z",
  "events": [
   {
    "id": "carson:78628",
@@ -92,6 +92,51 @@
     "visit carson city",
     "visit carson city nevada",
     "what to do in carson city"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:10006429",
+   "title": "Carson City Nevada Show Me Reptile Show & Pet Expo",
+   "start": "2026-11-14T08:00:00-08:00",
+   "end": "2026-11-14T17:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Carson City Community Center",
+    "address": "851 East William Street, Carson City, NV, 89701",
+    "lat": 39.17037,
+    "lon": -119.76075
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": {
+    "min": 15.0,
+    "max": 15.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/carson-city-nevada-show-me-reptile-show-pet-expo/2026-11-14/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "carson city",
+    "carson city community center",
+    "carson city events",
+    "carson city nevada",
+    "events in carson city",
+    "shows in carson city",
+    "things to do",
+    "things to do in carson city"
    ],
    "_family": false,
    "_adult": false,
@@ -293,6 +338,51 @@
     "things to do",
     "things to do in carson city",
     "what to do in carson city"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:10006430",
+   "title": "Carson City Nevada Show Me Reptile Show & Pet Expo",
+   "start": "2026-11-15T10:00:00-08:00",
+   "end": "2026-11-15T15:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Carson City Community Center",
+    "address": "851 East William Street, Carson City, NV, 89701",
+    "lat": 39.17037,
+    "lon": -119.76075
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": {
+    "min": 15.0,
+    "max": 15.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/carson-city-nevada-show-me-reptile-show-pet-expo/2026-11-15/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "carson city",
+    "carson city community center",
+    "carson city events",
+    "carson city nevada",
+    "events in carson city",
+    "shows in carson city",
+    "things to do",
+    "things to do in carson city"
    ],
    "_family": false,
    "_adult": false,

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T18:30:32Z",
+ "generatedAt": "2026-11-10T21:30:33Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -3605,8 +3605,7 @@
    "area": "reno",
    "drive": null,
    "price": {
-    "min": 44.03,
-    "max": 119.63
+    "free": true
    },
    "tier": "general",
    "hints": [
@@ -5050,6 +5049,37 @@
     {
      "source": "southtahoe",
      "url": "https://visitlaketahoe.com/event/south-lake-tahoe-restaurant-week/2026-11-14/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "carson:10006429",
+   "title": "Carson City Nevada Show Me Reptile Show & Pet Expo",
+   "start": "2026-11-14T08:00:00-08:00",
+   "end": "2026-11-14T17:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Carson City Community Center",
+    "address": "851 East William Street, Carson City, NV, 89701",
+    "lat": 39.17037,
+    "lon": -119.76075
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": {
+    "min": 15.0,
+    "max": 15.0
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/carson-city-nevada-show-me-reptile-show-pet-expo/2026-11-14/"
     }
    ],
    "lovingReno": null
@@ -6714,6 +6744,37 @@
     {
      "source": "standing",
      "url": "https://www.renofarmersmarket.com/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "carson:10006430",
+   "title": "Carson City Nevada Show Me Reptile Show & Pet Expo",
+   "start": "2026-11-15T10:00:00-08:00",
+   "end": "2026-11-15T15:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Carson City Community Center",
+    "address": "851 East William Street, Carson City, NV, 89701",
+    "lat": 39.17037,
+    "lon": -119.76075
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": {
+    "min": 15.0,
+    "max": 15.0
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/carson-city-nevada-show-me-reptile-show-pet-expo/2026-11-15/"
     }
    ],
    "lovingReno": null
@@ -8693,7 +8754,7 @@
    "links": [
     {
      "source": "holland",
-     "url": "https://hollandreno.org/events/pork-belly-clarko-uncalled-for-bozone/"
+     "url": "https://hollandreno.org/events/pork-belly/"
     }
    ],
    "lovingReno": null
