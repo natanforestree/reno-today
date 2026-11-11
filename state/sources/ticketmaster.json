@@ -1,5 +1,5 @@
 {
- "at": "2026-11-11T18:30:34Z",
+ "at": "2026-11-11T21:30:33Z",
  "events": [
   {
    "id": "tm:1A9Zk3KGkddZbhW",
@@ -823,6 +823,39 @@
     "arts & theatre",
     "comedy"
    ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:LvZ18QIuobogFmkbHS_he",
+   "title": "The Baby Bat Tour - Christian Death | Black Season Witch | DJ Scott Toxsin",
+   "start": "2026-11-16T19:00:00-08:00",
+   "end": "2026-11-16T23:59:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Cellar Stage",
+    "address": "1044 E 4th St, Reno, NV",
+    "lat": 39.53281,
+    "lon": -119.7995
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.universe.com/events/the-baby-bat-tour-christian-death-black-season-witch-dj-scott-toxsin-tickets-4V9MC5?ref=ticketmaster"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [],
    "_family": false,
    "_adult": false,
    "_allAges": false,
