@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T21:30:33Z",
+ "generatedAt": "2026-11-11T00:30:32Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -1162,6 +1162,35 @@
     {
      "source": "southtahoe",
      "url": "https://visitlaketahoe.com/event/magic-fusion-at-the-loft-theatre/2026-11-10/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "carson:81252",
+   "title": "Mile High Jazz Band presents “More Autumn Jazz”",
+   "start": "2026-11-10T19:00:00-08:00",
+   "end": "2026-11-10T21:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Gina’s Good Life Music & Lounge",
+    "address": "North Carson Street, Carson City, Nevada, 89701",
+    "lat": 39.16683,
+    "lon": -119.76631
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "music",
+    "21+"
+   ],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/mile-high-jazz-band-presents-more-autumn-jazz/"
     }
    ],
    "lovingReno": null
@@ -3604,9 +3633,7 @@
    },
    "area": "reno",
    "drive": null,
-   "price": {
-    "free": true
-   },
+   "price": null,
    "tier": "general",
    "hints": [
     "music"
@@ -5686,7 +5713,9 @@
    },
    "area": "reno",
    "drive": null,
-   "price": null,
+   "price": {
+    "free": true
+   },
    "tier": "general",
    "hints": [
     "outdoors",
