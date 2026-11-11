@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-11T15:30:33Z",
+ "generatedAt": "2026-11-11T18:30:34Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -2030,6 +2030,10 @@
     {
      "source": "wolfpack",
      "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14140&sport_id=17"
+    },
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PEPP"
     }
    ],
    "lovingReno": null
@@ -4362,6 +4366,10 @@
     {
      "source": "wolfpack",
      "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14141&sport_id=17"
+    },
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PEPJ"
     }
    ],
    "lovingReno": null
