@@ -117,6 +117,28 @@ export function dayView(events, day, filters) {
   return view;
 }
 
+/** One card per library program: the same title at several branches on one day (Toddler Time
+ * at four branches) becomes { repeat: true, title, start, events } where its first listing was.
+ * Everything else passes through unchanged. */
+export function groupRepeats(list) {
+  const out = [];
+  const byTitle = new Map();
+  for (const e of list) {
+    const key = isLibrary(e) ? e.title.trim().toLowerCase() : null;
+    if (key && byTitle.has(key)) {
+      byTitle.get(key).events.push(e);
+      continue;
+    }
+    const item = { repeat: true, title: e.title, start: e.start, events: [e] };
+    if (key) byTitle.set(key, item);
+    out.push(item);
+  }
+  return out.map((g) => (g.events.length > 1 ? g : g.events[0]));
+}
+
+/** "Northwest Reno Library" -> "Northwest Reno", for the branch lines of a grouped card. */
+export const branchName = (name) => String(name ?? '').replace(/\s+Library$/i, '') || 'Library';
+
 function clock(h, m) {
   return `${h % 12 || 12}${m ? `:${two(m)}` : ''}${h < 12 ? 'am' : 'pm'}`;
 }

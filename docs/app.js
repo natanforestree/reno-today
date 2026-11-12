@@ -1,6 +1,6 @@
 // Reno Today page: loads docs/data/*.json and renders the chosen day.
 // Every piece of text from the data goes through L.esc, and every link through L.safeUrl.
-import * as L from './lib.js?v=2195fd3c';
+import * as L from './lib.js?v=7e527684';
 
 const RAW = 'https://raw.githubusercontent.com/natanforestree/reno-today/main/docs/data/';
 const FILTERS_KEY = 'reno-today:filters';
@@ -119,6 +119,33 @@ function card(e, nowMs) {
   </article>`;
 }
 
+// One library program at several branches (L.groupRepeats): one card, a line per branch.
+function repeatCard(g, nowMs) {
+  const today = state.day === L.renoDate(nowMs);
+  let anyLive = false;
+  const rows = g.events.map((e) => {
+    const live = today && L.onNow(e, nowMs);
+    anyLive ||= live;
+    const page = (e.links || []).map((l) => L.safeUrl(l.url)).find(Boolean);
+    const maps = L.mapsUrl(e.venue);
+    const links = [page && link(page, 'Details'), maps && link(maps, 'Directions')].filter(Boolean);
+    const where = [L.branchName(e.venue?.name), e.area !== 'reno' && e.area !== 'sparks' ? L.AREA_LABEL[e.area] : null]
+      .filter(Boolean).join(', ');
+    return `<li><span class="t">${L.esc(L.fmtTime(e))}</span> ${L.esc(where)}${live ? ' <span class="now-tag">on now</span>' : ''}`
+      + `${links.length ? ` <span class="links">· ${links.join(' · ')}</span>` : ''}</li>`;
+  }).join('');
+  const free = g.events.every((e) => e.price?.free);
+  return `<article class="card${g.events[0].tier === 'little' ? ' is-little' : ''}${anyLive ? ' is-now' : ''}">
+    <div class="when">${L.esc(L.fmtTime(g.events[0]))}</div>
+    <div class="what">
+      <h3>${L.esc(g.title)}</h3>
+      <p class="where">${g.events.length} library branches</p>
+      ${free ? '<p class="badges"><span class="b b-free">Free</span></p>' : ''}
+      <ul class="branches">${rows}</ul>
+    </div>
+  </article>`;
+}
+
 function placeCard(p, hours) {
   const url = L.safeUrl(p.url);
   const maps = L.mapsUrl({ name: p.name, address: p.address });
@@ -171,14 +198,16 @@ function renderChips() {
 function renderLists() {
   const nowMs = now();
   const v = L.dayView(state.data.events, state.day, state.filters);
-  const list = (items) => items.map((e) => card(e, nowMs)).join('');
+  const list = (items) => items.map((x) => (x.repeat ? repeatCard(x, nowMs) : card(x, nowMs))).join('');
+  const little = L.groupRepeats(v.little);
+  const libraryItems = L.groupRepeats(v.library);
   const filtered = Object.values(state.filters).some(Boolean) ? ' with these filters' : '';
 
   const heading = (body, n) => `<summary><h2>${body} · <span class="n">${n}</span></h2></summary>`;
   for (const id of L.FOLDABLE) $(id).open = !state.closed.has(id);
 
-  $('little').innerHTML = heading(`${icon('baby')}Great for little ones`, v.little.length)
-    + (v.little.length ? list(v.little) : `<p class="empty">Nothing made for little ones${filtered} on this day.</p>`);
+  $('little').innerHTML = heading(`${icon('baby')}Great for little ones`, little.length)
+    + (little.length ? list(little) : `<p class="empty">Nothing made for little ones${filtered} on this day.</p>`);
 
   const groups = L.PARTS.filter(([k]) => v.parts[k].length)
     .map(([k, label]) => `<h3 class="part">${label}</h3>${list(v.parts[k])}`).join('');
@@ -189,10 +218,10 @@ function renderLists() {
 
   // Folded until opened; render leaves .open alone, so it stays as the visitor set it.
   const library = $('library');
-  library.hidden = !v.library.length;
-  library.innerHTML = heading(`${icon('book')}At the library`, v.library.length)
+  library.hidden = !libraryItems.length;
+  library.innerHTML = heading(`${icon('book')}At the library`, libraryItems.length)
     + '<p class="muted small">Library programs for older kids and grown-ups. Storytimes are up in Great for little ones.</p>'
-    + list(v.library);
+    + list(libraryItems);
 
   const ongoing = $('ongoing');
   ongoing.hidden = !v.ongoing.length;

@@ -110,6 +110,27 @@ test('dayView folds library programs that are not for little ones into their own
   assert.equal(L.isLibrary(ev()), false);
 });
 
+test('groupRepeats: one card per library program, where its first listing was', () => {
+  const lib = [{ source: 'library', url: 'https://example.org/l' }];
+  const at = (id, title, hm, links = lib) => ev({ id, title, links, start: `2026-11-12T${hm}:00-08:00` });
+  const items = L.groupRepeats([
+    at('baby-dt', 'Baby Story Time', '10:15'),
+    at('toddler-ss', 'Toddler Time', '10:30'),
+    at('baby-nv', 'Baby Story Time', '10:30'),
+    at('toddler-sv', 'toddler time ', '11:00'),
+    at('swim', 'Toddler Time', '11:30', [{ source: 'reno', url: 'https://example.org/r' }]),
+    at('paws', 'Paws 2 Read', '11:00'),
+  ]);
+  assert.deepEqual(items.map((x) => (x.repeat ? x.events.map((e) => e.id) : x.id)),
+    [['baby-dt', 'baby-nv'], ['toddler-ss', 'toddler-sv'], 'swim', 'paws'], 'only library listings group');
+  assert.equal(items[0].title, 'Baby Story Time');
+  assert.equal(items[0].start, '2026-11-12T10:15:00-08:00');
+  assert.deepEqual(L.groupRepeats([]), []);
+  assert.equal(L.branchName('Northwest Reno Library'), 'Northwest Reno');
+  assert.equal(L.branchName('Verdi Community Library & Nature Center'), 'Verdi Community Library & Nature Center');
+  assert.equal(L.branchName(null), 'Library');
+});
+
 test('times and prices', () => {
   const at = (hm) => ev({ start: `2026-10-10T${hm}:00-07:00` });
   assert.deepEqual(['10:30', '13:05', '19:00', '12:00', '00:15'].map((hm) => L.fmtTime(at(hm))),

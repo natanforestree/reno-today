@@ -100,6 +100,12 @@ h2 { font: 600 22px/1.2 var(--pixel); margin: 0 0 8px; color: var(--gold); }
 .b-adult { background: #4a2330; border-color: var(--neon); }
 .b-lr { background: #4a2240; border-color: var(--pink); color: #ffd6ea; }
 .links { margin: 6px 0 0; font-size: 20px; }
+/* A grouped library card (app.js repeatCard): one line per branch */
+.branches { list-style: none; margin: 6px 0 0; padding: 0; }
+.branches li { margin: 4px 0 0; overflow-wrap: anywhere; }
+.branches .t { color: var(--sunset); }
+.branches .now-tag { color: var(--pink); }
+.branches .links { font-size: 20px; color: var(--muted); }
 .empty, .muted { color: var(--muted); }
 .small { font-size: 18px; }
 
