@@ -1,6 +1,6 @@
 // Reno Today page: loads docs/data/*.json and renders the chosen day.
 // Every piece of text from the data goes through L.esc, and every link through L.safeUrl.
-import * as L from './lib.js?v=3b4f6bd6';
+import * as L from './lib.js?v=2195fd3c';
 
 const RAW = 'https://raw.githubusercontent.com/natanforestree/reno-today/main/docs/data/';
 const FILTERS_KEY = 'reno-today:filters';
@@ -186,6 +186,13 @@ function renderLists() {
   rest.hidden = Boolean(state.filters.little);
   const restCount = L.PARTS.reduce((n, [k]) => n + v.parts[k].length, 0);
   rest.innerHTML = heading('Everything else', restCount) + (groups || `<p class="empty">Nothing else listed${filtered}.</p>`);
+
+  // Folded until opened; render leaves .open alone, so it stays as the visitor set it.
+  const library = $('library');
+  library.hidden = !v.library.length;
+  library.innerHTML = heading(`${icon('book')}At the library`, v.library.length)
+    + '<p class="muted small">Library programs for older kids and grown-ups. Storytimes are up in Great for little ones.</p>'
+    + list(v.library);
 
   const ongoing = $('ongoing');
   ongoing.hidden = !v.ongoing.length;

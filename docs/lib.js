@@ -56,6 +56,9 @@ export function dayAfterRollover(shown, wasToday, today, n = 8) {
 
 export const isLocal = (e) => LOCAL_AREAS.includes(e.area);
 
+/** Listed by Washoe County Library (alone or merged with another source's copy). */
+export const isLibrary = (e) => (e.links || []).some((l) => l.source === 'library');
+
 const MULTI_DAY_MS = 20 * 3600e3;
 
 /** The last date an event shows on: all-day, ongoing and 20 h+ events cover their whole run. */
@@ -93,17 +96,20 @@ export function passes(e, f) {
 
 const byStart = (a, b) => a.start.localeCompare(b.start) || a.title.localeCompare(b.title);
 
-/** Everything one day shows, filtered and sorted. littleCount ignores the filters. */
+/** Everything one day shows, filtered and sorted. littleCount ignores the filters.
+ * The library lists dozens of programs a week, so the ones not made for little ones
+ * (Book a Librarian, D&D, crafts) get their own folded group; its storytimes stay in little. */
 export function dayView(events, day, filters) {
   const all = eventsOn(events, day).sort(byStart);
   const parts = Object.fromEntries(PARTS.map(([key]) => [key, []]));
   const view = {
-    little: [], parts, ongoing: [], drive: [], total: 0,
+    little: [], parts, library: [], ongoing: [], drive: [], total: 0,
     littleCount: all.filter((e) => isLocal(e) && !e.ongoing && e.tier === 'little').length,
   };
   for (const e of all.filter((x) => passes(x, filters))) {
     view.total += 1;
-    if (!isLocal(e)) view.drive.push(e);
+    if (isLibrary(e) && e.tier !== 'little') view.library.push(e);
+    else if (!isLocal(e)) view.drive.push(e);
     else if (e.ongoing) view.ongoing.push(e);
     else if (e.tier === 'little') view.little.push(e);
     else parts[partOfDay(e)].push(e);

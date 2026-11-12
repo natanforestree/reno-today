@@ -89,6 +89,27 @@ test('dayView groups the day', () => {
   assert.equal(filtered.littleCount, 1, 'counted before filters');
 });
 
+test('dayView folds library programs that are not for little ones into their own group', () => {
+  const lib = [{ source: 'library', url: 'https://example.org/l' }];
+  const events = [
+    ev({ id: 'storytime', tier: 'little', links: lib, start: '2026-10-10T10:15:00-07:00' }),
+    ev({ id: 'librarian', links: lib, start: '2026-10-10T10:00:00-07:00' }),
+    ev({ id: 'merged', links: [{ source: 'reno', url: 'https://example.org/r' }, ...lib],
+      start: '2026-10-10T16:00:00-07:00' }),
+    ev({ id: 'incline-help', area: 'tahoe', links: lib, start: '2026-10-10T11:00:00-07:00' }),
+    ev({ id: 'incline-story', area: 'tahoe', tier: 'little', links: lib, start: '2026-10-10T10:30:00-07:00' }),
+    ev({ id: 'show', links: [{ source: 'tm', url: 'https://example.org/t' }], start: '2026-10-10T19:00:00-07:00' }),
+  ];
+  const v = L.dayView(events, '2026-10-10', {});
+  assert.deepEqual(v.little.map((e) => e.id), ['storytime'], 'storytimes stay with the little ones');
+  assert.deepEqual(v.library.map((e) => e.id), ['librarian', 'incline-help', 'merged'], 'in time order, any area');
+  assert.deepEqual(v.drive.map((e) => e.id), ['incline-story']);
+  assert.deepEqual(v.parts.evening.map((e) => e.id), ['show']);
+  assert.equal(v.total, 6);
+  assert.deepEqual(L.dayView(events, '2026-10-10', { little: true }).library, [], 'Little ones only empties it');
+  assert.equal(L.isLibrary(ev()), false);
+});
+
 test('times and prices', () => {
   const at = (hm) => ev({ start: `2026-10-10T${hm}:00-07:00` });
   assert.deepEqual(['10:30', '13:05', '19:00', '12:00', '00:15'].map((hm) => L.fmtTime(at(hm))),
