@@ -24,7 +24,14 @@ const RULES = [
   { in: 'index.html', ref: '"app.js', asset: 'app.js' },
 ];
 
-const hash = (path) => createHash('sha256').update(readFileSync(path)).digest('hex').slice(0, 8);
+// Text files are hashed with Unix line endings, so a Windows checkout (CRLF) stamps the same
+// hashes as the files git stores (LF). Images are hashed byte for byte.
+const TEXT = /\.(js|css|html)$/;
+const hash = (path) => {
+  const data = readFileSync(path);
+  const body = TEXT.test(path) ? data.toString('utf8').replace(/\r\n/g, '\n') : data;
+  return createHash('sha256').update(body).digest('hex').slice(0, 8);
+};
 const escape = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 const pattern = (ref) => new RegExp(`${escape(ref)}(\\?v=[0-9a-f]*)?(?=["')])`, 'g');
 
