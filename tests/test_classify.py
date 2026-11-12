@@ -59,6 +59,15 @@ class TierTest(unittest.TestCase):
         self.assertEqual(classify.classify(ev("Family Games Day"))["tier"], "little")
         self.assertEqual(classify.classify(ev("STEAM Thursday", text="For kids ages 6-12"))["tier"], "little")
 
+    def test_the_university_counts_on_titles_and_tags_not_descriptions(self):
+        def unr(title, text="", tags=()):
+            return classify.classify(model.make_event("unr", title, title, la(2026, 11, 13, 10), city="Reno",
+                                                      text=text, tags=tags))["tier"]
+        self.assertEqual(unr("Giving Tree", text="Pick a tag and buy a gift for children in need."), "general")
+        self.assertEqual(unr("OLLI Distinguished Speaker", text="Healthcare for you and your family."), "general")
+        self.assertEqual(unr("Family Literacy Night"), "little")
+        self.assertEqual(unr("Planetarium Show", tags=("family",)), "little")
+
     def test_cases(self):
         for title, text, tags, flags, tier in self.CASES:
             with self.subTest(title=title):

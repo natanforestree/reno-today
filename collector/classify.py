@@ -20,6 +20,9 @@ LITTLE_TAGS = {"family", "children's theatre", "children's music", "story time",
 AGES_LABELED = {"library"}
 LITTLE_TITLE_STRICT = re.compile(
     r"\b(story ?times?|bab(y|ies)|toddlers?|tots?|lap-?sits?|little ones|preschool(ers?)?)\b", re.I)
+# The university's write-ups mention children and families in passing (a gift drive for
+# children, a healthcare talk for "you and your family"), so only its titles and tags count.
+TITLE_ONLY = {"unr"}
 ADULT_WORDS = re.compile(
     r"(\b(21|18) ?\+|\b(21|18) (and|&) (over|older|up)\b|\b(bar|pub) crawls?\b|"
     r"\b(wine|beer) tastings?\b|\bburlesque\b)", re.I)
@@ -48,13 +51,14 @@ def classify(event):
                  or ADULT_PLACE_IN_TITLE.search(e["title"]))
     daytime = e["allDay"] or int(e["start"][11:13]) < 17
     tagged = set(e.get("_tags", [])) & LITTLE_TAGS
-    if e["id"].split(":", 1)[0] in AGES_LABELED:
+    source = e["id"].split(":", 1)[0]
+    if source in AGES_LABELED:
         little = not adult and bool(e.get("_family") or tagged or LITTLE_TITLE_STRICT.search(e["title"]))
     else:
         # A description that only mentions families or kids counts in the daytime; an evening
         # event needs it in the title, a family tag, or the source's say-so.
-        little = not adult and bool(e.get("_family") or LITTLE_WORDS.search(e["title"]) or tagged
-                                    or (daytime and LITTLE_WORDS.search(e.get("_text", ""))))
+        described = daytime and source not in TITLE_ONLY and LITTLE_WORDS.search(e.get("_text", ""))
+        little = not adult and bool(e.get("_family") or LITTLE_WORDS.search(e["title"]) or tagged or described)
     hints = []
     if e.get("_allAges") and not adult:
         hints.append("all-ages")
