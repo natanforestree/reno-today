@@ -45,6 +45,50 @@ class UnrParseTest(unittest.TestCase):
         self.assertEqual(e["_kind"], "organiser")
 
 
+def _item(title, types=(), groups=(), topics=()):
+    def names(xs):
+        return [{"name": x} for x in xs]
+    return {"event": {
+        "id": 1, "title": title, "status": "live", "experience": "inperson", "geo": {"city": "Reno"},
+        "groups": names(groups), "filters": {"event_types": names(types), "event_special_topics": names(topics)},
+        "event_instances": [{"event_instance": {"id": 1, "start": "2026-11-13T12:00:00-08:00"}}]}}
+
+
+class UnrCampusOnlyTest(unittest.TestCase):
+    def kept(self, title, **labels):
+        return bool(unr.parse([_item(title, **labels)]))
+
+    def test_drops_listings_for_students_staff_and_doctors_in_training(self):
+        for title, labels in [
+            ("Dissertation Defense - A. Student", {"types": ["Lectures & Seminars"], "groups": ["The Graduate School"]}),
+            ("Pediatric Grand Rounds", {"types": ["Lectures & Seminars"], "groups": ["Pediatrics"]}),
+            ("Neonatal ventilator management", {"types": ["Lectures & Seminars"],
+                                                "groups": ["SOM Pediatrics - Resident Training"]}),
+            ("Faculty Senate Meeting", {"groups": ["Faculty Senate"]}),
+            ("Designing for Engagement", {"groups": ["Teaching & Learning Technologies"]}),
+            ("WebCampus Accessibility", {"topics": ["TLT: Accessibility"]}),
+            ("Future Scholars Day - Nevada Bound", {"groups": ["Admissions"], "topics": ["Prospective Students"]}),
+            ("NIH Funding Symposium", {"types": ["Conferences & Symposiums"]}),
+            ("USAC Study Abroad Fair", {"types": ["Arts & Culture"], "groups": ["University Studies Abroad Consortium"]}),
+            ("Life Skills Series", {"types": ["Social Events"], "groups": ["Student Services"]}),
+        ]:
+            with self.subTest(title=title):
+                self.assertFalse(self.kept(title, **labels))
+
+    def test_keeps_the_public_side_of_campus(self):
+        for title, labels in [
+            ("Symphony Orchestra", {"types": ["Arts & Culture"], "groups": ["School of Music"]}),
+            ("Nevada Women's Volleyball vs. San José State", {"types": ["Athletics"]}),
+            ("Discover Science: A Night with National Geographic", {"groups": ["College of Science"]}),
+            ("Family Literacy Night", {"groups": ["College of Education and Human Development", "Community Outreach"]}),
+            ("Energy Solutions Forum", {"types": ["Lectures & Seminars"], "groups": ["College of Science"]}),
+            # A conference that's also listed as a public arts event isn't only for professionals.
+            ("Basketry Symposium and Show", {"types": ["Conferences & Symposiums", "Arts & Culture"]}),
+        ]:
+            with self.subTest(title=title):
+                self.assertTrue(self.kept(title, **labels))
+
+
 class UnrFetchTest(unittest.TestCase):
     def test_follows_pages_with_the_window_dates(self):
         items = fixture_json("unr.json")["events"]

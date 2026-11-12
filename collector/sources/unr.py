@@ -1,5 +1,6 @@
 """University of Nevada, Reno events: Localist API, JSON, no key."""
 
+import re
 from datetime import datetime, timedelta
 
 import net
@@ -11,10 +12,20 @@ LABEL = "UNR events"
 URL = "https://events.unr.edu/api/2/events?start={start}&end={end}&pp=100&page={page}"
 MAX_PAGES = 5
 LOCAL_CITIES = {"reno", "sparks"}
-# Listings only students and staff can go to.
+# Kinds of listing for students, staff and researchers rather than the public: an event
+# is dropped when every type it has is one of these.
 INTERNAL_TYPES = {"training & workshops", "professional development", "staff engagement",
                   "prospective & new students", "clubs & organizations",
-                  "health, safety & wellness"}
+                  "health, safety & wellness", "conferences & symposiums"}
+# Campus groups and topics whose listings are all for students, staff or doctors in
+# training: one of these is enough to drop an event.
+INTERNAL_LABELS = {"faculty senate", "staff employees' council", "teaching & learning technologies",
+                   "admissions", "university admissions", "prospective students",
+                   "som student research", "university studies abroad consortium", "student services"}
+# Faculty teaching workshops ("tlt: faculty development") and medical residents' lectures
+# ("som pediatrics - resident training").
+INTERNAL_LABEL_WORDS = re.compile(r"^tlt:|\bresident training\b")
+INTERNAL_TITLE = re.compile(r"\b(dissertation|thesis) defen[cs]es?\b|\bgrand rounds\b", re.I)
 CAMPUS = "University of Nevada, Reno"
 
 
@@ -55,6 +66,13 @@ def _price(e):
     return price_range(cost, cost)
 
 
+def campus_only(title, labels):
+    """Dissertation defenses, Faculty Senate, admissions days, residents' grand rounds:
+    told apart by the university's own groups and topics, or the title."""
+    return bool(labels & INTERNAL_LABELS or any(INTERNAL_LABEL_WORDS.search(x) for x in labels)
+                or INTERNAL_TITLE.search(title))
+
+
 def _one(e):
     if e.get("experience") == "virtual" or e.get("private") or e.get("status") != "live":
         return None
@@ -63,11 +81,14 @@ def _one(e):
     groups = _names(e.get("groups"))
     filters = e.get("filters") or {}
     types = _names(filters.get("event_types"))
+    topics = _names(filters.get("event_special_topics"))
     if city and city.lower() not in LOCAL_CITIES:
         return None
     if (not city and "extension" in groups) or "counseling services" in groups:
         return None
     if types and types <= INTERNAL_TYPES:
+        return None
+    if campus_only(e.get("title") or "", groups | topics):
         return None
     instances = e.get("event_instances") or []
     inst = (instances[0].get("event_instance") if instances else None) or {}
@@ -87,5 +108,5 @@ def _one(e):
                     geo.get("latitude"), geo.get("longitude")),
         city=city or "Reno", price=_price(e), url=e.get("localist_url"),
         text=e.get("description_text") or plain(e.get("description") or ""),
-        tags=types | groups | _names(filters.get("event_special_topics")),
+        tags=types | groups | topics,
         kind="organiser")
