@@ -1,112 +1,6 @@
 {
- "at": "2026-11-12T06:30:32Z",
+ "at": "2026-11-12T09:30:33Z",
  "events": [
-  {
-   "id": "discovery:43377",
-   "title": "Small Wonder Wednesday",
-   "start": "2026-11-11T09:00:00-08:00",
-   "end": "2026-11-11T10:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Discovery",
-    "address": "490 S. Center Street, Reno, NV, 89501",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "discovery",
-     "url": "https://nvdm.org/event/small-wonder-wednesday-2026-07-22/2026-11-11/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "families children",
-   "_tags": [
-    "special hours"
-   ],
-   "_family": true,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "discovery:15756",
-   "title": "Veterans Day: Museum Open",
-   "start": "2026-11-11T10:00:00-08:00",
-   "end": "2026-11-11T20:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Discovery",
-    "address": "490 S. Center Street, Reno, NV, 89501",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "discovery",
-     "url": "https://nvdm.org/event/veterans-day-museum-open-3/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "holiday hours"
-   ],
-   "_family": true,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "discovery:43067",
-   "title": "Topographic Maps",
-   "start": "2026-11-11T16:30:00-08:00",
-   "end": "2026-11-11T19:30:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Discovery",
-    "address": "490 S. Center Street, Reno, NV, 89501",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "discovery",
-     "url": "https://nvdm.org/event/topographic-maps/2026-11-11/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "hands-on activity",
-    "maker project"
-   ],
-   "_family": true,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "discovery:42787",
    "title": "The Discovery’s Recycle Round-up",
@@ -246,6 +140,43 @@
    ],
    "_family": true,
    "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "discovery:42769",
+   "title": "Science Distilled: Dark Skies & Distant Galaxies",
+   "start": "2026-11-19T19:00:00-08:00",
+   "end": "2026-11-19T21:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Discovery",
+    "address": "490 S. Center Street, Reno, NV, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "discovery",
+     "url": "https://nvdm.org/event/science-distilled-dark-skies-and-distant-galaxies/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "adults-only",
+    "lecture series",
+    "science distilled"
+   ],
+   "_family": true,
+   "_adult": true,
    "_allAges": false,
    "_outdoor": false,
    "_kind": "organiser"

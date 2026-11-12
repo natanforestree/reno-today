@@ -1,41 +1,6 @@
 {
- "at": "2026-11-12T06:30:32Z",
+ "at": "2026-11-12T09:30:33Z",
  "events": [
-  {
-   "id": "vcity:10785",
-   "title": "Veterans Day Parade",
-   "start": "2026-11-11T11:00:00-08:00",
-   "end": "2026-11-11T12:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "C Street",
-    "address": "C Street, Virginia City, NV, 89440",
-    "lat": null,
-    "lon": null
-   },
-   "area": "virginia-city",
-   "drive": "~40 min",
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "vcity",
-     "url": "https://visitvirginiacitynv.com/event/veterans-day-parade/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "parades"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "vcity:10000615",
    "title": "Haunted Ghost Tour at the Gold Hill Hotel",

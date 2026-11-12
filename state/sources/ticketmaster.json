@@ -1,42 +1,6 @@
 {
- "at": "2026-11-12T06:30:32Z",
+ "at": "2026-11-12T09:30:33Z",
  "events": [
-  {
-   "id": "tm:1A9Zk3KGkddZbhW",
-   "title": "Outlander In Concert",
-   "start": "2026-11-11T20:00:00-08:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Grand Sierra Resort and Casino",
-    "address": "2500 East Second Street, Reno, NV",
-    "lat": 39.52331,
-    "lon": -119.78102
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/outlander-in-concert-reno-nevada-11-11-2026/event/17006493C30186FD"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "Children",
-   "_tags": [
-    "drama",
-    "film"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
   {
    "id": "tm:Z7r9jZ1A7PEPP",
    "title": "Nevada Wolfpack Womens Volleyball vs. San Jose State Spartans Womens Volleyball",
@@ -856,6 +820,119 @@
    "lovingReno": null,
    "_text": "",
    "_tags": [],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:1A9ZkffGkeTHTbm",
+   "title": "Tahoe Knight Monsters vs. New Mexico Goatheads",
+   "start": "2026-11-19T10:30:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Tahoe Blue Event Center",
+    "address": "75 US Highway 50, Stateline, NV",
+    "lat": 38.9631,
+    "lon": -119.94034
+   },
+   "area": "tahoe",
+   "drive": "~70 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/tahoe-knight-monsters-vs-new-mexico-stateline-nevada-11-19-2026/event/17006514BFF3F62E"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "hockey",
+    "minor league",
+    "sports"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:rZ7HnEZ1AfPVaK",
+   "title": "The Funeral Portrait, PINKNOISE",
+   "start": "2026-11-19T19:00:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Cargo Concert Hall",
+    "address": "255 North Virginia Street, Reno, NV",
+    "lat": 39.5281,
+    "lon": -119.81377
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 34.61,
+    "max": 34.61
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketweb.com/event/the-funeral-portrait-pinknoise-cargo-concert-hall-tickets/14974253"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "music",
+    "post-hardcore",
+    "rock"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:1Ad0Z_FGkBIz3qm",
+   "title": "Laugh Factory",
+   "start": "2026-11-19T19:30:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Laugh Factory at the Silver Legacy Casino",
+    "address": "407 N Virginia St, Reno, NV",
+    "lat": 39.53069,
+    "lon": -119.81531
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/laugh-factory-reno-nevada-11-19-2026/event/3900648EA8E1276E"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "18 and over",
+   "_tags": [
+    "arts & theatre",
+    "comedy"
+   ],
    "_family": false,
    "_adult": false,
    "_allAges": false,
