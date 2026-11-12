@@ -13,6 +13,13 @@ LITTLE_WORDS = re.compile(
 # module, which sets family=True only where it holds (see sources/tribe.py).
 LITTLE_TAGS = {"family", "children's theatre", "children's music", "story time",
                "storytime", "babies & toddlers", "preschool"}
+# Sources that label each event's ages themselves (the library's audiences: sources/library.py
+# turns Babies & Toddlers and Preschool into family=True). Their programs for school-age kids
+# and teens mention "kids" or "families" all the time, so only those labels and these title
+# words count, not LITTLE_WORDS anywhere in the title or description.
+AGES_LABELED = {"library"}
+LITTLE_TITLE_STRICT = re.compile(
+    r"\b(story ?times?|bab(y|ies)|toddlers?|tots?|lap-?sits?|little ones|preschool(ers?)?)\b", re.I)
 ADULT_WORDS = re.compile(
     r"(\b(21|18) ?\+|\b(21|18) (and|&) (over|older|up)\b|\b(bar|pub) crawls?\b|"
     r"\b(wine|beer) tastings?\b|\bburlesque\b)", re.I)
@@ -40,11 +47,14 @@ def classify(event):
     adult = bool(e.get("_adult") or ADULT_WORDS.search(text) or ADULT_VENUES.search(venue_name)
                  or ADULT_PLACE_IN_TITLE.search(e["title"]))
     daytime = e["allDay"] or int(e["start"][11:13]) < 17
-    # A description that only mentions families or kids counts in the daytime; an evening
-    # event needs it in the title, a family tag, or the source's say-so.
-    little = not adult and bool(e.get("_family") or LITTLE_WORDS.search(e["title"])
-                                or set(e.get("_tags", [])) & LITTLE_TAGS
-                                or (daytime and LITTLE_WORDS.search(e.get("_text", ""))))
+    tagged = set(e.get("_tags", [])) & LITTLE_TAGS
+    if e["id"].split(":", 1)[0] in AGES_LABELED:
+        little = not adult and bool(e.get("_family") or tagged or LITTLE_TITLE_STRICT.search(e["title"]))
+    else:
+        # A description that only mentions families or kids counts in the daytime; an evening
+        # event needs it in the title, a family tag, or the source's say-so.
+        little = not adult and bool(e.get("_family") or LITTLE_WORDS.search(e["title"]) or tagged
+                                    or (daytime and LITTLE_WORDS.search(e.get("_text", ""))))
     hints = []
     if e.get("_allAges") and not adult:
         hints.append("all-ages")

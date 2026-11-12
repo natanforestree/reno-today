@@ -42,6 +42,23 @@ class TierTest(unittest.TestCase):
         self.assertEqual(classify.classify(ev("Open Swim - Tot Pool 5-7 PM", hh=17))["tier"], "little")
         self.assertEqual(classify.classify(ev("Disney On Ice", hh=19, tags=("Family",)))["tier"], "little")
 
+    def test_the_library_counts_on_its_own_age_labels(self):
+        def lib(title, text="", tags=(), **kw):
+            return classify.classify(model.make_event("library", title, title, la(2026, 11, 12, 10), city="Reno",
+                                                      text=text, tags=tags, **kw))["tier"]
+        # Labeled Babies & Toddlers or Preschool (family=True), a little-ones tag, or the title says so.
+        self.assertEqual(lib("Paws 2 Read", family=True), "little")
+        self.assertEqual(lib("Bilingual Story Time", tags=("story time",)), "little")
+        self.assertEqual(lib("Toddler Time"), "little")
+        self.assertEqual(lib("Baby Social"), "little")
+        # Programs for school-age kids and teens that mention kids or families stay general.
+        self.assertEqual(lib("Sparks Dungeons & Dragons", text="Kids and teens welcome", tags=("teens",)), "general")
+        self.assertEqual(lib("STEAM Thursday - Robotic Hands", text="For kids ages 6-12", tags=("kids",)), "general")
+        self.assertEqual(lib("Family Games Day", tags=("kids",)), "general")
+        # Other sources keep the looser rule.
+        self.assertEqual(classify.classify(ev("Family Games Day"))["tier"], "little")
+        self.assertEqual(classify.classify(ev("STEAM Thursday", text="For kids ages 6-12"))["tier"], "little")
+
     def test_cases(self):
         for title, text, tags, flags, tier in self.CASES:
             with self.subTest(title=title):
