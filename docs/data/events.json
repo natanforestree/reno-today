@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T18:30:32Z",
+ "generatedAt": "2026-11-12T21:30:34Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -78,7 +78,7 @@
    "price": {
     "free": true
    },
-   "tier": "little",
+   "tier": "general",
    "hints": [
     "daytime"
    ],
@@ -174,34 +174,6 @@
     {
      "source": "library",
      "url": "https://events.washoecountylibrary.us/event/17308758"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "unr:54470416326656",
-   "title": "Staff Employees' Council Open House",
-   "start": "2026-11-12T10:00:00-08:00",
-   "end": "2026-11-12T13:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Joe Crowley Student Union (JCSU)",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/staff-employees-council-open-house"
     }
    ],
    "lovingReno": null
@@ -619,64 +591,6 @@
    "lovingReno": null
   },
   {
-   "id": "unr:53731241725376",
-   "title": "Designing for Engagement: Interactive Teaching with Top Hat",
-   "start": "2026-11-12T12:00:00-08:00",
-   "end": "2026-11-12T13:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Mathewson-IGT Knowledge Center (MIKC)",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/designing-for-engagement-interactive-teaching-with-top-hat"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "unr:54355631653139",
-   "title": "Dissertation Defense - Pavani Ponnimbaduge Perera",
-   "start": "2026-11-12T12:00:00-08:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Sarah H. Fleischmann Building (SFB)",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/dissertation-defense-pavani-ponnimbaduge-perera"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
    "id": "unr:53743835886402",
    "title": "Earth's Winding Sheet",
    "start": "2026-11-12T12:00:00-08:00",
@@ -761,34 +675,6 @@
    "lovingReno": null
   },
   {
-   "id": "unr:53517920242164",
-   "title": "NEC Diagnosis and Management",
-   "start": "2026-11-12T14:00:00-08:00",
-   "end": "2026-11-12T15:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "RRMC Sierra 101",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/nec-diagnosis-and-management"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
    "id": "library:17050403",
    "title": "Yarn Connection",
    "start": "2026-11-12T14:00:00-08:00",
@@ -843,34 +729,6 @@
     {
      "source": "reno",
      "url": "https://reno.gov/parks-and-recreation/recreation/rolling-recreation.php"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "unr:53517925690619",
-   "title": "Neonatal ventilator management",
-   "start": "2026-11-12T15:00:00-08:00",
-   "end": "2026-11-12T16:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "RRMC Sierra 101",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/neonatal-ventilator-management"
     }
    ],
    "lovingReno": null
@@ -1628,34 +1486,6 @@
    "lovingReno": null
   },
   {
-   "id": "tm:rZ7HnEZ1AfG6k7",
-   "title": "SOB x RBE",
-   "start": "2026-11-12T20:00:00-08:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Alpine",
-    "address": "324 E 4th St, Reno, NV",
-    "lat": 39.53091,
-    "lon": -119.80904
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "music"
-   ],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketweb.com/event/sob-x-rbe-the-alpine-tickets/14307184"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
    "id": "downtown:124048",
    "title": "Deathpact from Darkness Comes Light: Cargo Concert Hall",
    "start": "2026-11-12T21:00:00-08:00",
@@ -1845,7 +1675,7 @@
    "price": {
     "free": true
    },
-   "tier": "little",
+   "tier": "general",
    "hints": [
     "daytime"
    ],
@@ -1886,34 +1716,6 @@
    "lovingReno": null
   },
   {
-   "id": "unr:53665573229428",
-   "title": "Faculty Senate Meeting",
-   "start": "2026-11-13T09:00:00-08:00",
-   "end": "2026-11-13T13:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Morrill Hall (MH)",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/faculty-senate-meeting-2134"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
    "id": "unr:53924221571202",
    "title": "Honoring Our Future Scholars Day",
    "start": "2026-11-13T09:00:00-08:00",
@@ -1942,34 +1744,6 @@
    "lovingReno": null
   },
   {
-   "id": "unr:54418969626963",
-   "title": "Honoring Our Future Scholars Day - Nevada Bound",
-   "start": "2026-11-13T09:00:00-08:00",
-   "end": "2026-11-13T15:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Joe Crowley Student Union (JCSU)",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/honoring-our-future-scholars-day-nevada-bound"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
    "id": "unr:54127092847411",
    "title": "OLLI Distinguished Speaker: Navigating Healthcare with Charles Yingling",
    "start": "2026-11-13T09:30:00-08:00",
@@ -1987,7 +1761,7 @@
    "price": {
     "free": true
    },
-   "tier": "little",
+   "tier": "general",
    "hints": [
     "daytime"
    ],
@@ -2025,34 +1799,6 @@
     {
      "source": "library",
      "url": "https://events.washoecountylibrary.us/event/17308759"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "unr:54199750341214",
-   "title": "Dietetic Symposium",
-   "start": "2026-11-13T10:00:00-08:00",
-   "end": "2026-11-13T15:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Davidson Mathematics & Science Center (DMSC)",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/dietetic-symposium"
     }
    ],
    "lovingReno": null
@@ -2260,34 +2006,6 @@
    "lovingReno": null
   },
   {
-   "id": "unr:53488286838954",
-   "title": "Medical Student Research Day",
-   "start": "2026-11-13T12:00:00-08:00",
-   "end": "2026-11-13T17:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Center for Molecular Medicine (CMM)",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/medical-student-research-day"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
    "id": "library:14767602",
    "title": "Bridge Group",
    "start": "2026-11-13T13:00:00-08:00",
@@ -2313,34 +2031,6 @@
     {
      "source": "library",
      "url": "https://events.washoecountylibrary.us/event/14767602"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "unr:54355772587559",
-   "title": "Dissertation Defense - Blakely Hume",
-   "start": "2026-11-13T13:00:00-08:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Frandsen Humanities (FH)",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/dissertation-defense-blakely-hume"
     }
    ],
    "lovingReno": null
@@ -3581,34 +3271,6 @@
     {
      "source": "library",
      "url": "https://events.washoecountylibrary.us/event/14216355"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "unr:54356351274101",
-   "title": "NIH Funding Symposium",
-   "start": "2026-11-14T12:00:00-08:00",
-   "end": "2026-11-15T03:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Innevation Center (IC)",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/nih-funding-symposium"
     }
    ],
    "lovingReno": null
@@ -5345,7 +5007,7 @@
    "price": {
     "free": true
    },
-   "tier": "little",
+   "tier": "general",
    "hints": [
     "daytime"
    ],
@@ -5501,34 +5163,6 @@
     {
      "source": "library",
      "url": "https://events.washoecountylibrary.us/event/16862513"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "unr:54373373190938",
-   "title": "USAC Study Abroad Fair",
-   "start": "2026-11-16T11:00:00-08:00",
-   "end": "2026-11-16T13:30:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Mathewson-IGT Knowledge Center (MIKC)",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/usac-study-abroad-fair-8723"
     }
    ],
    "lovingReno": null
@@ -6051,37 +5685,6 @@
    "price": {
     "free": true
    },
-   "tier": "little",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/giving-tree"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "unr:54260730066010",
-   "title": "NGIS pre-conference training workshop with Dr. Qiusheng Wu",
-   "start": "2026-11-17T08:00:00-08:00",
-   "end": "2026-11-17T17:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Matthewson-IGT Knowledge Center",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "min": 50.0,
-    "max": 50.0
-   },
    "tier": "general",
    "hints": [
     "daytime"
@@ -6089,7 +5692,7 @@
    "links": [
     {
      "source": "unr",
-     "url": "https://events.unr.edu/event/ngis-pre-conference-training-workshop-with-dr-qiusheng-wu"
+     "url": "https://events.unr.edu/event/giving-tree"
     }
    ],
    "lovingReno": null
@@ -6118,34 +5721,6 @@
     {
      "source": "unr",
      "url": "https://events.unr.edu/event/on-location-photographs-from-robert-nunez-and-alejandra-rubio"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "unr:54374130435719",
-   "title": "Affording Study Abroad",
-   "start": "2026-11-17T10:00:00-08:00",
-   "end": "2026-11-17T11:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Virginia Street Gym (VSG)",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/affording-study-abroad"
     }
    ],
    "lovingReno": null
@@ -6502,62 +6077,6 @@
     {
      "source": "library",
      "url": "https://events.washoecountylibrary.us/event/17308660"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "unr:54444101495970",
-   "title": "Life Skill Series: Thankful",
-   "start": "2026-11-17T11:00:00-08:00",
-   "end": "2026-11-17T14:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Joe Crowley Student Union (JCSU)",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/life-skill-series-thankful"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "unr:54258908302687",
-   "title": "Life Skills Series",
-   "start": "2026-11-17T11:00:00-08:00",
-   "end": "2026-11-17T14:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Joe Crowley Student Union (JCSU)",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/life-skills-series"
     }
    ],
    "lovingReno": null
@@ -7314,34 +6833,6 @@
    "lovingReno": null
   },
   {
-   "id": "unr:53623010004869",
-   "title": "2026 Nevada Geographic Information Society (NGIS) Symposium",
-   "start": "2026-11-18T00:00:00-08:00",
-   "end": null,
-   "allDay": true,
-   "ongoing": false,
-   "venue": {
-    "name": "Joe Crowley Student Union (JCSU)",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/2026-nevada-geographic-information-society-ngis-symposium"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
    "id": "unr:54445171604560",
    "title": "Giving Tree",
    "start": "2026-11-18T08:00:00-08:00",
@@ -7359,7 +6850,7 @@
    "price": {
     "free": true
    },
-   "tier": "little",
+   "tier": "general",
    "hints": [
     "daytime"
    ],
@@ -7395,36 +6886,6 @@
     {
      "source": "unr",
      "url": "https://events.unr.edu/event/on-location-photographs-from-robert-nunez-and-alejandra-rubio"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "unr:53808116863855",
-   "title": "Designing for Engagement: Interactive Teaching with Top Hat",
-   "start": "2026-11-18T09:00:00-08:00",
-   "end": "2026-11-18T10:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Mathewson-IGT Knowledge Center (MIKC)",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/copy-of-designing-for-engagement-interactive-teaching-with-top-hat"
     }
    ],
    "lovingReno": null
@@ -7483,34 +6944,6 @@
     {
      "source": "library",
      "url": "https://events.washoecountylibrary.us/event/17308762"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "unr:54355702313230",
-   "title": "Dissertation Defense - Bethany Ponte",
-   "start": "2026-11-18T10:00:00-08:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Max C. Fleischmann Agriculture Building (FA)",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/dissertation-defense-bethany-ponte"
     }
    ],
    "lovingReno": null
@@ -7786,34 +7219,6 @@
    "lovingReno": null
   },
   {
-   "id": "unr:54373580705880",
-   "title": "Global Flavors",
-   "start": "2026-11-18T11:00:00-08:00",
-   "end": "2026-11-18T13:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Pack Place",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/global-flavors"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
    "id": "library:17308806",
    "title": "Book a Librarian",
    "start": "2026-11-18T11:30:00-08:00",
@@ -7900,36 +7305,6 @@
    "lovingReno": null
   },
   {
-   "id": "unr:53817273633204",
-   "title": "Beyond the Paper: Digital Projects for Student Learning",
-   "start": "2026-11-18T12:00:00-08:00",
-   "end": "2026-11-18T13:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Mathewson-IGT Knowledge Center (MIKC)",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/designing-digital-projects-for-your-courses"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
    "id": "unr:52366152770495",
    "title": "Dance With Me",
    "start": "2026-11-18T12:00:00-08:00",
@@ -8009,36 +7384,6 @@
     {
      "source": "unr",
      "url": "https://events.unr.edu/event/gather-carry-keep-basketry-from-the-great-basin"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "unr:53187979630886",
-   "title": "Pediatric Grand Rounds",
-   "start": "2026-11-18T12:00:00-08:00",
-   "end": "2026-11-18T13:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Mack Auditorium",
-    "address": "1155 Mill Street",
-    "lat": 39.52497,
-    "lon": -119.79609
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/pediatric-grand-rounds-847"
     }
    ],
    "lovingReno": null
@@ -8357,7 +7702,7 @@
    "price": {
     "free": true
    },
-   "tier": "little",
+   "tier": "general",
    "hints": [
     "daytime"
    ],
