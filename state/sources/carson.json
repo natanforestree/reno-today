@@ -1,54 +1,6 @@
 {
- "at": "2026-11-13T06:30:31Z",
+ "at": "2026-11-13T09:30:32Z",
  "events": [
-  {
-   "id": "carson:10006353",
-   "title": "Behind the Rails Lecture Series",
-   "start": "2026-11-12T18:30:00-08:00",
-   "end": "2026-11-12T19:30:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Nevada State Railroad Museum, Carson City",
-    "address": "2180 S Carson St, Carson City, NV, 89701",
-    "lat": 39.14847,
-    "lon": -119.76834
-   },
-   "area": "carson",
-   "drive": "~35 min",
-   "price": {
-    "min": 10.0,
-    "max": 10.0
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "carson",
-     "url": "https://visitcarsoncity.com/events/behind-the-rails-lecture-series/2026-11-12/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "children",
-   "_tags": [
-    "behind the rails lecture series",
-    "behind the rails lecture series carson city nevada",
-    "carson city events",
-    "history",
-    "nevada state railroad museum",
-    "nevada state railroad museum carson city",
-    "railroad museum",
-    "things to do in carson city",
-    "visit carson city",
-    "visit carson city nevada",
-    "what to do in carson city"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "carson:10006429",
    "title": "Carson City Nevada Show Me Reptile Show & Pet Expo",
@@ -333,6 +285,54 @@
     "shows in carson city",
     "things to do",
     "things to do in carson city"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:81211",
+   "title": "Carson Street Ragtime Band – A Roaring 20s Jazz & Swing Benefit",
+   "start": "2026-11-20T19:30:00-08:00",
+   "end": "2026-11-20T21:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Nashville Social Club",
+    "address": "1105 S Carson St, Carson City, Nevada, 89701",
+    "lat": 39.15725,
+    "lon": -119.76644
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": {
+    "min": 18.35,
+    "max": 18.35
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/carson-street-ragtime-band-a-roaring-20s-jazz-swing-benefit/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "carson street ragtime band",
+    "jazz",
+    "live jazz",
+    "live jazz carson city nv",
+    "live jazz northern nevada",
+    "live music",
+    "live music carson city",
+    "live music northern nevada",
+    "nashville social club",
+    "the swan hall carson city",
+    "things to do"
    ],
    "_family": false,
    "_adult": false,
