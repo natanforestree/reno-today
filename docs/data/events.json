@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T21:30:34Z",
+ "generatedAt": "2026-11-13T00:30:33Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -670,6 +670,34 @@
     {
      "source": "unr",
      "url": "https://events.unr.edu/event/without-mountains-and-rivers-without-end-speculative-geographics-on-an-interior-northwest"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:54499233519355",
+   "title": "Pack AI Symposium Series: Research Perspectives Across Disciplines",
+   "start": "2026-11-12T14:00:00-08:00",
+   "end": "2026-11-12T15:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Mathewson-IGT Knowledge Center (MIKC)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/pack-ai-symposium-series-research-perspectives-across-disciplines"
     }
    ],
    "lovingReno": null
@@ -8199,34 +8227,6 @@
    "lovingReno": null
   },
   {
-   "id": "holland:97149",
-   "title": "Spawn Back Film Screening “Our Land, Our Life” & “River Justice”",
-   "start": "2026-11-18T18:00:00-08:00",
-   "end": "2026-11-18T20:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Holland Project",
-    "address": "140 Vesta St, Reno, NV, 89502",
-    "lat": 39.50964,
-    "lon": -119.80367
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "all-ages"
-   ],
-   "links": [
-    {
-     "source": "holland",
-     "url": "https://hollandreno.org/events/spawn-back-film-screening-our-land-our-life-river-justice/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
    "id": "southtahoe:230363",
    "title": "Magic Fusion at The Loft Theatre",
    "start": "2026-11-18T19:00:00-08:00",
@@ -9186,6 +9186,34 @@
     {
      "source": "library",
      "url": "https://events.washoecountylibrary.us/event/16648826"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "holland:97149",
+   "title": "Spawn Back Film Screening “Our Land, Our Life” & “River Justice”",
+   "start": "2026-11-19T18:00:00-08:00",
+   "end": "2026-11-19T20:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Holland Project",
+    "address": "140 Vesta St, Reno, NV, 89502",
+    "lat": 39.50964,
+    "lon": -119.80367
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "all-ages"
+   ],
+   "links": [
+    {
+     "source": "holland",
+     "url": "https://hollandreno.org/events/spawn-back-film-screening-our-land-our-life-river-justice/"
     }
    ],
    "lovingReno": null
