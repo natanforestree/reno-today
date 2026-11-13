@@ -1,39 +1,6 @@
 {
- "at": "2026-11-13T00:30:33Z",
+ "at": "2026-11-13T03:30:34Z",
  "events": [
-  {
-   "id": "tm:Z7r9jZ1A7PEPP",
-   "title": "Nevada Wolfpack Womens Volleyball vs. San Jose State Spartans Womens Volleyball",
-   "start": "2026-11-12T18:00:00-08:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Virginia Street Gym",
-    "address": "1664 N. Virginia Street,, Reno, NV",
-    "lat": 39.5386,
-    "lon": -119.8171
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PEPP"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
   {
    "id": "tm:1kAYvP8IGA2SlLS",
    "title": "Lake Tahoe Lakers vs. Vernal Oilers",
@@ -173,6 +140,39 @@
     "boxing",
     "sports"
    ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:LvZ18Qn90rmnITUiMZXBh",
+   "title": "GREEN JELLY Punk Rock Puppet Show | MGV | Felipendejo",
+   "start": "2026-11-13T19:00:00-08:00",
+   "end": "2026-11-13T23:59:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Cellar Stage",
+    "address": "1044 E 4th St, Reno, NV",
+    "lat": 39.53281,
+    "lon": -119.7995
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.universe.com/events/green-jelly-punk-rock-puppet-show-mgv-felipendejo-tickets-QX63VJ?ref=ticketmaster"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [],
    "_family": false,
    "_adult": false,
    "_allAges": false,
