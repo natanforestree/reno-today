@@ -1,44 +1,6 @@
 {
- "at": "2026-11-14T06:30:38Z",
+ "at": "2026-11-14T09:30:38Z",
  "events": [
-  {
-   "id": "holland:96913",
-   "title": "Next Question Album Release w/ Roy Mustang, Rat Patrol, Zaine Lee Jackson",
-   "start": "2026-11-13T19:00:00-08:00",
-   "end": "2026-11-13T22:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Holland Project",
-    "address": "140 Vesta St, Reno, NV, 89502",
-    "lat": 39.50964,
-    "lon": -119.80367
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "min": 5.0,
-    "max": 10.0
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "holland",
-     "url": "https://hollandreno.org/events/next-question/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "music"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": true,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "holland:97096",
    "title": "Kids Watercolor Workshop w/ Ameneh",
@@ -334,6 +296,44 @@
     "community",
     "film",
     "lecture"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": true,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "holland:96868",
+   "title": "Wild West Pro presents Show Down at Holland Project",
+   "start": "2026-11-21T17:00:00-08:00",
+   "end": "2026-11-21T20:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Holland Project",
+    "address": "140 Vesta St, Reno, NV, 89502",
+    "lat": 39.50964,
+    "lon": -119.80367
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 20.0,
+    "max": 30.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "holland",
+     "url": "https://hollandreno.org/events/wild-west-pro/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "kids",
+   "_tags": [
+    "community"
    ],
    "_family": false,
    "_adult": false,

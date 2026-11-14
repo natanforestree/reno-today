@@ -1,5 +1,5 @@
 {
- "at": "2026-11-14T06:30:38Z",
+ "at": "2026-11-14T09:30:38Z",
  "events": [
   {
    "id": "discovery:42787",
@@ -177,6 +177,79 @@
    ],
    "_family": true,
    "_adult": true,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "discovery:43302",
+   "title": "STEM Lab: Healthcare Heroines",
+   "start": "2026-11-21T10:30:00-08:00",
+   "end": "2026-11-21T15:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Discovery",
+    "address": "490 S. Center Street, Reno, NV, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "discovery",
+     "url": "https://nvdm.org/event/stem-lab-healthcare-heroines-2026-11-21/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "empow[her]",
+    "hands-on activity",
+    "stem lab"
+   ],
+   "_family": true,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "discovery:43082",
+   "title": "Turkey Catapults",
+   "start": "2026-11-21T10:30:00-08:00",
+   "end": "2026-11-21T16:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Discovery",
+    "address": "490 S. Center Street, Reno, NV, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "discovery",
+     "url": "https://nvdm.org/event/turkey-catapults-2026-11-21/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "hands-on activity",
+    "maker project"
+   ],
+   "_family": true,
+   "_adult": false,
    "_allAges": false,
    "_outdoor": false,
    "_kind": "organiser"
