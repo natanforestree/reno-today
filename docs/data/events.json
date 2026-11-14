@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T21:30:31Z",
+ "generatedAt": "2026-11-14T00:28:20Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -1032,34 +1032,6 @@
     {
      "source": "southtahoe",
      "url": "https://visitlaketahoe.com/event/live-music-golden-nugget-lake-tahoe/2026-11-13/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "tm:1AyZkfUGkd9ONTp",
-   "title": "Lakeside Laughs Comedy Club",
-   "start": "2026-11-13T21:30:00-08:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Cabaret at Caesars Republic Lake Tahoe",
-    "address": "18 Hwy 50, Lake Tahoe, NV",
-    "lat": 38.96031,
-    "lon": -119.9427
-   },
-   "area": "other",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "21+"
-   ],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/lakeside-laughs-comedy-club-lake-tahoe-nevada-11-13-2026/event/39006536D7823FD6"
     }
    ],
    "lovingReno": null
