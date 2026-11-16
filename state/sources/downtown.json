@@ -1,5 +1,5 @@
 {
- "at": "2026-11-16T18:30:46Z",
+ "at": "2026-11-16T21:30:32Z",
  "events": [
   {
    "id": "downtown:10005767",
@@ -30,6 +30,48 @@
    "lovingReno": null,
    "_text": "",
    "_tags": [],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "listing"
+  },
+  {
+   "id": "downtown:128805",
+   "title": "Guadalajara Grill Blue Carpet Treatment",
+   "start": "2026-11-19T16:00:00-08:00",
+   "end": "2026-11-19T17:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Guadalajara Grill Downtown",
+    "address": "180 E. 1st St., Reno, NV, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/guadalajara-grill-blue-carpet-treatment/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "Family family",
+   "_tags": [
+    "blue carpet treatment",
+    "drp",
+    "family-owned",
+    "guadalajara grill blue carpet treatment",
+    "mexican restaurant",
+    "minority-owned",
+    "the downtown reno partnership",
+    "woman-owned"
+   ],
    "_family": false,
    "_adult": false,
    "_allAges": false,

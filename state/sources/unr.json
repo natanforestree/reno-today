@@ -1,5 +1,5 @@
 {
- "at": "2026-11-16T18:30:46Z",
+ "at": "2026-11-16T21:30:32Z",
  "events": [
   {
    "id": "unr:54445171602510",
@@ -1261,6 +1261,42 @@
    "_kind": "organiser"
   },
   {
+   "id": "unr:54533261650567",
+   "title": "Friendsgiving",
+   "start": "2026-11-19T11:00:00-08:00",
+   "end": "2026-11-19T16:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Continuing Education Building (CEB)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/friendsgiving"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "honors college",
+    "social events"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
    "id": "unr:53743917472846",
    "title": "92 Events: A Fluxus Show",
    "start": "2026-11-19T12:00:00-08:00",
@@ -1769,6 +1805,42 @@
    "_kind": "organiser"
   },
   {
+   "id": "unr:54533966794907",
+   "title": "Economics Seminar: Joao Ramos - University Southern California",
+   "start": "2026-11-20T11:00:00-08:00",
+   "end": "2026-11-20T12:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "John Tulloch Business Building (TULL)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/economics-seminar-joao-ramos-university-southern-california"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "department of economics",
+    "lectures & seminars"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
    "id": "unr:53743917472847",
    "title": "92 Events: A Fluxus Show",
    "start": "2026-11-20T12:00:00-08:00",
@@ -1917,6 +1989,42 @@
     "college of liberal arts",
     "exhibitions (recurring)",
     "john and geraldine lilley museum of art"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:54533435638822",
+   "title": "Brain Break: Golden Scholars Edition",
+   "start": "2026-11-20T16:00:00-08:00",
+   "end": "2026-11-20T17:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Orvis Building (OB)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/brain-break-golden-scholars-edition"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "golden scholars",
+    "social events"
    ],
    "_family": false,
    "_adult": false,

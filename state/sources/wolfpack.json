@@ -1,5 +1,5 @@
 {
- "at": "2026-11-16T18:30:46Z",
+ "at": "2026-11-16T21:30:32Z",
  "events": [
   {
    "id": "wolfpack:vcal_14246-nevadawolfpack.com",
@@ -93,41 +93,6 @@
     {
      "source": "wolfpack",
      "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14134&sport_id=17"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "sports"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "wolfpack:vcal_14522-nevadawolfpack.com",
-   "title": "Nevada Softball vs Alumni Game",
-   "start": "2026-10-23T17:00:00-07:00",
-   "end": "2026-10-23T19:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Christina M. Hixson Softball Park",
-    "address": "Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "wolfpack",
-     "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14522&sport_id=8"
     }
    ],
    "lovingReno": null,
@@ -373,41 +338,6 @@
     {
      "source": "wolfpack",
      "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14285&sport_id=1026"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "sports"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "wolfpack:vcal_14525-nevadawolfpack.com",
-   "title": "Nevada Softball vs Folsom Lake College",
-   "start": "2026-10-30T13:00:00-07:00",
-   "end": "2026-10-30T15:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Christina M. Hixson Softball Park",
-    "address": "Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "wolfpack",
-     "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14525&sport_id=8"
     }
    ],
    "lovingReno": null,
@@ -2417,6 +2347,41 @@
    "_kind": "organiser"
   },
   {
+   "id": "wolfpack:vcal_14619-nevadawolfpack.com",
+   "title": "Nevada Softball vs UTEP",
+   "start": "2027-04-02T00:00:00-07:00",
+   "end": null,
+   "allDay": true,
+   "ongoing": false,
+   "venue": {
+    "name": "Christina M. Hixson Softball Park",
+    "address": "Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "wolfpack",
+     "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14619&sport_id=8"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "sports"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
    "id": "wolfpack:vcal_14147-nevadawolfpack.com",
    "title": "Nevada Baseball vs UC Davis",
    "start": "2027-04-02T00:00:00-07:00",
@@ -2522,6 +2487,41 @@
    "_kind": "organiser"
   },
   {
+   "id": "wolfpack:vcal_14620-nevadawolfpack.com",
+   "title": "Nevada Softball vs UC Davis",
+   "start": "2027-04-09T00:00:00-07:00",
+   "end": null,
+   "allDay": true,
+   "ongoing": false,
+   "venue": {
+    "name": "Christina M. Hixson Softball Park",
+    "address": "Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "wolfpack",
+     "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14620&sport_id=8"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "sports"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
    "id": "wolfpack:vcal_14149-nevadawolfpack.com",
    "title": "Nevada Baseball vs Utah Tech",
    "start": "2027-04-23T00:00:00-07:00",
@@ -2543,6 +2543,41 @@
     {
      "source": "wolfpack",
      "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14149&sport_id=1"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "sports"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "wolfpack:vcal_14622-nevadawolfpack.com",
+   "title": "Nevada Softball vs UNLV",
+   "start": "2027-04-23T00:00:00-07:00",
+   "end": null,
+   "allDay": true,
+   "ongoing": false,
+   "venue": {
+    "name": "Christina M. Hixson Softball Park",
+    "address": "Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "wolfpack",
+     "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14622&sport_id=8"
     }
    ],
    "lovingReno": null,
