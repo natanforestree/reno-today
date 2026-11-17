@@ -1,32 +1,32 @@
 {
- "generatedAt": "2026-11-17T00:30:33Z",
+ "generatedAt": "2026-11-17T03:30:39Z",
  "sources": {
   "ticketmaster": {
    "label": "Ticketmaster",
    "ok": true,
    "count": 24,
-   "lastSuccess": "2026-11-17T00:30:33Z",
+   "lastSuccess": "2026-11-17T03:30:39Z",
    "error": null
   },
   "unr": {
    "label": "UNR events",
    "ok": true,
    "count": 58,
-   "lastSuccess": "2026-11-17T00:30:33Z",
+   "lastSuccess": "2026-11-17T03:30:39Z",
    "error": null
   },
   "wolfpack": {
    "label": "Nevada Wolf Pack",
    "ok": true,
    "count": 82,
-   "lastSuccess": "2026-11-17T00:30:33Z",
+   "lastSuccess": "2026-11-17T03:30:39Z",
    "error": null
   },
   "aces": {
    "label": "Reno Aces",
    "ok": true,
    "count": 0,
-   "lastSuccess": "2026-11-17T00:30:33Z",
+   "lastSuccess": "2026-11-17T03:30:39Z",
    "error": null
   },
   "library": {
@@ -40,21 +40,21 @@
    "label": "Washoe County Parks",
    "ok": true,
    "count": 9,
-   "lastSuccess": "2026-11-17T00:30:33Z",
+   "lastSuccess": "2026-11-17T03:30:39Z",
    "error": null
   },
   "standing": {
    "label": "Weekly regulars",
    "ok": true,
    "count": 1,
-   "lastSuccess": "2026-11-17T00:30:33Z",
+   "lastSuccess": "2026-11-17T03:30:39Z",
    "error": null
   },
   "discovery": {
    "label": "The Discovery",
    "ok": true,
    "count": 6,
-   "lastSuccess": "2026-11-17T00:30:33Z",
+   "lastSuccess": "2026-11-17T03:30:39Z",
    "error": null
   },
   "reno": {
@@ -75,42 +75,42 @@
    "label": "Visit Carson City",
    "ok": true,
    "count": 3,
-   "lastSuccess": "2026-11-17T00:30:33Z",
+   "lastSuccess": "2026-11-17T03:30:39Z",
    "error": null
   },
   "southtahoe": {
    "label": "Visit Lake Tahoe",
    "ok": true,
    "count": 72,
-   "lastSuccess": "2026-11-17T00:30:33Z",
+   "lastSuccess": "2026-11-17T03:30:39Z",
    "error": null
   },
   "vcity": {
    "label": "Virginia City",
    "ok": true,
    "count": 0,
-   "lastSuccess": "2026-11-17T00:30:33Z",
+   "lastSuccess": "2026-11-17T03:30:39Z",
    "error": null
   },
   "downtown": {
    "label": "Downtown Reno",
    "ok": true,
    "count": 6,
-   "lastSuccess": "2026-11-17T00:30:33Z",
+   "lastSuccess": "2026-11-17T03:30:39Z",
    "error": null
   },
   "holland": {
    "label": "The Holland Project",
    "ok": true,
    "count": 4,
-   "lastSuccess": "2026-11-17T00:30:33Z",
+   "lastSuccess": "2026-11-17T03:30:39Z",
    "error": null
   },
   "lovingreno": {
    "label": "Loving Reno",
    "ok": true,
    "count": 1,
-   "lastSuccess": "2026-11-17T00:30:33Z",
+   "lastSuccess": "2026-11-17T03:30:39Z",
    "error": null
   },
   "weather": {
