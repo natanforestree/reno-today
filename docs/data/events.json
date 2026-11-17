@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T18:30:34Z",
+ "generatedAt": "2026-11-17T21:30:34Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -7756,6 +7756,66 @@
    "lovingReno": null
   },
   {
+   "id": "library:17308766",
+   "title": "Book a Librarian",
+   "start": "2026-11-24T10:00:00-08:00",
+   "end": "2026-11-24T11:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Senior Center Library",
+    "address": "1155 E 9th St, Reno, NV 89512",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17308766"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17170615",
+   "title": "Chinese Mahjong",
+   "start": "2026-11-24T10:00:00-08:00",
+   "end": "2026-11-24T12:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sparks Library",
+    "address": "1125 12th St, Sparks, NV 89431",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17170615"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "southtahoe:225502",
    "title": "Tipsy Putt Events",
    "start": "2026-11-24T10:00:00-08:00",
@@ -7779,6 +7839,336 @@
     {
      "source": "southtahoe",
      "url": "https://visitlaketahoe.com/event/tipsy-putt-events/2026-11-24/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:15892543",
+   "title": "Family Story Time",
+   "start": "2026-11-24T10:15:00-08:00",
+   "end": "2026-11-24T10:45:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Downtown Reno Library",
+    "address": "301 S Center St, Reno, NV 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/15892543"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17017764",
+   "title": "PBS Curiosity Classroom: Mouse Shapes",
+   "start": "2026-11-24T10:15:00-08:00",
+   "end": "2026-11-24T11:15:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sparks Library",
+    "address": "1125 12th St, Sparks, NV 89431",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17017764"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:14216410",
+   "title": "Baby Social",
+   "start": "2026-11-24T10:30:00-08:00",
+   "end": "2026-11-24T11:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Northwest Reno Library",
+    "address": "2325 Robb Dr, Reno, NV 89523",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/14216410"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:15330252",
+   "title": "Family Story Time",
+   "start": "2026-11-24T10:30:00-08:00",
+   "end": "2026-11-24T11:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Incline Village Library",
+    "address": "845 Alder Ave, Incline Village, NV 89451",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~45 min",
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/15330252"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:15228972",
+   "title": "Preschool Story Time",
+   "start": "2026-11-24T10:30:00-08:00",
+   "end": "2026-11-24T11:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "South Valleys Library",
+    "address": "15650-A Wedge Pkwy, Reno, NV 89511",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/15228972"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17603121",
+   "title": "Family Engagement Activities Presented by The Children's Cabinet",
+   "start": "2026-11-24T10:45:00-08:00",
+   "end": "2026-11-24T11:45:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Downtown Reno Library",
+    "address": "301 S Center St, Reno, NV 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17603121"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:16237480",
+   "title": "Book a Librarian",
+   "start": "2026-11-24T11:00:00-08:00",
+   "end": "2026-11-24T16:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Incline Village Library",
+    "address": "845 Alder Ave, Incline Village, NV 89451",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~45 min",
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/16237480"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17308663",
+   "title": "Book a Librarian",
+   "start": "2026-11-24T11:00:00-08:00",
+   "end": "2026-11-24T12:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sparks Library",
+    "address": "1125 12th St, Sparks, NV 89431",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17308663"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:15762673",
+   "title": "Book A Librarian",
+   "start": "2026-11-24T11:30:00-08:00",
+   "end": "2026-11-24T12:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sierra View Library",
+    "address": "4001 S Virginia St, Reno, NV 89502",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/15762673"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:16955327",
+   "title": "iPhone and iPad Basics",
+   "start": "2026-11-24T15:00:00-08:00",
+   "end": "2026-11-24T16:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Downtown Reno Library",
+    "address": "301 S Center St, Reno, NV 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/16955327"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17224601",
+   "title": "STEAM: Create Your Own Flag",
+   "start": "2026-11-24T15:30:00-08:00",
+   "end": "2026-11-24T17:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "North Valleys Library",
+    "address": "1075 N Hills Blvd Ste 340, Reno, NV 89506",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17224601"
     }
    ],
    "lovingReno": null
@@ -7812,6 +8202,96 @@
    "lovingReno": null
   },
   {
+   "id": "library:10710181",
+   "title": "LEGO Robotics Club",
+   "start": "2026-11-24T16:00:00-08:00",
+   "end": "2026-11-24T18:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Spanish Springs Library",
+    "address": "7100A Pyramid Hwy, Sparks, NV 89436",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/10710181"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17052628",
+   "title": "Make & Mingle for Adults",
+   "start": "2026-11-24T16:00:00-08:00",
+   "end": "2026-11-24T18:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Spanish Springs Library",
+    "address": "7100A Pyramid Hwy, Sparks, NV 89436",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17052628"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:15229025",
+   "title": "Time-out Tuesday for Adults - BYO(Book) Silent Reading Party",
+   "start": "2026-11-24T16:00:00-08:00",
+   "end": "2026-11-24T17:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "South Valleys Library",
+    "address": "15650-A Wedge Pkwy, Reno, NV 89511",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/15229025"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "holland:97131",
    "title": "Film Developing Using Matcha",
    "start": "2026-11-24T17:00:00-08:00",
@@ -7838,6 +8318,34 @@
     {
      "source": "holland",
      "url": "https://hollandreno.org/events/film-developing-using-matcha/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:17010558",
+   "title": "Fireside Hush Hour",
+   "start": "2026-11-24T18:00:00-08:00",
+   "end": "2026-11-24T19:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Incline Village Library",
+    "address": "845 Alder Ave, Incline Village, NV 89451",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~45 min",
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17010558"
     }
    ],
    "lovingReno": null
