@@ -1,39 +1,6 @@
 {
- "at": "2026-11-17T06:30:41Z",
+ "at": "2026-11-17T09:30:38Z",
  "events": [
-  {
-   "id": "tm:LvZ18QIuobogFmkbHS_he",
-   "title": "The Baby Bat Tour - Christian Death | Black Season Witch | DJ Scott Toxsin",
-   "start": "2026-11-16T19:00:00-08:00",
-   "end": "2026-11-16T23:59:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Cellar Stage",
-    "address": "1044 E 4th St, Reno, NV",
-    "lat": 39.53281,
-    "lon": -119.7995
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.universe.com/events/the-baby-bat-tour-christian-death-black-season-witch-dj-scott-toxsin-tickets-4V9MC5?ref=ticketmaster"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
   {
    "id": "tm:1A9ZkffGkeTHTbm",
    "title": "Tahoe Knight Monsters vs. New Mexico Goatheads",
@@ -875,6 +842,80 @@
    "_tags": [
     "music",
     "rock"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:16tZk48FwZA2v2FF",
+   "title": "Damag3, Ribcage, Bankroll Bishop",
+   "start": "2026-11-24T19:00:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Club Underground",
+    "address": "555 E 4th St, Reno, NV",
+    "lat": 39.53151,
+    "lon": -119.80658
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketweb.com/event/damag3-ribcage-bankroll-bishop-club-underground-tickets/14387144?REFERRAL_ID=tmfeed"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "music",
+    "pop",
+    "rock"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:1Ad0Z_4GknzMtMA",
+   "title": "Alex Ramon Magic",
+   "start": "2026-11-24T19:30:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "South Shore Room at Harrah's Lake Tahoe",
+    "address": "15 Hwy 50, Lake Tahoe, NV",
+    "lat": 38.96241,
+    "lon": -119.9399
+   },
+   "area": "other",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/alex-ramon-magic-lake-tahoe-nevada-11-24-2026/event/3900655AB8DE9DC5"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & theatre",
+    "magic",
+    "magic & illusion"
    ],
    "_family": false,
    "_adult": false,
