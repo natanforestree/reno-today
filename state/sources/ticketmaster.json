@@ -1,5 +1,5 @@
 {
- "at": "2026-11-18T06:30:31Z",
+ "at": "2026-11-18T09:30:37Z",
  "events": [
   {
    "id": "tm:1A9ZkffGkeTHTbm",
@@ -908,6 +908,80 @@
     {
      "source": "tm",
      "url": "https://www.ticketmaster.com/alex-ramon-magic-lake-tahoe-nevada-11-24-2026/event/3900655AB8DE9DC5"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & theatre",
+    "magic",
+    "magic & illusion"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:1A9ZkffGkeTXT_W",
+   "title": "Tahoe Knight Monsters vs. Idaho Steelheads",
+   "start": "2026-11-25T19:00:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Tahoe Blue Event Center",
+    "address": "75 US Highway 50, Stateline, NV",
+    "lat": 38.9631,
+    "lon": -119.94034
+   },
+   "area": "tahoe",
+   "drive": "~70 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/tahoe-knight-monsters-vs-idaho-steelheads-stateline-nevada-11-25-2026/event/17006514BFFBF67D"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "hockey",
+    "minor league",
+    "sports"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:1Ad0Z_4GknzyaMa",
+   "title": "Alex Ramon Magic",
+   "start": "2026-11-25T19:30:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "South Shore Room at Harrah's Lake Tahoe",
+    "address": "15 Hwy 50, Lake Tahoe, NV",
+    "lat": 38.96241,
+    "lon": -119.9399
+   },
+   "area": "other",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/alex-ramon-magic-lake-tahoe-nevada-11-25-2026/event/3900655AB8E49DC9"
     }
    ],
    "lovingReno": null,

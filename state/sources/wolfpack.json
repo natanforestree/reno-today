@@ -1,41 +1,6 @@
 {
- "at": "2026-11-18T06:30:31Z",
+ "at": "2026-11-18T09:30:37Z",
  "events": [
-  {
-   "id": "wolfpack:vcal_14246-nevadawolfpack.com",
-   "title": "Nevada Men's Basketball vs Utah (Exhibition)",
-   "start": "2026-10-17T13:00:00-07:00",
-   "end": "2026-10-17T15:00:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Lawlor Events Center",
-    "address": "Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "wolfpack",
-     "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14246&sport_id=4"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "sports"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "wolfpack:vcal_14182-nevadawolfpack.com",
    "title": "Nevada Women's Soccer vs Air Force",
@@ -282,41 +247,6 @@
    "_kind": "organiser"
   },
   {
-   "id": "wolfpack:vcal_14290-nevadawolfpack.com",
-   "title": "Nevada Women's Cross Country vs Credit Union One Mountain West Cross Country Championships",
-   "start": "2026-10-30T00:00:00-07:00",
-   "end": null,
-   "allDay": true,
-   "ongoing": false,
-   "venue": {
-    "name": null,
-    "address": "Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "wolfpack",
-     "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14290&sport_id=10"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "sports"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
    "id": "wolfpack:vcal_14285-nevadawolfpack.com",
    "title": "Nevada Men's Cross Country Credit Union One Mountain West Cross Country Championships",
    "start": "2026-10-30T00:00:00-07:00",
@@ -338,6 +268,41 @@
     {
      "source": "wolfpack",
      "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14285&sport_id=1026"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "sports"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "wolfpack:vcal_14290-nevadawolfpack.com",
+   "title": "Nevada Women's Cross Country vs Credit Union One Mountain West Cross Country Championships",
+   "start": "2026-10-30T00:00:00-07:00",
+   "end": null,
+   "allDay": true,
+   "ongoing": false,
+   "venue": {
+    "name": null,
+    "address": "Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "wolfpack",
+     "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14290&sport_id=10"
     }
    ],
    "lovingReno": null,
