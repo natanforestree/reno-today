@@ -1,5 +1,5 @@
 {
- "at": "2026-11-18T18:30:37Z",
+ "at": "2026-11-18T21:30:33Z",
  "events": [
   {
    "id": "unr:54445171604560",
@@ -672,6 +672,42 @@
    "_tags": [
     "honors college",
     "social events"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:54551101095805",
+   "title": "Friendsgiving",
+   "start": "2026-11-19T11:00:00-08:00",
+   "end": "2026-11-19T16:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Honors College",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": 39.53779,
+    "lon": -119.8171
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/friendsgiving-7590"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "honors college",
+    "observances & celebrations"
    ],
    "_family": false,
    "_adult": false,
