@@ -1,5 +1,5 @@
 {
- "at": "2026-11-17T21:30:34Z",
+ "at": "2026-11-18T00:30:34Z",
  "events": [
   {
    "id": "wcparks:702-1790866800000",
@@ -208,6 +208,39 @@
    "_kind": "organiser"
   },
   {
+   "id": "wcparks:718-1796497200000",
+   "title": "Holiday Crafting in the Rancho Playroom!",
+   "start": "2026-12-05T11:00:00-08:00",
+   "end": "2026-12-05T13:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Rancho San Rafael Regional Park",
+    "address": "1595 N Sierra St, Reno, NV 89503, USA",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "wcparks",
+     "url": "https://tockify.com/wcparks/detail/718/1796497200000"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
    "id": "wcparks:706-1796862600000",
    "title": "Wild Wednesday - Trail Safety and Navigation",
    "start": "2026-12-09T16:30:00-08:00",
@@ -229,6 +262,39 @@
     {
      "source": "wcparks",
      "url": "https://tockify.com/wcparks/detail/706/1796862600000"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "wcparks:719-1797102000000",
+   "title": "Holiday Crafting in the Rancho Playroom!",
+   "start": "2026-12-12T11:00:00-08:00",
+   "end": "2026-12-12T13:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Rancho San Rafael Regional Park",
+    "address": "1595 N Sierra St, Reno, NV 89503, USA",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "wcparks",
+     "url": "https://tockify.com/wcparks/detail/719/1797102000000"
     }
    ],
    "lovingReno": null,
