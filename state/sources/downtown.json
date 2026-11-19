@@ -1,5 +1,5 @@
 {
- "at": "2026-11-19T06:30:31Z",
+ "at": "2026-11-19T09:30:34Z",
  "events": [
   {
    "id": "downtown:128805",
@@ -206,6 +206,43 @@
     "house music",
     "nightlife",
     "things to do"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "listing"
+  },
+  {
+   "id": "downtown:10005763",
+   "title": "Jingle and Mingle Holiday Shopping Showcase: Silver Legacy",
+   "start": "2026-11-26T11:00:00-08:00",
+   "end": "2026-11-26T19:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Silver Legacy Casino",
+    "address": "401 N. Virginia St, Reno, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/jingle-and-mingle-holiday-shopping-showcase-silver-legacy/2026-11-26/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "family",
+   "_tags": [
+    "arch district events",
+    "holiday",
+    "holiday deals"
    ],
    "_family": false,
    "_adult": false,
