@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T15:30:37Z",
+ "generatedAt": "2026-11-19T18:30:33Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -4284,6 +4284,34 @@
     {
      "source": "southtahoe",
      "url": "https://visitlaketahoe.com/event/tipsy-putt-events/2026-11-22/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "downtown:128979",
+   "title": "Senior Sundays: Art in Conversation: Nevada Museum of Art",
+   "start": "2026-11-22T10:30:00-08:00",
+   "end": "2026-11-22T12:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Nevada Musuem of Art",
+    "address": "160 W Liberty, Reno, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/senior-sundays-art-in-conversation-nevada-museum-of-art/"
     }
    ],
    "lovingReno": null
