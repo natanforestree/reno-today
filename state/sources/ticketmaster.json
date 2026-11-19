@@ -1,5 +1,5 @@
 {
- "at": "2026-11-19T18:30:33Z",
+ "at": "2026-11-19T21:30:33Z",
  "events": [
   {
    "id": "tm:1Ad0Z_FGkBIz3qm",
@@ -344,7 +344,7 @@
    "area": "reno",
    "drive": null,
    "price": {
-    "min": 26.27,
+    "min": 32.37,
     "max": 32.37
    },
    "tier": "general",
