@@ -1,46 +1,6 @@
 {
- "at": "2026-11-18T21:30:33Z",
+ "at": "2026-11-19T00:30:33Z",
  "events": [
-  {
-   "id": "tm:rZ7HnEZ1AfPVaK",
-   "title": "The Funeral Portrait, PINKNOISE",
-   "start": "2026-11-19T19:00:00-08:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Cargo Concert Hall",
-    "address": "255 North Virginia Street, Reno, NV",
-    "lat": 39.5281,
-    "lon": -119.81377
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "min": 34.61,
-    "max": 34.61
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketweb.com/event/the-funeral-portrait-pinknoise-cargo-concert-hall-tickets/14974253"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "music",
-    "post-hardcore",
-    "rock"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
   {
    "id": "tm:1Ad0Z_FGkBIz3qm",
    "title": "Laugh Factory",
