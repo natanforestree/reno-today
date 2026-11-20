@@ -1,5 +1,5 @@
 {
- "at": "2026-11-20T06:30:40Z",
+ "at": "2026-11-20T09:30:38Z",
  "events": [
   {
    "id": "carson:81211",
@@ -151,6 +151,104 @@
     "things to do in carson city",
     "visit carson city",
     "visit carson city nevada"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:78703",
+   "title": "Nutcracker Sweets, A Sensory Friendly Experience",
+   "start": "2026-11-27T11:00:00-08:00",
+   "end": "2026-11-27T12:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Carson City Community Center’s Bob Boldrick Theater",
+    "address": "851 E. William Street, Carson City, NV, 89701",
+    "lat": 39.16966,
+    "lon": -119.76016
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": {
+    "min": 22.0,
+    "max": 22.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/nutcracker-sweets-a-sensory-friendly-experience/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "sensory",
+   "_tags": [
+    "art",
+    "arts & culture",
+    "ballet",
+    "brewery arts center",
+    "events in carson city",
+    "family",
+    "holiday",
+    "holiday activities",
+    "holiday activities carson city",
+    "holiday activities carson city nevada",
+    "nevada dance company",
+    "nuerodiverse friendly ballet",
+    "nutcracker sweets",
+    "sensory friendly",
+    "sensory friendly experiences carson city",
+    "sensory friendly play carson city",
+    "shows",
+    "shows in carson city",
+    "the nutcracker",
+    "things to do",
+    "things to do in carson city",
+    "visit carson city",
+    "visit carson city nevada",
+    "winter activities"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:10006422",
+   "title": "The Nutcracker",
+   "start": "2026-11-27T19:00:00-08:00",
+   "end": "2026-11-27T21:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Carson City Community Center’s Bob Boldrick Theater",
+    "address": "851 E. William Street, Carson City, NV, 89701",
+    "lat": 39.16966,
+    "lon": -119.76016
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/the-nutcracker/2026-11-27/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & culture",
+    "family",
+    "holiday"
    ],
    "_family": false,
    "_adult": false,

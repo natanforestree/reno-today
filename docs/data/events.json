@@ -1,1562 +1,7 @@
 {
- "generatedAt": "2026-11-20T06:30:40Z",
+ "generatedAt": "2026-11-20T09:30:38Z",
  "timezone": "America/Los_Angeles",
  "events": [
-  {
-   "id": "unr:54445171606609",
-   "title": "Giving Tree",
-   "start": "2026-11-19T08:00:00-08:00",
-   "end": "2026-11-19T19:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Joe Crowley Student Union (JCSU)",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/giving-tree"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "unr:54116793937564",
-   "title": "On Location: Photographs from Robert Nuñez and Alejandra Rubio",
-   "start": "2026-11-19T08:00:00-08:00",
-   "end": "2026-11-19T20:00:00-08:00",
-   "allDay": false,
-   "ongoing": true,
-   "venue": {
-    "name": "McNamara Hallway Gallery",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/on-location-photographs-from-robert-nunez-and-alejandra-rubio"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "library:17308763",
-   "title": "Book a Librarian",
-   "start": "2026-11-19T10:00:00-08:00",
-   "end": "2026-11-19T11:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Senior Center Library",
-    "address": "1155 E 9th St, Reno, NV 89512",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "library",
-     "url": "https://events.washoecountylibrary.us/event/17308763"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "southtahoe:225499",
-   "title": "Tipsy Putt Events",
-   "start": "2026-11-19T10:00:00-08:00",
-   "end": "2026-11-19T23:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Tipsy Putt Tahoe",
-    "address": "4101 Lake Tahoe Blvd. #101, South Lake Tahoe, California, 96150",
-    "lat": null,
-    "lon": null
-   },
-   "area": "tahoe",
-   "drive": "~75 min",
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/tipsy-putt-events/2026-11-19/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "library:17017939",
-   "title": "Bilingual Story Time",
-   "start": "2026-11-19T10:15:00-08:00",
-   "end": "2026-11-19T11:15:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Sparks Library",
-    "address": "1125 12th St, Sparks, NV 89431",
-    "lat": null,
-    "lon": null
-   },
-   "area": "sparks",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "little",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "library",
-     "url": "https://events.washoecountylibrary.us/event/17017939"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "library:15892058",
-   "title": "Cancelled Due to Weather: Baby Story Time",
-   "start": "2026-11-19T10:15:00-08:00",
-   "end": "2026-11-19T11:15:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Downtown Reno Library",
-    "address": "301 S Center St, Reno, NV 89501",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "little",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "library",
-     "url": "https://events.washoecountylibrary.us/event/15892058"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "library:17055886",
-   "title": "Baby Story Time",
-   "start": "2026-11-19T10:30:00-08:00",
-   "end": "2026-11-19T11:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "North Valleys Library",
-    "address": "1075 N Hills Blvd Ste 340, Reno, NV 89506",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "little",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "library",
-     "url": "https://events.washoecountylibrary.us/event/17055886"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "library:12640872",
-   "title": "CANCELED Family Story Time",
-   "start": "2026-11-19T10:30:00-08:00",
-   "end": "2026-11-19T11:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Incline Village Library",
-    "address": "845 Alder Ave, Incline Village, NV 89451",
-    "lat": null,
-    "lon": null
-   },
-   "area": "tahoe",
-   "drive": "~45 min",
-   "price": {
-    "free": true
-   },
-   "tier": "little",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "library",
-     "url": "https://events.washoecountylibrary.us/event/12640872"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "library:15254098",
-   "title": "CANCELLED - Toddler Time",
-   "start": "2026-11-19T10:30:00-08:00",
-   "end": "2026-11-19T11:30:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "South Valleys Library",
-    "address": "15650-A Wedge Pkwy, Reno, NV 89511",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "little",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "library",
-     "url": "https://events.washoecountylibrary.us/event/15254098"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "southtahoe:238471",
-   "title": "Tahoe Knight Monsters Hockey Games at the Tahoe Blue Event Center",
-   "start": "2026-11-19T10:30:00-08:00",
-   "end": "2026-11-19T12:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Tahoe Blue Event Center",
-    "address": "75 Hwy 50, Stateline, Nevada, 89449",
-    "lat": null,
-    "lon": null
-   },
-   "area": "tahoe",
-   "drive": "~70 min",
-   "price": null,
-   "tier": "little",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/tahoe-knight-monsters-hockey/2026-11-19/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "library:10710655",
-   "title": "Toddler Time",
-   "start": "2026-11-19T10:30:00-08:00",
-   "end": "2026-11-19T11:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Spanish Springs Library",
-    "address": "7100A Pyramid Hwy, Sparks, NV 89436",
-    "lat": null,
-    "lon": null
-   },
-   "area": "sparks",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "little",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "library",
-     "url": "https://events.washoecountylibrary.us/event/10710655"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "library:14216142",
-   "title": "Toddler Time",
-   "start": "2026-11-19T10:30:00-08:00",
-   "end": "2026-11-19T11:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Northwest Reno Library",
-    "address": "2325 Robb Dr, Reno, NV 89523",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "little",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "library",
-     "url": "https://events.washoecountylibrary.us/event/14216142"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "library:17308662",
-   "title": "Book a Librarian",
-   "start": "2026-11-19T11:00:00-08:00",
-   "end": "2026-11-19T12:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Sparks Library",
-    "address": "1125 12th St, Sparks, NV 89431",
-    "lat": null,
-    "lon": null
-   },
-   "area": "sparks",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "library",
-     "url": "https://events.washoecountylibrary.us/event/17308662"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "unr:54533261650567",
-   "title": "Friendsgiving",
-   "start": "2026-11-19T11:00:00-08:00",
-   "end": "2026-11-19T16:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Continuing Education Building (CEB)",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/friendsgiving"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "unr:54551101095805",
-   "title": "Friendsgiving",
-   "start": "2026-11-19T11:00:00-08:00",
-   "end": "2026-11-19T16:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Honors College",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": 39.53779,
-    "lon": -119.8171
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/friendsgiving-7590"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "library:17189262",
-   "title": "Musical Stories with the Reno Chamber Orchestra",
-   "start": "2026-11-19T11:00:00-08:00",
-   "end": "2026-11-19T11:45:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Sierra View Library",
-    "address": "4001 S Virginia St, Reno, NV 89502",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [
-    "daytime",
-    "music"
-   ],
-   "links": [
-    {
-     "source": "library",
-     "url": "https://events.washoecountylibrary.us/event/17189262"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "unr:53743917472846",
-   "title": "92 Events: A Fluxus Show",
-   "start": "2026-11-19T12:00:00-08:00",
-   "end": "2026-11-19T16:00:00-08:00",
-   "allDay": false,
-   "ongoing": true,
-   "venue": {
-    "name": "Front Door Gallery",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/92-events-a-fluxus-show"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "unr:54118699033771",
-   "title": "Advanced Studio Art Exhibition",
-   "start": "2026-11-19T12:00:00-08:00",
-   "end": "2026-11-19T16:00:00-08:00",
-   "allDay": false,
-   "ongoing": true,
-   "venue": {
-    "name": "Student Galleries South",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/advanced-studio-art-exhibition"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "unr:53743835888454",
-   "title": "Earth's Winding Sheet",
-   "start": "2026-11-19T12:00:00-08:00",
-   "end": "2026-11-19T16:00:00-08:00",
-   "allDay": false,
-   "ongoing": true,
-   "venue": {
-    "name": "John & Geraldine Lilley Museum of Art",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/earths-winding-sheet"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "unr:53743884165409",
-   "title": "Gather-Carry-Keep: Basketry from the Great Basin",
-   "start": "2026-11-19T12:00:00-08:00",
-   "end": "2026-11-19T16:00:00-08:00",
-   "allDay": false,
-   "ongoing": true,
-   "venue": {
-    "name": "Front Door Gallery",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/gather-carry-keep-basketry-from-the-great-basin"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "unr:54418949122259",
-   "title": "Truth Before Tradition",
-   "start": "2026-11-19T12:00:00-08:00",
-   "end": "2026-11-19T14:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Multicultural Center",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/truth-before-tradition"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "unr:53799519183467",
-   "title": "Without Mountains and Rivers Without End: Speculative Geographics on an Interior Northwest",
-   "start": "2026-11-19T12:00:00-08:00",
-   "end": "2026-11-19T16:00:00-08:00",
-   "allDay": false,
-   "ongoing": true,
-   "venue": {
-    "name": "Sheppard Contemporary Gallery",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/without-mountains-and-rivers-without-end-speculative-geographics-on-an-interior-northwest"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "library:15265868",
-   "title": "SO Very Literary Book Club",
-   "start": "2026-11-19T13:30:00-08:00",
-   "end": "2026-11-19T15:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "South Valleys Library",
-    "address": "15650-A Wedge Pkwy, Reno, NV 89511",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "library",
-     "url": "https://events.washoecountylibrary.us/event/15265868"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "library:17052553",
-   "title": "Cardboard Camp: The Great Outdoors",
-   "start": "2026-11-19T14:00:00-08:00",
-   "end": "2026-11-19T16:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Spanish Springs Library",
-    "address": "7100A Pyramid Hwy, Sparks, NV 89436",
-    "lat": null,
-    "lon": null
-   },
-   "area": "sparks",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [
-    "outdoors",
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "library",
-     "url": "https://events.washoecountylibrary.us/event/17052553"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "library:17050404",
-   "title": "Yarn Connection",
-   "start": "2026-11-19T14:00:00-08:00",
-   "end": "2026-11-19T16:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Spanish Springs Library",
-    "address": "7100A Pyramid Hwy, Sparks, NV 89436",
-    "lat": null,
-    "lon": null
-   },
-   "area": "sparks",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "library",
-     "url": "https://events.washoecountylibrary.us/event/17050404"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "library:16955293",
-   "title": "STEAM - Invent a Bird!",
-   "start": "2026-11-19T15:00:00-08:00",
-   "end": "2026-11-19T16:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Downtown Reno Library",
-    "address": "301 S Center St, Reno, NV 89501",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "library",
-     "url": "https://events.washoecountylibrary.us/event/16955293"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "library:17018046",
-   "title": "STEAM Thursday: Paper Helicopter Challenge",
-   "start": "2026-11-19T15:30:00-08:00",
-   "end": "2026-11-19T16:30:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Sparks Library",
-    "address": "1125 12th St, Sparks, NV 89431",
-    "lat": null,
-    "lon": null
-   },
-   "area": "sparks",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "library",
-     "url": "https://events.washoecountylibrary.us/event/17018046"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "library:16670745",
-   "title": "Tech Help",
-   "start": "2026-11-19T15:30:00-08:00",
-   "end": "2026-11-19T16:30:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Sierra View Library",
-    "address": "4001 S Virginia St, Reno, NV 89502",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "library",
-     "url": "https://events.washoecountylibrary.us/event/16670745"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "library:17056213",
-   "title": "Tutoring and Homework Help",
-   "start": "2026-11-19T15:30:00-08:00",
-   "end": "2026-11-19T17:30:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Sierra View Library",
-    "address": "4001 S Virginia St, Reno, NV 89502",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "library",
-     "url": "https://events.washoecountylibrary.us/event/17056213"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "downtown:128805",
-   "title": "Guadalajara Grill Blue Carpet Treatment",
-   "start": "2026-11-19T16:00:00-08:00",
-   "end": "2026-11-19T17:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Guadalajara Grill Downtown",
-    "address": "180 E. 1st St., Reno, NV, 89501",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "little",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "downtown",
-     "url": "https://downtownreno.org/event/guadalajara-grill-blue-carpet-treatment/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "library:15254856",
-   "title": "STEAM Thursday - Spinning Tops",
-   "start": "2026-11-19T16:00:00-08:00",
-   "end": "2026-11-19T17:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "South Valleys Library",
-    "address": "15650-A Wedge Pkwy, Reno, NV 89511",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "library",
-     "url": "https://events.washoecountylibrary.us/event/15254856"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "library:16862578",
-   "title": "Sparks Dungeons & Dragons",
-   "start": "2026-11-19T16:00:00-08:00",
-   "end": "2026-11-19T18:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Sparks Library",
-    "address": "1125 12th St, Sparks, NV 89431",
-    "lat": null,
-    "lon": null
-   },
-   "area": "sparks",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "library",
-     "url": "https://events.washoecountylibrary.us/event/16862578"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "library:9841351",
-   "title": "Thursday Craft Studio",
-   "start": "2026-11-19T16:00:00-08:00",
-   "end": "2026-11-19T17:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Spanish Springs Library",
-    "address": "7100A Pyramid Hwy, Sparks, NV 89436",
-    "lat": null,
-    "lon": null
-   },
-   "area": "sparks",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "library",
-     "url": "https://events.washoecountylibrary.us/event/9841351"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "library:17140983",
-   "title": "Try It Thursday",
-   "start": "2026-11-19T16:00:00-08:00",
-   "end": "2026-11-19T17:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Northwest Reno Library",
-    "address": "2325 Robb Dr, Reno, NV 89523",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "library",
-     "url": "https://events.washoecountylibrary.us/event/17140983"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "library:16602279",
-   "title": "Ayuda tecnológica para hispanohablantes",
-   "start": "2026-11-19T17:00:00-08:00",
-   "end": "2026-11-19T18:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Sierra View Library",
-    "address": "4001 S Virginia St, Reno, NV 89502",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "library",
-     "url": "https://events.washoecountylibrary.us/event/16602279"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "unr:54196311576607",
-   "title": "From Troy to Whitehall Palace: Classical Mythology and the Creation of Early Modern English Political Culture",
-   "start": "2026-11-19T17:00:00-08:00",
-   "end": "2026-11-19T18:30:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Nazir Ansari Building (AB)",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/from-troy-to-whitehall-palace-classical-mythology-and-the-creation-of-early-modern-english-political-culture"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "southtahoe:239430",
-   "title": "Live Music at the Edge Lounge at Edgewood",
-   "start": "2026-11-19T17:00:00-08:00",
-   "end": "2026-11-19T20:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Edge Lounge at Edgewood Tahoe",
-    "address": "180 Lake Parkway, Stateline, Nevada, 89449",
-    "lat": null,
-    "lon": null
-   },
-   "area": "tahoe",
-   "drive": "~70 min",
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "music",
-    "21+"
-   ],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/live-music-at-the-edge-lounge-at-edgewood/2026-11-19/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "southtahoe:239945",
-   "title": "Plates for Purpose Fundraiser with Tahoe Valley Elementary School",
-   "start": "2026-11-19T17:00:00-08:00",
-   "end": "2026-11-19T21:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Cascade Kitchens",
-    "address": "1030 Tata Ln, South Lake Tahoe, CA, 96150",
-    "lat": null,
-    "lon": null
-   },
-   "area": "tahoe",
-   "drive": "~75 min",
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/plates-for-purpose-fundraiser-at-cascade-kitchens/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "library:16648826",
-   "title": "Reserva un bibliotecario",
-   "start": "2026-11-19T17:00:00-08:00",
-   "end": "2026-11-19T18:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Sierra View Library",
-    "address": "4001 S Virginia St, Reno, NV 89502",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "library",
-     "url": "https://events.washoecountylibrary.us/event/16648826"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "unr:54100397461563",
-   "title": "Visiting Artist Lecture: Julia Oldham",
-   "start": "2026-11-19T17:00:00-08:00",
-   "end": "2026-11-20T06:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Schulich Lecture Hall (SLH)",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/visiting-artist-lecture-julia-oldham"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "unr:54101025356724",
-   "title": "Closing reception of “Without Mountains and Rivers Without End\"",
-   "start": "2026-11-19T18:00:00-08:00",
-   "end": "2026-11-19T20:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Sheppard Contemporary Gallery",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/closing-reception-of-without-mountains-and-rivers-without-end"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "holland:97149",
-   "title": "Spawn Back Film Screening “Our Land, Our Life” & “River Justice”",
-   "start": "2026-11-19T18:00:00-08:00",
-   "end": "2026-11-19T20:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Holland Project",
-    "address": "140 Vesta St, Reno, NV, 89502",
-    "lat": 39.50964,
-    "lon": -119.80367
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "all-ages"
-   ],
-   "links": [
-    {
-     "source": "holland",
-     "url": "https://hollandreno.org/events/spawn-back-film-screening-our-land-our-life-river-justice/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "downtown:114663",
-   "title": "The Funeral Portrait at Cargo Concert Hall",
-   "start": "2026-11-19T18:00:00-08:00",
-   "end": "2026-11-19T23:30:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Cargo Concert Hall",
-    "address": "255 N Virginia St, Reno, NV, 89501",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "min": 25.0,
-    "max": 25.0
-   },
-   "tier": "general",
-   "hints": [
-    "music",
-    "21+"
-   ],
-   "links": [
-    {
-     "source": "downtown",
-     "url": "https://downtownreno.org/event/the-funeral-portrait-at-cargo-concert-hall/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "southtahoe:230364",
-   "title": "Magic Fusion at The Loft Theatre",
-   "start": "2026-11-19T19:00:00-08:00",
-   "end": "2026-11-19T20:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Loft Theatre & Lounge at the Heavenly Village",
-    "address": "1021 Heavenly Village Way, South Lake Tahoe, CA, 96150",
-    "lat": 38.95559,
-    "lon": -119.94234
-   },
-   "area": "tahoe",
-   "drive": "~75 min",
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "21+"
-   ],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/magic-fusion-at-the-loft-theatre/2026-11-19/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "discovery:42769",
-   "title": "POSTONED Science Distilled: Dark Skies & Distant Galaxies",
-   "start": "2026-11-19T19:00:00-08:00",
-   "end": "2026-11-19T21:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Discovery",
-    "address": "490 S. Center Street, Reno, NV, 89501",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "21+"
-   ],
-   "links": [
-    {
-     "source": "discovery",
-     "url": "https://nvdm.org/event/science-distilled-dark-skies-and-distant-galaxies/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "southtahoe:241129",
-   "title": "Thirs-TEE Trivia Night with DJ Trivia! At Tipsy Putt Tahoe",
-   "start": "2026-11-19T19:00:00-08:00",
-   "end": "2026-11-19T21:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Tipsy Putt Tahoe",
-    "address": "4101 Lake Tahoe Blvd. #101, South Lake Tahoe, California, 96150",
-    "lat": null,
-    "lon": null
-   },
-   "area": "tahoe",
-   "drive": "~75 min",
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/thirsty-thursday-trivia-at-tipsy-putt/2026-11-19/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "unr:53806860627318",
-   "title": "Fall Dance Festival",
-   "start": "2026-11-19T19:30:00-08:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Church Fine Arts (CFA)",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "min": 25.0,
-    "max": 25.0
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/fall-dance-festival"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "southtahoe:244065",
-   "title": "Guilty Christmas Original Musical at Valhalla",
-   "start": "2026-11-19T19:30:00-08:00",
-   "end": "2026-11-19T21:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Boathouse Theatre at Valhalla",
-    "address": "1 Valhalla Rd., South Lake Tahoe, CA, 96150",
-    "lat": 38.93568,
-    "lon": -120.04362
-   },
-   "area": "tahoe",
-   "drive": "~75 min",
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/guilty-christmas-original-musical-at-valhalla/2026-11-19/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "tm:1Ad0Z_FGkBIz3qm",
-   "title": "Laugh Factory",
-   "start": "2026-11-19T19:30:00-08:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Laugh Factory at the Silver Legacy Casino",
-    "address": "407 N Virginia St, Reno, NV",
-    "lat": 39.53069,
-    "lon": -119.81531
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "21+"
-   ],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/laugh-factory-reno-nevada-11-19-2026/event/3900648EA8E1276E"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "southtahoe:245639",
-   "title": "Live Music at Tessie’s Cocktails & Chords inside Caesars Republic",
-   "start": "2026-11-19T19:30:00-08:00",
-   "end": "2026-11-20T02:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Tessie’s Cocktails & Chords inside Caesars Republic",
-    "address": "18 US-50, Stateline, Nevada, 89449",
-    "lat": null,
-    "lon": null
-   },
-   "area": "tahoe",
-   "drive": "~70 min",
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "music",
-    "21+"
-   ],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/live-music-at-tessies-cocktails-chords-inside-caesars-republic/2026-11-19/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "unr:53506489332682",
-   "title": "UNR Percussion Ensemble",
-   "start": "2026-11-19T19:30:00-08:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Nightingale Concert Hall",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "min": 12.0,
-    "max": 12.0
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/unr-percussion-ensemble"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "southtahoe:236057",
-   "title": "Live Music at McP's Taphouse Tahoe",
-   "start": "2026-11-19T20:00:00-08:00",
-   "end": "2026-11-19T23:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "McP’s Taphouse Grill",
-    "address": "4125 Lake Tahoe Blvd., South Lake Tahoe, CA, 96150",
-    "lat": 38.95887,
-    "lon": -119.94228
-   },
-   "area": "tahoe",
-   "drive": "~75 min",
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "music"
-   ],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/live-music-at-mcps-tap-house-tahoe/2026-11-19/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "southtahoe:247613",
-   "title": "Live Music at Rush Lounge in the Golden Nugget Lake Tahoe",
-   "start": "2026-11-19T21:00:00-08:00",
-   "end": "2026-11-20T01:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Golden Nugget Lake Tahoe",
-    "address": "50 Hwy 50, Stateline, Nevada, 89449",
-    "lat": null,
-    "lon": null
-   },
-   "area": "tahoe",
-   "drive": "~70 min",
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "music",
-    "21+"
-   ],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/live-music-golden-nugget-lake-tahoe/2026-11-19/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "southtahoe:229715",
-   "title": "Karaoke at Rojo’s Tavern",
-   "start": "2026-11-19T22:00:00-08:00",
-   "end": "2026-11-20T02:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Rojo’s Tavern",
-    "address": "3091 Harrison Ave, South Lake Tahoe, CA, 96150",
-    "lat": 38.94047,
-    "lon": -119.97736
-   },
-   "area": "tahoe",
-   "drive": "~75 min",
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "21+"
-   ],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/karaoke-at-rojos-tavern/2026-11-19/"
-    }
-   ],
-   "lovingReno": null
-  },
   {
    "id": "southtahoe:116849",
    "title": "Opening Day at Heavenly Mountain Resort",
@@ -6920,6 +5365,36 @@
    "lovingReno": null
   },
   {
+   "id": "unr:54445171611734",
+   "title": "Giving Tree",
+   "start": "2026-11-26T08:00:00-08:00",
+   "end": "2026-11-26T19:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Joe Crowley Student Union (JCSU)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/giving-tree"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "sparks:80-202611260830",
    "title": "Scheels Turkey Trot",
    "start": "2026-11-26T08:30:00-08:00",
@@ -7257,6 +5732,35 @@
    "lovingReno": null
   },
   {
+   "id": "southtahoe:245646",
+   "title": "Live Music at Tessie’s Cocktails & Chords inside Caesars Republic",
+   "start": "2026-11-26T19:30:00-08:00",
+   "end": "2026-11-27T02:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Tessie’s Cocktails & Chords inside Caesars Republic",
+    "address": "18 US-50, Stateline, Nevada, 89449",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~70 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "music",
+    "21+"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/live-music-at-tessies-cocktails-chords-inside-caesars-republic/2026-11-26/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "southtahoe:236061",
    "title": "Live Music at McP's Taphouse Tahoe",
    "start": "2026-11-26T20:00:00-08:00",
@@ -7280,6 +5784,565 @@
     {
      "source": "southtahoe",
      "url": "https://visitlaketahoe.com/event/live-music-at-mcps-tap-house-tahoe/2026-11-26/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:247616",
+   "title": "Live Music at Rush Lounge in the Golden Nugget Lake Tahoe",
+   "start": "2026-11-26T21:00:00-08:00",
+   "end": "2026-11-27T01:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Golden Nugget Lake Tahoe",
+    "address": "50 Hwy 50, Stateline, Nevada, 89449",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~70 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "music",
+    "21+"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/live-music-golden-nugget-lake-tahoe/2026-11-26/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:229718",
+   "title": "Karaoke at Rojo’s Tavern",
+   "start": "2026-11-26T22:00:00-08:00",
+   "end": "2026-11-27T02:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Rojo’s Tavern",
+    "address": "3091 Harrison Ave, South Lake Tahoe, CA, 96150",
+    "lat": 38.94047,
+    "lon": -119.97736
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "21+"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/karaoke-at-rojos-tavern/2026-11-26/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:101543",
+   "title": "Heavenly Holidays Family Festival",
+   "start": "2026-11-27T00:00:00-08:00",
+   "end": "2026-11-27T00:00:00-08:00",
+   "allDay": true,
+   "ongoing": false,
+   "venue": {
+    "name": "Heavenly Village",
+    "address": "1001 Heavenly Village Way, South Lake Tahoe, CA, 96150",
+    "lat": 38.95553,
+    "lon": -119.94316
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "little",
+   "hints": [
+    "daytime",
+    "music"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/heavenly-holidays-family-festival/2026-11-27/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "downtown:10005764",
+   "title": "Jingle and Mingle Holiday Shopping Showcase: Silver Legacy",
+   "start": "2026-11-27T11:00:00-08:00",
+   "end": "2026-11-27T19:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Silver Legacy Casino",
+    "address": "401 N. Virginia St, Reno, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/jingle-and-mingle-holiday-shopping-showcase-silver-legacy/2026-11-27/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "carson:78703",
+   "title": "Nutcracker Sweets, A Sensory Friendly Experience",
+   "start": "2026-11-27T11:00:00-08:00",
+   "end": "2026-11-27T12:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Carson City Community Center’s Bob Boldrick Theater",
+    "address": "851 E. William Street, Carson City, NV, 89701",
+    "lat": 39.16966,
+    "lon": -119.76016
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": {
+    "min": 22.0,
+    "max": 22.0
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/nutcracker-sweets-a-sensory-friendly-experience/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "wolfpack:vcal_14280-nevadawolfpack.com",
+   "title": "Nevada Women's Basketball vs UC Davis vs Troy",
+   "start": "2026-11-27T15:30:00-08:00",
+   "end": "2026-11-27T17:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Lawlor Events Center",
+    "address": "Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "wolfpack",
+     "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14280&sport_id=9"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "reno:492-202611271600",
+   "title": "Holiday Lights Festival",
+   "start": "2026-11-27T16:00:00-08:00",
+   "end": "2026-11-28T21:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Believe Plaza",
+    "address": "Believe Plaza",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "reno",
+     "url": "https://www.reno.gov/calendar"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "downtown:10005731",
+   "title": "HOME for the Holiday’s: Greater Nevada Field",
+   "start": "2026-11-27T17:00:00-08:00",
+   "end": "2026-11-27T21:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "greater nevada field",
+    "address": "250 Evans Ave, Reno, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/home-for-the-holidays-greater-nevada-field/2026-11-27/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "wolfpack:vcal_14254-nevadawolfpack.com",
+   "title": "Nevada Women's Basketball vs New Mexico State",
+   "start": "2026-11-27T18:00:00-08:00",
+   "end": "2026-11-27T20:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Lawlor Events Center",
+    "address": "Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "wolfpack",
+     "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14254&sport_id=9"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:116717",
+   "title": "Holiday Tree Lighting at the Heavenly Village Lake Tahoe",
+   "start": "2026-11-27T18:30:00-08:00",
+   "end": "2026-11-27T20:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Shops at Heavenly Village",
+    "address": "4080 Lake Tahoe Blvd, South Lake Tahoe, CA, 96150",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "music"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/holiday-tree-lighting-at-the-heavenly-village-lake-tahoe/2026-11-27/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:230372",
+   "title": "Magic Fusion at The Loft Theatre",
+   "start": "2026-11-27T19:00:00-08:00",
+   "end": "2026-11-27T20:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Loft Theatre & Lounge at the Heavenly Village",
+    "address": "1021 Heavenly Village Way, South Lake Tahoe, CA, 96150",
+    "lat": 38.95559,
+    "lon": -119.94234
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "21+"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/magic-fusion-at-the-loft-theatre/2026-11-27/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:238476",
+   "title": "Tahoe Knight Monsters Hockey Games at the Tahoe Blue Event Center",
+   "start": "2026-11-27T19:00:00-08:00",
+   "end": "2026-11-27T21:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Tahoe Blue Event Center",
+    "address": "75 Hwy 50, Stateline, Nevada, 89449",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~70 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/tahoe-knight-monsters-hockey/2026-11-27/"
+    },
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/tahoe-knight-monsters-vs-idaho-steelheads-stateline-nevada-11-27-2026/event/17006514BFFDF690"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "tm:1AyZkfgGkdzSgpM",
+   "title": "The Greatest Christmas Show",
+   "start": "2026-11-27T19:00:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Eldorado Showroom at Eldorado Casino Reno",
+    "address": "345 N Virginia St, Reno, NV",
+    "lat": 39.52895,
+    "lon": -119.8143
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/the-greatest-christmas-show-reno-nevada-11-27-2026/event/39006535F8CF55B7"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "carson:10006422",
+   "title": "The Nutcracker",
+   "start": "2026-11-27T19:00:00-08:00",
+   "end": "2026-11-27T21:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Carson City Community Center’s Bob Boldrick Theater",
+    "address": "851 E. William Street, Carson City, NV, 89701",
+    "lat": 39.16966,
+    "lon": -119.76016
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": null,
+   "tier": "little",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/the-nutcracker/2026-11-27/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:249057",
+   "title": "Alex Ramon Magic Show at Harrah’s Lake Tahoe",
+   "start": "2026-11-27T19:30:00-08:00",
+   "end": "2026-11-27T21:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Harrah’s Lake Tahoe South Shore Room",
+    "address": "15 Hwy 50, Stateline, NV, 89449",
+    "lat": 38.95938,
+    "lon": -119.94155
+   },
+   "area": "tahoe",
+   "drive": "~70 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/master-of-illusion-alex-ramon-magic-show-at-harrahs-lake-tahoe/2026-11-27/"
+    },
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/alex-ramon-magic-lake-tahoe-nevada-11-27-2026/event/3900655AB8ED9DF7"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "tm:1Ad0Z_FGkBtZ3ru",
+   "title": "Laugh Factory",
+   "start": "2026-11-27T19:30:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Laugh Factory at the Silver Legacy Casino",
+    "address": "407 N Virginia St, Reno, NV",
+    "lat": 39.53069,
+    "lon": -119.81531
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "21+"
+   ],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/laugh-factory-reno-nevada-11-27-2026/event/3900648EA901278D"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:226491",
+   "title": "Live Music at McP's Taphouse Tahoe",
+   "start": "2026-11-27T20:00:00-08:00",
+   "end": "2026-11-27T23:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "McP’s Taphouse Grill",
+    "address": "4125 Lake Tahoe Blvd., South Lake Tahoe, CA, 96150",
+    "lat": 38.95887,
+    "lon": -119.94228
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "music"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/live-music-at-mcps-tap-house-tahoe/2026-11-27/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:245380",
+   "title": "Arty the Party at Harrah’s Lake Tahoe",
+   "start": "2026-11-27T21:00:00-08:00",
+   "end": "2026-11-27T23:59:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Harrah’s Center Stage",
+    "address": "15 Hwy 50, Stateline, NV, 89449",
+    "lat": 38.95938,
+    "lon": -119.94155
+   },
+   "area": "tahoe",
+   "drive": "~70 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/arty-the-party-at-harrahs-lake-tahoe/2026-11-27/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "tm:1AyZkfUGkd9I7Cu",
+   "title": "Lakeside Laughs Comedy Club",
+   "start": "2026-11-27T21:30:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Cabaret at Caesars Republic Lake Tahoe",
+    "address": "18 Hwy 50, Lake Tahoe, NV",
+    "lat": 38.96031,
+    "lon": -119.9427
+   },
+   "area": "other",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "21+"
+   ],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/lakeside-laughs-comedy-club-lake-tahoe-nevada-11-27-2026/event/39006536D7A0438D"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "tm:1Ad0Z_FGkBtvxr2",
+   "title": "Laugh Factory",
+   "start": "2026-11-27T21:30:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Laugh Factory at the Silver Legacy Casino",
+    "address": "407 N Virginia St, Reno, NV",
+    "lat": 39.53069,
+    "lon": -119.81531
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "21+"
+   ],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/laugh-factory-reno-nevada-11-27-2026/event/3900648EA906278F"
     }
    ],
    "lovingReno": null

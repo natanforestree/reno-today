@@ -1,95 +1,6 @@
 {
- "at": "2026-11-20T06:30:40Z",
+ "at": "2026-11-20T09:30:38Z",
  "events": [
-  {
-   "id": "downtown:128805",
-   "title": "Guadalajara Grill Blue Carpet Treatment",
-   "start": "2026-11-19T16:00:00-08:00",
-   "end": "2026-11-19T17:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Guadalajara Grill Downtown",
-    "address": "180 E. 1st St., Reno, NV, 89501",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "downtown",
-     "url": "https://downtownreno.org/event/guadalajara-grill-blue-carpet-treatment/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "Family family",
-   "_tags": [
-    "blue carpet treatment",
-    "drp",
-    "family-owned",
-    "guadalajara grill blue carpet treatment",
-    "mexican restaurant",
-    "minority-owned",
-    "the downtown reno partnership",
-    "woman-owned"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "listing"
-  },
-  {
-   "id": "downtown:114663",
-   "title": "The Funeral Portrait at Cargo Concert Hall",
-   "start": "2026-11-19T18:00:00-08:00",
-   "end": "2026-11-19T23:30:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Cargo Concert Hall",
-    "address": "255 N Virginia St, Reno, NV, 89501",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "min": 25.0,
-    "max": 25.0
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "downtown",
-     "url": "https://downtownreno.org/event/the-funeral-portrait-at-cargo-concert-hall/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "21+ Concert concert CONCERT",
-   "_tags": [
-    "cargo",
-    "cargo concert hall",
-    "cargo reno",
-    "concert",
-    "dance",
-    "dancing",
-    "entertainment",
-    "event",
-    "nightlife",
-    "things to do"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "listing"
-  },
   {
    "id": "downtown:128239",
    "title": "Tipsy TurkeyWine Walk: Riverwalk District",
@@ -276,6 +187,78 @@
     "arch district events",
     "holiday",
     "holiday deals"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "listing"
+  },
+  {
+   "id": "downtown:10005764",
+   "title": "Jingle and Mingle Holiday Shopping Showcase: Silver Legacy",
+   "start": "2026-11-27T11:00:00-08:00",
+   "end": "2026-11-27T19:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Silver Legacy Casino",
+    "address": "401 N. Virginia St, Reno, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/jingle-and-mingle-holiday-shopping-showcase-silver-legacy/2026-11-27/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "family",
+   "_tags": [
+    "arch district events",
+    "holiday",
+    "holiday deals"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "listing"
+  },
+  {
+   "id": "downtown:10005731",
+   "title": "HOME for the Holiday’s: Greater Nevada Field",
+   "start": "2026-11-27T17:00:00-08:00",
+   "end": "2026-11-27T21:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "greater nevada field",
+    "address": "250 Evans Ave, Reno, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/home-for-the-holidays-greater-nevada-field/2026-11-27/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "aces events"
    ],
    "_family": false,
    "_adult": false,
