@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T18:30:33Z",
+ "generatedAt": "2026-11-20T21:30:32Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -5987,7 +5987,10 @@
      "url": "https://www.reno.gov/calendar"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "The Ultimate 2026-2027 Reno Winter Guide",
+    "url": "https://www.lovingreno.com/2026/11/the-ultimate-2026-2027-reno-winter.html"
+   }
   },
   {
    "id": "downtown:10005731",
