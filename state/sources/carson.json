@@ -1,54 +1,6 @@
 {
- "at": "2026-11-21T06:30:36Z",
+ "at": "2026-11-21T09:30:31Z",
  "events": [
-  {
-   "id": "carson:81211",
-   "title": "Carson Street Ragtime Band – A Roaring 20s Jazz & Swing Benefit",
-   "start": "2026-11-20T19:30:00-08:00",
-   "end": "2026-11-20T21:30:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Nashville Social Club",
-    "address": "1105 S Carson St, Carson City, Nevada, 89701",
-    "lat": 39.15725,
-    "lon": -119.76644
-   },
-   "area": "carson",
-   "drive": "~35 min",
-   "price": {
-    "min": 18.35,
-    "max": 18.35
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "carson",
-     "url": "https://visitcarsoncity.com/events/carson-street-ragtime-band-a-roaring-20s-jazz-swing-benefit/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "carson street ragtime band",
-    "jazz",
-    "live jazz",
-    "live jazz carson city nv",
-    "live jazz northern nevada",
-    "live music",
-    "live music carson city",
-    "live music northern nevada",
-    "nashville social club",
-    "the swan hall carson city",
-    "things to do"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "carson:10005888",
    "title": "Carson Christmas Creator Fairs",
@@ -241,6 +193,80 @@
     {
      "source": "carson",
      "url": "https://visitcarsoncity.com/events/the-nutcracker/2026-11-27/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & culture",
+    "family",
+    "holiday"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:10006423",
+   "title": "The Nutcracker",
+   "start": "2026-11-28T14:00:00-08:00",
+   "end": "2026-11-28T16:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Carson City Community Center’s Bob Boldrick Theater",
+    "address": "851 E. William Street, Carson City, NV, 89701",
+    "lat": 39.16966,
+    "lon": -119.76016
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/the-nutcracker/2026-11-28/1/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & culture",
+    "family",
+    "holiday"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:10006424",
+   "title": "The Nutcracker",
+   "start": "2026-11-28T19:00:00-08:00",
+   "end": "2026-11-28T21:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Carson City Community Center’s Bob Boldrick Theater",
+    "address": "851 E. William Street, Carson City, NV, 89701",
+    "lat": 39.16966,
+    "lon": -119.76016
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/the-nutcracker/2026-11-28/2/"
     }
    ],
    "lovingReno": null,
