@@ -1,5 +1,5 @@
 {
- "at": "2026-11-20T21:30:32Z",
+ "at": "2026-11-21T00:30:32Z",
  "events": [
   {
    "id": "tm:1A9ZkffGkeTWL_3",
@@ -100,42 +100,6 @@
    ],
    "lovingReno": null,
    "_text": "18 and over",
-   "_tags": [
-    "arts & theatre",
-    "comedy"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
-  {
-   "id": "tm:1AyZkfUGkd90fa5",
-   "title": "Lakeside Laughs Comedy Club",
-   "start": "2026-11-20T21:30:00-08:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Cabaret at Caesars Republic Lake Tahoe",
-    "address": "18 Hwy 50, Lake Tahoe, NV",
-    "lat": 38.96031,
-    "lon": -119.9427
-   },
-   "area": "other",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/lakeside-laughs-comedy-club-lake-tahoe-nevada-11-20-2026/event/39006536D791424B"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "21+",
    "_tags": [
     "arts & theatre",
     "comedy"
