@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T09:30:31Z",
+ "generatedAt": "2026-11-21T12:30:32Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -5318,6 +5318,66 @@
    "lovingReno": null
   },
   {
+   "id": "library:15762790",
+   "title": "Game Day Saturday!",
+   "start": "2026-11-28T00:00:00-08:00",
+   "end": null,
+   "allDay": true,
+   "ongoing": true,
+   "venue": {
+    "name": "Sierra View Library",
+    "address": "4001 S Virginia St, Reno, NV 89502",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/15762790"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:16568064",
+   "title": "English Conversation Group/Grupo de conversación en inglés",
+   "start": "2026-11-28T09:30:00-08:00",
+   "end": "2026-11-28T10:15:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sierra View Library",
+    "address": "4001 S Virginia St, Reno, NV 89502",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/16568064"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "reno:445-202611281000",
    "title": "D20 Saturdays",
    "start": "2026-11-28T10:00:00-08:00",
@@ -5374,6 +5434,66 @@
    "lovingReno": null
   },
   {
+   "id": "library:15267028",
+   "title": "Family Story Time",
+   "start": "2026-11-28T10:30:00-08:00",
+   "end": "2026-11-28T11:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "South Valleys Library",
+    "address": "15650-A Wedge Pkwy, Reno, NV 89511",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/15267028"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:16413304",
+   "title": "Family Story Time",
+   "start": "2026-11-28T10:30:00-08:00",
+   "end": "2026-11-28T11:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sierra View Library",
+    "address": "4001 S Virginia St, Reno, NV 89502",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/16413304"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "discovery:43085",
    "title": "Turkey Catapults",
    "start": "2026-11-28T10:30:00-08:00",
@@ -5402,29 +5522,31 @@
    "lovingReno": null
   },
   {
-   "id": "downtown:10005765",
-   "title": "Jingle and Mingle Holiday Shopping Showcase: Silver Legacy",
+   "id": "library:14216357",
+   "title": "SaturYay!",
    "start": "2026-11-28T11:00:00-08:00",
-   "end": "2026-11-28T19:00:00-08:00",
+   "end": "2026-11-28T12:00:00-08:00",
    "allDay": false,
    "ongoing": false,
    "venue": {
-    "name": "Silver Legacy Casino",
-    "address": "401 N. Virginia St, Reno, 89501",
+    "name": "Northwest Reno Library",
+    "address": "2325 Robb Dr, Reno, NV 89523",
     "lat": null,
     "lon": null
    },
    "area": "reno",
    "drive": null,
-   "price": null,
+   "price": {
+    "free": true
+   },
    "tier": "little",
    "hints": [
     "daytime"
    ],
    "links": [
     {
-     "source": "downtown",
-     "url": "https://downtownreno.org/event/jingle-and-mingle-holiday-shopping-showcase-silver-legacy/2026-11-28/"
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/14216357"
     }
    ],
    "lovingReno": null
@@ -5488,6 +5610,36 @@
    "lovingReno": null
   },
   {
+   "id": "library:17524500",
+   "title": "Make & Mingle for Adults",
+   "start": "2026-11-28T13:00:00-08:00",
+   "end": "2026-11-28T14:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sparks Library",
+    "address": "1125 12th St, Sparks, NV 89431",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/17524500"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "southtahoe:238166",
    "title": "Tea with an Edge at Edge Restaurant & Lounge",
    "start": "2026-11-28T13:30:00-08:00",
@@ -5512,6 +5664,66 @@
     {
      "source": "southtahoe",
      "url": "https://visitlaketahoe.com/event/tea-with-an-edge-at-edge-restaurant-lounge/2026-11-28/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:16631146",
+   "title": "Teen Scene: Music Print Cards",
+   "start": "2026-11-28T13:30:00-08:00",
+   "end": "2026-11-28T14:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sierra View Library",
+    "address": "4001 S Virginia St, Reno, NV 89502",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/16631146"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:15396568",
+   "title": "Lego Club: Winter Snow Globes",
+   "start": "2026-11-28T14:00:00-08:00",
+   "end": "2026-11-28T15:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Sierra View Library",
+    "address": "4001 S Virginia St, Reno, NV 89502",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/15396568"
     }
    ],
    "lovingReno": null
@@ -5572,6 +5784,36 @@
     {
      "source": "holland",
      "url": "https://hollandreno.org/events/nov-photo-walk/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "library:15438467",
+   "title": "Pardon the Pawn",
+   "start": "2026-11-28T14:00:00-08:00",
+   "end": "2026-11-28T15:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Northwest Reno Library",
+    "address": "2325 Robb Dr, Reno, NV 89523",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "library",
+     "url": "https://events.washoecountylibrary.us/event/15438467"
     }
    ],
    "lovingReno": null
