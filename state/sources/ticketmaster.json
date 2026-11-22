@@ -1,5 +1,5 @@
 {
- "at": "2026-11-21T21:30:32Z",
+ "at": "2026-11-22T00:30:33Z",
  "events": [
   {
    "id": "tm:17AYv0G6CEGkvc0",
@@ -238,8 +238,8 @@
    "area": "reno",
    "drive": null,
    "price": {
-    "min": 37.45,
-    "max": 142.95
+    "min": 48.25,
+    "max": 48.25
    },
    "tier": "general",
    "hints": [],
@@ -372,42 +372,6 @@
    "_kind": "ticketing"
   },
   {
-   "id": "tm:1AyZkfUGkd9P0aJ",
-   "title": "Lakeside Laughs Comedy Club",
-   "start": "2026-11-21T21:30:00-08:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Cabaret at Caesars Republic Lake Tahoe",
-    "address": "18 Hwy 50, Lake Tahoe, NV",
-    "lat": 38.96031,
-    "lon": -119.9427
-   },
-   "area": "other",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/lakeside-laughs-comedy-club-lake-tahoe-nevada-11-21-2026/event/39006536D7964266"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "21+",
-   "_tags": [
-    "arts & theatre",
-    "comedy"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
-  {
    "id": "tm:1AtZk44GkdLC8iR",
    "title": "Leftover Crack, Bang Marry Kill, P.S.T.",
    "start": "2026-11-22T19:00:00-08:00",
@@ -470,42 +434,6 @@
    ],
    "lovingReno": null,
    "_text": "18 and over",
-   "_tags": [
-    "arts & theatre",
-    "comedy"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
-  {
-   "id": "tm:1AyZkfUGkd9JVG6",
-   "title": "Lakeside Laughs Comedy Club",
-   "start": "2026-11-22T20:00:00-08:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Cabaret at Caesars Republic Lake Tahoe",
-    "address": "18 Hwy 50, Lake Tahoe, NV",
-    "lat": 38.96031,
-    "lon": -119.9427
-   },
-   "area": "other",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/lakeside-laughs-comedy-club-lake-tahoe-nevada-11-22-2026/event/39006536D79B4307"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "21+",
    "_tags": [
     "arts & theatre",
     "comedy"
