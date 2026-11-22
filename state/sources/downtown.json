@@ -1,45 +1,6 @@
 {
- "at": "2026-11-22T06:30:32Z",
+ "at": "2026-11-22T09:30:36Z",
  "events": [
-  {
-   "id": "downtown:128239",
-   "title": "Tipsy TurkeyWine Walk: Riverwalk District",
-   "start": "2026-11-21T14:00:00-08:00",
-   "end": "2026-11-21T17:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Reno Riverwalk District",
-    "address": "135 N Sierra St Suite C, Reno, NV, 89501",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "min": 30.0,
-    "max": 30.0
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "downtown",
-     "url": "https://downtownreno.org/event/tipsy-turkeywine-walk-riverwalk-district/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "riverwalk events",
-    "walk"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "listing"
-  },
   {
    "id": "downtown:128979",
    "title": "Senior Sundays: Art in Conversation: Nevada Museum of Art",
@@ -331,6 +292,81 @@
    "_text": "",
    "_tags": [
     "aces events"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "listing"
+  },
+  {
+   "id": "downtown:10005733",
+   "title": "HOME for the Holiday’s: Greater Nevada Field",
+   "start": "2026-11-29T17:00:00-08:00",
+   "end": "2026-11-29T21:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "greater nevada field",
+    "address": "250 Evans Ave, Reno, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/home-for-the-holidays-greater-nevada-field/2026-11-29/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "aces events"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "listing"
+  },
+  {
+   "id": "downtown:129008",
+   "title": "Peanutcracker: The story in a nutshell: Pioneer Center",
+   "start": "2026-11-29T17:00:00-08:00",
+   "end": "2026-11-29T18:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Pioneer Center for the Performing Arts",
+    "address": "100 S. Virginia Street, Reno, NV, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 14.5,
+    "max": 25.88
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/peanutcracker-the-story-in-a-nutshell-pioneer-center/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "families children",
+   "_tags": [
+    "family",
+    "holiday",
+    "performing arts"
    ],
    "_family": false,
    "_adult": false,
