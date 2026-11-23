@@ -1,446 +1,7 @@
 {
- "generatedAt": "2026-11-23T06:30:31Z",
+ "generatedAt": "2026-11-23T09:30:32Z",
  "timezone": "America/Los_Angeles",
  "events": [
-  {
-   "id": "library:10710988",
-   "title": "Family Games Day",
-   "start": "2026-11-22T00:00:00-08:00",
-   "end": null,
-   "allDay": true,
-   "ongoing": true,
-   "venue": {
-    "name": "Spanish Springs Library",
-    "address": "7100A Pyramid Hwy, Sparks, NV 89436",
-    "lat": null,
-    "lon": null
-   },
-   "area": "sparks",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "library",
-     "url": "https://events.washoecountylibrary.us/event/10710988"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "standing:riverside-farmers-market-2026-11-22",
-   "title": "Riverside Farmers Market",
-   "start": "2026-11-22T09:00:00-08:00",
-   "end": "2026-11-22T13:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Idlewild Park",
-    "address": "2055 Idlewild Dr, Reno, NV 89509",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [
-    "all-ages",
-    "outdoors",
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "standing",
-     "url": "https://www.renofarmersmarket.com/"
-    }
-   ],
-   "lovingReno": {
-    "title": "The Ultimate 2026-2027 Reno Winter Guide",
-    "url": "https://www.lovingreno.com/2026/11/the-ultimate-2026-2027-reno-winter.html"
-   }
-  },
-  {
-   "id": "southtahoe:225501",
-   "title": "Tipsy Putt Events",
-   "start": "2026-11-22T10:00:00-08:00",
-   "end": "2026-11-22T23:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Tipsy Putt Tahoe",
-    "address": "4101 Lake Tahoe Blvd. #101, South Lake Tahoe, California, 96150",
-    "lat": null,
-    "lon": null
-   },
-   "area": "tahoe",
-   "drive": "~75 min",
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/tipsy-putt-events/2026-11-22/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "downtown:128979",
-   "title": "Senior Sundays: Art in Conversation: Nevada Museum of Art",
-   "start": "2026-11-22T10:30:00-08:00",
-   "end": "2026-11-22T12:30:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Nevada Musuem of Art",
-    "address": "160 W Liberty, Reno, 89501",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "downtown",
-     "url": "https://downtownreno.org/event/senior-sundays-art-in-conversation-nevada-museum-of-art/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "discovery:43083",
-   "title": "Turkey Catapults",
-   "start": "2026-11-22T10:30:00-08:00",
-   "end": "2026-11-22T16:30:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Discovery",
-    "address": "490 S. Center Street, Reno, NV, 89501",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "little",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "discovery",
-     "url": "https://nvdm.org/event/turkey-catapults-2026-11-22/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "library:14216300",
-   "title": "Sunday Funday",
-   "start": "2026-11-22T11:00:00-08:00",
-   "end": "2026-11-22T12:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Northwest Reno Library",
-    "address": "2325 Robb Dr, Reno, NV 89523",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "little",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "library",
-     "url": "https://events.washoecountylibrary.us/event/14216300"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "southtahoe:238165",
-   "title": "Tea with an Edge at Edge Restaurant & Lounge",
-   "start": "2026-11-22T13:30:00-08:00",
-   "end": "2026-11-22T15:30:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Edge Restaurant & Lounge at Edgewood Tahoe",
-    "address": "180 Lake Parkway, Stateline, Nevada, 89449",
-    "lat": null,
-    "lon": null
-   },
-   "area": "tahoe",
-   "drive": "~70 min",
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "daytime",
-    "21+"
-   ],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/tea-with-an-edge-at-edge-restaurant-lounge/2026-11-22/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "library:17246322",
-   "title": "Family Book Circle - Found Family",
-   "start": "2026-11-22T14:00:00-08:00",
-   "end": "2026-11-22T15:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "South Valleys Library",
-    "address": "15650-A Wedge Pkwy, Reno, NV 89511",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "library",
-     "url": "https://events.washoecountylibrary.us/event/17246322"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "southtahoe:244068",
-   "title": "Guilty Christmas Original Musical at Valhalla",
-   "start": "2026-11-22T14:30:00-08:00",
-   "end": "2026-11-22T16:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Boathouse Theatre at Valhalla",
-    "address": "1 Valhalla Rd., South Lake Tahoe, CA, 96150",
-    "lat": 38.93568,
-    "lon": -120.04362
-   },
-   "area": "tahoe",
-   "drive": "~75 min",
-   "price": null,
-   "tier": "little",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/guilty-christmas-original-musical-at-valhalla/2026-11-22/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "southtahoe:244057",
-   "title": "Annual Valhalla Holiday Faire",
-   "start": "2026-11-22T16:00:00-08:00",
-   "end": "2026-11-22T20:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Grand Hall at Valhalla",
-    "address": "1 Valhalla Rd. Tallac Historic Site, South Lake Tahoe, CA, 96150",
-    "lat": 38.93842,
-    "lon": -120.04791
-   },
-   "area": "tahoe",
-   "drive": "~75 min",
-   "price": null,
-   "tier": "little",
-   "hints": [
-    "daytime",
-    "music"
-   ],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/annual-valhalla-holiday-faire/2026-11-22/"
-    }
-   ],
-   "lovingReno": {
-    "title": "The Ultimate 2026-2027 Reno Winter Guide",
-    "url": "https://www.lovingreno.com/2026/11/the-ultimate-2026-2027-reno-winter.html"
-   }
-  },
-  {
-   "id": "southtahoe:230367",
-   "title": "Magic Fusion at The Loft Theatre",
-   "start": "2026-11-22T19:00:00-08:00",
-   "end": "2026-11-22T20:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Loft Theatre & Lounge at the Heavenly Village",
-    "address": "1021 Heavenly Village Way, South Lake Tahoe, CA, 96150",
-    "lat": 38.95559,
-    "lon": -119.94234
-   },
-   "area": "tahoe",
-   "drive": "~75 min",
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "21+"
-   ],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/magic-fusion-at-the-loft-theatre/2026-11-22/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "tm:1Ad0Z_FGkBIXeqH",
-   "title": "Laugh Factory",
-   "start": "2026-11-22T19:30:00-08:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Laugh Factory at the Silver Legacy Casino",
-    "address": "407 N Virginia St, Reno, NV",
-    "lat": 39.53069,
-    "lon": -119.81531
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "21+"
-   ],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/laugh-factory-reno-nevada-11-22-2026/event/3900648EA8F8277C"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "southtahoe:245642",
-   "title": "Live Music at Tessie’s Cocktails & Chords inside Caesars Republic",
-   "start": "2026-11-22T19:30:00-08:00",
-   "end": "2026-11-23T02:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Tessie’s Cocktails & Chords inside Caesars Republic",
-    "address": "18 US-50, Stateline, Nevada, 89449",
-    "lat": null,
-    "lon": null
-   },
-   "area": "tahoe",
-   "drive": "~70 min",
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "music",
-    "21+"
-   ],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/live-music-at-tessies-cocktails-chords-inside-caesars-republic/2026-11-22/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "southtahoe:236058",
-   "title": "Live Music at McP's Taphouse Tahoe",
-   "start": "2026-11-22T20:00:00-08:00",
-   "end": "2026-11-22T23:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "McP’s Taphouse Grill",
-    "address": "4125 Lake Tahoe Blvd., South Lake Tahoe, CA, 96150",
-    "lat": 38.95887,
-    "lon": -119.94228
-   },
-   "area": "tahoe",
-   "drive": "~75 min",
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "music"
-   ],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/live-music-at-mcps-tap-house-tahoe/2026-11-22/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "southtahoe:247342",
-   "title": "Lakeside Laughs Comedy Club at Caesars Republic Lake Tahoe",
-   "start": "2026-11-22T21:30:00-08:00",
-   "end": "2026-11-22T22:30:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Caesars Republic Lake Tahoe",
-    "address": "18 Hwy 50, Stateline, Nevada, 89449",
-    "lat": null,
-    "lon": null
-   },
-   "area": "tahoe",
-   "drive": "~70 min",
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "music"
-   ],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/lakeside-laughs-comedy-club-at-caesars-republic/2026-11-22/"
-    }
-   ],
-   "lovingReno": null
-  },
   {
    "id": "unr:54445171608659",
    "title": "Giving Tree",
@@ -5419,6 +4980,34 @@
    "lovingReno": null
   },
   {
+   "id": "unr:54418884287678",
+   "title": "Women’s Basketball Game: Nugget Classic - Native American Heritage Day",
+   "start": "2026-11-29T13:00:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Lawlor Events Center (LEC)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/womens-basketball-game-nugget-classic-native-american-heritage-day"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "southtahoe:238167",
    "title": "Tea with an Edge at Edge Restaurant & Lounge",
    "start": "2026-11-29T13:30:00-08:00",
@@ -5675,6 +5264,35 @@
    "lovingReno": null
   },
   {
+   "id": "southtahoe:245649",
+   "title": "Live Music at Tessie’s Cocktails & Chords inside Caesars Republic",
+   "start": "2026-11-29T19:30:00-08:00",
+   "end": "2026-11-30T02:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Tessie’s Cocktails & Chords inside Caesars Republic",
+    "address": "18 US-50, Stateline, Nevada, 89449",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~70 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "music",
+    "21+"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/live-music-at-tessies-cocktails-chords-inside-caesars-republic/2026-11-29/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "tm:1AyZkfUGkd9n0Ka",
    "title": "Lakeside Laughs Comedy Club",
    "start": "2026-11-29T20:00:00-08:00",
@@ -5786,6 +5404,175 @@
     "title": "The Ultimate 2026-2027 Reno Winter Guide",
     "url": "https://www.lovingreno.com/2026/11/the-ultimate-2026-2027-reno-winter.html"
    }
+  },
+  {
+   "id": "reno:356-202611300730",
+   "title": "Dance for All: Holiday Dinner and Dance (LAST DAY TO REGISTER)",
+   "start": "2026-11-30T07:30:00-08:00",
+   "end": "2026-11-30T17:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "City of Sparks Parks and Recreation Gym - 98 Richards Way",
+    "address": "City of Sparks Parks and Recreation Gym - 98 Richards Way, Sparks",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "reno",
+     "url": "https://www.reno.gov/calendar"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:244424",
+   "title": "Heavenly Holidays Family Festival",
+   "start": "2026-11-30T12:00:00-08:00",
+   "end": "2026-11-30T19:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Heavenly Village",
+    "address": "1001 Heavenly Village Way, South Lake Tahoe, CA, 96150",
+    "lat": 38.95553,
+    "lon": -119.94316
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "little",
+   "hints": [
+    "daytime",
+    "music"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/heavenly-holidays-family-festival/2026-11-30/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "downtown:10005769",
+   "title": "Boozy Book Hour @Karajillo Cafe (every Monday)",
+   "start": "2026-11-30T17:00:00-08:00",
+   "end": "2026-11-30T20:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Karajillo & Co",
+    "address": "50 N. Sierra st. suite102A, Reno, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/boozy-book-hour-karajillo-cafe-every-monday/2026-11-30/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:220892",
+   "title": "Live Music at Casey's",
+   "start": "2026-11-30T17:00:00-08:00",
+   "end": "2026-11-30T20:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Casey’s",
+    "address": "212 Elks Point Rd #101, Zephyr Cove, NV, 89448",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~65 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "music"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/live-music-at-caseys/2026-11-30/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:230375",
+   "title": "Magic Fusion at The Loft Theatre",
+   "start": "2026-11-30T19:00:00-08:00",
+   "end": "2026-11-30T20:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Loft Theatre & Lounge at the Heavenly Village",
+    "address": "1021 Heavenly Village Way, South Lake Tahoe, CA, 96150",
+    "lat": 38.95559,
+    "lon": -119.94234
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "21+"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/magic-fusion-at-the-loft-theatre/2026-11-30/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:236063",
+   "title": "Live Music at McP's Taphouse Tahoe",
+   "start": "2026-11-30T20:00:00-08:00",
+   "end": "2026-11-30T23:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "McP’s Taphouse Grill",
+    "address": "4125 Lake Tahoe Blvd., South Lake Tahoe, CA, 96150",
+    "lat": 38.95887,
+    "lon": -119.94228
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "music"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/live-music-at-mcps-tap-house-tahoe/2026-11-30/"
+    }
+   ],
+   "lovingReno": null
   }
  ]
 }

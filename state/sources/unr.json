@@ -1,5 +1,5 @@
 {
- "at": "2026-11-23T06:30:31Z",
+ "at": "2026-11-23T09:30:32Z",
  "events": [
   {
    "id": "unr:54445171608659",
@@ -522,6 +522,43 @@
    "_text": "",
    "_tags": [
     "nevada alumni"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:54418884287678",
+   "title": "Women’s Basketball Game: Nugget Classic - Native American Heritage Day",
+   "start": "2026-11-29T13:00:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Lawlor Events Center (LEC)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/womens-basketball-game-nugget-classic-native-american-heritage-day"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "indigenous relations",
+    "observances & celebrations",
+    "the multicultural center"
    ],
    "_family": false,
    "_adult": false,

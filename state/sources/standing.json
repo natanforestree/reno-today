@@ -1,41 +1,6 @@
 {
- "at": "2026-11-23T06:30:31Z",
+ "at": "2026-11-23T09:30:32Z",
  "events": [
-  {
-   "id": "standing:riverside-farmers-market-2026-11-22",
-   "title": "Riverside Farmers Market",
-   "start": "2026-11-22T09:00:00-08:00",
-   "end": "2026-11-22T13:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Idlewild Park",
-    "address": "2055 Idlewild Dr, Reno, NV 89509",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "standing",
-     "url": "https://www.renofarmersmarket.com/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [],
-   "_family": false,
-   "_adult": false,
-   "_allAges": true,
-   "_outdoor": true,
-   "_kind": "organiser"
-  },
   {
    "id": "standing:riverside-farmers-market-2026-11-29",
    "title": "Riverside Farmers Market",
