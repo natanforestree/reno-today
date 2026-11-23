@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T18:30:33Z",
+ "generatedAt": "2026-11-23T21:30:40Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -368,7 +368,8 @@
    "area": "reno",
    "drive": null,
    "price": {
-    "free": true
+    "min": 46.83,
+    "max": 46.83
    },
    "tier": "general",
    "hints": [
@@ -3054,6 +3055,35 @@
    "lovingReno": null
   },
   {
+   "id": "carson:10006439",
+   "title": "Proscenium Players Present: A Christmas Carol",
+   "start": "2026-11-27T19:00:00-08:00",
+   "end": "2026-11-27T21:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Brewery Arts Center, MHJ Black Box Theater",
+    "address": "449 West King Street, Carson City, NV, 89703",
+    "lat": 39.16365,
+    "lon": -119.77007
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": {
+    "min": 30.0,
+    "max": 30.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/proscenium-players-present-a-christmas-carol/2026-11-27/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "southtahoe:238476",
    "title": "Tahoe Knight Monsters Hockey Games at the Tahoe Blue Event Center",
    "start": "2026-11-27T19:00:00-08:00",
@@ -3942,6 +3972,37 @@
     {
      "source": "library",
      "url": "https://events.washoecountylibrary.us/event/15438467"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "carson:10006440",
+   "title": "Proscenium Players Present: A Christmas Carol",
+   "start": "2026-11-28T14:00:00-08:00",
+   "end": "2026-11-28T16:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Brewery Arts Center, MHJ Black Box Theater",
+    "address": "449 West King Street, Carson City, NV, 89703",
+    "lat": 39.16365,
+    "lon": -119.77007
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": {
+    "min": 30.0,
+    "max": 30.0
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/proscenium-players-present-a-christmas-carol/2026-11-28/"
     }
    ],
    "lovingReno": null
@@ -5032,6 +5093,37 @@
     {
      "source": "southtahoe",
      "url": "https://visitlaketahoe.com/event/tea-with-an-edge-at-edge-restaurant-lounge/2026-11-29/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "carson:10006441",
+   "title": "Proscenium Players Present: A Christmas Carol",
+   "start": "2026-11-29T14:00:00-08:00",
+   "end": "2026-11-29T16:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Brewery Arts Center, MHJ Black Box Theater",
+    "address": "449 West King Street, Carson City, NV, 89703",
+    "lat": 39.16365,
+    "lon": -119.77007
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": {
+    "min": 30.0,
+    "max": 30.0
+   },
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/proscenium-players-present-a-christmas-carol/2026-11-29/"
     }
    ],
    "lovingReno": null
