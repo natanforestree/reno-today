@@ -1,5 +1,5 @@
 {
- "at": "2026-11-24T18:30:35Z",
+ "at": "2026-11-24T21:30:33Z",
  "events": [
   {
    "id": "tm:16tZk48FwZA2v2FF",
@@ -142,42 +142,6 @@
     "arts & theatre",
     "magic",
     "magic & illusion"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
-  {
-   "id": "tm:1Ad0Z_FGkBIT3ra",
-   "title": "Laugh Factory",
-   "start": "2026-11-26T19:30:00-08:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Laugh Factory at the Silver Legacy Casino",
-    "address": "407 N Virginia St, Reno, NV",
-    "lat": 39.53069,
-    "lon": -119.81531
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/laugh-factory-reno-nevada-11-26-2026/event/3900648EA8FD2789"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "18 and over",
-   "_tags": [
-    "arts & theatre",
-    "comedy"
    ],
    "_family": false,
    "_adult": false,
