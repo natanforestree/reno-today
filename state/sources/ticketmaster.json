@@ -1,45 +1,6 @@
 {
- "at": "2026-11-24T06:30:38Z",
+ "at": "2026-11-24T09:30:33Z",
  "events": [
-  {
-   "id": "tm:rZ7HnEZ1AfaZPV",
-   "title": "The Amity Affliction: HOUSE OF CARDS 2026",
-   "start": "2026-11-23T19:00:00-08:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Cargo Concert Hall",
-    "address": "255 North Virginia Street, Reno, NV",
-    "lat": 39.5281,
-    "lon": -119.81377
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "min": 46.83,
-    "max": 46.83
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketweb.com/event/the-amity-affliction-house-of-cargo-concert-hall-tickets/14240974"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "music",
-    "rock"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
   {
    "id": "tm:16tZk48FwZA2v2FF",
    "title": "Damag3, Ribcage, Bankroll Bishop",
@@ -1100,6 +1061,80 @@
    "_tags": [
     "arts & theatre",
     "cultural"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:1AyZkfgGkdzHP9n",
+   "title": "The Greatest Christmas Show",
+   "start": "2026-12-01T19:00:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Eldorado Showroom at Eldorado Casino Reno",
+    "address": "345 N Virginia St, Reno, NV",
+    "lat": 39.52895,
+    "lon": -119.8143
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/the-greatest-christmas-show-reno-nevada-12-01-2026/event/39006535F8F255EA"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & theatre",
+    "miscellaneous",
+    "theatre"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:1Ad0Z_4GknzXazs",
+   "title": "Alex Ramon Magic",
+   "start": "2026-12-01T19:30:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "South Shore Room at Harrah's Lake Tahoe",
+    "address": "15 Hwy 50, Lake Tahoe, NV",
+    "lat": 38.96241,
+    "lon": -119.9399
+   },
+   "area": "other",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/alex-ramon-magic-lake-tahoe-nevada-12-01-2026/event/3900655AB8F89E31"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & theatre",
+    "magic",
+    "magic & illusion"
    ],
    "_family": false,
    "_adult": false,
