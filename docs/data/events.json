@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T21:30:40Z",
+ "generatedAt": "2026-11-24T00:30:31Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -292,34 +292,6 @@
     {
      "source": "southtahoe",
      "url": "https://visitlaketahoe.com/event/live-music-at-caseys/2026-11-23/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "tm:1AtZk44GkdLC8iR",
-   "title": "Leftover Crack, Bang Marry Kill, P.S.T., the Dollheads",
-   "start": "2026-11-23T19:00:00-08:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Club Underground",
-    "address": "555 E 4th St, Reno, NV",
-    "lat": 39.53151,
-    "lon": -119.80658
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "music"
-   ],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketweb.com/event/leftover-crack-the-dollheads-bang-club-underground-tickets/15049753?REFERRAL_ID=tmfeed"
     }
    ],
    "lovingReno": null
