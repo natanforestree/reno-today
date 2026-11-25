@@ -1,44 +1,6 @@
 {
- "at": "2026-11-25T06:30:32Z",
+ "at": "2026-11-25T09:30:32Z",
  "events": [
-  {
-   "id": "holland:97131",
-   "title": "Film Developing Using Matcha",
-   "start": "2026-11-24T17:00:00-08:00",
-   "end": "2026-11-24T20:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Holland Project",
-    "address": "140 Vesta St, Reno, NV, 89502",
-    "lat": 39.50964,
-    "lon": -119.80367
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "min": 20.0,
-    "max": 20.0
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "holland",
-     "url": "https://hollandreno.org/events/film-developing-using-matcha/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "workshops"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": true,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "holland:97040",
    "title": "Nov Photo Walk w/ Vale Schmitz",
@@ -70,6 +32,41 @@
    "_text": "",
    "_tags": [
     "workshops"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": true,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "holland:97139",
+   "title": "eighteen dogs (18dogs) Reception @ Cosmo’s Snack Bar",
+   "start": "2026-12-02T16:00:00-08:00",
+   "end": "2026-12-02T18:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Cosmo’s Snack Bar",
+    "address": "253 E Arroyo St, Reno, NV, 89502",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "holland",
+     "url": "https://hollandreno.org/events/eighteen-dogs-18dogs-reception-cosmos-snack-bar/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "art"
    ],
    "_family": false,
    "_adult": false,
