@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T18:30:32Z",
+ "generatedAt": "2026-11-25T21:30:31Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -2101,6 +2101,34 @@
    "lovingReno": null
   },
   {
+   "id": "carson:10006448",
+   "title": "Carson Christmas Creator Fairs",
+   "start": "2026-11-28T09:00:00-08:00",
+   "end": "2026-11-28T15:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Carson City Community Center",
+    "address": "851 East William Street, Carson City, NV, 89701",
+    "lat": 39.17037,
+    "lon": -119.76075
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/carson-christmas-craft-fairs/2026-11-28/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "library:16568064",
    "title": "English Conversation Group/Grupo de conversación en inglés",
    "start": "2026-11-28T09:30:00-08:00",
@@ -2905,6 +2933,38 @@
     {
      "source": "carson",
      "url": "https://visitcarsoncity.com/events/the-nutcracker/2026-11-28/2/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "holland:97305",
+   "title": "Your Punk Rock, Our Friendship: Ashe’s Celebration of Life w/ shortstop, Day Hike, Wretched Self",
+   "start": "2026-11-28T19:00:00-08:00",
+   "end": "2026-11-28T22:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Holland Project",
+    "address": "140 Vesta St, Reno, NV, 89502",
+    "lat": 39.50964,
+    "lon": -119.80367
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 5.0,
+    "max": 10.0
+   },
+   "tier": "general",
+   "hints": [
+    "all-ages",
+    "music"
+   ],
+   "links": [
+    {
+     "source": "holland",
+     "url": "https://hollandreno.org/events/ashe/"
     }
    ],
    "lovingReno": null

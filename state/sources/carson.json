@@ -1,5 +1,5 @@
 {
- "at": "2026-11-25T18:30:32Z",
+ "at": "2026-11-25T21:30:31Z",
  "events": [
   {
    "id": "carson:78703",
@@ -138,6 +138,41 @@
     "shows in carson city",
     "visit carson city",
     "what to do in carson city"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:10006448",
+   "title": "Carson Christmas Creator Fairs",
+   "start": "2026-11-28T09:00:00-08:00",
+   "end": "2026-11-28T15:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Carson City Community Center",
+    "address": "851 East William Street, Carson City, NV, 89701",
+    "lat": 39.17037,
+    "lon": -119.76075
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/carson-christmas-craft-fairs/2026-11-28/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "holiday"
    ],
    "_family": false,
    "_adult": false,
