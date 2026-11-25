@@ -1,5 +1,5 @@
 {
- "at": "2026-11-24T21:30:33Z",
+ "at": "2026-11-25T00:30:35Z",
  "events": [
   {
    "id": "unr:54445171609684",
@@ -72,77 +72,6 @@
     "exhibitions (recurring)",
     "school of the arts",
     "university galleries"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "unr:54126820136972",
-   "title": "Voice Area Grade Level Recital - Across the Atlantic: A Voyage Through English and American Art Songs",
-   "start": "2026-11-24T19:30:00-08:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Harlan O. & Barbara R. Hall Recital Hall",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/voice-area-grade-level-recital-across-the-atlantic-a-voyage-through-english-and-american-art-songs-4288"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "school of music"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "unr:54109051148225",
-   "title": "Voice Area Grade Level Recital: “Across the Atlantic: A Voyage Through English and American Art Songs”",
-   "start": "2026-11-24T19:30:00-08:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "University Foundation Arts (UFA)",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/voice-area-grade-level-recital-across-the-atlantic-a-voyage-through-english-and-american-art-songs"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "arts & culture",
-    "school of music"
    ],
    "_family": false,
    "_adult": false,

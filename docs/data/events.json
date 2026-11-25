@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T21:30:33Z",
+ "generatedAt": "2026-11-25T00:30:35Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -792,62 +792,6 @@
     {
      "source": "southtahoe",
      "url": "https://visitlaketahoe.com/event/live-music-at-tessies-cocktails-chords-inside-caesars-republic/2026-11-24/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "unr:54126820136972",
-   "title": "Voice Area Grade Level Recital - Across the Atlantic: A Voyage Through English and American Art Songs",
-   "start": "2026-11-24T19:30:00-08:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Harlan O. & Barbara R. Hall Recital Hall",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "music"
-   ],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/voice-area-grade-level-recital-across-the-atlantic-a-voyage-through-english-and-american-art-songs-4288"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "unr:54109051148225",
-   "title": "Voice Area Grade Level Recital: “Across the Atlantic: A Voyage Through English and American Art Songs”",
-   "start": "2026-11-24T19:30:00-08:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "University Foundation Arts (UFA)",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "music"
-   ],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/voice-area-grade-level-recital-across-the-atlantic-a-voyage-through-english-and-american-art-songs"
     }
    ],
    "lovingReno": null
