@@ -1,41 +1,6 @@
 {
- "at": "2026-11-26T06:30:32Z",
+ "at": "2026-11-26T09:30:31Z",
  "events": [
-  {
-   "id": "wolfpack:vcal_14247-nevadawolfpack.com",
-   "title": "Nevada Men's Basketball vs Portland State (Exhibition)",
-   "start": "2026-10-25T13:30:00-07:00",
-   "end": "2026-10-25T15:30:00-07:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Lawlor Events Center",
-    "address": "Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "wolfpack",
-     "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14247&sport_id=4"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "sports"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "wolfpack:vcal_14184-nevadawolfpack.com",
    "title": "Nevada Women's Soccer vs UTEP",
