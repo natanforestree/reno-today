@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T12:30:32Z",
+ "generatedAt": "2026-11-27T15:30:36Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -7046,7 +7046,10 @@
      "url": "https://visitcarsoncity.com/events/silver-snowflake-festival-of-lights-capitol-tree-lighting/"
     }
    ],
-   "lovingReno": null
+   "lovingReno": {
+    "title": "The Ultimate 2026-2027 Reno Winter Guide",
+    "url": "https://www.lovingreno.com/2026/11/the-ultimate-2026-2027-reno-winter.html"
+   }
   },
   {
    "id": "sparks:40-202612041830",
