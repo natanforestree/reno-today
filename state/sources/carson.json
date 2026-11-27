@@ -1,5 +1,5 @@
 {
- "at": "2026-11-27T06:30:32Z",
+ "at": "2026-11-27T09:30:32Z",
  "events": [
   {
    "id": "carson:78703",
@@ -411,6 +411,145 @@
    "_text": "",
    "_tags": [
     "holiday"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:64493",
+   "title": "Silver & Snowflake Festival of Lights | Capitol Tree Lighting",
+   "start": "2026-12-04T17:30:00-08:00",
+   "end": "2026-12-04T20:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Nevada State Capitol",
+    "address": "101 N Carson Street, Carson City, NV, 89701",
+    "lat": 39.16416,
+    "lon": -119.76615
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/silver-snowflake-festival-of-lights-capitol-tree-lighting/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "annual holiday tree lighting",
+    "annual state tree lighting",
+    "arts & culture",
+    "capitol lighting",
+    "capitol tree lighting",
+    "christmas",
+    "holiday joy",
+    "holidays",
+    "hot cocoa and cider",
+    "nevada tree lighting",
+    "silver and snowflake",
+    "sleigh rides",
+    "tree lighting"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:10006413",
+   "title": "Wild Horse Children’s Theater Presents Disney’s Newsies, Jr.",
+   "start": "2026-12-04T19:00:00-08:00",
+   "end": "2026-12-04T20:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Brewery Arts Center Performance Hall",
+    "address": "511 W King STreet, Carson City, 89703",
+    "lat": 39.16388,
+    "lon": -119.77042
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/wild-horse-childrens-theater-presents-disneys-newsies-jr/2026-12-04/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "Children’s children kids family",
+   "_tags": [
+    "entertainment",
+    "family",
+    "family friendly shows carson city nv",
+    "newsies",
+    "newsies disney jr",
+    "newsies wild horse theater",
+    "newsies wild horse theater carson city nv",
+    "shows in carson city nv",
+    "wild horse theater carson city",
+    "wild horse theater nevada"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:10006442",
+   "title": "Proscenium Players Present: A Christmas Carol",
+   "start": "2026-12-04T19:00:00-08:00",
+   "end": "2026-12-04T21:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Brewery Arts Center, MHJ Black Box Theater",
+    "address": "449 West King Street, Carson City, NV, 89703",
+    "lat": 39.16365,
+    "lon": -119.77007
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": {
+    "min": 30.0,
+    "max": 30.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/proscenium-players-present-a-christmas-carol/2026-12-04/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "brewery arts center",
+    "carson city",
+    "carson city events",
+    "carson city nevada",
+    "entertainment",
+    "holiday",
+    "shows in carson city",
+    "visit carson city",
+    "what to do in carson city"
    ],
    "_family": false,
    "_adult": false,

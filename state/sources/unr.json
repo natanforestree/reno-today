@@ -1,44 +1,6 @@
 {
- "at": "2026-11-27T06:30:32Z",
+ "at": "2026-11-27T09:30:32Z",
  "events": [
-  {
-   "id": "unr:54445171611734",
-   "title": "Giving Tree",
-   "start": "2026-11-26T08:00:00-08:00",
-   "end": "2026-11-26T19:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Joe Crowley Student Union (JCSU)",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/giving-tree"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "children",
-   "_tags": [
-    "joe crowley student union",
-    "social events"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "unr:54445171613783",
    "title": "Giving Tree",
@@ -307,6 +269,42 @@
    "_kind": "organiser"
   },
   {
+   "id": "unr:54126690703629",
+   "title": "Noah Boston's Senior Recital",
+   "start": "2026-11-30T19:00:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Lombardi Dance Theatre",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/noah-bostons-senior-recital-3609"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "school of music",
+    "theatre and dance"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
    "id": "unr:54125918889604",
    "title": "Noah Boston's Senior recital",
    "start": "2026-11-30T19:00:00-08:00",
@@ -334,42 +332,6 @@
    "_text": "",
    "_tags": [
     "arts & culture",
-    "school of music",
-    "theatre and dance"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "unr:54126690703629",
-   "title": "Noah Boston's Senior Recital",
-   "start": "2026-11-30T19:00:00-08:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Lombardi Dance Theatre",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/noah-bostons-senior-recital-3609"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
     "school of music",
     "theatre and dance"
    ],
@@ -869,6 +831,288 @@
    "_tags": [
     "alumni chapter: orvis school of nursing",
     "nevada alumni"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:54614391878949",
+   "title": "Basque Memory on Paper",
+   "start": "2026-12-03T09:00:00-08:00",
+   "end": "2026-12-03T17:00:00-08:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "Jon Bilbao Basque Library",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/basque-memory-on-paper"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & culture",
+    "basque library",
+    "community outreach",
+    "exhibitions (recurring)",
+    "university libraries",
+    "william a. douglass center for basque studies"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:54101320589493",
+   "title": "Annual MFA Midway Exhibition: Cody Breese Thomas, Julia Farner, & Gwen Olmos",
+   "start": "2026-12-03T12:00:00-08:00",
+   "end": "2026-12-03T16:00:00-08:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "Student Galleries South",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/annual-mfa-midway-exhibition-cody-breese-thomas-julia-farner-gwen-olmos-9944"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & culture",
+    "college of liberal arts",
+    "department of art, art history and design",
+    "exhibitions (recurring)",
+    "interdisciplinary arts",
+    "school of the arts",
+    "university galleries",
+    "university museum district"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:53799519187570",
+   "title": "Without Mountains and Rivers Without End: Speculative Geographics on an Interior Northwest",
+   "start": "2026-12-03T12:00:00-08:00",
+   "end": "2026-12-03T16:00:00-08:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "Sheppard Contemporary Gallery",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/without-mountains-and-rivers-without-end-speculative-geographics-on-an-interior-northwest"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & culture",
+    "college of liberal arts",
+    "department of art, art history and design",
+    "exhibitions (recurring)",
+    "school of the arts",
+    "university galleries"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:54614300763380",
+   "title": "\"Basque Memory on Paper\" exhibit opening",
+   "start": "2026-12-03T16:00:00-08:00",
+   "end": "2026-12-03T18:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Jon Bilbao Basque Library",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/basque-memory-on-paper-exhibit-opening"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & culture",
+    "basque library",
+    "community outreach",
+    "lectures & seminars",
+    "university libraries",
+    "william a. douglass center for basque studies"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:54101233315779",
+   "title": "Annual MFA Midway Exhibition Reception: Cody Breese Thomas, Julia Farner & Gwen Olmos",
+   "start": "2026-12-03T17:00:00-08:00",
+   "end": "2026-12-03T19:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Student Galleries South",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/annual-mfa-midway-exhibition-cody-breese-thomas-julia-farner-gwen-olmos"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & culture",
+    "college of liberal arts",
+    "department of art, art history and design",
+    "interdisciplinary arts",
+    "school of the arts",
+    "university galleries",
+    "university museum district"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:53736056100258",
+   "title": "Jazz Ensemble I & II",
+   "start": "2026-12-03T19:30:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Nightingale Concert Hall",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 12.0,
+    "max": 12.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/jazz-ensemble-i-ii-6912"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "concert",
+   "_tags": [
+    "school of music"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:52887118296821",
+   "title": "Performing Arts Series Presents: Kala'e + Kalena",
+   "start": "2026-12-03T19:30:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "University Foundation Arts (UFA)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 40.0,
+    "max": 40.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/performing-arts-series-presents-kalae-kalena"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "family concert",
+   "_tags": [
+    "arts & culture",
+    "college of liberal arts",
+    "performing arts series",
+    "school of the arts"
    ],
    "_family": false,
    "_adult": false,

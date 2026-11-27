@@ -1,460 +1,7 @@
 {
- "generatedAt": "2026-11-27T06:30:32Z",
+ "generatedAt": "2026-11-27T09:30:32Z",
  "timezone": "America/Los_Angeles",
  "events": [
-  {
-   "id": "unr:54445171611734",
-   "title": "Giving Tree",
-   "start": "2026-11-26T08:00:00-08:00",
-   "end": "2026-11-26T19:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Joe Crowley Student Union (JCSU)",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/giving-tree"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "sparks:80-202611260830",
-   "title": "Scheels Turkey Trot",
-   "start": "2026-11-26T08:30:00-08:00",
-   "end": "2026-11-26T09:30:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Sparks Marina Gazebo",
-    "address": "Sparks Marina Gazebo",
-    "lat": null,
-    "lon": null
-   },
-   "area": "sparks",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "sparks",
-     "url": "https://builder1.revize.com/revize/sparksnv/recreation/special_events/scheels_turkey_trot.php"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "southtahoe:225503",
-   "title": "Tipsy Putt Events",
-   "start": "2026-11-26T10:00:00-08:00",
-   "end": "2026-11-26T23:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Tipsy Putt Tahoe",
-    "address": "4101 Lake Tahoe Blvd. #101, South Lake Tahoe, California, 96150",
-    "lat": null,
-    "lon": null
-   },
-   "area": "tahoe",
-   "drive": "~75 min",
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/tipsy-putt-events/2026-11-26/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "downtown:10005763",
-   "title": "Jingle and Mingle Holiday Shopping Showcase: Silver Legacy",
-   "start": "2026-11-26T11:00:00-08:00",
-   "end": "2026-11-26T19:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Silver Legacy Casino",
-    "address": "401 N. Virginia St, Reno, 89501",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "little",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "downtown",
-     "url": "https://downtownreno.org/event/jingle-and-mingle-holiday-shopping-showcase-silver-legacy/2026-11-26/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "southtahoe:100778",
-   "title": "Thanksgiving at the Grove Camp Richardson Resort",
-   "start": "2026-11-26T11:30:00-08:00",
-   "end": "2026-11-26T20:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Grove at Camp Richardson Resort",
-    "address": "1900 Jameson Beach Rd, South Lake Tahoe, California, 96150",
-    "lat": null,
-    "lon": null
-   },
-   "area": "tahoe",
-   "drive": "~75 min",
-   "price": null,
-   "tier": "little",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/thanksgiving-at-the-grove-camp-richardson/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "southtahoe:28284",
-   "title": "Thanksgiving Day Feast at the Zephyr Cove Restaurant",
-   "start": "2026-11-26T12:00:00-08:00",
-   "end": "2026-11-26T20:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Zephyr Cove Restaurant",
-    "address": "760 U.S. Hwy 50, Zephyr Cove, NV, 89448",
-    "lat": 39.00586,
-    "lon": -119.9484
-   },
-   "area": "tahoe",
-   "drive": "~65 min",
-   "price": null,
-   "tier": "little",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/thanksgiving-dinner-at-the-zephyr-cove-restaurant/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "southtahoe:28471",
-   "title": "Thanksgiving at the Riva Grill on the Lake",
-   "start": "2026-11-26T12:00:00-08:00",
-   "end": "2026-11-26T20:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Riva Grill on the Lake",
-    "address": "901 Ski Run Blvd., South Lake Tahoe, CA, 96150",
-    "lat": 38.94977,
-    "lon": -119.95704
-   },
-   "area": "tahoe",
-   "drive": "~75 min",
-   "price": null,
-   "tier": "little",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/thanksgiving-at-the-riva-grill-on-the-lake/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "southtahoe:244790",
-   "title": "Thanksgiving Day Cruise – M.S. Dixie II",
-   "start": "2026-11-26T16:00:00-08:00",
-   "end": "2026-11-26T19:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "M.S. Dixie II Paddlewheeler at Zephyr Cove Resort",
-    "address": "760 U.S. Hwy 50, Zephyr Cove, NV, 89449",
-    "lat": 38.98192,
-    "lon": -119.94651
-   },
-   "area": "tahoe",
-   "drive": "~65 min",
-   "price": null,
-   "tier": "little",
-   "hints": [
-    "daytime"
-   ],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/thanksgiving-day-cruise-m-s-dixie-ii/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "southtahoe:239431",
-   "title": "Live Music at the Edge Lounge at Edgewood",
-   "start": "2026-11-26T17:00:00-08:00",
-   "end": "2026-11-26T20:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Edge Lounge at Edgewood Tahoe",
-    "address": "180 Lake Parkway, Stateline, Nevada, 89449",
-    "lat": null,
-    "lon": null
-   },
-   "area": "tahoe",
-   "drive": "~70 min",
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "music",
-    "21+"
-   ],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/live-music-at-the-edge-lounge-at-edgewood/2026-11-26/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "southtahoe:230371",
-   "title": "Magic Fusion at The Loft Theatre",
-   "start": "2026-11-26T19:00:00-08:00",
-   "end": "2026-11-26T20:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Loft Theatre & Lounge at the Heavenly Village",
-    "address": "1021 Heavenly Village Way, South Lake Tahoe, CA, 96150",
-    "lat": 38.95559,
-    "lon": -119.94234
-   },
-   "area": "tahoe",
-   "drive": "~75 min",
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "21+"
-   ],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/magic-fusion-at-the-loft-theatre/2026-11-26/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "southtahoe:196316",
-   "title": "Trivia Night with DJ Trivia! At Tipsy Putt Tahoe",
-   "start": "2026-11-26T19:00:00-08:00",
-   "end": "2026-11-26T21:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Tipsy Putt Tahoe",
-    "address": "4101 Lake Tahoe Blvd. #101, South Lake Tahoe, California, 96150",
-    "lat": null,
-    "lon": null
-   },
-   "area": "tahoe",
-   "drive": "~75 min",
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/thirsty-thursday-trivia-at-tipsy-putt/2026-11-26/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "southtahoe:249056",
-   "title": "Alex Ramon Magic Show at Harrah’s Lake Tahoe",
-   "start": "2026-11-26T19:30:00-08:00",
-   "end": "2026-11-26T21:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Harrah’s Lake Tahoe South Shore Room",
-    "address": "15 Hwy 50, Stateline, NV, 89449",
-    "lat": 38.95938,
-    "lon": -119.94155
-   },
-   "area": "tahoe",
-   "drive": "~70 min",
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/master-of-illusion-alex-ramon-magic-show-at-harrahs-lake-tahoe/2026-11-26/"
-    },
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/alex-ramon-magic-lake-tahoe-nevada-11-26-2026/event/3900655AB8E99DD2"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "southtahoe:245646",
-   "title": "Live Music at Tessie’s Cocktails & Chords inside Caesars Republic",
-   "start": "2026-11-26T19:30:00-08:00",
-   "end": "2026-11-27T02:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Tessie’s Cocktails & Chords inside Caesars Republic",
-    "address": "18 US-50, Stateline, Nevada, 89449",
-    "lat": null,
-    "lon": null
-   },
-   "area": "tahoe",
-   "drive": "~70 min",
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "music",
-    "21+"
-   ],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/live-music-at-tessies-cocktails-chords-inside-caesars-republic/2026-11-26/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "southtahoe:236061",
-   "title": "Live Music at McP's Taphouse Tahoe",
-   "start": "2026-11-26T20:00:00-08:00",
-   "end": "2026-11-26T23:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "McP’s Taphouse Grill",
-    "address": "4125 Lake Tahoe Blvd., South Lake Tahoe, CA, 96150",
-    "lat": 38.95887,
-    "lon": -119.94228
-   },
-   "area": "tahoe",
-   "drive": "~75 min",
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "music"
-   ],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/live-music-at-mcps-tap-house-tahoe/2026-11-26/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "southtahoe:247616",
-   "title": "Live Music at Rush Lounge in the Golden Nugget Lake Tahoe",
-   "start": "2026-11-26T21:00:00-08:00",
-   "end": "2026-11-27T01:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Golden Nugget Lake Tahoe",
-    "address": "50 Hwy 50, Stateline, Nevada, 89449",
-    "lat": null,
-    "lon": null
-   },
-   "area": "tahoe",
-   "drive": "~70 min",
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "music",
-    "21+"
-   ],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/live-music-golden-nugget-lake-tahoe/2026-11-26/"
-    }
-   ],
-   "lovingReno": null
-  },
-  {
-   "id": "southtahoe:229718",
-   "title": "Karaoke at Rojo’s Tavern",
-   "start": "2026-11-26T22:00:00-08:00",
-   "end": "2026-11-27T02:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Rojo’s Tavern",
-    "address": "3091 Harrison Ave, South Lake Tahoe, CA, 96150",
-    "lat": 38.94047,
-    "lon": -119.97736
-   },
-   "area": "tahoe",
-   "drive": "~75 min",
-   "price": null,
-   "tier": "general",
-   "hints": [
-    "21+"
-   ],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/karaoke-at-rojos-tavern/2026-11-26/"
-    }
-   ],
-   "lovingReno": null
-  },
   {
    "id": "southtahoe:101543",
    "title": "Heavenly Holidays Family Festival",
@@ -5872,6 +5419,34 @@
    "lovingReno": null
   },
   {
+   "id": "unr:54614391878949",
+   "title": "Basque Memory on Paper",
+   "start": "2026-12-03T09:00:00-08:00",
+   "end": "2026-12-03T17:00:00-08:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "Jon Bilbao Basque Library",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/basque-memory-on-paper"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "carson:10006426",
    "title": "Hidden Treasures Gift Shop Holiday Craft Sale",
    "start": "2026-12-03T09:00:00-08:00",
@@ -6168,6 +5743,34 @@
    "lovingReno": null
   },
   {
+   "id": "unr:54101320589493",
+   "title": "Annual MFA Midway Exhibition: Cody Breese Thomas, Julia Farner, & Gwen Olmos",
+   "start": "2026-12-03T12:00:00-08:00",
+   "end": "2026-12-03T16:00:00-08:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "Student Galleries South",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/annual-mfa-midway-exhibition-cody-breese-thomas-julia-farner-gwen-olmos-9944"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "southtahoe:244427",
    "title": "Heavenly Holidays Family Festival",
    "start": "2026-12-03T12:00:00-08:00",
@@ -6192,6 +5795,34 @@
     {
      "source": "southtahoe",
      "url": "https://visitlaketahoe.com/event/heavenly-holidays-family-festival/2026-12-03/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:53799519187570",
+   "title": "Without Mountains and Rivers Without End: Speculative Geographics on an Interior Northwest",
+   "start": "2026-12-03T12:00:00-08:00",
+   "end": "2026-12-03T16:00:00-08:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "Sheppard Contemporary Gallery",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/without-mountains-and-rivers-without-end-speculative-geographics-on-an-interior-northwest"
     }
    ],
    "lovingReno": null
@@ -6342,6 +5973,34 @@
     {
      "source": "library",
      "url": "https://events.washoecountylibrary.us/event/17056217"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:54614300763380",
+   "title": "\"Basque Memory on Paper\" exhibit opening",
+   "start": "2026-12-03T16:00:00-08:00",
+   "end": "2026-12-03T18:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Jon Bilbao Basque Library",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/basque-memory-on-paper-exhibit-opening"
     }
    ],
    "lovingReno": null
@@ -6552,6 +6211,32 @@
     {
      "source": "southtahoe",
      "url": "https://visitlaketahoe.com/event/wine-tastings-at-the-idle-hour-wine-bar/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:54101233315779",
+   "title": "Annual MFA Midway Exhibition Reception: Cody Breese Thomas, Julia Farner & Gwen Olmos",
+   "start": "2026-12-03T17:00:00-08:00",
+   "end": "2026-12-03T19:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Student Galleries South",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/annual-mfa-midway-exhibition-cody-breese-thomas-julia-farner-gwen-olmos"
     }
    ],
    "lovingReno": null
@@ -6832,6 +6517,37 @@
    "lovingReno": null
   },
   {
+   "id": "unr:53736056100258",
+   "title": "Jazz Ensemble I & II",
+   "start": "2026-12-03T19:30:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Nightingale Concert Hall",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 12.0,
+    "max": 12.0
+   },
+   "tier": "general",
+   "hints": [
+    "music"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/jazz-ensemble-i-ii-6912"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
    "id": "tm:1Ad0Z_FGkBtkxr_",
    "title": "Laugh Factory",
    "start": "2026-12-03T19:30:00-08:00",
@@ -6855,6 +6571,66 @@
     {
      "source": "tm",
      "url": "https://www.ticketmaster.com/laugh-factory-reno-nevada-12-03-2026/event/3900648EA91A2799"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:245653",
+   "title": "Live Music at Tessie’s Cocktails & Chords inside Caesars Republic",
+   "start": "2026-12-03T19:30:00-08:00",
+   "end": "2026-12-04T02:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Tessie’s Cocktails & Chords inside Caesars Republic",
+    "address": "18 US-50, Stateline, Nevada, 89449",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~70 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "music",
+    "21+"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/live-music-at-tessies-cocktails-chords-inside-caesars-republic/2026-12-03/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "unr:52887118296821",
+   "title": "Performing Arts Series Presents: Kala'e + Kalena",
+   "start": "2026-12-03T19:30:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "University Foundation Arts (UFA)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 40.0,
+    "max": 40.0
+   },
+   "tier": "general",
+   "hints": [
+    "music"
+   ],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/performing-arts-series-presents-kalae-kalena"
     }
    ],
    "lovingReno": null
@@ -6911,6 +6687,725 @@
     {
      "source": "southtahoe",
      "url": "https://visitlaketahoe.com/event/live-music-at-mcps-tap-house-tahoe/2026-12-03/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:247619",
+   "title": "Live Music at Rush Lounge in the Golden Nugget Lake Tahoe",
+   "start": "2026-12-03T21:00:00-08:00",
+   "end": "2026-12-04T01:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Golden Nugget Lake Tahoe",
+    "address": "50 Hwy 50, Stateline, Nevada, 89449",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~70 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "music",
+    "21+"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/live-music-golden-nugget-lake-tahoe/2026-12-03/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:243279",
+   "title": "Sailing Club Yacht Rock Night at Tessie’s Cocktails & Chords",
+   "start": "2026-12-03T21:00:00-08:00",
+   "end": "2026-12-04T01:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Tessie’s Cocktails & Chords inside Caesars Republic",
+    "address": "18 US-50, Stateline, Nevada, 89449",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~70 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "music",
+    "21+"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/sailing-club-yacht-rock-night-at-tessies-cocktails-chords/2026-12-03/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:229721",
+   "title": "Karaoke at Rojo’s Tavern",
+   "start": "2026-12-03T22:00:00-08:00",
+   "end": "2026-12-04T02:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Rojo’s Tavern",
+    "address": "3091 Harrison Ave, South Lake Tahoe, CA, 96150",
+    "lat": 38.94047,
+    "lon": -119.97736
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "21+"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/karaoke-at-rojos-tavern/2026-12-03/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "wolfpack:vcal_14220-nevadawolfpack.com",
+   "title": "Nevada Women's Track & Field vs Silver State Invitational & Combined Event",
+   "start": "2026-12-04T00:00:00-08:00",
+   "end": null,
+   "allDay": true,
+   "ongoing": false,
+   "venue": {
+    "name": null,
+    "address": "Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "wolfpack",
+     "url": "https://nevadawolfpack.com/calendar.aspx?game_id=14220&sport_id=16"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:28494",
+   "title": "Opening Day at Kirkwood Mountain Resort",
+   "start": "2026-12-04T00:00:00-08:00",
+   "end": "2026-12-04T00:00:00-08:00",
+   "allDay": true,
+   "ongoing": false,
+   "venue": {
+    "name": "Kirkwood Mountain Resort",
+    "address": "1501 Kirkwood Meadows Drive, Kirkwood, CA, 95646",
+    "lat": 38.68459,
+    "lon": -120.06538
+   },
+   "area": "other",
+   "drive": null,
+   "price": null,
+   "tier": "little",
+   "hints": [
+    "daytime"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/opening-day-at-kirkwood-mountain-resort/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:244428",
+   "title": "Heavenly Holidays Family Festival",
+   "start": "2026-12-04T12:00:00-08:00",
+   "end": "2026-12-04T19:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Heavenly Village",
+    "address": "1001 Heavenly Village Way, South Lake Tahoe, CA, 96150",
+    "lat": 38.95553,
+    "lon": -119.94316
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "little",
+   "hints": [
+    "daytime",
+    "music"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/heavenly-holidays-family-festival/2026-12-04/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "reno:355-202612041700",
+   "title": "Dance for All: Holiday Dinner and Dance",
+   "start": "2026-12-04T17:00:00-08:00",
+   "end": "2026-12-04T20:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "City of Sparks Parks and Recreation Gym - 98 Richards Way",
+    "address": "City of Sparks Parks and Recreation Gym - 98 Richards Way, Sparks",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "reno",
+     "url": "https://www.reno.gov/calendar"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "downtown:10005735",
+   "title": "HOME for the Holiday’s: Greater Nevada Field",
+   "start": "2026-12-04T17:00:00-08:00",
+   "end": "2026-12-04T21:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "greater nevada field",
+    "address": "250 Evans Ave, Reno, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/home-for-the-holidays-greater-nevada-field/2026-12-04/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:113455",
+   "title": "Meyers Annual Tree Lighting",
+   "start": "2026-12-04T17:00:00-08:00",
+   "end": "2026-12-04T19:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Divided Sky",
+    "address": "3200 U.S. Hwy 50, Meyers, CA, 96155",
+    "lat": 38.75868,
+    "lon": -120.07808
+   },
+   "area": "other",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/meyers-annual-tree-lighting/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:249856",
+   "title": "Tahoe Film Fest at the UC Davis Tahoe Environmental Research Center",
+   "start": "2026-12-04T17:00:00-08:00",
+   "end": "2026-12-04T23:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "UC Davis Tahoe Environmental Research Center",
+    "address": "291 Country Club Dr, Incline Village, Nevada, 89451",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~45 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/tahoe-film-fest-at-the-uc-davis-tahoe-environmental-research-center/2026-12-04/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:146778",
+   "title": "Visit with Santa in the Arcade at Harrah’s Lake Tahoe",
+   "start": "2026-12-04T17:00:00-08:00",
+   "end": "2026-12-04T20:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Arcade inside Harrah’s Lake Tahoe",
+    "address": "15 Hwy 50, Stateline, NV, 89449",
+    "lat": 38.95938,
+    "lon": -119.94155
+   },
+   "area": "tahoe",
+   "drive": "~70 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/visit-with-santa-in-the-harrahs-lake-tahoe-arcade/2026-12-04/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:145025",
+   "title": "Winter Festival at the South Tahoe High School",
+   "start": "2026-12-04T17:00:00-08:00",
+   "end": "2026-12-04T20:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "South Tahoe High School",
+    "address": "1735 Lake Tahoe Blvd, South Lake Tahoe, CA, 96150",
+    "lat": 38.90996,
+    "lon": -120.0153
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "music"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/winter-festival-at-the-south-tahoe-high-school/2026-12-04/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "carson:64493",
+   "title": "Silver & Snowflake Festival of Lights | Capitol Tree Lighting",
+   "start": "2026-12-04T17:30:00-08:00",
+   "end": "2026-12-04T20:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Nevada State Capitol",
+    "address": "101 N Carson Street, Carson City, NV, 89701",
+    "lat": 39.16416,
+    "lon": -119.76615
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/silver-snowflake-festival-of-lights-capitol-tree-lighting/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "sparks:40-202612041830",
+   "title": "Sparks Hometowne Christmas Tree Lighting",
+   "start": "2026-12-04T18:30:00-08:00",
+   "end": "2026-12-04T19:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Victorian Square",
+    "address": "Victorian Square",
+    "lat": null,
+    "lon": null
+   },
+   "area": "sparks",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "sparks",
+     "url": "https://builder1.revize.com/revize/sparksnv/recreation/special_events/sparks_special_events.php?rz=catalogueDetails&id=205"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "holland:96507",
+   "title": "EXHUMED, Jarhead Fertilizer, Savage Master, Molder",
+   "start": "2026-12-04T19:00:00-08:00",
+   "end": "2026-12-04T22:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Holland Project",
+    "address": "140 Vesta St, Reno, NV, 89502",
+    "lat": 39.50964,
+    "lon": -119.80367
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 20.0,
+    "max": 25.0
+   },
+   "tier": "general",
+   "hints": [
+    "all-ages",
+    "music"
+   ],
+   "links": [
+    {
+     "source": "holland",
+     "url": "https://hollandreno.org/events/exhumed/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:230379",
+   "title": "Magic Fusion at The Loft Theatre",
+   "start": "2026-12-04T19:00:00-08:00",
+   "end": "2026-12-04T20:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Loft Theatre & Lounge at the Heavenly Village",
+    "address": "1021 Heavenly Village Way, South Lake Tahoe, CA, 96150",
+    "lat": 38.95559,
+    "lon": -119.94234
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "21+"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/magic-fusion-at-the-loft-theatre/2026-12-04/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "carson:10006442",
+   "title": "Proscenium Players Present: A Christmas Carol",
+   "start": "2026-12-04T19:00:00-08:00",
+   "end": "2026-12-04T21:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Brewery Arts Center, MHJ Black Box Theater",
+    "address": "449 West King Street, Carson City, NV, 89703",
+    "lat": 39.16365,
+    "lon": -119.77007
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": {
+    "min": 30.0,
+    "max": 30.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/proscenium-players-present-a-christmas-carol/2026-12-04/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "tm:1AyZkfgGkdyvPbG",
+   "title": "The Greatest Christmas Show",
+   "start": "2026-12-04T19:00:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Eldorado Showroom at Eldorado Casino Reno",
+    "address": "345 N Virginia St, Reno, NV",
+    "lat": 39.52895,
+    "lon": -119.8143
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/the-greatest-christmas-show-reno-nevada-12-04-2026/event/39006535F906560C"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "carson:10006413",
+   "title": "Wild Horse Children’s Theater Presents Disney’s Newsies, Jr.",
+   "start": "2026-12-04T19:00:00-08:00",
+   "end": "2026-12-04T20:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Brewery Arts Center Performance Hall",
+    "address": "511 W King STreet, Carson City, 89703",
+    "lat": 39.16388,
+    "lon": -119.77042
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": null,
+   "tier": "little",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/wild-horse-childrens-theater-presents-disneys-newsies-jr/2026-12-04/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "tm:1Ad0Z_FGkBt6xrh",
+   "title": "Laugh Factory",
+   "start": "2026-12-04T19:30:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Laugh Factory at the Silver Legacy Casino",
+    "address": "407 N Virginia St, Reno, NV",
+    "lat": 39.53069,
+    "lon": -119.81531
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "21+"
+   ],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/laugh-factory-reno-nevada-12-04-2026/event/3900648EA91E279B"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "tm:17AYv0G65L0Eqn_",
+   "title": "Dweezil Zappa DZ20: Like Father, Like Son",
+   "start": "2026-12-04T20:00:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Grand Sierra Resort and Casino",
+    "address": "2500 East Second Street, Reno, NV",
+    "lat": 39.52331,
+    "lon": -119.78102
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "music"
+   ],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/dweezil-zappa-dz20-like-father-like-reno-nevada-12-04-2026/event/170064B7E49DDA99"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:226494",
+   "title": "Live Music at McP's Taphouse Tahoe",
+   "start": "2026-12-04T20:00:00-08:00",
+   "end": "2026-12-04T23:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "McP’s Taphouse Grill",
+    "address": "4125 Lake Tahoe Blvd., South Lake Tahoe, CA, 96150",
+    "lat": 38.95887,
+    "lon": -119.94228
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "music"
+   ],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/live-music-at-mcps-tap-house-tahoe/2026-12-04/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "tm:Z7r9jZ1AA7E4k",
+   "title": "Zingara (21+ Event)",
+   "start": "2026-12-04T20:30:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Cargo",
+    "address": "255 North Virginia Street, Reno, NV",
+    "lat": 39.5263,
+    "lon": -119.8124
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "music",
+    "21+"
+   ],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7E4k"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "southtahoe:245382",
+   "title": "Arty the Party at Harrah’s Lake Tahoe",
+   "start": "2026-12-04T21:00:00-08:00",
+   "end": "2026-12-04T23:59:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Harrah’s Center Stage",
+    "address": "15 Hwy 50, Stateline, NV, 89449",
+    "lat": 38.95938,
+    "lon": -119.94155
+   },
+   "area": "tahoe",
+   "drive": "~70 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/arty-the-party-at-harrahs-lake-tahoe/2026-12-04/"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "tm:1AyZkfUGkd9lV9b",
+   "title": "Lakeside Laughs Comedy Club",
+   "start": "2026-12-04T21:30:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Cabaret at Caesars Republic Lake Tahoe",
+    "address": "18 Hwy 50, Lake Tahoe, NV",
+    "lat": 38.96031,
+    "lon": -119.9427
+   },
+   "area": "other",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "21+"
+   ],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/lakeside-laughs-comedy-club-lake-tahoe-nevada-12-04-2026/event/39006536D7AF45D8"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "tm:1Ad0Z_FGkBtFxrq",
+   "title": "Laugh Factory",
+   "start": "2026-12-04T21:30:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Laugh Factory at the Silver Legacy Casino",
+    "address": "407 N Virginia St, Reno, NV",
+    "lat": 39.53069,
+    "lon": -119.81531
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [
+    "21+"
+   ],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/laugh-factory-reno-nevada-12-04-2026/event/3900648EA922279D"
     }
    ],
    "lovingReno": null
