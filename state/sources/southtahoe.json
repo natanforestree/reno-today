@@ -1,457 +1,6 @@
 {
- "at": "2026-11-28T06:30:31Z",
+ "at": "2026-11-28T09:30:34Z",
  "events": [
-  {
-   "id": "southtahoe:101543",
-   "title": "Heavenly Holidays Family Festival",
-   "start": "2026-11-27T00:00:00-08:00",
-   "end": "2026-11-27T00:00:00-08:00",
-   "allDay": true,
-   "ongoing": false,
-   "venue": {
-    "name": "Heavenly Village",
-    "address": "1001 Heavenly Village Way, South Lake Tahoe, CA, 96150",
-    "lat": 38.95553,
-    "lon": -119.94316
-   },
-   "area": "tahoe",
-   "drive": "~75 min",
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/heavenly-holidays-family-festival/2026-11-27/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "Family children family Kids live music",
-   "_tags": [
-    "attractions",
-    "featured",
-    "festivals",
-    "free events",
-    "headliners",
-    "kids & families",
-    "music & dance",
-    "nightlife"
-   ],
-   "_family": true,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "southtahoe:116717",
-   "title": "Holiday Tree Lighting at the Heavenly Village Lake Tahoe",
-   "start": "2026-11-27T18:30:00-08:00",
-   "end": "2026-11-27T20:30:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Shops at Heavenly Village",
-    "address": "4080 Lake Tahoe Blvd, South Lake Tahoe, CA, 96150",
-    "lat": null,
-    "lon": null
-   },
-   "area": "tahoe",
-   "drive": "~75 min",
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/holiday-tree-lighting-at-the-heavenly-village-lake-tahoe/2026-11-27/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "families live music",
-   "_tags": [
-    "attractions",
-    "featured",
-    "free events",
-    "kids & families",
-    "music & dance"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "southtahoe:230372",
-   "title": "Magic Fusion at The Loft Theatre",
-   "start": "2026-11-27T19:00:00-08:00",
-   "end": "2026-11-27T20:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Loft Theatre & Lounge at the Heavenly Village",
-    "address": "1021 Heavenly Village Way, South Lake Tahoe, CA, 96150",
-    "lat": 38.95559,
-    "lon": -119.94234
-   },
-   "area": "tahoe",
-   "drive": "~75 min",
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/magic-fusion-at-the-loft-theatre/2026-11-27/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "KIDS kids Kids family",
-   "_tags": [
-    "attractions",
-    "kids & families"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "southtahoe:238476",
-   "title": "Tahoe Knight Monsters Hockey Games at the Tahoe Blue Event Center",
-   "start": "2026-11-27T19:00:00-08:00",
-   "end": "2026-11-27T21:30:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Tahoe Blue Event Center",
-    "address": "75 Hwy 50, Stateline, Nevada, 89449",
-    "lat": null,
-    "lon": null
-   },
-   "area": "tahoe",
-   "drive": "~70 min",
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/tahoe-knight-monsters-hockey/2026-11-27/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "attractions",
-    "featured",
-    "headliners",
-    "kids & families",
-    "sports",
-    "tahoe blue event center"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "southtahoe:249057",
-   "title": "Alex Ramon Magic Show at Harrah’s Lake Tahoe",
-   "start": "2026-11-27T19:30:00-08:00",
-   "end": "2026-11-27T21:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Harrah’s Lake Tahoe South Shore Room",
-    "address": "15 Hwy 50, Stateline, NV, 89449",
-    "lat": 38.95938,
-    "lon": -119.94155
-   },
-   "area": "tahoe",
-   "drive": "~70 min",
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/master-of-illusion-alex-ramon-magic-show-at-harrahs-lake-tahoe/2026-11-27/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "attractions",
-    "kids & families"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "southtahoe:245647",
-   "title": "Live Music at Tessie’s Cocktails & Chords inside Caesars Republic",
-   "start": "2026-11-27T19:30:00-08:00",
-   "end": "2026-11-28T02:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Tessie’s Cocktails & Chords inside Caesars Republic",
-    "address": "18 US-50, Stateline, Nevada, 89449",
-    "lat": null,
-    "lon": null
-   },
-   "area": "tahoe",
-   "drive": "~70 min",
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/live-music-at-tessies-cocktails-chords-inside-caesars-republic/2026-11-27/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "Live music live music Live Music live bands",
-   "_tags": [
-    "attractions",
-    "music & dance",
-    "nightlife"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "southtahoe:226491",
-   "title": "Live Music at McP's Taphouse Tahoe",
-   "start": "2026-11-27T20:00:00-08:00",
-   "end": "2026-11-27T23:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "McP’s Taphouse Grill",
-    "address": "4125 Lake Tahoe Blvd., South Lake Tahoe, CA, 96150",
-    "lat": 38.95887,
-    "lon": -119.94228
-   },
-   "area": "tahoe",
-   "drive": "~75 min",
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/live-music-at-mcps-tap-house-tahoe/2026-11-27/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "family Children live music",
-   "_tags": [
-    "free events",
-    "music & dance"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "southtahoe:248226",
-   "title": "Dueling Pianos at Caesars Republic Lake Tahoe",
-   "start": "2026-11-27T20:30:00-08:00",
-   "end": "2026-11-28T00:30:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Caesars Republic Lake Tahoe (formerly Harveys)",
-    "address": "18 Hwy 50, Stateline, Nevada, 89449",
-    "lat": null,
-    "lon": null
-   },
-   "area": "tahoe",
-   "drive": "~70 min",
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/dueling-pianos-at-caesars-republic-lake-tahoe/2026-11-27/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "attractions",
-    "free events",
-    "music & dance"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "southtahoe:247617",
-   "title": "Live Music at Rush Lounge in the Golden Nugget Lake Tahoe",
-   "start": "2026-11-27T21:00:00-08:00",
-   "end": "2026-11-28T01:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Golden Nugget Lake Tahoe",
-    "address": "50 Hwy 50, Stateline, Nevada, 89449",
-    "lat": null,
-    "lon": null
-   },
-   "area": "tahoe",
-   "drive": "~70 min",
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/live-music-golden-nugget-lake-tahoe/2026-11-27/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "live music",
-   "_tags": [
-    "attractions",
-    "free events",
-    "music & dance",
-    "nightlife"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "southtahoe:245380",
-   "title": "Arty the Party at Harrah’s Lake Tahoe",
-   "start": "2026-11-27T21:00:00-08:00",
-   "end": "2026-11-27T23:59:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Harrah’s Center Stage",
-    "address": "15 Hwy 50, Stateline, NV, 89449",
-    "lat": 38.95938,
-    "lon": -119.94155
-   },
-   "area": "tahoe",
-   "drive": "~70 min",
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/arty-the-party-at-harrahs-lake-tahoe/2026-11-27/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "free events",
-    "music & dance",
-    "nightlife"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "southtahoe:236575",
-   "title": "Peek Nightclub inside Harrah's Lake Tahoe",
-   "start": "2026-11-27T22:00:00-08:00",
-   "end": "2026-11-28T04:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Peek Nightclub inside Harrah’s Lake Tahoe",
-    "address": "15 Hwy 50, Stateline, NV, 89449",
-    "lat": null,
-    "lon": null
-   },
-   "area": "tahoe",
-   "drive": "~70 min",
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/peek-nightclub-inside-harrahs-lake-tahoe/2026-11-27/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "music & dance",
-    "nightlife"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "southtahoe:229719",
-   "title": "Karaoke at Rojo’s Tavern",
-   "start": "2026-11-27T22:00:00-08:00",
-   "end": "2026-11-28T02:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Rojo’s Tavern",
-    "address": "3091 Harrison Ave, South Lake Tahoe, CA, 96150",
-    "lat": 38.94047,
-    "lon": -119.97736
-   },
-   "area": "tahoe",
-   "drive": "~75 min",
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "southtahoe",
-     "url": "https://visitlaketahoe.com/event/karaoke-at-rojos-tavern/2026-11-27/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "21+",
-   "_tags": [
-    "free events",
-    "music & dance",
-    "nightlife"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "southtahoe:225504",
    "title": "Tipsy Putt Events",
@@ -2908,6 +2457,43 @@
    "_kind": "organiser"
   },
   {
+   "id": "southtahoe:245654",
+   "title": "Live Music at Tessie’s Cocktails & Chords inside Caesars Republic",
+   "start": "2026-12-04T19:30:00-08:00",
+   "end": "2026-12-05T02:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Tessie’s Cocktails & Chords inside Caesars Republic",
+    "address": "18 US-50, Stateline, Nevada, 89449",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~70 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/live-music-at-tessies-cocktails-chords-inside-caesars-republic/2026-12-04/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "Live music live music Live Music live bands",
+   "_tags": [
+    "attractions",
+    "music & dance",
+    "nightlife"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
    "id": "southtahoe:226494",
    "title": "Live Music at McP's Taphouse Tahoe",
    "start": "2026-12-04T20:00:00-08:00",
@@ -2944,6 +2530,81 @@
    "_kind": "organiser"
   },
   {
+   "id": "southtahoe:248228",
+   "title": "Dueling Pianos at Caesars Republic Lake Tahoe",
+   "start": "2026-12-04T20:30:00-08:00",
+   "end": "2026-12-05T00:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Caesars Republic Lake Tahoe (formerly Harveys)",
+    "address": "18 Hwy 50, Stateline, Nevada, 89449",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~70 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/dueling-pianos-at-caesars-republic-lake-tahoe/2026-12-04/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "attractions",
+    "free events",
+    "music & dance"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "southtahoe:247620",
+   "title": "Live Music at Rush Lounge in the Golden Nugget Lake Tahoe",
+   "start": "2026-12-04T21:00:00-08:00",
+   "end": "2026-12-05T01:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Golden Nugget Lake Tahoe",
+    "address": "50 Hwy 50, Stateline, Nevada, 89449",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~70 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/live-music-golden-nugget-lake-tahoe/2026-12-04/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "live music",
+   "_tags": [
+    "attractions",
+    "free events",
+    "music & dance",
+    "nightlife"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
    "id": "southtahoe:245382",
    "title": "Arty the Party at Harrah’s Lake Tahoe",
    "start": "2026-12-04T21:00:00-08:00",
@@ -2972,6 +2633,600 @@
    "_tags": [
     "free events",
     "music & dance",
+    "nightlife"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "southtahoe:229722",
+   "title": "Karaoke at Rojo’s Tavern",
+   "start": "2026-12-04T22:00:00-08:00",
+   "end": "2026-12-05T02:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Rojo’s Tavern",
+    "address": "3091 Harrison Ave, South Lake Tahoe, CA, 96150",
+    "lat": 38.94047,
+    "lon": -119.97736
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/karaoke-at-rojos-tavern/2026-12-04/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "21+",
+   "_tags": [
+    "free events",
+    "music & dance",
+    "nightlife"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "southtahoe:225508",
+   "title": "Tipsy Putt Events",
+   "start": "2026-12-05T10:00:00-08:00",
+   "end": "2026-12-05T23:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Tipsy Putt Tahoe",
+    "address": "4101 Lake Tahoe Blvd. #101, South Lake Tahoe, California, 96150",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/tipsy-putt-events/2026-12-05/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "family",
+   "_tags": [
+    "attractions",
+    "food & drink",
+    "kids & families"
+   ],
+   "_family": true,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "southtahoe:244429",
+   "title": "Heavenly Holidays Family Festival",
+   "start": "2026-12-05T12:00:00-08:00",
+   "end": "2026-12-05T19:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Heavenly Village",
+    "address": "1001 Heavenly Village Way, South Lake Tahoe, CA, 96150",
+    "lat": 38.95553,
+    "lon": -119.94316
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/heavenly-holidays-family-festival/2026-12-05/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "Family children family Kids live music",
+   "_tags": [
+    "attractions",
+    "featured",
+    "festivals",
+    "free events",
+    "headliners",
+    "kids & families",
+    "music & dance",
+    "nightlife"
+   ],
+   "_family": true,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "southtahoe:248506",
+   "title": "Visit with Santa in the Arcade at Harrah’s Lake Tahoe",
+   "start": "2026-12-05T12:00:00-08:00",
+   "end": "2026-12-05T16:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Arcade inside Harrah’s Lake Tahoe",
+    "address": "15 Hwy 50, Stateline, NV, 89449",
+    "lat": 38.95938,
+    "lon": -119.94155
+   },
+   "area": "tahoe",
+   "drive": "~70 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/visit-with-santa-in-the-harrahs-lake-tahoe-arcade/2026-12-05/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "family families",
+   "_tags": [
+    "attractions",
+    "kids & families"
+   ],
+   "_family": true,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "southtahoe:248678",
+   "title": "Holiday Markets at South Lake Brewing Company",
+   "start": "2026-12-05T12:00:00-08:00",
+   "end": "2026-12-05T17:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "South Lake Brewing Co",
+    "address": "1920 Lake Tahoe Blvd., South Lake Tahoe, CA, 96150",
+    "lat": 38.9118,
+    "lon": -120.00736
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/south-lake-brewing-cos-holiday-market/2026-12-05/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "attractions",
+    "free events",
+    "kids & families"
+   ],
+   "_family": true,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "southtahoe:238168",
+   "title": "Tea with an Edge at Edge Restaurant & Lounge",
+   "start": "2026-12-05T13:30:00-08:00",
+   "end": "2026-12-05T15:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Edge Restaurant & Lounge at Edgewood Tahoe",
+    "address": "180 Lake Parkway, Stateline, Nevada, 89449",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~70 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/tea-with-an-edge-at-edge-restaurant-lounge/2026-12-05/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "attractions",
+    "food & drink"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "southtahoe:248046",
+   "title": "Live Music at the Grove on the Lake",
+   "start": "2026-12-05T16:00:00-08:00",
+   "end": "2026-12-05T18:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Grove at Camp Richardson Resort",
+    "address": "1900 Jameson Beach Rd, South Lake Tahoe, California, 96150",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/live-music-at-the-grove-on-the-lake/2026-12-05/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "family Live music live music",
+   "_tags": [
+    "attractions",
+    "free events",
+    "music & dance"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "southtahoe:248410",
+   "title": "Winter Festival at the South Tahoe High School",
+   "start": "2026-12-05T17:00:00-08:00",
+   "end": "2026-12-05T20:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "South Tahoe High School",
+    "address": "1735 Lake Tahoe Blvd, South Lake Tahoe, CA, 96150",
+    "lat": 38.90996,
+    "lon": -120.0153
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/winter-festival-at-the-south-tahoe-high-school/2026-12-05/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "family live music",
+   "_tags": [
+    "attractions",
+    "festivals",
+    "food & drink",
+    "kids & families",
+    "local events",
+    "music & dance"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "southtahoe:249857",
+   "title": "Tahoe Film Fest at the UC Davis Tahoe Environmental Research Center",
+   "start": "2026-12-05T17:00:00-08:00",
+   "end": "2026-12-05T23:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "UC Davis Tahoe Environmental Research Center",
+    "address": "291 Country Club Dr, Incline Village, Nevada, 89451",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~45 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/tahoe-film-fest-at-the-uc-davis-tahoe-environmental-research-center/2026-12-05/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "attractions"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "southtahoe:230380",
+   "title": "Magic Fusion at The Loft Theatre",
+   "start": "2026-12-05T19:00:00-08:00",
+   "end": "2026-12-05T20:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Loft Theatre & Lounge at the Heavenly Village",
+    "address": "1021 Heavenly Village Way, South Lake Tahoe, CA, 96150",
+    "lat": 38.95559,
+    "lon": -119.94234
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/magic-fusion-at-the-loft-theatre/2026-12-05/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "KIDS kids Kids family",
+   "_tags": [
+    "attractions",
+    "kids & families"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "southtahoe:113548",
+   "title": "Pablo Cruise at Harrah's Lake Tahoe",
+   "start": "2026-12-05T19:30:00-08:00",
+   "end": "2026-12-05T21:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "South Shore Room at Harrah’s Lake Tahoe",
+    "address": "15 Hwy 50, Stateline, NV, 89449",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~70 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/pablo-cruise-at-harrahs-lake-tahoe/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "concert live music",
+   "_tags": [
+    "featured",
+    "headliners",
+    "music & dance",
+    "nightlife"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "southtahoe:228504",
+   "title": "Tahoe Club Crawl",
+   "start": "2026-12-05T20:00:00-08:00",
+   "end": "2026-12-05T23:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Lake Tahoe CA & NV",
+    "address": null,
+    "lat": 37.09024,
+    "lon": -95.71289
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/lake-tahoe-club-crawl/2026-12-05/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "21+ bar crawl",
+   "_tags": [
+    "attractions",
+    "music & dance",
+    "nightlife"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "southtahoe:226495",
+   "title": "Live Music at McP's Taphouse Tahoe",
+   "start": "2026-12-05T20:00:00-08:00",
+   "end": "2026-12-05T23:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "McP’s Taphouse Grill",
+    "address": "4125 Lake Tahoe Blvd., South Lake Tahoe, CA, 96150",
+    "lat": 38.95887,
+    "lon": -119.94228
+   },
+   "area": "tahoe",
+   "drive": "~75 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/live-music-at-mcps-tap-house-tahoe/2026-12-05/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "family Children live music",
+   "_tags": [
+    "free events",
+    "music & dance"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "southtahoe:113393",
+   "title": "Live Music at Divided Sky",
+   "start": "2026-12-05T21:00:00-08:00",
+   "end": "2026-12-05T23:59:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Divided Sky Restaurant & Bar",
+    "address": "3200 U.S. Hwy 50, Meyers, CA, 96155",
+    "lat": 38.75868,
+    "lon": -120.07808
+   },
+   "area": "other",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/live-music-at-divided-sky/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "attractions",
+    "music & dance",
+    "nightlife"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "southtahoe:245383",
+   "title": "Arty the Party at Harrah’s Lake Tahoe",
+   "start": "2026-12-05T21:00:00-08:00",
+   "end": "2026-12-05T23:59:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Harrah’s Center Stage",
+    "address": "15 Hwy 50, Stateline, NV, 89449",
+    "lat": 38.95938,
+    "lon": -119.94155
+   },
+   "area": "tahoe",
+   "drive": "~70 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/arty-the-party-at-harrahs-lake-tahoe/2026-12-05/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "free events",
+    "music & dance",
+    "nightlife"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "southtahoe:247345",
+   "title": "Lakeside Laughs Comedy Club at Caesars Republic Lake Tahoe",
+   "start": "2026-12-05T21:30:00-08:00",
+   "end": "2026-12-05T22:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Caesars Republic Lake Tahoe (formerly Harveys)",
+    "address": "18 Hwy 50, Stateline, Nevada, 89449",
+    "lat": null,
+    "lon": null
+   },
+   "area": "tahoe",
+   "drive": "~70 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "southtahoe",
+     "url": "https://visitlaketahoe.com/event/lakeside-laughs-comedy-club-at-caesars-republic/2026-12-05/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "live music",
+   "_tags": [
+    "attractions",
     "nightlife"
    ],
    "_family": false,

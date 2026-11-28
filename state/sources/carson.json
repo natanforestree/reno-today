@@ -1,150 +1,6 @@
 {
- "at": "2026-11-28T06:30:31Z",
+ "at": "2026-11-28T09:30:34Z",
  "events": [
-  {
-   "id": "carson:78703",
-   "title": "Nutcracker Sweets, A Sensory Friendly Experience",
-   "start": "2026-11-27T11:00:00-08:00",
-   "end": "2026-11-27T12:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Carson City Community Center’s Bob Boldrick Theater",
-    "address": "851 E. William Street, Carson City, NV, 89701",
-    "lat": 39.16966,
-    "lon": -119.76016
-   },
-   "area": "carson",
-   "drive": "~35 min",
-   "price": {
-    "min": 22.0,
-    "max": 22.0
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "carson",
-     "url": "https://visitcarsoncity.com/events/nutcracker-sweets-a-sensory-friendly-experience/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "sensory",
-   "_tags": [
-    "art",
-    "arts & culture",
-    "ballet",
-    "brewery arts center",
-    "events in carson city",
-    "family",
-    "holiday",
-    "holiday activities",
-    "holiday activities carson city",
-    "holiday activities carson city nevada",
-    "nevada dance company",
-    "nuerodiverse friendly ballet",
-    "nutcracker sweets",
-    "sensory friendly",
-    "sensory friendly experiences carson city",
-    "sensory friendly play carson city",
-    "shows",
-    "shows in carson city",
-    "the nutcracker",
-    "things to do",
-    "things to do in carson city",
-    "visit carson city",
-    "visit carson city nevada",
-    "winter activities"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "carson:10006422",
-   "title": "The Nutcracker",
-   "start": "2026-11-27T19:00:00-08:00",
-   "end": "2026-11-27T21:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Carson City Community Center’s Bob Boldrick Theater",
-    "address": "851 E. William Street, Carson City, NV, 89701",
-    "lat": 39.16966,
-    "lon": -119.76016
-   },
-   "area": "carson",
-   "drive": "~35 min",
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "carson",
-     "url": "https://visitcarsoncity.com/events/the-nutcracker/2026-11-27/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "arts & culture",
-    "family",
-    "holiday"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "carson:10006439",
-   "title": "Proscenium Players Present: A Christmas Carol",
-   "start": "2026-11-27T19:00:00-08:00",
-   "end": "2026-11-27T21:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Brewery Arts Center, MHJ Black Box Theater",
-    "address": "449 West King Street, Carson City, NV, 89703",
-    "lat": 39.16365,
-    "lon": -119.77007
-   },
-   "area": "carson",
-   "drive": "~35 min",
-   "price": {
-    "min": 30.0,
-    "max": 30.0
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "carson",
-     "url": "https://visitcarsoncity.com/events/proscenium-players-present-a-christmas-carol/2026-11-27/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "brewery arts center",
-    "carson city",
-    "carson city events",
-    "carson city nevada",
-    "entertainment",
-    "holiday",
-    "shows in carson city",
-    "visit carson city",
-    "what to do in carson city"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "carson:10006448",
    "title": "Carson Christmas Creator Fairs",
@@ -550,6 +406,258 @@
     "shows in carson city",
     "visit carson city",
     "what to do in carson city"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:10006427",
+   "title": "Hidden Treasures Gift Shop Holiday Craft Sale",
+   "start": "2026-12-05T09:00:00-08:00",
+   "end": "2026-12-05T16:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Carson City Senior Center",
+    "address": "911 Beverly Drive, Carson City, NV, 89706",
+    "lat": 39.17488,
+    "lon": -119.75934
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/hidden-treasures-gift-shop-holiday-craft-sale/2026-12-05/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "holiday"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:10006433",
+   "title": "Santa Train | NV State Railroad Museum",
+   "start": "2026-12-05T10:00:00-08:00",
+   "end": "2026-12-05T15:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Nevada State Railroad Museum, Carson City",
+    "address": "2180 S Carson St, Carson City, NV, 89701",
+    "lat": 39.14847,
+    "lon": -119.76834
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": {
+    "min": 10.0,
+    "max": 10.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/santa-train-2/2026-12-05/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "families children Children",
+   "_tags": [
+    "annual event",
+    "family",
+    "holiday",
+    "nevada state railroad museum",
+    "nevada state railroad museum santa train",
+    "santa train",
+    "santa train carson city",
+    "santa train northern nevada"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:10006414",
+   "title": "Wild Horse Children’s Theater Presents Disney’s Newsies, Jr.",
+   "start": "2026-12-05T14:00:00-08:00",
+   "end": "2026-12-05T15:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Brewery Arts Center Performance Hall",
+    "address": "511 W King STreet, Carson City, 89703",
+    "lat": 39.16388,
+    "lon": -119.77042
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/wild-horse-childrens-theater-presents-disneys-newsies-jr/2026-12-05/1/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "Children’s children kids family",
+   "_tags": [
+    "entertainment",
+    "family",
+    "family friendly shows carson city nv",
+    "newsies",
+    "newsies disney jr",
+    "newsies wild horse theater",
+    "newsies wild horse theater carson city nv",
+    "shows in carson city nv",
+    "wild horse theater carson city",
+    "wild horse theater nevada"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:10006443",
+   "title": "Proscenium Players Present: A Christmas Carol",
+   "start": "2026-12-05T14:00:00-08:00",
+   "end": "2026-12-05T16:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Brewery Arts Center, MHJ Black Box Theater",
+    "address": "449 West King Street, Carson City, NV, 89703",
+    "lat": 39.16365,
+    "lon": -119.77007
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": {
+    "min": 30.0,
+    "max": 30.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/proscenium-players-present-a-christmas-carol/2026-12-05/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "brewery arts center",
+    "carson city",
+    "carson city events",
+    "carson city nevada",
+    "entertainment",
+    "holiday",
+    "shows in carson city",
+    "visit carson city",
+    "what to do in carson city"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:10006289",
+   "title": "Saturday Night Star Parties",
+   "start": "2026-12-05T18:30:00-08:00",
+   "end": "2026-12-05T23:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Jack C. Davis Observatory",
+    "address": "2699 Vanpatten Ave, NV, 89703",
+    "lat": 39.18627,
+    "lon": -119.79616
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": {
+    "free": true
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/saturday-night-star-parties/2026-12-05/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "night life",
+    "workshops/classes"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "carson:10006415",
+   "title": "Wild Horse Children’s Theater Presents Disney’s Newsies, Jr.",
+   "start": "2026-12-05T19:00:00-08:00",
+   "end": "2026-12-05T20:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Brewery Arts Center Performance Hall",
+    "address": "511 W King STreet, Carson City, 89703",
+    "lat": 39.16388,
+    "lon": -119.77042
+   },
+   "area": "carson",
+   "drive": "~35 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "carson",
+     "url": "https://visitcarsoncity.com/events/wild-horse-childrens-theater-presents-disneys-newsies-jr/2026-12-05/2/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "Children’s children kids family",
+   "_tags": [
+    "entertainment",
+    "family",
+    "family friendly shows carson city nv",
+    "newsies",
+    "newsies disney jr",
+    "newsies wild horse theater",
+    "newsies wild horse theater carson city nv",
+    "shows in carson city nv",
+    "wild horse theater carson city",
+    "wild horse theater nevada"
    ],
    "_family": false,
    "_adult": false,

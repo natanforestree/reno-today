@@ -1,78 +1,6 @@
 {
- "at": "2026-11-28T06:30:31Z",
+ "at": "2026-11-28T09:30:34Z",
  "events": [
-  {
-   "id": "downtown:10005764",
-   "title": "Jingle and Mingle Holiday Shopping Showcase: Silver Legacy",
-   "start": "2026-11-27T11:00:00-08:00",
-   "end": "2026-11-27T19:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Silver Legacy Casino",
-    "address": "401 N. Virginia St, Reno, 89501",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "downtown",
-     "url": "https://downtownreno.org/event/jingle-and-mingle-holiday-shopping-showcase-silver-legacy/2026-11-27/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "family",
-   "_tags": [
-    "arch district events",
-    "holiday",
-    "holiday deals"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "listing"
-  },
-  {
-   "id": "downtown:10005731",
-   "title": "HOME for the Holiday’s: Greater Nevada Field",
-   "start": "2026-11-27T17:00:00-08:00",
-   "end": "2026-11-27T21:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "greater nevada field",
-    "address": "250 Evans Ave, Reno, 89501",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "downtown",
-     "url": "https://downtownreno.org/event/home-for-the-holidays-greater-nevada-field/2026-11-27/"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "aces events"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "listing"
-  },
   {
    "id": "downtown:10005765",
    "title": "Jingle and Mingle Holiday Shopping Showcase: Silver Legacy",
@@ -312,6 +240,74 @@
     {
      "source": "downtown",
      "url": "https://downtownreno.org/event/home-for-the-holidays-greater-nevada-field/2026-12-04/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "aces events"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "listing"
+  },
+  {
+   "id": "downtown:124053",
+   "title": "Zingara: The Aliens are Making Sounds Tour: Cargo Concert Hall",
+   "start": "2026-12-04T20:30:00-08:00",
+   "end": "2026-12-05T02:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Cargo Concert Hall",
+    "address": "255 N Virginia St, Reno, NV, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/zingara-the-aliens-are-making-sounds-tour-cargo-concert-hall/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "18+ Concert",
+   "_tags": [],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "listing"
+  },
+  {
+   "id": "downtown:10005736",
+   "title": "HOME for the Holiday’s: Greater Nevada Field",
+   "start": "2026-12-05T17:00:00-08:00",
+   "end": "2026-12-05T21:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "greater nevada field",
+    "address": "250 Evans Ave, Reno, 89501",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "downtown",
+     "url": "https://downtownreno.org/event/home-for-the-holidays-greater-nevada-field/2026-12-05/"
     }
    ],
    "lovingReno": null,

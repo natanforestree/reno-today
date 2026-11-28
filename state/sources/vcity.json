@@ -1,4 +1,142 @@
 {
- "at": "2026-11-28T06:30:31Z",
- "events": []
+ "at": "2026-11-28T09:30:34Z",
+ "events": [
+  {
+   "id": "vcity:10783",
+   "title": "Grinch Made Me Do It Saloon Crawl",
+   "start": "2026-12-05T13:00:00-08:00",
+   "end": "2026-12-05T17:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": null,
+   "area": "virginia-city",
+   "drive": "~40 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "vcity",
+     "url": "https://visitvirginiacitynv.com/event/grinch-made-me-do-it-saloon-crawl/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "christmas on the comstock",
+    "saloon crawl"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "vcity:10000652",
+   "title": "Parade of Lights",
+   "start": "2026-12-05T17:00:00-08:00",
+   "end": "2026-12-05T18:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "C Street",
+    "address": "C Street, Virginia City, NV, 89440",
+    "lat": null,
+    "lon": null
+   },
+   "area": "virginia-city",
+   "drive": "~40 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "vcity",
+     "url": "https://visitvirginiacitynv.com/event/parade-of-lights/2026-12-05/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "family",
+   "_tags": [
+    "christmas on the comstock",
+    "parades"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "vcity:11095",
+   "title": "Magical Christmas Fireworks Show",
+   "start": "2026-12-05T18:00:00-08:00",
+   "end": "2026-12-05T19:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "C Street",
+    "address": "C Street, Virginia City, NV, 89440",
+    "lat": null,
+    "lon": null
+   },
+   "area": "virginia-city",
+   "drive": "~40 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "vcity",
+     "url": "https://visitvirginiacitynv.com/event/magical-christmas-fireworks-show/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "family",
+   "_tags": [
+    "christmas on the comstock"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "vcity:13027",
+   "title": "“A Swingin’ Christmas” Free Holiday Concert",
+   "start": "2026-12-05T19:00:00-08:00",
+   "end": "2026-12-05T21:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Piper’s Opera House",
+    "address": "12 B Street, Virginia City, NV, 89440",
+    "lat": null,
+    "lon": null
+   },
+   "area": "virginia-city",
+   "drive": "~40 min",
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "vcity",
+     "url": "https://visitvirginiacitynv.com/event/a-swingin-christmas-free-holiday-concert/"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "family concert",
+   "_tags": [
+    "family fun"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  }
+ ]
 }

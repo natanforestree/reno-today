@@ -1,225 +1,6 @@
 {
- "at": "2026-11-28T06:30:31Z",
+ "at": "2026-11-28T09:30:34Z",
  "events": [
-  {
-   "id": "tm:1AyZkfgGkdzSgpM",
-   "title": "The Greatest Christmas Show",
-   "start": "2026-11-27T19:00:00-08:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Eldorado Showroom at Eldorado Casino Reno",
-    "address": "345 N Virginia St, Reno, NV",
-    "lat": 39.52895,
-    "lon": -119.8143
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/the-greatest-christmas-show-reno-nevada-11-27-2026/event/39006535F8CF55B7"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "arts & theatre",
-    "miscellaneous",
-    "theatre"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
-  {
-   "id": "tm:1A9ZkffGkeTTLQ8",
-   "title": "Tahoe Knight Monsters vs. Idaho Steelheads",
-   "start": "2026-11-27T19:00:00-08:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Tahoe Blue Event Center",
-    "address": "75 US Highway 50, Stateline, NV",
-    "lat": 38.9631,
-    "lon": -119.94034
-   },
-   "area": "tahoe",
-   "drive": "~70 min",
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/tahoe-knight-monsters-vs-idaho-steelheads-stateline-nevada-11-27-2026/event/17006514BFFDF690"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "hockey",
-    "minor league",
-    "sports"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
-  {
-   "id": "tm:1Ad0Z_FGkBtZ3ru",
-   "title": "Laugh Factory",
-   "start": "2026-11-27T19:30:00-08:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Laugh Factory at the Silver Legacy Casino",
-    "address": "407 N Virginia St, Reno, NV",
-    "lat": 39.53069,
-    "lon": -119.81531
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/laugh-factory-reno-nevada-11-27-2026/event/3900648EA901278D"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "18 and over",
-   "_tags": [
-    "arts & theatre",
-    "comedy"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
-  {
-   "id": "tm:1Ad0Z_4GknzD_MM",
-   "title": "Alex Ramon Magic",
-   "start": "2026-11-27T19:30:00-08:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "South Shore Room at Harrah's Lake Tahoe",
-    "address": "15 Hwy 50, Lake Tahoe, NV",
-    "lat": 38.96241,
-    "lon": -119.9399
-   },
-   "area": "other",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/alex-ramon-magic-lake-tahoe-nevada-11-27-2026/event/3900655AB8ED9DF7"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "arts & theatre",
-    "magic",
-    "magic & illusion"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
-  {
-   "id": "tm:1Ad0Z_FGkBtvxr2",
-   "title": "Laugh Factory",
-   "start": "2026-11-27T21:30:00-08:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Laugh Factory at the Silver Legacy Casino",
-    "address": "407 N Virginia St, Reno, NV",
-    "lat": 39.53069,
-    "lon": -119.81531
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/laugh-factory-reno-nevada-11-27-2026/event/3900648EA906278F"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "18 and over",
-   "_tags": [
-    "arts & theatre",
-    "comedy"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
-  {
-   "id": "tm:1AyZkfUGkd9I7Cu",
-   "title": "Lakeside Laughs Comedy Club",
-   "start": "2026-11-27T21:30:00-08:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "The Cabaret at Caesars Republic Lake Tahoe",
-    "address": "18 Hwy 50, Lake Tahoe, NV",
-    "lat": 38.96031,
-    "lon": -119.9427
-   },
-   "area": "other",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "tm",
-     "url": "https://www.ticketmaster.com/lakeside-laughs-comedy-club-lake-tahoe-nevada-11-27-2026/event/39006536D7A0438D"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "21+",
-   "_tags": [
-    "arts & theatre",
-    "comedy"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "ticketing"
-  },
   {
    "id": "tm:1AyZkfgGkdzU4pT",
    "title": "The Greatest Christmas Show",
@@ -1346,6 +1127,374 @@
     {
      "source": "tm",
      "url": "https://www.ticketmaster.com/lakeside-laughs-comedy-club-lake-tahoe-nevada-12-04-2026/event/39006536D7AF45D8"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "21+",
+   "_tags": [
+    "arts & theatre",
+    "comedy"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:1AyZkfgGkdy7Ab-",
+   "title": "The Greatest Christmas Show",
+   "start": "2026-12-05T16:00:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Eldorado Showroom at Eldorado Casino Reno",
+    "address": "345 N Virginia St, Reno, NV",
+    "lat": 39.52895,
+    "lon": -119.8143
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/the-greatest-christmas-show-reno-nevada-12-05-2026/event/39006535F9105621"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & theatre",
+    "miscellaneous",
+    "theatre"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:1AyZkfgGkdyA4bM",
+   "title": "The Greatest Christmas Show",
+   "start": "2026-12-05T19:00:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Eldorado Showroom at Eldorado Casino Reno",
+    "address": "345 N Virginia St, Reno, NV",
+    "lat": 39.52895,
+    "lon": -119.8143
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/the-greatest-christmas-show-reno-nevada-12-05-2026/event/39006535F9155637"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & theatre",
+    "miscellaneous",
+    "theatre"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:17C8v0G653R5poj",
+   "title": "Alter Bridge - What Lies Within Tour",
+   "start": "2026-12-05T19:00:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Silver Legacy Casino Reno",
+    "address": "407 N. Virginia St, Reno, NV",
+    "lat": 39.53069,
+    "lon": -119.81531
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/alter-bridge-what-lies-within-tour-reno-nevada-12-05-2026/event/390064B4AF2D645C"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "alternative rock",
+    "music",
+    "rock"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:rZ7HnEZ1AfkFa0",
+   "title": "EMO NIGHT KARAOKE",
+   "start": "2026-12-05T19:00:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Alpine",
+    "address": "324 E 4th St, Reno, NV",
+    "lat": 39.53091,
+    "lon": -119.80904
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 22.5,
+    "max": 22.5
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketweb.com/event/emo-night-karaoke-the-alpine-tickets/14188264"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "Kids concert",
+   "_tags": [
+    "emo",
+    "music",
+    "rock"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:1Ad0Z_FGkBtawrx",
+   "title": "Laugh Factory",
+   "start": "2026-12-05T19:30:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Laugh Factory at the Silver Legacy Casino",
+    "address": "407 N Virginia St, Reno, NV",
+    "lat": 39.53069,
+    "lon": -119.81531
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/laugh-factory-reno-nevada-12-05-2026/event/3900648EA92727A2"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "18 and over",
+   "_tags": [
+    "arts & theatre",
+    "comedy"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:17C8v0G62kDUU3S",
+   "title": "Pablo Cruise",
+   "start": "2026-12-05T19:30:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "South Shore Room at Harrah's Lake Tahoe",
+    "address": "15 Hwy 50, Lake Tahoe, NV",
+    "lat": 38.96241,
+    "lon": -119.9399
+   },
+   "area": "other",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/pablo-cruise-lake-tahoe-nevada-12-05-2026/event/390064F1BBDB64B3"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "music",
+    "r&b"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:17AYv0G62DqZgts",
+   "title": "Priscilla Chan",
+   "start": "2026-12-05T20:00:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Reno Events Center",
+    "address": "400 University Way, Reno, NV",
+    "lat": 39.53017,
+    "lon": -119.81289
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/priscilla-chan-reno-nevada-12-05-2026/event/170064FEDD035A71"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "music",
+    "world"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:17AYv0G62Xf51nQ",
+   "title": "Marcus King Band",
+   "start": "2026-12-05T20:00:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Grand Sierra Resort and Casino",
+    "address": "2500 East Second Street, Reno, NV",
+    "lat": 39.52331,
+    "lon": -119.78102
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/marcus-king-band-reno-nevada-12-05-2026/event/170064FF942CAA9A"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "Children",
+   "_tags": [
+    "music",
+    "pop",
+    "rock"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:1Ad0Z_FGkBt5erE",
+   "title": "Laugh Factory",
+   "start": "2026-12-05T21:30:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Laugh Factory at the Silver Legacy Casino",
+    "address": "407 N Virginia St, Reno, NV",
+    "lat": 39.53069,
+    "lon": -119.81531
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/laugh-factory-reno-nevada-12-05-2026/event/3900648EA92C27A7"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "18 and over",
+   "_tags": [
+    "arts & theatre",
+    "comedy"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "ticketing"
+  },
+  {
+   "id": "tm:1AyZkfUGkd9c7_4",
+   "title": "Lakeside Laughs Comedy Club",
+   "start": "2026-12-05T21:30:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Cabaret at Caesars Republic Lake Tahoe",
+    "address": "18 Hwy 50, Lake Tahoe, NV",
+    "lat": 38.96031,
+    "lon": -119.9427
+   },
+   "area": "other",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "tm",
+     "url": "https://www.ticketmaster.com/lakeside-laughs-comedy-club-lake-tahoe-nevada-12-05-2026/event/39006536D7B44655"
     }
    ],
    "lovingReno": null,

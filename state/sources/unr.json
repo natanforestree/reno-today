@@ -1,82 +1,6 @@
 {
- "at": "2026-11-28T06:30:31Z",
+ "at": "2026-11-28T09:30:34Z",
  "events": [
-  {
-   "id": "unr:54445171613783",
-   "title": "Giving Tree",
-   "start": "2026-11-27T08:00:00-08:00",
-   "end": "2026-11-27T19:00:00-08:00",
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Joe Crowley Student Union (JCSU)",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": {
-    "free": true
-   },
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/giving-tree"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "children",
-   "_tags": [
-    "joe crowley student union",
-    "social events"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "unr:54418904341737",
-   "title": "Women’s Basketball Game: Nugget Classic - Native American Heritage Night",
-   "start": "2026-11-27T15:30:00-08:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Lawlor Events Center (LEC)",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/womens-basketball-game-nugget-classic-native-american-heritage-night"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "athletics",
-    "indigenous relations",
-    "observances & celebrations",
-    "the multicultural center"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
   {
    "id": "unr:54251318807783",
    "title": "Nevada @ UNLV Football Pregame Party",
@@ -269,6 +193,42 @@
    "_kind": "organiser"
   },
   {
+   "id": "unr:54126690703629",
+   "title": "Noah Boston's Senior Recital",
+   "start": "2026-11-30T19:00:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Lombardi Dance Theatre",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/noah-bostons-senior-recital-3609"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "school of music",
+    "theatre and dance"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
    "id": "unr:54125918889604",
    "title": "Noah Boston's Senior recital",
    "start": "2026-11-30T19:00:00-08:00",
@@ -296,42 +256,6 @@
    "_text": "",
    "_tags": [
     "arts & culture",
-    "school of music",
-    "theatre and dance"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
-   "id": "unr:54126690703629",
-   "title": "Noah Boston's Senior Recital",
-   "start": "2026-11-30T19:00:00-08:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Lombardi Dance Theatre",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/noah-bostons-senior-recital-3609"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
     "school of music",
     "theatre and dance"
    ],
@@ -1113,6 +1037,165 @@
     "college of liberal arts",
     "performing arts series",
     "school of the arts"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:54101500941894",
+   "title": "Re-Writing in the Era of AI: Art Writing Symposium",
+   "start": "2026-12-04T10:00:00-08:00",
+   "end": "2026-12-04T16:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Nevada Museum of Art",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/re-writing-in-the-era-of-ai-art-writing-symposium"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & culture",
+    "college of liberal arts",
+    "department of art, art history and design",
+    "interdisciplinary arts",
+    "lectures & seminars",
+    "school of the arts",
+    "university galleries",
+    "university museum district"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:54101320590518",
+   "title": "Annual MFA Midway Exhibition: Cody Breese Thomas, Julia Farner, & Gwen Olmos",
+   "start": "2026-12-04T12:00:00-08:00",
+   "end": "2026-12-04T16:00:00-08:00",
+   "allDay": false,
+   "ongoing": true,
+   "venue": {
+    "name": "Student Galleries South",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/annual-mfa-midway-exhibition-cody-breese-thomas-julia-farner-gwen-olmos-9944"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
+    "arts & culture",
+    "college of liberal arts",
+    "department of art, art history and design",
+    "exhibitions (recurring)",
+    "interdisciplinary arts",
+    "school of the arts",
+    "university galleries",
+    "university museum district"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:54551127890943",
+   "title": "Honors College Convocation",
+   "start": "2026-12-04T18:00:00-08:00",
+   "end": "2026-12-04T20:30:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Joe Crowley Student Union (JCSU)",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/honors-college-convocation"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "family",
+   "_tags": [
+    "awards & recognition",
+    "honors college",
+    "observances & celebrations"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:53506514918089",
+   "title": "Choral Area Concert",
+   "start": "2026-12-04T19:30:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Harlan O. & Barbara R. Hall Recital Hall",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 12.0,
+    "max": 12.0
+   },
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/choral-area-concert-7212"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "Concert",
+   "_tags": [
+    "school of music"
    ],
    "_family": false,
    "_adult": false,
