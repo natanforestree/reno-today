@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T09:30:34Z",
+ "generatedAt": "2026-11-28T12:30:31Z",
  "timezone": "America/Los_Angeles",
  "events": [
   {
@@ -7349,6 +7349,40 @@
     {
      "source": "library",
      "url": "https://events.washoecountylibrary.us/event/16568065"
+    }
+   ],
+   "lovingReno": null
+  },
+  {
+   "id": "holland:10005429",
+   "title": "Hi-Dez Holiday Market",
+   "start": "2026-12-05T10:00:00-08:00",
+   "end": "2026-12-05T15:00:00-08:00",
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "The Holland Project",
+    "address": "140 Vesta St, Reno, NV, 89502",
+    "lat": 39.50964,
+    "lon": -119.80367
+   },
+   "area": "reno",
+   "drive": null,
+   "price": {
+    "min": 5.0,
+    "max": 5.0
+   },
+   "tier": "general",
+   "hints": [
+    "all-ages",
+    "outdoors",
+    "daytime",
+    "music"
+   ],
+   "links": [
+    {
+     "source": "holland",
+     "url": "https://hollandreno.org/events/hi-dez-holiday-market/2026-12-05/"
     }
    ],
    "lovingReno": null
