@@ -1,5 +1,5 @@
 {
- "at": "2026-11-28T03:30:30Z",
+ "at": "2026-11-28T06:30:31Z",
  "events": [
   {
    "id": "unr:54445171613783",
@@ -269,42 +269,6 @@
    "_kind": "organiser"
   },
   {
-   "id": "unr:54126690703629",
-   "title": "Noah Boston's Senior Recital",
-   "start": "2026-11-30T19:00:00-08:00",
-   "end": null,
-   "allDay": false,
-   "ongoing": false,
-   "venue": {
-    "name": "Lombardi Dance Theatre",
-    "address": "University of Nevada, Reno, Reno, NV",
-    "lat": null,
-    "lon": null
-   },
-   "area": "reno",
-   "drive": null,
-   "price": null,
-   "tier": "general",
-   "hints": [],
-   "links": [
-    {
-     "source": "unr",
-     "url": "https://events.unr.edu/event/noah-bostons-senior-recital-3609"
-    }
-   ],
-   "lovingReno": null,
-   "_text": "",
-   "_tags": [
-    "school of music",
-    "theatre and dance"
-   ],
-   "_family": false,
-   "_adult": false,
-   "_allAges": false,
-   "_outdoor": false,
-   "_kind": "organiser"
-  },
-  {
    "id": "unr:54125918889604",
    "title": "Noah Boston's Senior recital",
    "start": "2026-11-30T19:00:00-08:00",
@@ -332,6 +296,42 @@
    "_text": "",
    "_tags": [
     "arts & culture",
+    "school of music",
+    "theatre and dance"
+   ],
+   "_family": false,
+   "_adult": false,
+   "_allAges": false,
+   "_outdoor": false,
+   "_kind": "organiser"
+  },
+  {
+   "id": "unr:54126690703629",
+   "title": "Noah Boston's Senior Recital",
+   "start": "2026-11-30T19:00:00-08:00",
+   "end": null,
+   "allDay": false,
+   "ongoing": false,
+   "venue": {
+    "name": "Lombardi Dance Theatre",
+    "address": "University of Nevada, Reno, Reno, NV",
+    "lat": null,
+    "lon": null
+   },
+   "area": "reno",
+   "drive": null,
+   "price": null,
+   "tier": "general",
+   "hints": [],
+   "links": [
+    {
+     "source": "unr",
+     "url": "https://events.unr.edu/event/noah-bostons-senior-recital-3609"
+    }
+   ],
+   "lovingReno": null,
+   "_text": "",
+   "_tags": [
     "school of music",
     "theatre and dance"
    ],
